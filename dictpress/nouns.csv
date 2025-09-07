@@ -1,0 +1,122 @@
+-,ꢦ,ꢦ꣄ꢬꢵꢫꢪ꣄,sourashtra,Sourashtra word for stage,,prayam':2 'stage':3 'period':4 'phase':5 'age':6 'time':7 'developmental':8 'ꢦ꣄ꢬꢵꢫꢪ꣄':1,time|period|stage,प्रायम|ப्ராయம्|/ˈpraːjam/,,"{""category"": ""noun"", ""type"": ""abstract""}"
+^,,stage,english,"period or phase in life, developmental phase",,stage':1 'period':2 'phase':3 'life':4 'developmental':5 'prayam':6,time|period,/steɪdʒ/,noun,
+^,,பருவம்,tamil,வாழ்க்கைப் படிநிலை,,paruvam':1 'stage':2 'period':3 'life':4 'phase':5 'prayam':6,time|period,,noun,
+-,ꢨ,ꢨꢵꢭꢦ꣄ꢬꢵꢫꢪ꣄,sourashtra,Sourashtra word for young stage,,balaprayam':2 'young':3 'stage':4 'childhood':5 'early':6 'period':7 'bala':8 'ꢨꢵꢭꢦ꣄ꢬꢵꢫꢪ꣄':1,age|stage|childhood,बलप्रायम|பா3லப्ராயம्|/ˈbʌləpraːjam/,,"{""category"": ""noun"", ""type"": ""life_stage""}"
+^,,young stage,english,"childhood period, early life phase",,young':1 'stage':2 'childhood':3 'period':4 'early':5 'life':6 'balaprayam':7,age|stage,/jʌŋ steɪdʒ/,noun,
+^,,பால பருவம்,tamil,குழந்தைப் பருவம்,,bala':1 'paruvam':2 'childhood':3 'young':4 'stage':5 'balaprayam':6,age|stage,,noun,
+-,ꢨ,ꢨꢵꢳꢸꢥ꣄,sourashtra,Sourashtra word for young children,,balun':2 'young':3 'children':4 'kids':5 'little':6 'ones':7 'infants':8 'ꢨꢵꢳꢸꢥ꣄':1,age|person|young|plural,बळुन|பா3ளুன्|/ˈbʌlʊn/,,"{""category"": ""noun"", ""age_group"": ""child"", ""number"": ""plural""}"
+^,,young children,english,"group of small kids, little ones",,young':1 'children':2 'group':3 'small':4 'kids':5 'little':6 'balun':7,age|person|young|plural,/jʌŋ ˈtʃɪldrən/,noun,
+^,,பாலர்,tamil,சிறு குழந்தைகள்,,balar':1 'young':2 'children':3 'small':4 'kids':5 'balun':6,age|person|young|plural,,noun,
+-,ꢏ,ꢏꢬ꣄ꢱꢸ,sourashtra,Sourashtra word for age/stage,,arsu':2 'age':3 'years':4 'stage':5 'period':6 'time':7 'maturity':8 'ꢏꢬ꣄ꢱꢸ':1,time|age|measurement,आ॑र्सु|ஒர்ஸு|/ˈaːrsu/,,"{""category"": ""noun"", ""type"": ""measurement""}"
+^,,age,english,"number of years lived, maturity level",,age':1 'number':2 'years':3 'lived':4 'maturity':5 'level':6 'arsu':7,time|age,/eɪdʒ/,noun,
+^,,பிராயம்,tamil,"வயது, காலக்கட்டம்",,pirayam':1 'age':2 'years':3 'period':4 'time':5 'arsu':6,time|age,,noun,
+^,,stage,english,period of development,,stage':1 'period':2 'development':3 'phase':4 'arsu':5,time|period,/steɪdʒ/,noun,
+^,,பருவம்,tamil,காலப்பகுதி,,paruvam':1 'stage':2 'period':3 'time':4 'phase':5 'arsu':6,time|period,,noun,
+-,ꢏ,ꢏꢱ꣄ꢱꢸ,sourashtra,Alternative form for age,,assu':2 'age':3 'years':4 'stage':5 'period':6 'time':7 'life':8 'ꢏꢱ꣄ꢱꢸ':1,time|age|measurement,आ॑स्सु|ஒஸ்ஸு|/ˈaːssu/,,"{""category"": ""noun"", ""type"": ""measurement"", ""variant"": ""true""}"
+^,,age,english,"length of life, years of existence",,age':1 'length':2 'life':3 'years':4 'existence':5 'assu':6,time|age,/eɪdʒ/,noun,
+^,,பிராயம்,tamil,வயது,,pirayam':1 'age':2 'years':3 'assu':4,time|age,,noun,
+^,,stage,english,phase of life,,stage':1 'phase':2 'life':3 'period':4 'assu':5,time|period,/steɪdʒ/,noun,
+^,,பருவம்,tamil,நிலை,,paruvam':1 'stage':2 'condition':3 'state':4 'assu':5,time|period,,noun,
+-,ꢦ,ꢦꢶꢭ꣄ꢭꣁ,sourashtra,Sourashtra word for child (general),,pilla':2 'child':3 'baby':4 'infant':5 'little':6 'one':7 'offspring':8 'ꢦꢶꢭ꣄ꢭꣁ':1,age|person|young|child,पिल्ला॑|பில்লொ|/ˈpɪllaː/,,"{""category"": ""noun"", ""age_group"": ""child""}"
+^,,child,english,"young human being, offspring",,child':1 'young':2 'human':3 'being':4 'offspring':5 'pilla':6,age|person|young,/tʃaɪld/,noun,
+^,,பிள்ளை,tamil,குழந்தை,,pillai':1 'child':2 'young':3 'offspring':4 'pilla':5,age|person|young,,noun,
+^,,child,english,"infant, baby",,child':1 'infant':2 'baby':3 'little':4 'one':5 'pilla':6,age|person|young,/tʃaɪld/,noun,
+^,,மழலை,tamil,குழந்தை,,mazhalai':1 'child':2 'infant':3 'baby':4 'little':5 'pilla':6,age|person|young,,noun,
+-,ꢂ,ꢂꢪ꣄ꢨꢸꢭꣁ,sourashtra,Sourashtra word for husband,,ambula':2 'husband':3 'spouse':4 'male':5 'married':6 'man':7 'partner':8 'ꢂꢪ꣄ꢨꢸꢭꣁ':1,family|male|married|spouse,अम्बुला॑|அம்பு3லொ|/ˈʌmbulaː/,,"{""category"": ""noun"", ""relationship"": ""spouse"", ""gender"": ""male""}"
+^,,husband,english,"married man, male spouse",,husband':1 'married':2 'man':3 'male':4 'spouse':5 'partner':6 'ambula':7,family|male|married,/ˈhʌzbənd/,noun,
+^,,புருஷன்,tamil,திருமணமான ஆண்,,purushan':1 'husband':2 'married':3 'man':4 'male':5 'ambula':6,family|male|married,,noun,
+-,ꢣ,ꢣꢭ꣄ꢭꣁ,sourashtra,Alternative word for husband,,dalla':2 'husband':3 'spouse':4 'male':5 'married':6 'man':7 'partner':8 'ꢣꢭ꣄ꢭꣁ':1,family|male|married|spouse,दल्ला॑|த3ல்லொ|/ˈdʌllaː/,,"{""category"": ""noun"", ""relationship"": ""spouse"", ""gender"": ""male"", ""variant"": ""true""}"
+^,,husband,english,male partner in marriage,,husband':1 'male':2 'partner':3 'marriage':4 'spouse':5 'dalla':6,family|male|married,/ˈhʌzbənd/,noun,
+^,,புருஷன்,tamil,கணவன்,,purushan':1 'husband':2 'spouse':3 'partner':4 'dalla':5,family|male|married,,noun,
+-,ꢨ,ꢨꢾꢜ꣄ꢒꢶ,sourashtra,Sourashtra word for girl,,batki':2 'girl':3 'female':4 'child':5 'young':6 'woman':7 'daughter':8 'ꢨꢾꢜ꣄ꢒꢶ':1,age|person|female|child,ब॑ट्कि|பெ3ட்கி|/ˈbʌtki/,,"{""category"": ""noun"", ""age_group"": ""young"", ""gender"": ""female""}"
+^,,girl,english,female child or young woman,,girl':1 'female':2 'child':3 'young':4 'woman':5 'daughter':6 'batki':7,age|person|female,/ɡɜːrl/,noun,
+^,,பெண்,tamil,பெண் குழந்தை அல்லது இளம்பெண்,,pen':1 'girl':2 'female':3 'child':4 'young':5 'woman':6 'batki':7,age|person|female,,noun,
+-,ꢂ,ꢂꢳꢶꢶ,sourashtra,Alternative word for girl,,ali':2 'girl':3 'female':4 'child':5 'young':6 'woman':7 'maiden':8 'ꢂꢳꢶꢶ':1,age|person|female|child,अळि|அளி|/ˈʌli/,,"{""category"": ""noun"", ""age_group"": ""young"", ""gender"": ""female"", ""variant"": ""true""}"
+^,,girl,english,young female person,,girl':1 'young':2 'female':3 'person':4 'maiden':5 'ali':6,age|person|female,/ɡɜːrl/,noun,
+^,,பெண்,tamil,பெண்ணவள்,,pen':1 'girl':2 'female':3 'woman':4 'she':5 'ali':6,age|person|female,,noun,
+-,ꢨ,ꢨꢾꢜ꣄ꢒꣁ,sourashtra,Sourashtra word for boy,,batka':2 'boy':3 'male':4 'child':5 'young':6 'man':7 'son':8 'ꢨꢾꢜ꣄ꢒꣁ':1,age|person|male|child,ब॑ट्का॑|பெ3ட்கொ|/ˈbʌtkaː/,,"{""category"": ""noun"", ""age_group"": ""young"", ""gender"": ""male""}"
+^,,boy,english,male child or young man,,boy':1 'male':2 'child':3 'young':4 'man':5 'son':6 'batka':7,age|person|male,/bɔɪ/,noun,
+^,,பையன்,tamil,ஆண் குழந்தை,,paiyan':1 'boy':2 'male':3 'child':4 'son':5 'batka':6,age|person|male,,noun,
+-,ꢪ,ꢪꢾꢥꢶꢒ꣄,sourashtra,Sourashtra word for man,,manik':2 'man':3 'male':4 'adult':5 'person':6 'human':7 'gentleman':8 'ꢪꢾꢥꢶꢒ꣄':1,person|male|adult,म॑निक|மெனிக்|/ˈmʌnɪk/,,"{""category"": ""noun"", ""gender"": ""male"", ""age_group"": ""adult""}"
+^,,man,english,adult male human being,,man':1 'adult':2 'male':3 'human':4 'being':5 'person':6 'manik':7,person|male|adult,/mæn/,noun,
+^,,மனிதன்,tamil,ஆண் மனிதன்,,manitan':1 'man':2 'male':3 'human':4 'person':5 'manik':6,person|male|adult,,noun,
+-,ꢣ,ꢣꢭ꣄ꢭꢒ꣄ꢒꣁ,sourashtra,Alternative word for man,,dallakka':2 'man':3 'male':4 'adult':5 'person':6 'gentleman':7 'human':8 'ꢣꢭ꣄ꢭꢒ꣄ꢒꣁ':1,person|male|adult,दल्लक्का॑|த3ல்லक்கொ|/ˈdʌlləkkaː/,,"{""category"": ""noun"", ""gender"": ""male"", ""age_group"": ""adult"", ""variant"": ""true""}"
+^,,man,english,"male person, gentleman",,man':1 'male':2 'person':3 'gentleman':4 'human':5 'dallakka':6,person|male|adult,/mæn/,noun,
+^,,மனிதன்,tamil,ஆண் மனுஷன்,,manitan':1 'man':2 'male':3 'human':4 'person':5 'dallakka':6,person|male|adult,,noun,
+-,ꢂ,ꢂꢪ꣄ꢪꢒ꣄ꢒꣁ,sourashtra,Sourashtra word for woman,,ammakka':2 'woman':3 'female':4 'adult':5 'person':6 'lady':7 'human':8 'ꢂꢪ꣄ꢪꢒ꣄ꢒꣁ':1,person|female|adult,अम्मक्का॑|அம்மக்கொ|/ˈʌmməkkaː/,,"{""category"": ""noun"", ""gender"": ""female"", ""age_group"": ""adult""}"
+^,,woman,english,adult female human being,,woman':1 'adult':2 'female':3 'human':4 'being':5 'person':6 'ammakka':7,person|female|adult,/ˈwʊmən/,noun,
+^,,மனுஷி,tamil,பெண் மனிதன்,,manushi':1 'woman':2 'female':3 'human':4 'person':5 'ammakka':6,person|female|adult,,noun,
+-,ꢪ,ꢪꢵꢥꢸꢰꢪ꣄,sourashtra,Sourashtra word for human,,manusham':2 'human':3 'mankind':4 'humanity':5 'person':6 'being':7 'species':8 'ꢪꢵꢥꢸꢰꢪ꣄':1,person|human|species,मानुषम|மானুஷம்|/ˈmaːnʊʃəm/,,"{""category"": ""noun"", ""type"": ""species""}"
+^,,human,english,"human being, person of either gender",,human':1 'being':2 'person':3 'either':4 'gender':5 'mankind':6 'manusham':7,person|human|species,/ˈhjuːmən/,noun,
+^,,மானுடம்,tamil,மனித இனம்,,manudam':1 'human':2 'species':3 'mankind':4 'humanity':5 'manusham':6,person|human|species,,noun,
+-,ꢏ,ꢏꢭ꣄ꢞꢶꢥ꣄,sourashtra,Sourashtra word for old woman,,aldin':2 'old':3 'woman':4 'elderly':5 'aged':6 'senior':7 'female':8 'ꢏꢭ꣄ꢞꢶꢥ꣄':1,age|person|female|elderly,आ॑ल्डिन|ஒள்டி3ன்|/ˈaːldɪn/,,"{""category"": ""noun"", ""age_group"": ""elderly"", ""gender"": ""female""}"
+^,,old woman,english,"elderly female person, aged woman",,old':1 'woman':2 'elderly':3 'female':4 'person':5 'aged':6 'aldin':7,age|person|female,/oʊld ˈwʊmən/,noun,
+^,,முதியவள்,tamil,வயதான பெண்,,mutiyaval':1 'old':2 'woman':3 'elderly':4 'aged':5 'aldin':6,age|person|female,,noun,
+-,ꢏ,ꢏꢭ꣄ꢞꣁ,sourashtra,Sourashtra word for old man,,aldo':2 'old':3 'man':4 'elderly':5 'aged':6 'senior':7 'male':8 'ꢏꢭ꣄ꢞꣁ':1,age|person|male|elderly,आ॑ल्डो|ஒள்டொ3|/ˈaːldo/,,"{""category"": ""noun"", ""age_group"": ""elderly"", ""gender"": ""male""}"
+^,,old man,english,"elderly male person, aged man",,old':1 'man':2 'elderly':3 'male':4 'person':5 'aged':6 'aldo':7,age|person|male,/oʊld mæn/,noun,
+^,,முதியவன்,tamil,வயதான ஆண்,,mutiyavan':1 'old':2 'man':3 'elderly':4 'aged':5 'aldo':6,age|person|male,,noun,
+-,ꢣ,ꢣꢸꢒ꣄ꢬꣁ,sourashtra,Sourashtra word for old age,,dukra':2 'old':3 'age':4 'elderly':5 'years':6 'advanced':7 'senior':8 'ꢣꢸꢒ꣄ꢬꣁ':1,age|stage|elderly,दुक्रा॑|து3க்ரொ|/ˈdʊkraː/,,"{""category"": ""noun"", ""type"": ""life_stage""}"
+^,,old age,english,"advanced age, elderly years",,old':1 'age':2 'advanced':3 'elderly':4 'years':5 'senior':6 'dukra':7,age|stage,/oʊld eɪdʒ/,noun,
+^,,முதுமை,tamil,வயதான காலம்,,mutumai':1 'old':2 'age':3 'elderly':4 'period':5 'dukra':6,age|stage,,noun,
+^,,old age,english,state of being old,,old':1 'age':2 'state':3 'being':4 'elderly':5 'dukra':6,age|stage,/oʊld eɪdʒ/,noun,
+^,,மூப்பு,tamil,வயதான நிலை,,muppu':1 'old':2 'age':3 'state':4 'condition':5 'dukra':6,age|stage,,noun,
+-,ꢣ,ꢣꣁꢮ꣄ꢬꢦꢥ꣄,sourashtra,Alternative form for old age,,davrapan':2 'old':3 'age':4 'elderly':5 'period':6 'senescence':7 'advanced':8 'ꢣꣁꢮ꣄ꢬꢦꢥ꣄':1,age|stage|elderly,दा॑व्रपन|தொ3வ்ரபன்|/ˈdaːvrəpən/,,"{""category"": ""noun"", ""type"": ""life_stage"", ""variant"": ""true""}"
+^,,old age,english,"period of being old, senescence",,old':1 'age':2 'period':3 'being':4 'senescence':5 'elderly':6 'davrapan':7,age|stage,/oʊld eɪdʒ/,noun,
+^,,முதுமை,tamil,முதிர்ந்த பருவம்,,mutumai':1 'old':2 'age':3 'mature':4 'period':5 'davrapan':6,age|stage,,noun,
+^,,old age,english,elderly condition,,old':1 'age':2 'elderly':3 'condition':4 'state':5 'davrapan':6,age|stage,/oʊld eɪdʒ/,noun,
+^,,மூப்பு,tamil,முதிர்வு,,muppu':1 'old':2 'age':3 'maturity':4 'ripeness':5 'davrapan':6,age|stage,,noun,
+-,ꢫ,ꢫꢸꢮꢡꢶ,sourashtra,Sourashtra word for young unmarried girl,,yuvati':2 'young':3 'unmarried':4 'girl':5 'maiden':6 'single':7 'female':8 'ꢫꢸꢮꢡꢶ':1,age|status|female|unmarried,युवति|யுவதி|/ˈjʊvəti/,,"{""category"": ""noun"", ""age_group"": ""youth"", ""status"": ""unmarried"", ""gender"": ""female""}"
+^,,young unmarried girl,english,"maiden, young single woman",,young':1 'unmarried':2 'girl':3 'maiden':4 'single':5 'woman':6 'yuvati':7,age|status|female,/jʌŋ ˌʌnˈmærid ɡɜːrl/,noun,
+^,,யுவதி,tamil,திருமணமாகாத இளம்பெண்,,yuvati':1 'young':2 'unmarried':3 'girl':4 'maiden':5,age|status|female,,noun,
+-,ꢫ,ꢫꢸꢮꣁ,sourashtra,Sourashtra word for young man (bachelor),,yuva':2 'young':3 'man':4 'bachelor':5 'unmarried':6 'single':7 'male':8 'ꢫꢸꢮꣁ':1,age|status|male|unmarried,युवा॑|யுவொ|/ˈjʊvaː/,,"{""category"": ""noun"", ""age_group"": ""youth"", ""status"": ""unmarried"", ""gender"": ""male""}"
+^,,young man (bachelor),english,"unmarried young male, single man",,young':1 'man':2 'bachelor':3 'unmarried':4 'single':5 'male':6 'yuva':7,age|status|male,/jʌŋ mæn (ˈbætʃələr)/,noun,
+^,,யுவன்,tamil,திருமணமாகாத இளைஞன்,,yuvan':1 'young':2 'man':3 'bachelor':4 'unmarried':5 'yuva':6,age|status|male,,noun,
+-,ꢫ,ꢫꢸꢮꢥ꣄,sourashtra,Alternative form for young man,,yuvan':2 'young':3 'man':4 'bachelor':5 'unmarried':6 'youth':7 'male':8 'ꢫꢸꢮꢥ꣄':1,age|status|male|unmarried,युवन|யুவன்|/ˈjʊvən/,,"{""category"": ""noun"", ""age_group"": ""youth"", ""status"": ""unmarried"", ""gender"": ""male"", ""variant"": ""true""}"
+^,,young man (bachelor),english,"youth, young gentleman",,young':1 'man':2 'bachelor':3 'youth':4 'gentleman':5 'yuvan':6,age|status|male,/jʌŋ mæn (ˈbætʃələr)/,noun,
+^,,யுவன்,tamil,இளைஞன்,,yuvan':1 'young':2 'man':3 'youth':4,age|status|male,,noun,
+-,ꢙ,ꢙꢮ꣄ꢥꢠꢦꢥ꣄,sourashtra,Sourashtra word for youth,,javnapan':2 'youth':3 'youthful':4 'period':5 'young':6 'time':7 'adolescence':8 'ꢙꢮ꣄ꢥꢠꢦꢥ꣄':1,age|stage|youth,जव्णपन|ஜவ்ணபன்|/ˈdʒævnəpən/,,"{""category"": ""noun"", ""type"": ""life_stage""}"
+^,,youth,english,"youthful period, time of being young",,youth':1 'youthful':2 'period':3 'time':4 'being':5 'young':6 'javnapan':7,age|stage,/juːθ/,noun,
+^,,யெளவனம்,tamil,இளமைக் காலம்,,yauvanam':1 'youth':2 'young':3 'period':4 'time':5 'javnapan':6,age|stage,,noun,
+-,ꢫ,ꢫꣃꢮꢥꢪ꣄,sourashtra,Alternative form for youth,,yauvanam':2 'youth':3 'youthfulness':4 'young':5 'state':6 'vigor':7 'vitality':8 'ꢫꣃꢮꢥꢪ꣄':1,age|stage|youth,यौवनम|யௌவனம்|/ˈjaʊvənəm/,,"{""category"": ""noun"", ""type"": ""life_stage"", ""variant"": ""true""}"
+^,,youth,english,state of being youthful,,youth':1 'state':2 'being':3 'youthful':4 'vigor':5 'yauvanam':6,age|stage,/juːθ/,noun,
+^,,யெளவனம்,tamil,இளமைத் தன்மை,,yauvanam':1 'youth':2 'youthful':3 'nature':4 'quality':5,age|stage,,noun,
+-,ꢏ,ꢏꢬ꣄ꢱꢸ,sourashtra,Sourashtra word for age,,arsu':2 'age':3 'years':4 'maturity':5 'time':6 'life':7 'period':8 'ꢏꢬ꣄ꢱꢸ':1,time|age|measurement,आ॑र्सु|ஒர்ஸு|/ˈaːrsu/,,"{""category"": ""noun"", ""type"": ""measurement""}"
+^,,age,english,"number of years of life, maturity",,age':1 'number':2 'years':3 'life':4 'maturity':5 'arsu':6,time|age,/eɪdʒ/,noun,
+^,,வயது,tamil,ஆண்டுகளின் எண்ணிக்கை,,vayatu':1 'age':2 'years':3 'number':4 'count':5 'arsu':6,time|age,,noun,
+-,ꢙ,ꢙꢮ꣄ꢠꢦ꣄ꢦꢥ꣄,sourashtra,Sourashtra word for youth stage,,javnapan':2 'youth':3 'stage':4 'adolescence':5 'teenage':6 'period':7 'young':8 'ꢙꢮ꣄ꢠꢦ꣄ꢦꢥ꣄':1,age|stage|youth,ज्व्णपन|ஜவ்ணபன்|/ˈdʒævnəpən/,,"{""category"": ""noun"", ""type"": ""life_stage""}"
+^,,youth stage,english,"period of adolescence, teenage years",,youth':1 'stage':2 'period':3 'adolescence':4 'teenage':5 'years':6 'javnapan':7,age|stage,/juːθ steɪdʒ/,noun,
+^,,வாலிபப் பருவம்,tamil,இளமைப் பருவக் காலம்,,valipa':1 'paruvam':2 'youth':3 'stage':4 'period':5 'javnapan':6,age|stage,,noun,
+-,ꢙ,ꢙꢮ꣄ꢠꢡ꣄ꢮꢪ꣄,sourashtra,Sourashtra word for youth quality,,javnatvam':2 'youth':3 'youthfulness':4 'vigor':5 'vitality':6 'energy':7 'quality':8 'ꢙꢮ꣄ꢠꢡ꣄ꢮꢪ꣄':1,age|quality|youth,जव्णत्वम|ஜவ்ணத்வम்|/ˈdʒævnətvəm/,,"{""category"": ""noun"", ""type"": ""abstract""}"
+^,,youth,english,"quality of being youthful, vigor",,youth':1 'quality':2 'being':3 'youthful':4 'vigor':5 'vitality':6 'javnatvam':7,age|quality,/juːθ/,noun,
+^,,வாலிபம்,tamil,இளமையின் தன்மை,,valipam':1 'youth':2 'youthful':3 'nature':4 'quality':5 'javnatvam':6,age|quality,,noun,
+-,ꢙ,ꢙꢮ꣄ꢠꣁ,sourashtra,Sourashtra word for young man (bachelor) - final,,javna':2 'young':3 'man':4 'bachelor':5 'unmarried':6 'youth':7 'single':8 'ꢙꢮ꣄ꢠꣁ':1,age|status|male|unmarried,जव्णा॑|ஜவ்ணொ|/ˈdʒævnaː/,,"{""category"": ""noun"", ""age_group"": ""youth"", ""status"": ""unmarried"", ""gender"": ""male""}"
+^,,young man (bachelor),english,"unmarried youth, single young male",,young':1 'man':2 'bachelor':3 'unmarried':4 'youth':5 'single':6 'male':7 'javna':8,age|status|male,/jʌŋ mæn (ˈbætʃələr)/,noun,
+^,,வாலிபன்,tamil,திருமணமாகாத இளைஞன்,,valipan':1 'young':2 'man':3 'bachelor':4 'unmarried':5 'youth':6 'javna':7,age|status|male,,noun,
+-,ꢣ,ꢣꢭ꣄ꢭꣁ,sourashtra,Sourashtra word for male,,dalla':2 'male':3 'man':4 'masculine':5 'gender':6 'person':7 'ꢣꢭ꣄ꢭꣁ':1,gender|person|male,दल्ला॑|த3ல்லொ|/ˈdʌllaː/,,"{""category"": ""noun"", ""gender"": ""masculine""}"
+^,,male,english,masculine gender person,,male':1 'masculine':2 'gender':3 'man':4 'dalla':5,gender|person,/meɪl/,noun,
+^,,ஆண்,tamil,ஆண் பாலினம்,,an':1 'male':2 'masculine':3 'dalla':4,gender|person,,noun,
+-,ꢙ,ꢙꢾꢥꣁ,sourashtra,Sourashtra word for person,,jana':2 'person':3 'individual':4 'human':5 'being':6 'ꢙꢾꢥꣁ':1,person|human,ज॑ना॑|ஜெனொ|/ˈdʒʌnaː/,,"{""category"": ""noun"", ""type"": ""person""}"
+^,,person,english,individual human being,,person':1 'individual':2 'human':3 'being':4 'jana':5,person|human,/ˈpɜːrsən/,noun,
+^,,ஆள்,tamil,"மனிதன், நபர்",,al':1 'person':2 'individual':3 'human':4 'jana':5,person|human,,noun,
+-,ꢙ,ꢙꢮ꣄ꢠꣁ,sourashtra,Sourashtra word for youth/young man,,javna':2 'youth':3 'young':4 'man':5 'adolescent':6 'teenager':7 'bachelor':8 'ꢙꢮ꣄ꢠꣁ':1,age|person|youth,जव्णा॑|ஜவ்ணொ|/ˈdʒævnaː/,,"{""category"": ""noun"", ""age_group"": ""youth""}"
+^,,youth,english,"state or quality of being young, young person",,youth':1 'young':2 'person':3 'adolescent':4 'teenager':5 'javna':6,age|person,/juːθ/,noun,
+^,,இளமை,tamil,"இளம் பருவம், இளைஞன்",,ilamai':1 'youth':2 'young':3 'age':4 'javna':5,age|person,,noun,
+-,ꢙ,ꢙꢮ꣄ꢠꣁ,sourashtra,Sourashtra word for young man,,javna':2 'young':3 'man':4 'bachelor':5 'unmarried':6 'male':7 'youth':8 'ꢙꢮ꣄ꢠꣁ':1,age|person|male|youth,जव्णा॑|ஜவ்ணொ|/ˈdʒævnaː/,,"{""category"": ""noun"", ""age_group"": ""youth"", ""gender"": ""male""}"
+^,,young man,english,"male person in youth, bachelor",,young':1 'man':2 'male':3 'bachelor':4 'unmarried':5 'javna':6,age|person|male,/jʌŋ mæn/,noun,
+^,,இளைஞன்,tamil,இளம் வயதுடைய ஆண்,,ilainjan':1 'young':2 'man':3 'male':4 'youth':5 'javna':6,age|person|male,,noun,
+-,ꢥ,ꢥꣁ,sourashtra,Alternative form for youth,,na':2 'youth':3 'young':4 'stage':5 'period':6 'ꢥꣁ':1,age|person|youth,ना॑|னொ|/naː/,,"{""category"": ""noun"", ""variant"": ""true""}"
+^,,youth stage,english,period of being young,,youth':1 'stage':2 'period':3 'young':4 'phase':5 'na':6,age|stage,/juːθ steɪdʒ/,noun,
+^,,இளமைப் பருவம்,tamil,இளம் வயதுப் பருவம்,,ilamai':1 'paruvam':2 'youth':3 'stage':4 'period':5 'na':6,age|stage,,noun,
+-,ꢙ,ꢙꢮ꣄ꢠꢦꢥ꣄,sourashtra,Sourashtra word for youth stage,,javnapan':2 'youth':3 'stage':4 'period':5 'adolescence':6 'teenage':7 'ꢙꢮ꣄ꢠꢦꢥ꣄':1,age|stage|youth,जव्णपन्|ஜவ்ணபன்|/ˈdʒævnəpən/,,"{""category"": ""noun"", ""type"": ""life_stage""}"
+^,,youth stage,english,"period of being young, adolescence",,youth':1 'stage':2 'period':3 'adolescence':4 'teenage':5 'javnapan':6,age|stage,/juːθ steɪdʒ/,noun,
+^,,இளமைப் பருவம்,tamil,இளம் வயதுப் பருவம்,,ilamai':1 'paruvam':2 'youth':3 'stage':4 'javnapan':5,age|stage,,பெयர்ச்சொل்,
+-,ꢫ,ꢫꣃꢮꢥꣁ,sourashtra,Sourashtra word for youthfulness,,yauvna':2 'youth':3 'youthfulness':4 'vigor':5 'vitality':6 'energy':7 'ꢫꣃꢮꢥꣁ':1,age|quality|youth,यौवना॑|யௌவனொ|/ˈjaʊvnaː/,,"{""category"": ""noun"", ""type"": ""abstract""}"
+^,,youth,english,"youthful state, vigor of youth",,youth':1 'youthful':2 'state':3 'vigor':4 'vitality':5 'yauvna':6,age|quality,/juːθ/,noun,
+^,,இளமை,tamil,இளமையின் தன்மை,,ilamai':1 'youth':2 'youthfulness':3 'quality':4 'yauvna':5,age|quality,,பெยர்ச்சொל்,
+-,ꢙ,ꢙꢮ꣄ꢠꢶ,sourashtra,Sourashtra word for younger woman,,javni':2 'young':3 'woman':4 'female':5 'girl':6 'maiden':7 'ꢙꢮ꣄ꢠꢶ':1,age|person|female|youth,जव्णि|ஜவ்ணி|/ˈdʒævni/,,"{""category"": ""noun"", ""age_group"": ""youth"", ""gender"": ""female""}"
+^,,younger woman,english,female person who is young,,young':1 'woman':2 'female':3 'girl':4 'maiden':5 'javni':6,age|person|female,/ˈjʌŋɡər ˈwʊmən/,noun,
+^,,இளையவள்,tamil,இளம் வயதுடைய பெண்,,ilaiyaval':1 'young':2 'woman':3 'female':4 'javni':5,age|person|female,,பெயர्चொল्,
+-,ꢥ,ꢥꢴꢥ꣄ꢥꣁ,sourashtra,Sourashtra word for younger man,,nhanna':2 'young':3 'man':4 'male':5 'boy':6 'lad':7 'ꢥꢴꢥ꣄ꢥꣁ':1,age|person|male|youth,न्हन्ना॑|ந:ன்னொ|/ˈnhʌnnaː/,,"{""category"": ""noun"", ""age_group"": ""youth"", ""gender"": ""male""}"
+^,,younger man,english,male person who is young,,young':1 'man':2 'male':3 'boy':4 'lad':5 'nhanna':6,age|person|male,/ˈjʌŋɡər mæn/,noun,
+^,,இளையவன்,tamil,இளம் வयதுடைય ஆண்,,ilaiyavan':1 'young':2 'man':3 'male':4 'nhanna':5,age|person|male,,பெયர্চছল্,
+
