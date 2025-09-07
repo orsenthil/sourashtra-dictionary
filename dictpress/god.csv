@@ -1,0 +1,12 @@
+-,ꢣ,ꢣꣁꢮ꣄,sourashtra,The supreme being; deity,,being':6 'deity':4 'dov':2 'god':3 'supreme':5 'ꢣꣁꢮ꣄':1,"{religious,divine}","{देव्,தே3வ்,dEv}",,"{""script"": ""sourashtra"", ""etymology"": ""ancient""}"
+^,,God,english,,english,,{},{},noun,{}
+^,,The supreme being or deity,english,,,,{},{},,{}
+^,,Creator of the universe,english,,,,{},{},,{}
+-,ꢮ,ꢮꢶꢥꢂꢫ꣄,sourashtra,Lord Ganesha; the elephant-headed Hindu deity,,elephant':6 'ganapati':4 'ganesha':3 'god':7 'obstacles':9 'remover':8 'vinaay':2 'vinay':10 'vinayak':5 'ꢮꢶꢥꢂꢫ꣄':1,"{religious,divine,hindu,deity,ganesha}","{Vinaay,Vinay}",,"{""script"": ""sourashtra"", ""etymology"": ""sanskrit_origin"", ""attributes"": [""elephant_head"", ""remover_of_obstacles"", ""patron_of_arts""], ""deity_type"": ""hindu""}"
+^,,Lord Ganesha,english,Primary name/title,,,{},{},noun,{}
+^,,The elephant-headed Hindu deity,english,Main definition,,,{},{},,{}
+^,,Remover of obstacles and patron of arts and sciences,english,Functional description,,,{},{},,{}
+^,,Son of Lord Shiva and Goddess Parvati,english,Mythological relationship,,,{},{},,{}
+^,,Ganapati,english,Alternative Sanskrit name,,,{},{},,{}
+^,,Vinayak,english,Another common name,english,,{},{},,{}
+^,,The one who is invoked before beginning any new venture,english,Cultural significance,,,{},{},,{}
