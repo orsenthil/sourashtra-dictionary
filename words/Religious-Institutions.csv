@@ -46,8 +46,8 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢱꢶꢬ꣄ꢒꢥ꣄,सिर्कन,ஸிர்கன்,sirkan,sirkan,sirkan,s̪ɪɾkən̪,sandal paste,சந்தனம்  
 ꢯ꣄꣄ꢬꢶꢔꢥ꣄ꢤꢸ,श्रिगन्धु,ஸ்ரீக3ந்து4,shrigandhu,zrigandhu,śrigandhu,ʃɾɪgən̪d̪ʰu,sandal paste,சந்தனம்  
 ꢱꢥ꣄ꢫꢵꢱ꣄,सन्यास्,ஸந்யாஸ்,sanyaas,sanyAs,sanyās,s̪ən̪jɑːs̪,asceticism,சந்நியாசம்  
-ꢱꢥ꣄ꢫꢵꢱꢶ,सन्यासि,ஸந்யாஸி,sanyaasi,sanyAsi,sanyāsi,s̪ən̪jɑːs̪ɪ,ascetic (m),சந்நியாசி  
-ꢱꢥ꣄ꢫꢵꢱꢶꢥꢶ,सन्यासिनि,ஸந்யாஸினி,sanyaasini,sanyAsini,sanyāsini,s̪ən̪jɑːs̪ɪn̪ɪ,ascetic (f),சந்தியாசினி  
+ꢱꢥ꣄ꢫꢵꢱꢶ,सन्यासि,ஸந்யாஸி,sanyaasi,sanyAsi,sanyāsi,s̪ən̪jɑːs̪ɪ,ascetic,சந்நியாசி
+ꢱꢥ꣄ꢫꢵꢱꢶꢥꢶ,सन्यासिनि,ஸந்யாஸினி,sanyaasini,sanyAsini,sanyāsini,s̪ən̪jɑːs̪ɪn̪ɪ,ascetic,சந்தியாசினி
 ꢱꢪꢠ ꢪꢵꢬ꣄ꢔꢸ,समण मार्गु,ஸமண மார்கு3,samana maargu,samaNa mArgu,samaṇa mārgu,s̪əməɳə mɑːɾgu,Jainism,சமணம்  
 ꢮꢵꢜ꣄,वाट्,வாட்,vaat',vAT,vāṭ,ʋɑːʈ,religion,சமயம்  
 ꢤꢾꢬꢸꢪ꣄,धेरुम,தெ4ரும்,dhe'rum,dhErum,dhĕrum,d̪ʰeɾum,religion,சமயம்  
@@ -121,14 +121,14 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢣꢷ ꢒ꣄ꢰꣁ ꢓꢳ꣄ꢳꢥ꣄ ꢮꢾꢳ꣄꣄ ꢔꢸꢬꢸ ꢱꢖ꣄ꢔꢱ꣄ꢡꢾ ꢪꣁꢥ꣄ꢡꢸꢬ꣄,दीक्षो खळ्ळन वेळ गुरु सङ्गस्त॑ मा॑न्तु,தீ3 க்ஷொக2ள்ளன் வேள் கு3ரு ஸங்க3ஸ்தெ மொந்துர்,dee ksho' khal'l'an ve'l' guru sangaste' mo'ntur,dI kSO khaLLan vEL guru saGgastE mOntur,dī kṣŏ khal̤l̤an vĕl̤ guru saṅgastĕ mŏntur,d̪iː kʂo kʰəɭɭən̪ ʋeɭ guɾu s̪əŋgəs̪t̪e mon̪t̪uɾ,sacred words,மந்திரம்  
 ꢮꢿꢣ꣄,वेद्,வேத்3,ved,ved,ved,ʋeːd̪,veda,மறை  
 ꢪꢥꢱꢵꢒ꣄ꢰꢶ,मनसाक्षि,மனஸாக்ஷி,manasaakshi,manasAkSi,manasākṣi,mən̪əs̪ɑːkʂɪ,conscience,மனசாட்சி  
-ꢣ꣄ꢬꢵꢮꢶꢞ ꢔ꣄ꢬꢵꢪ꣄ꢫ ꢣꢾꢮ꣄ꢡꣁ,द्राविड ग्राम्य देव्ता॑,த்3ராவிட3 க்3ராம்ய தே3வ்தொ,draavid'a graamya de'vto',drAviDa grAmya dEvtO,drāviḍa grāmya dĕvtŏ,d̪ɾɑːʋɪɖə gɾɑːmjə d̪eʋt̪o,a Dravidian folk deity (m),மாடன்  
+ꢣ꣄ꢬꢵꢮꢶꢞ ꢔ꣄ꢬꢵꢪ꣄ꢫ ꢣꢾꢮ꣄ꢡꣁ,द्राविड ग्राम्य देव्ता॑,த்3ராவிட3 க்3ராம்ய தே3வ்தொ,draavid'a graamya de'vto',drAviDa grAmya dEvtO,drāviḍa grāmya dĕvtŏ,d̪ɾɑːʋɪɖə gɾɑːmjə d̪eʋt̪o,a Dravidian folk deity,மாடன்
 ꢪꢾꢬꢶ ꢕꢾꢬ꣄,मेरि घेर,மேரி கே4ர்,me'ri ghe'r,mEri ghEr,mĕri ghĕr,meɾɪ gʰeɾ,church,மாதாகோயில்  
 ꢪꢵꢫꣁ,माया॑,மாயொ,maayo',mAyO,māyŏ,mɑːjo,illusion,மாயை  
-ꢪꢵꢬꢶꢫꢪ꣄ꢪꣁ,मारियम्मा॑,மாரியம்மொ,maariyammo',mAriyammO,māriyammŏ,mɑːɾɪjəmmo,a Dravidian folk deity (f),மாரியம்மன்  
+ꢪꢵꢬꢶꢫꢪ꣄ꢪꣁ,मारियम्मा॑,மாரியம்மொ,maariyammo',mAriyammO,māriyammŏ,mɑːɾɪjəmmo,a Dravidian folk deity,மாரியம்மன்
 ꢱꢵꢪꢶꢫꢵꢬꢸꢥ꣄,सामियारुन्,ஸாமியாருன்,saamiyaarun,sAmiyArun,sāmiyārun,s̪ɑːmɪjɑːɾun̪,saints,மெய்யடியார்
 ꢪꣂꢒ꣄ꢯꢶ,मोक्षि,மோக்ஷி,mokshi,mokzi,mokśi,moːkʃɪ,salvation,மோட்சம்  
 ꢪꢸꢒ꣄ꢡꢶ,मुक्ति,முக்தி,mukti,mukti,mukti,mukt̪ɪ,salvation,மோட்சம்  
-ꢬꢾꢡ꣄ꢡꢸ,र॑त्तु,ரெத்து,re'ttu,rEttu,rĕttu,ɾet̪t̪u,chariot (temple),ரதம்  
+ꢬꢾꢡ꣄ꢡꢸ,र॑त्तु,ரெத்து,re'ttu,rEttu,rĕttu,ɾet̪t̪u,chariot,ரதம்
 ꢥꢪꢱ꣄ꢒꢵꢬ꣄,नमस्कार्,நமஸ்கார்,namaskaar,namaskAr,namaskār,n̪əməs̪kɑːɾ,greeting,வணக்கம்  
 ꢥꢪꢥꣁ,नमना॑,நமனொ,namano',namanO,namanŏ,n̪əmən̪o,worship,வழிபாடு  
 ꢥꣂꢪ꣄,नोम,நோம்,nom,nom,nom,n̪oːm,worship,வழிபாடு  
@@ -139,7 +139,7 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢮꣀꢰ꣄ꢠꢮꢪ꣄,वैष्णवम,வைஷ்ணவம்,vaishnavam,vaiSNavam,vaiṣṇavam,ʋəɪʂɳəʋəm,Vaishnavism,வைணவம்  
 ꢮꣀꢩꢮ꣄,वैभव्,வைப4வ்,vaibhav,vaibhav,vaibhav,ʋəɪbʰəʋ,function,வைபவம்  
 ꢙꢾꢦꢪ꣄,ज॑पम्,ஜெபம்,je'pam,jEpam,jĕpam,d͡ʒepəm,prayer,ஜபம்  
-ꢙꢾꢦꢪ꣄,ज॑पम्,ஜெபம்,je'pam,jEpam,jĕpam,d͡ʒepəm,Christian (prayer),ஜெபம்  
+ꢙꢾꢦꢪ꣄,ज॑पम्,ஜெபம்,je'pam,jEpam,jĕpam,d͡ʒepəm,Christian,ஜெபம்
 ꢙꢾꢭꢸꢪ꣄,ज॑लुम्,ஜெலும்,je'lum,jElum,jĕlum,d͡ʒelum,birth,ஜென்மம்  
 ꢲꢵꢙꢶ,हाजि,ஹாஜி,haaji,hAji,hāji,ɦɑːd͡ʒɪ,Muslim pilgrimage who has visited Mecca,ஹாஜி  
 ꢲꢙ꣄ꢙꢸ ꢫꢵꢡ꣄ꢬꣁ ꢒꢾꢬꢾꢱ꣄ꢡꢾꢥꣁ,हज्जु यात्रा॑ क॑र॑स्त॑ना॑,ஹஜ்ஜு யாத்ரொ கெரெஸ்தெனொ,hajju yaatro' ke're'ste'no',hajju yAtrO kErEstEnO,hajju yātrŏ kĕrĕstĕnŏ,ɦəd͡ʒd͡ʒu jɑːt̪ɾo keɾes̪t̪en̪o,Muslim pilgrimage who has visited Mecca,ஹாஜி  

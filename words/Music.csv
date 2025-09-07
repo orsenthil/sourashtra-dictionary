@@ -65,8 +65,8 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢔꢷꢜ꣄,गीत्,கீ3த்,geet',gIT,gīṭ,giːʈ,song,பாட்டு  
 ꢔꢮ꣄ꢥ ꢶꢮꣀꢩꢮ꣄,गव्नि वैभव,க3வ்னி வைப4வ்,gavna ivaibhav,gavna ivaibhav,gavna ivaibhav,gəʋn̪ə ɪʋəɪbʰəʋ,vocal concert,பாட்டுக் கச்சேரி   
 ꢔꢷꢡꢸ ꢮꣀꢩꢮ꣄,गीतु वैफैव्,கீ3து வைப4வ்,geetu vaibhav,gItu vaibhav,gītu vaibhav,giːt̪u ʋəɪbʰəʋ,vocal concert,பாட்டுக் கச்சேரி   
-ꢔꢮ꣄ꢥꢵꢬ꣄,गव्नार्,க3வ்னார்,gavnaar,gavnAr,gavnār,gəʋn̪ɑːɾ,singer (male),பாடகன்  
-ꢔꢮ꣄ꢥꢵꢬ꣄,गव्नार्,க3வ்னார்,gavnaar,gavnAr,gavnār,gəʋn̪ɑːɾ,singer (female),பாடகி  
+ꢔꢮ꣄ꢥꢵꢬ꣄,गव्नार्,க3வ்னார்,gavnaar,gavnAr,gavnār,gəʋn̪ɑːɾ,singer,பாடகன்
+ꢔꢮ꣄ꢥꢵꢬ꣄,गव्नार्,க3வ்னார்,gavnaar,gavnAr,gavnār,gəʋn̪ɑːɾ,singer,பாடகி
 ꢔꢷꢡꢶ,गीति,கீ3த்,geeti,gIti,gīti,giːt̪ɪ,song,பாடல்  
 ꢱꢥꢵꢬ꣄,सनार्,ஸனார்,sanaar,sanAr,sanār,s̪ən̪ɑːɾ,spectator,பார்வையாளர்  
 ꢮꢫꢭꢶꢥ꣄,वयलिन्,வயலின்,vayalin,vayalin,vayalin,ʋəjəlɪn̪,fiddle,பிடில்  
@@ -77,13 +77,13 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢣꢶꢥ꣄ꢥꢸ ꢔꢪ꣄ꢞꢶꢥꢶ,दिन्नु गम्डिनि,தி3ன்னு க3ம்டி3னி,dinnu gamd'ini,dinnu gamDini,dinnu gamḍini,d̪ɪn̪n̪u gəmɖɪn̪ɪ,pastime,பொழுதுபோக்கு  
 ꢣꣂꢠ꣄ꢞꣁ,धोण्डा॑,தொ4ண்டொ3,dond'o',doNDO,doṇḍŏ,d̪oːɳɖo,a musical-rhythm instrument,மத்தளம்  
 ꢪꢭ꣄ꢫꢸꢣ꣄ꢣꢸ,मल्युद्दु,மல்யுத்3து3,malyuddu,malyuddu,malyuddu,məljud̪d̪u,,
-ꢪꢾꢣ꣄ꢣꢳ꣄,मेद्दळ,மெத்3த3ள்,me'ddal',mEddaL,mĕddal̤,med̪d̪əɭ,a musical instrument (a drum),மிருதங்கம்  
+ꢪꢾꢣ꣄ꢣꢳ꣄,मेद्दळ,மெத்3த3ள்,me'ddal',mEddaL,mĕddal̤,med̪d̪əɭ,a musical instrument,மிருதங்கம்
 ꢥꢔꢬꣁ,नगरा॑,நக3ரொ,nagaro',nagarO,nagarŏ,n̪əgəɾo,drum,முரசு  
 ꢭꢕꢸ ꢱꢖ꣄ꢔꢷꢡ꣄,लघु सङ्गीत,லகு4ஸங்கீ3த்,laghu sangeet,laghu saGgIt,laghu saṅgīt,ləgʰu s̪əŋgiːt̪,light music,மெல்லிசை  
 ꢪꢛ꣄ꢗ꣄,मञ्च्,மஞ்சு,manch,maJc,mañc,məɲt͡ʃ,stage,மேடை  
 ꢗꢾꢥ꣄ꢣꢸꢬ꣄ ꢬꢴꢾꢜꣁ,चेन्दुर् र्ह॑टा॑,செந்து3ர் ரெ:டொ3,che'ndur rhe't'o',cEndur rhETO,cĕndur rhĕṭŏ,t͡ʃen̪d̪uɾ ɾɦeʈo,giant wheel,ரங்கராட்டினம்  
-ꢬꢱꢶꢒꣁ,रसिका॑,ரஸிகொ,rasiko',rasikO,rasikŏ,ɾəs̪ɪko,fan (male),ரசிகன்  
-ꢬꢱꢶꢒꣁ,रसिका॑,ரஸிகொ,rasiko',rasikO,rasikŏ,ɾəs̪ɪko,fan (female),ரசிகை  
+ꢬꢱꢶꢒꣁ,रसिका॑,ரஸிகொ,rasiko',rasikO,rasikŏ,ɾəs̪ɪko,fan,ரசிகன்
+ꢬꢱꢶꢒꣁ,रसिका॑,ரஸிகொ,rasiko',rasikO,rasikŏ,ɾəs̪ɪko,fan,ரசிகை
 ꢬꢵꢔ꣄,राग,ராக்3,raag,rAg,rāg,ɾɑːg,tune,ராகம்  
 ꢮꢗꢥ꣄,वचन्,வசன்,vachan,vacan,vacan,ʋət͡ʃən̪,dialogue,வசனம்  
 ꢨꢠꢵꢭꢸ ꢮꢾꢞꢶꢒ꣄,बणालु व॑डिक,ப3ணாலு வெடி3க்,banaalu ve'd'ik,baNAlu vEDik,baṇālu vĕḍik,bəɳɑːlu ʋeɖɪk,pyrotechnics/fire display,வாணவேடிக்கை  

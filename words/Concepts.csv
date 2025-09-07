@@ -20,7 +20,7 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢂꢦ꣄ꢬꢵꢠꢶ,अप्राणि,அப்ராணி,apraani,aprANi,aprāṇi,əpɾɑːɳɪ,simpleton,அப்பாவி  
 ꢂꢥꢬ꣄ꢢꢸꢮꢡ꣄ꢡꣁ,अन्र्थुवत्तो,அனர்து2வத்தொ,anarthuvatto',anarthuvattO,anarthuvattŏ,ən̪əɾt̪ʰuʋət̪t̪o,absurdity,அபத்தம்  
 ꢪꢶꢡꢥ꣄ꢮꢡ꣄ꢡꣁ,मितन्वत्तो,மிதன்வத்தொ,mitanvatto',mitanvattO,mitanvattŏ,mɪt̪ən̪ʋət̪t̪o,absurdity,அபத்தம்  
-ꢪꢸꢣ꣄ꢬꣁ,मुद्रा॑,முத்3ரொ,mudro',mudrO,mudrŏ,mud̪ɾo,sign (in dance),அபிநயம்  
+ꢪꢸꢣ꣄ꢬꣁ,मुद्रा॑,முத்3ரொ,mudro',mudrO,mudrŏ,mud̪ɾo,sign,அபிநயம்
 ꢂꢩꢶꢪꢵꢥ꣄,अभिमान,அபி4மான்,abhimaan,abhimAn,abhimān,əbʰɪmɑːn̪,"Regard,love",அபிமானம்  
 ꢯꢵꢥ꣄ꢡꢶ,शान्ति,ஶாந்தி,shaanti,zAnti,śānti,ʃɑːn̪t̪ɪ,peace,அமைதி  
 ꢃꢫꢵꢱꢪ꣄,आयासम्,ஆயாஸம்,aayaasam,AyAsam,āyāsam,ɑːjɑːs̪əm,,
@@ -80,7 +80,7 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢕꢾꢬꢸ ꢤꢾꢬꢸꢪ꣄,घेरु धेरुम,கே4ருதெ4ரும்,ghe'ru dhe'rum,ghEru dhErum,ghĕru dhĕrum,gʰeɾu d̪ʰeɾum,family life,இல்லறம்  
 ꢭꢒ꣄ꢰ꣄ꢫꢮꢵꢣꢶ,लक्ष्यवादि,லக்ஷ்யவாதி3,lakshyavaadi,lakSyavAdi,lakṣyavādi,ləkʂjəʋɑːd̪ɪ,man of principle,இலட்சியவாதி  
 ꢥꢾꢰ꣄ꢜꢶ,न॑ष्टि,நெஷ்டி,ne'sht'i,nESTi,nĕṣṭi,n̪eʂʈɪ,loss,இழப்பு  
-ꢲꢾꢜ꣄ꢜꢾ ꢲꢱꣁ,ह॑ट्ट॑हसा॑,ஹெட்3டெ3ஹஸொ,he't't'e' haso',hETTE hasO,hĕṭṭĕ hasŏ,ɦeʈʈe ɦəs̪o,laughter (grin),இளிப்பு  
+ꢲꢾꢜ꣄ꢜꢾ ꢲꢱꣁ,ह॑ट्ट॑हसा॑,ஹெட்3டெ3ஹஸொ,he't't'e' haso',hETTE hasO,hĕṭṭĕ hasŏ,ɦeʈʈe ɦəs̪o,laughter,இளிப்பு
 ꢔꢾꢬꢸꢮ꣄,ग॑रुव,கெ3ருவ்,ge'ruv,gEruv,gĕruv,geɾuʋ,arrogance,இறுமாப்பு  
 ꢱꣁꢪ꣄ꢦꢸ,सा॑म्पु,ஸொம்பு,so'mpu,sOmpu,sŏmpu,s̪ompu,pleasure,இன்பம்  
 ꢔꢸꢭ꣄ꢭꢾ,गुळ्ळ॑,கு3ள்ளெ,gulle',gullE,gullĕ,gulle,sweetness,இனிப்பு  
@@ -161,9 +161,9 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢗꣁꢞ꣄ꢞꢦꢥ꣄,चा॑ड्डपन,சொட்3ட3பன்,cho'd'd'apan,cODDapan,cŏḍḍapan,t͡ʃoɖɖəpən̪,falsehood,கள்ளத்தனம்  
 ꢗꣁꢞ꣄ꢞꢦꢥ꣄,चा॑ड्डपन,சொட்3ட3பன்,cho'd'd'apan,cODDapan,cŏḍḍapan,t͡ʃoɖɖəpən̪,theft,கள்ளம்  
 ꢗꣂꢬ꣄,चोर,சோர்,chor,cor,cor,t͡ʃoːɾ,theft,கள்ளம்  
-ꢗꣁꢞ꣄ꢞꣁ,चा॑ड्डा॑,சொட்3டொ3,cho'd'd'o',cODDO,cŏḍḍŏ,t͡ʃoɖɖo,thief (m),கள்ளன்  
-ꢗꣂꢬ꣄,चोर,சோர்,chor,cor,cor,t͡ʃoːɾ,thief (m),கள்ளன்  
-ꢗꣁꢞ꣄ꢞꢶ,चा॑ड्डि,சொட்3டி3,cho'd'd'i,cODDi,cŏḍḍi,t͡ʃoɖɖɪ,thief (f),கள்ளி  
+ꢗꣁꢞ꣄ꢞꣁ,चा॑ड्डा॑,சொட்3டொ3,cho'd'd'o',cODDO,cŏḍḍŏ,t͡ʃoɖɖo,thief,கள்ளன்
+ꢗꣂꢬ꣄,चोर,சோர்,chor,cor,cor,t͡ʃoːɾ,thief,கள்ளன்
+ꢗꣁꢞ꣄ꢞꢶ,चा॑ड्डि,சொட்3டி3,cho'd'd'i,cODDi,cŏḍḍi,t͡ʃoɖɖɪ,thief,கள்ளி
 ꢒꢭ꣄ꢪꢱꣁ,कल्मसा॑,கல்மஸொ,kalmaso',kalmasO,kalmasŏ,kəlməs̪o,stain,களங்கம்  
 ꢪꢭꢶꢥꣁ,मलिना॑,மலினொ,malino',malinO,malinŏ,məlɪn̪o,stain,களங்கம்  
 ꢯꢷꢥ꣄,शीन्,ஶீன்,sheen,zIn,śīn,ʃiːn̪,tiredness,களைப்பு  
@@ -173,9 +173,9 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢮꢥꢗꢬꣁ,वनचरा॑,வனசரொ,vanacharo',vanacarO,vanacarŏ,ʋən̪ət͡ʃəɾo,barbarian,காட்டுமிராண்டி   
 ꢦ꣄ꢬꢾꢪ꣄,प्रेम,ப்ரேம்,pre'm,prEm,prĕm,pɾem,love,காதல்  
 ꢦ꣄ꢬꢾꢮ꣄,प्रेव,ப்ரேவ்,pre'v,prEv,prĕv,pɾeʋ,love,காதல்  
-ꢦ꣄ꢬꢶꢫꢡꢪꣁ,प्रियतमा॑,ப்ரியதமொ,priyatamo',priyatamO,priyatamŏ,pɾɪjət̪əmo,lover (m),காதலன்  
-ꢦ꣄ꢬꢾꢪꢶꢒꣁ,प्रेमिका॑,ப்ரேமிகொ,pre'miko',prEmikO,prĕmikŏ,pɾemɪko,lover (f),காதலி  
-ꢦ꣄ꢬꢶꢫꣁ,प्रिया॑,ப்ரியொ,priyo',priyO,priyŏ,pɾɪjo,lover (f),காதலி  
+ꢦ꣄ꢬꢶꢫꢡꢪꣁ,प्रियतमा॑,ப்ரியதமொ,priyatamo',priyatamO,priyatamŏ,pɾɪjət̪əmo,lover,காதலன்
+ꢦ꣄ꢬꢾꢪꢶꢒꣁ,प्रेमिका॑,ப்ரேமிகொ,pre'miko',prEmikO,prĕmikŏ,pɾemɪko,lover,காதலி
+ꢦ꣄ꢬꢶꢫꣁ,प्रिया॑,ப்ரியொ,priyo',priyO,priyŏ,pɾɪjo,lover,காதலி
 ꢒꢵꢪꢪ꣄,कामम,காமம்,kaamam,kAmam,kāmam,kɑːməm,lust,காமம்  
 ꢡꢶꢒ꣄ꢒꢾ,तिक्क॑,திக்கெ,tikke',tikkE,tikkĕ,t̪ɪkke,hot taste,கார்ப்பு  
 ꢔꢾꢭꢶ,गेलि,கே3லி,ge'li,gEli,gĕli,gelɪ,"ridicule, mockery",கிண்டல்  
@@ -251,10 +251,10 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢲꢱꢶꢥꢶ,हसिनि,ஹஸினி,hasini,hasini,hasini,ɦəs̪ɪn̪ɪ,laughter,சிரிப்பு  
 ꢱꢶꢖ꣄ꢔꢡꢶꢦꢥ꣄,सिङ्गतिपन,ஸிங்க3தி3பன்,singatipan,siGgatipan,siṅgatipan,s̪ɪŋgət̪ɪpən̪,friendship,சினேகம்  
 ꢱꢾꢖ꣄ꢔꢣꢶꢦꢥ꣄,सेङ्गदिपन,ஸெங்க3தி3பன்,se'ngadipan,sEGgadipan,sĕṅgadipan,s̪eŋgəd̪ɪpən̪,friendship,சினேகம்  
-ꢱꢶꢖ꣄ꢔꢡꢶ,सिङ्गति,ஸிங்க3தி,singati,siGgati,siṅgati,s̪ɪŋgət̪ɪ,friend (m),சினேகிதன்  
-ꢱꢾꢖ꣄ꢔꣀꢡ꣄,स॑ङ्गैत,ஸெங்கை3த்,se'ngait,sEGgait,sĕṅgait,s̪eŋgəɪt̪,friend (m),சினேகிதன்  
-ꢄꢰ꣄ꢜꢸꢜ꣄,इष्टुट,இஷ்டுட்,isht'ut',iSTuT,iṣṭuṭ,ɪʂʈuʈ,friend (m),சினேகிதன்  
-ꢱꢶꢖ꣄ꢔꢡꢶ,सिङ्गति,ஸிங்க3தி,singati,siGgati,siṅgati,s̪ɪŋgət̪ɪ,friend (f),சினேகிதி  
+ꢱꢶꢖ꣄ꢔꢡꢶ,सिङ्गति,ஸிங்க3தி,singati,siGgati,siṅgati,s̪ɪŋgət̪ɪ,friend,சினேகிதன்
+ꢱꢾꢖ꣄ꢔꣀꢡ꣄,स॑ङ्गैत,ஸெங்கை3த்,se'ngait,sEGgait,sĕṅgait,s̪eŋgəɪt̪,friend,சினேகிதன்
+ꢄꢰ꣄ꢜꢸꢜ꣄,इष्टुट,இஷ்டுட்,isht'ut',iSTuT,iṣṭuṭ,ɪʂʈuʈ,friend,சினேகிதன்
+ꢱꢶꢖ꣄ꢔꢡꢶ,सिङ्गति,ஸிங்க3தி,singati,siGgati,siṅgati,s̪ɪŋgət̪ɪ,friend,சினேகிதி
 ꢱꢶꢖ꣄ꢒꢔꢵꢬ꣄,सिङ्गार्,ஸிங்கா3ர்,sinkagaar,siGkagAr,siṅkagār,s̪ɪŋkəgɑːɾ,beauty,சுந்தரம்  
 ꢱ꣄ꢮꢩꢵꢮ꣄,स्वभाव,ஸ்வபா4வ்,svabhaav,svabhAv,svabhāv,s̪ʋəbʰɑːʋ,"nature, character",சுபாவம்  
 ꢩꢵꢬ,भार,பா4ர்,bhaara,bhAra,bhāra,bʰɑːɾə,burden,சுமை  
@@ -311,8 +311,8 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢣꢾꢛ꣄ꢗꢸ,द॑ञ्चु,தெ3ஞ்சு,de'nchu,dEJcu,dĕñcu,d̪eɲt͡ʃu,firmness,திடம்  
 ꢗꣂꢬ꣄,चोर्,சோர்,chor,cor,cor,t͡ʃoːɾ,theft,திருட்டு  
 ꢗꣂꢬꢸꢦꢥ꣄,चोरुपन,சோருபன்,chorupan,corupan,corupan,t͡ʃoːɾupən̪,stealing,திருட்டுத்தனம்  
-ꢗꣁꢞ꣄ꢞꣁ,चा॑ड्डा॑,சொட்3டொ3,cho'd'd'o',cODDO,cŏḍḍŏ,t͡ʃoɖɖo,thief (m),திருடன்  
-ꢗꣁꢞ꣄ꢞꢶ,चा॑ड्डि,சொட்3டி3,cho'd'd'i,cODDi,cŏḍḍi,t͡ʃoɖɖɪ,thief (f),திருடி  
+ꢗꣁꢞ꣄ꢞꣁ,चा॑ड्डा॑,சொட்3டொ3,cho'd'd'o',cODDO,cŏḍḍŏ,t͡ʃoɖɖo,thief,திருடன்
+ꢗꣁꢞ꣄ꢞꢶ,चा॑ड्डि,சொட்3டி3,cho'd'd'i,cODDi,cŏḍḍi,t͡ʃoɖɖɪ,thief,திருடி
 ꢱꢾꢬ꣄ꢒꢒꢬ꣄ꢥꢶ,स॑र्ककर्नि,ஸெர்ககர்னி,se'rkakarni,sErkakarni,sĕrkakarni,s̪eɾkəkəɾn̪ɪ,correction,திருத்தம்  
 ꢡꢶꢣ꣄ꢣꢸꢮꢭꢶ,तिद्दुवलि,தித்3து3வளி,tidduvali,tidduvali,tidduvali,t̪ɪd̪d̪uʋəlɪ,correction,திருத்தம்  
 ꢱꢸꢤꢵꢬ꣄,सुधार,ஸுதா4ர்,sudhaar,sudhAr,sudhār,s̪ud̪ʰɑːɾ,correction,திருத்தம்  
@@ -375,7 +375,7 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢔꢵꢳ꣄꣄,गाळ,கா3ள்,gaal',gAL,gāl̤,gɑːɭ,scolding,நிந்தனை  
 ꢥꢶꢥ꣄ꢣꢥꣁ,निन्दना॑,நிந்த3னொ,nindano',nindanO,nindanŏ,n̪ɪn̪d̪ən̪o,scolding,நிந்தனை  
 ꢢꢸꢮ꣄ꢥꢶ,थुव्नि,து2வ்னி,thuvni,thuvni,thuvni,t̪ʰuʋn̪ɪ,scolding,நிந்தனை  
-ꢱꢪꢬ꣄ꢢꢸꢮꢵꢥ꣄,समर्थुवान,ஸமர்து2வான்,samarthuvaan,samarthuvAn,samarthuvān,s̪əməɾt̪ʰuʋɑːn̪,expert (m),நிபுணன்  
+ꢱꢪꢬ꣄ꢢꢸꢮꢵꢥ꣄,समर्थुवान,ஸமர்து2வான்,samarthuvaan,samarthuvAn,samarthuvān,s̪əməɾt̪ʰuʋɑːn̪,expert,நிபுணன்
 ꢥꢶꢬꢵꢯꣁ,निराशा॑,நிராஶொ,niraasho',nirAzO,nirāśŏ,n̪ɪɾɑːʃo,disappointment,நிராசை  
 ꢱ꣄ꢢꢶꢡꢶ,स्थिति,ஸ்தி2தி,sthiti,sthiti,sthiti,s̪t̪ʰɪt̪ɪ,condition,நிலைமை  
 ꢱ꣄ꢪꢬꢠ ꢯꢒ꣄ꢡꢶ,स्मरण शक्ति,ஸ்மரணஶக்தி,smarana shakti,smaraNa zakti,smaraṇa śakti,s̪məɾəɳə ʃəkt̪ɪ,memory power,நினைவாற்றல்  
@@ -432,139 +432,139 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢯ꣄ꢭꢵꢕꢥꣁ,श्लाघना॑,ஶ்லாக4னொ,shlaaghano',zlAghanO,ślāghanŏ,ʃlɑːgʰən̪o,praise,பாராட்டு  
 ꢩꢷꢒ,भीक,பீ4க்,bheeka,bhIka,bhīka,bʰiːkə,begging,பிச்சை  
 ꢕꢾꢞꢶꢮꢵꢣ꣄,घ॑डिवाद,கெ4டி3வாத்3,ghe'd'ivaad,ghEDivAd,ghĕḍivād,gʰeɖɪʋɑːd̪,"stubbornness, obstinacy",பிடிவாதம்  
-ꢣꢸꢬꢵꢔ꣄ꢬꢲꣁ,दुराग्रहा॑,து3ராக்3ரஹொ(N),duraagraho',durAgrahO,durāgrahŏ,d̪uɾɑːgɾəɦo,"stubbornness, obstinacy",பிடிவாதம்  
-ꢦꢶꢬꢡꢶꢧꣂꢭ,पिरतिफोल,பிரதிபோ2ள்(N),piratiphola,piratiphola,piratiphola,pɪɾət̪ɪpʰoːlə,reward,பிரதிபலன்  
-ꢪꢵꢫꣁ,माया॑,மாயொ(N),maayo',mAyO,māyŏ,mɑːjo,illusion,பிரமை  
-ꢦꢱ꣄ꢒꢜ꣄ ꢬꢴꢥꢶ,पस्कट र्हनि,பஸ்கட் ர:னி (G),paskat' rhani,paskaT rhani,paskaṭ rhani,pəs̪kəʈ ɾɦən̪ɪ,backward,பின்தங்கல்  
+ꢣꢸꢬꢵꢔ꣄ꢬꢲꣁ,दुराग्रहा॑,து3ராக்3ரஹொ,duraagraho',durAgrahO,durāgrahŏ,d̪uɾɑːgɾəɦo,"stubbornness, obstinacy",பிடிவாதம்
+ꢦꢶꢬꢡꢶꢧꣂꢭ,पिरतिफोल,பிரதிபோ2ள்,piratiphola,piratiphola,piratiphola,pɪɾət̪ɪpʰoːlə,reward,பிரதிபலன்
+ꢪꢵꢫꣁ,माया॑,மாயொ,maayo',mAyO,māyŏ,mɑːjo,illusion,பிரமை
+ꢦꢱ꣄ꢒꢜ꣄ ꢬꢴꢥꢶ,पस्कट र्हनि,பஸ்கட் ர:னி,paskat' rhani,paskaT rhani,paskaṭ rhani,pəs̪kəʈ ɾɦən̪ɪ,backward,பின்தங்கல்
 ꢩꢷꢡꢶ,भीति,பீ4தி,bheeti,bhIti,bhīti,bʰiːt̪ɪ,fear,பீதி  
-ꢤꢵꢒ꣄,धाक्,தா4க் (N),dhaak,dhAk,dhāk,d̪ʰɑːk,fear,பீதி  
-ꢥꢸꢮꢶꢥꢶ,नुविनि,நுவினி (G),nuvini,nuvini,nuvini,n̪uʋɪn̪ɪ,praising,புகழ்ச்சி  
-ꢔꢸꢨꢸꢔꢸꢦꢵꢱ꣄ꢡꢿ,गुबुगुपास्ते,கு3பு3கு3பாஸ்தே (G),gubugupaaste,gubugupAste,gubugupāste,gubugupɑːs̪t̪eː,friction,புகைச்சல்  
-ꢨꢸꢣ꣄ꢤꢶ,बुद्धि,பு3த்3தி4(N),buddhi,buddhi,buddhi,bud̪d̪ʰɪ,intelligence,புத்தி  
-ꢆꢡ꣄ꢱꢵ,उत्साह,உத்ஸாஹ் (N) ,utsaa,utsA,utsā,ut̪s̪ɑː,refreshness,புத்துணர்ச்சி  
-ꢔꢾꢠꢵꢡ꣄,ग॑णात्,கெ3ணாத் (N),ge'naat,gENAt,gĕṇāt,geɳɑːt̪,treasure,புதையல்  
-ꢂꢪ꣄ꢨꢜ꣄,अम्बट्,அம்ப3ட் (N),ambat',ambaT,ambaṭ,əmbəʈ,sour taste,புளிப்பு  
-ꢦꢮꢶꢡ꣄ꢬꢸ,पवित्रु,பவித்ரு (N),pavitru,pavitru,pavitru,pəʋɪt̪ɾu,sanctity,புனிதம்  
-ꢒꢥ꣄ꢫꢵ,कन्या,கன்யொ (N),kanyaa,kanyA,kanyā,kən̪jɑː,girl upto 12 years,பெதும்பை  
-ꢒꢷꢬ꣄ꢡꢶ,कीर्ति,கீர்தி (N),keerti,kIrti,kīrti,kiːɾt̪ɪ,glory,பெருமை  
-ꢮꢾꢣꢸꢬ꣄ ꢮꢣꢶꢥꢶ,व॑दुर्वदिनि,வெது3ர்வதி3னி (G),ve'dur vadini,vEdur vadini,vĕdur vadini,ʋed̪uɾ ʋəd̪ɪn̪ɪ,interview,பேட்டி  
-ꢩꢿꢡ,भेत,பே4த் (N),bheta,bheta,bheta,bʰeːt̪ə,difference,பேதம்  
-ꢪꢶꢢꢥ꣄,मिथन,மித2ன் (N),mithan,mithan,mithan,mɪt̪ʰən̪,False,பொய்  
-ꢥꣁꢮꢦꢥ꣄,ना॑वपन,நொவபன் (N),no'vapan,nOvapan,nŏvapan,n̪oʋəpən̪,Freshness,பொலிவு  
-ꢂꢱꢹꢫꣁ,असूया॑,அஸூயொ (N),asooyo',asUyO,asūyŏ,əs̪uːjo,"greed, jealousy",பொறாமை  
-ꢙꢮꢵꢨ꣄ꢣꢵꢬ꣄,जवाब्दार,ஜவாப்3தா3ர் (N),javaabdaar,javAbdAr,javābdār,d͡ʒəʋɑːbd̪ɑːɾ,responsibility,பொறுப்பு  
-ꢱꢲꢥꢡꣁ,सहनतो,ஸஹனதொ (N),sahanato',sahanatO,sahanatŏ,s̪əɦən̪ət̪o,patience,பொறுமை  
-ꢔꢸꢠ꣄ꢞꣁ,गुण्डा॑,கு3ண்டொ3(N),gund'o',guNDO,guṇḍŏ,guɳɖo,rowdy,போக்கிரி  
-ꢔꢸꢠ꣄ꢞꢦꢥ꣄,गुण्डपन,கு3ண்ட3பன் (N),gund'apan,guNDapan,guṇḍapan,guɳɖəpən̪,rowdism,போக்கிரித்தனம்  
-ꢪꢲꢶꢪꣁ,महिमा॑,மஹிமொ (N),mahimo',mahimO,mahimŏ,məɦɪmo,greatness,மகத்துவம்  
-ꢪꢵꢲꢵꢡ꣄ꢪꣁ,माहात्मा॑,மாஹாத்மொ (N),maahaatmo',mAhAtmO,māhātmŏ,mɑːɦɑːt̪mo,great soul,மகாத்மா  
-ꢪꢲꢵꢥ꣄,महान,மஹான் (N),mahaan,mahAn,mahān,məɦɑːn̪,greatman,மகான்  
+ꢤꢵꢒ꣄,धाक्,தா4க்,dhaak,dhAk,dhāk,d̪ʰɑːk,fear,பீதி
+ꢥꢸꢮꢶꢥꢶ,नुविनि,நுவினி,nuvini,nuvini,nuvini,n̪uʋɪn̪ɪ,praising,புகழ்ச்சி
+ꢔꢸꢨꢸꢔꢸꢦꢵꢱ꣄ꢡꢿ,गुबुगुपास्ते,கு3பு3கு3பாஸ்தே,gubugupaaste,gubugupAste,gubugupāste,gubugupɑːs̪t̪eː,friction,புகைச்சல்
+ꢨꢸꢣ꣄ꢤꢶ,बुद्धि,பு3த்3தி4,buddhi,buddhi,buddhi,bud̪d̪ʰɪ,intelligence,புத்தி
+ꢆꢡ꣄ꢱꢵ,उत्साह,உத்ஸாஹ்,utsaa,utsA,utsā,ut̪s̪ɑː,refreshness,புத்துணர்ச்சி
+ꢔꢾꢠꢵꢡ꣄,ग॑णात्,கெ3ணாத்,ge'naat,gENAt,gĕṇāt,geɳɑːt̪,treasure,புதையல்
+ꢂꢪ꣄ꢨꢜ꣄,अम्बट्,அம்ப3ட்,ambat',ambaT,ambaṭ,əmbəʈ,sour taste,புளிப்பு
+ꢦꢮꢶꢡ꣄ꢬꢸ,पवित्रु,பவித்ரு,pavitru,pavitru,pavitru,pəʋɪt̪ɾu,sanctity,புனிதம்
+ꢒꢥ꣄ꢫꢵ,कन्या,கன்யொ,kanyaa,kanyA,kanyā,kən̪jɑː,girl upto 12 years,பெதும்பை
+ꢒꢷꢬ꣄ꢡꢶ,कीर्ति,கீர்தி,keerti,kIrti,kīrti,kiːɾt̪ɪ,glory,பெருமை
+ꢮꢾꢣꢸꢬ꣄ ꢮꢣꢶꢥꢶ,व॑दुर्वदिनि,வெது3ர்வதி3னி,ve'dur vadini,vEdur vadini,vĕdur vadini,ʋed̪uɾ ʋəd̪ɪn̪ɪ,interview,பேட்டி
+ꢩꢿꢡ,भेत,பே4த்,bheta,bheta,bheta,bʰeːt̪ə,difference,பேதம்
+ꢪꢶꢢꢥ꣄,मिथन,மித2ன்,mithan,mithan,mithan,mɪt̪ʰən̪,False,பொய்
+ꢥꣁꢮꢦꢥ꣄,ना॑वपन,நொவபன்,no'vapan,nOvapan,nŏvapan,n̪oʋəpən̪,Freshness,பொலிவு
+ꢂꢱꢹꢫꣁ,असूया॑,அஸூயொ,asooyo',asUyO,asūyŏ,əs̪uːjo,"greed, jealousy",பொறாமை
+ꢙꢮꢵꢨ꣄ꢣꢵꢬ꣄,जवाब्दार,ஜவாப்3தா3ர்,javaabdaar,javAbdAr,javābdār,d͡ʒəʋɑːbd̪ɑːɾ,responsibility,பொறுப்பு
+ꢱꢲꢥꢡꣁ,सहनतो,ஸஹனதொ,sahanato',sahanatO,sahanatŏ,s̪əɦən̪ət̪o,patience,பொறுமை
+ꢔꢸꢠ꣄ꢞꣁ,गुण्डा॑,கு3ண்டொ3,gund'o',guNDO,guṇḍŏ,guɳɖo,rowdy,போக்கிரி
+ꢔꢸꢠ꣄ꢞꢦꢥ꣄,गुण्डपन,கு3ண்ட3பன்,gund'apan,guNDapan,guṇḍapan,guɳɖəpən̪,rowdism,போக்கிரித்தனம்
+ꢪꢲꢶꢪꣁ,महिमा॑,மஹிமொ,mahimo',mahimO,mahimŏ,məɦɪmo,greatness,மகத்துவம்
+ꢪꢵꢲꢵꢡ꣄ꢪꣁ,माहात्मा॑,மாஹாத்மொ,maahaatmo',mAhAtmO,māhātmŏ,mɑːɦɑːt̪mo,great soul,மகாத்மா
+ꢪꢲꢵꢥ꣄,महान,மஹான்,mahaan,mahAn,mahān,məɦɑːn̪,greatman,மகான்
 ꢪꣁꢪ꣄ꢦꢸ,सा॑म्पु,ஸொம்பு,mo'mpu,mOmpu,mŏmpu,mompu,"enjoyment, pleasure",மகிழ்ச்சி  
-ꢱꣁꢥ꣄ꢡꢸ,सा॑न्तु,ஸொந்து (N),so'ntu,sOntu,sŏntu,s̪on̪t̪u,"enjoyment, pleasure",மகிழ்ச்சி  
-ꢫꢸꢮꢡꢶ,युवति,யுவதி (N),yuvati,yuvati,yuvati,juʋət̪ɪ,girl upto 16 years of age,மங்கை  
-ꢪꢴꢸꢞꢦꢥ꣄,म्हुडपन,மு:ட3பன்(N),mhud'apan,mhuDapan,mhuḍapan,mɦuɖəpən̪,foolishness,மடத்தனம்  
-ꢪꢴꢸꢞꣁ,म्हुडा॑,மு:டொ3(N),mhud'o',mhuDO,mhuḍŏ,mɦuɖo,fool,மடையன்  
-ꢮꢱꢸꢥꣁ,वसुना॑,வஸுனொ (N),vasuno',vasunO,vasunŏ,ʋəs̪un̪o,fragrance,மணம்  
-ꢕꢾꢥꢪ꣄,घ॑नम्,கெ4னம் (N),ghe'nam,ghEnam,ghĕnam,gʰen̪əm,respect,மதிப்பு  
-ꢪꢾꢖ꣄ꢔꢶꢥꢶ,म॑ङ्गिनि,மெங்கி3னி (G),me'ngini,mEGgini,mĕṅgini,meŋgɪn̪ɪ,Drowsiness,மயக்கம்  
-ꢪꢴꢸꢞꣁ,म्हुडा॑,மு:டொ3(N),mhud'o',mhuDO,mhuḍŏ,mɦuɖo,blockhead (m),மரமண்டையன்   
-ꢪꣁꢬ꣄ꢔ꣄ꢫꢵꢡ꣄,मा॑र्ग्यात,மொர்க்3யாத் (N),mo'rgyaat,mOrgyAt,mŏrgyāt,moɾgjɑːt̪,respect,மரியாதை  
-ꢧꢸꢭꢱ꣄ꢡꢾ,फुलस्ते,பு2லஸ்தே (G),phulaste',phulastE,phulastĕ,pʰuləs̪t̪e,Blooming/blossom,மலர்ச்சி  
-ꢮꢶꢱꢸꢬ꣄,विसुर,விஸுர்(N),visur,visur,visur,ʋɪs̪uɾ,forgetfulness,மறதி  
-ꢮꢾꢒꢸꢭ꣄,व॑गुल,வெகுல் (N),ve'kul,vEkul,vĕkul,ʋekul,confusion,மனக்கலக்கம்  
-ꢪꣁꢥ꣄ꢥꢸ ꢒꢮ꣄ꢭꢶꢥꢶ,मा॑न्नु कव्लिनि,மொன்னு கவ்லினி (G),mo'nnu kavlini,mOnnu kavlini,mŏnnu kavlini,mon̪n̪u kəʋlɪn̪ɪ,confusion,மனக்கலக்கம்  
-ꢂꢡꢶꢬꢸꢦ꣄ꢡꢶ,अतिरुप्ति,அதிருப்தி (N),atirupti,atirupti,atirupti,ət̪ɪɾupt̪ɪ,dissatisfaction,மனக்குறை  
-ꢪꣁꢥ꣄ꢥꢸ ꢯꢵꢥ꣄ꢡꢶ,म॓न्नु शान्ति,மொன்னு ஶாந்தி (N),mo'nnu shaanti,mOnnu zAnti,mŏnnu śānti,mon̪n̪u ʃɑːn̪t̪ɪ,peace of mind,மனச்சமாதானம்/மனச்சாந்தி
-ꢨꢵꢤꣁ,बाधा॑,பா3தொ4  (N),baadho',bAdhO,bādhŏ,bɑːd̪ʰo,grievance,மனத்தாங்கல்  
-ꢡ꣄ꢬꢸꢦ꣄ꢡꢶ,त्रुप्ति,த்ருப்தி (N),trupti,trupti,trupti,t̪ɾupt̪ɪ,fulfilment,மனநிறைவு  
-ꢦꢬꢶꢦꢹꢬ꣄ꢠꢸ,परिपूर्णु,பரிபூர்ணு (N),paripoornu,paripUrNu,paripūrṇu,pəɾɪpuːɾɳu,fulfilment,மனநிறைவு  
-ꢪꢥꣂꢩꢵꢮ꣄,मनोभाव,மனோபா4வ் (N),manobhaav,manobhAv,manobhāv,mən̪oːbʰɑːʋ,Feeling/ attitude,மனோபாவம்  
-ꢪꢬ꣄ꢗꢶꢥꢶ,मर्चिनि,மர்சினி (G),marchini,marcini,marcini,məɾt͡ʃɪn̪ɪ,change,மாற்றம்  
-ꢏꢬꢶꢮꢬ꣄ꢡꢥꣁ,परिवर्तना॑,பரிவர்தனொ (N),o'rivartano',OrivartanO,ŏrivartanŏ,oɾɪʋəɾt̪ən̪o,change,மாற்றம்  
-ꢂꢮꢪꢵꢥ꣄,अवमान्,அவமான் (N),avamaan,avamAn,avamān,əʋəmɑːn̪,disgrace,மானக்கேடு  
-ꢪꢵꢥ꣄,मान,மான் (N),maan,mAn,mān,mɑːn̪,prestige,மானம்  
-ꢔꣃꢬꢮ꣄,गौरव,கௌ3ரவ் (N),gaurav,gaurav,gaurav,gəuɾəʋ,prestige,மானம்  
-ꢔꢾꢡ꣄ꢡꢸ,ग॑त्तु,கெ3த்து (N),ge'ttu,gEttu,gĕttu,get̪t̪u,Ostentation/,மிடுக்கு  
-ꢒꣁꢪ꣄ꢨꢳꢦꢥ꣄,का॑म्बळपन,கொம்ப்3ளபன் (N),ko'mbal'apan,kOmbaLapan,kŏmbal̤apan,kombəɭəpən̪,Softness/tenderness,மிருது  
-ꢪꢴꢸꢞꣁ,म्हुडा॑,மு:டொ3(N),mhud'o',mhuDO,mhuḍŏ,mɦuɖo,fool,முட்டாள்  
-ꢪꢴꢸꢞꢦꢥ꣄,म्हुडपन,மு:ட3பன் (N),mhud'apan,mhuDapan,mhuḍapan,mɦuɖəpən̪,foolishness,முட்டாள்தனம்  
-ꢡꢶꢬ꣄ꢪꢵꢥ꣄,तिरमान,திர்மான் (N),tirmaan,tirmAn,tirmān,t̪ɪɾmɑːn̪,decision,முடிவு  
-ꢦꢬꢶꢦꢒ꣄ꢮꢡꣁ,परिपक्वता॑,பரிபக்வதொ (N),paripakvato',paripakvatO,paripakvatŏ,pəɾɪpəkʋət̪o,maturity,முதிர்ச்சி  
+ꢱꣁꢥ꣄ꢡꢸ,सा॑न्तु,ஸொந்து,so'ntu,sOntu,sŏntu,s̪on̪t̪u,"enjoyment, pleasure",மகிழ்ச்சி
+ꢫꢸꢮꢡꢶ,युवति,யுவதி,yuvati,yuvati,yuvati,juʋət̪ɪ,girl upto 16 years of age,மங்கை
+ꢪꢴꢸꢞꢦꢥ꣄,म्हुडपन,மு:ட3பன்,mhud'apan,mhuDapan,mhuḍapan,mɦuɖəpən̪,foolishness,மடத்தனம்
+ꢪꢴꢸꢞꣁ,म्हुडा॑,மு:டொ3,mhud'o',mhuDO,mhuḍŏ,mɦuɖo,fool,மடையன்
+ꢮꢱꢸꢥꣁ,वसुना॑,வஸுனொ,vasuno',vasunO,vasunŏ,ʋəs̪un̪o,fragrance,மணம்
+ꢕꢾꢥꢪ꣄,घ॑नम्,கெ4னம்,ghe'nam,ghEnam,ghĕnam,gʰen̪əm,respect,மதிப்பு
+ꢪꢾꢖ꣄ꢔꢶꢥꢶ,म॑ङ्गिनि,மெங்கி3னி,me'ngini,mEGgini,mĕṅgini,meŋgɪn̪ɪ,Drowsiness,மயக்கம்
+ꢪꢴꢸꢞꣁ,म्हुडा॑,மு:டொ3,mhud'o',mhuDO,mhuḍŏ,mɦuɖo,blockhead,மரமண்டையன்
+ꢪꣁꢬ꣄ꢔ꣄ꢫꢵꢡ꣄,मा॑र्ग्यात,மொர்க்3யாத்,mo'rgyaat,mOrgyAt,mŏrgyāt,moɾgjɑːt̪,respect,மரியாதை
+ꢧꢸꢭꢱ꣄ꢡꢾ,फुलस्ते,பு2லஸ்தே,phulaste',phulastE,phulastĕ,pʰuləs̪t̪e,Blooming/blossom,மலர்ச்சி
+ꢮꢶꢱꢸꢬ꣄,विसुर,விஸுர்,visur,visur,visur,ʋɪs̪uɾ,forgetfulness,மறதி
+ꢮꢾꢒꢸꢭ꣄,व॑गुल,வெகுல்,ve'kul,vEkul,vĕkul,ʋekul,confusion,மனக்கலக்கம்
+ꢪꣁꢥ꣄ꢥꢸ ꢒꢮ꣄ꢭꢶꢥꢶ,मा॑न्नु कव्लिनि,மொன்னு கவ்லினி,mo'nnu kavlini,mOnnu kavlini,mŏnnu kavlini,mon̪n̪u kəʋlɪn̪ɪ,confusion,மனக்கலக்கம்
+ꢂꢡꢶꢬꢸꢦ꣄ꢡꢶ,अतिरुप्ति,அதிருப்தி,atirupti,atirupti,atirupti,ət̪ɪɾupt̪ɪ,dissatisfaction,மனக்குறை
+ꢪꣁꢥ꣄ꢥꢸ ꢯꢵꢥ꣄ꢡꢶ,म॓न्नु शान्ति,மொன்னு ஶாந்தி,mo'nnu shaanti,mOnnu zAnti,mŏnnu śānti,mon̪n̪u ʃɑːn̪t̪ɪ,peace of mind,மனச்சமாதானம்/மனச்சாந்தி
+ꢨꢵꢤꣁ,बाधा॑,பா3தொ4,baadho',bAdhO,bādhŏ,bɑːd̪ʰo,grievance,மனத்தாங்கல்
+ꢡ꣄ꢬꢸꢦ꣄ꢡꢶ,त्रुप्ति,த்ருப்தி,trupti,trupti,trupti,t̪ɾupt̪ɪ,fulfilment,மனநிறைவு
+ꢦꢬꢶꢦꢹꢬ꣄ꢠꢸ,परिपूर्णु,பரிபூர்ணு,paripoornu,paripUrNu,paripūrṇu,pəɾɪpuːɾɳu,fulfilment,மனநிறைவு
+ꢪꢥꣂꢩꢵꢮ꣄,मनोभाव,மனோபா4வ்,manobhaav,manobhAv,manobhāv,mən̪oːbʰɑːʋ,Feeling/ attitude,மனோபாவம்
+ꢪꢬ꣄ꢗꢶꢥꢶ,मर्चिनि,மர்சினி,marchini,marcini,marcini,məɾt͡ʃɪn̪ɪ,change,மாற்றம்
+ꢏꢬꢶꢮꢬ꣄ꢡꢥꣁ,परिवर्तना॑,பரிவர்தனொ,o'rivartano',OrivartanO,ŏrivartanŏ,oɾɪʋəɾt̪ən̪o,change,மாற்றம்
+ꢂꢮꢪꢵꢥ꣄,अवमान्,அவமான்,avamaan,avamAn,avamān,əʋəmɑːn̪,disgrace,மானக்கேடு
+ꢪꢵꢥ꣄,मान,மான்,maan,mAn,mān,mɑːn̪,prestige,மானம்
+ꢔꣃꢬꢮ꣄,गौरव,கௌ3ரவ்,gaurav,gaurav,gaurav,gəuɾəʋ,prestige,மானம்
+ꢔꢾꢡ꣄ꢡꢸ,ग॑त्तु,கெ3த்து,ge'ttu,gEttu,gĕttu,get̪t̪u,Ostentation/,மிடுக்கு
+ꢒꣁꢪ꣄ꢨꢳꢦꢥ꣄,का॑म्बळपन,கொம்ப்3ளபன்,ko'mbal'apan,kOmbaLapan,kŏmbal̤apan,kombəɭəpən̪,Softness/tenderness,மிருது
+ꢪꢴꢸꢞꣁ,म्हुडा॑,மு:டொ3,mhud'o',mhuDO,mhuḍŏ,mɦuɖo,fool,முட்டாள்
+ꢪꢴꢸꢞꢦꢥ꣄,म्हुडपन,மு:ட3பன்,mhud'apan,mhuDapan,mhuḍapan,mɦuɖəpən̪,foolishness,முட்டாள்தனம்
+ꢡꢶꢬ꣄ꢪꢵꢥ꣄,तिरमान,திர்மான்,tirmaan,tirmAn,tirmān,t̪ɪɾmɑːn̪,decision,முடிவு
+ꢦꢬꢶꢦꢒ꣄ꢮꢡꣁ,परिपक्वता॑,பரிபக்வதொ,paripakvato',paripakvatO,paripakvatŏ,pəɾɪpəkʋət̪o,maturity,முதிர்ச்சி
 ꢫꢡ꣄ꢡꢥ꣄,यत्तन,யத்தன்,yattan,yattan,yattan,jət̪t̪ən̪,Attempt/effort,முயற்சி  
-ꢦ꣄ꢬꢫꢡ꣄ꢡꢥ꣄,प्रयत्तन,ப்ரயத்தன் (N),prayattan,prayattan,prayattan,pɾəjət̪t̪ən̪,Attempt/effort,முயற்சி  
+ꢦ꣄ꢬꢫꢡ꣄ꢡꢥ꣄,प्रयत्तन,ப்ரயத்தன்,prayattan,prayattan,prayattan,pɾəjət̪t̪ən̪,Attempt/effort,முயற்சி
 ꢥꢴꢥ꣄ꢲꢱꣁ,न्हन्हसा॑,ந:ன்ஹஸொ,nhanhaso',nhanhasO,nhanhasŏ,n̪ɦən̪ɦəs̪o,smile,முறுவல்  
-ꢪꢸꢒꢸꢭ꣄ꢲꢱꣁ,मुगुल्हसा॑,முகுல்ஹஸொ (N),mukulhaso',mukulhasO,mukulhasŏ,mukulɦəs̪o,smile,முறுவல்  
-ꢂꢩꢶꢮ꣄ꢬꢸꢣ꣄ꢤꢶ,अभिव्रुद्धि,அபி4வ்ருத்3தி4 (N),abhivruddhi,abhivruddhi,abhivruddhi,əbʰɪʋɾud̪d̪ʰɪ,development,முன்னேற்றம்  
-ꢆꢥ꣄ꢥꢡꢶ,उन्नति,உன்னதி (N),unnati,unnati,unnati,un̪n̪ət̪ɪ,development,முன்னேற்றம்  
-ꢲꣁꢬꢮ꣄ꢥꢶ,होरव्नि,ஹோரவ்னி (G),ho'ravni,hOravni,hŏravni,ɦoɾəʋn̪ɪ,development,முன்னேற்றம்  
-ꢂꢥ꣄ꢤꢮꢶꢯ꣄꣄ꢮꢵꢱ꣄,अन्धविश्वास,அந்த4விஶ்வாஸ் (N),andhavishvaas,andhavizvAs,andhaviśvās,ən̪d̪ʰəʋɪʃʋɑːs̪,blind belief/ superstition,மூடநம்பிக்கை  
-ꢣꣁꢮ꣄ꢬꢦꢥ꣄,दा॑व्रपन,தொ3வ்ரபன் (N),do'vrapan,dOvrapan,dŏvrapan,d̪oʋɾəpən̪,old age,மூப்பு  
-ꢪꢹꢬ꣄ꢓꢦꢥ꣄,मूर्खपन,மூர்க2பன் (N),moorkhapan,mUrkhapan,mūrkhapan,muːɾkʰəpən̪,rudeness,மூர்க்கத்தனம்  
-ꢪꢹꢬ꣄ꢓꢸ,मूर्खु,மூர்கு2 (N),moorkhu,mUrkhu,mūrkhu,muːɾkʰu,cruel person (uncultured person),மூர்க்கன்  
-ꢱꢾꢡ꣄ꢡꢸ,स॑त्तु,ஸெத்து (N),se'ttu,sEttu,sĕttu,s̪et̪t̪u,truth,மெய்  
-ꢥꢶꢙꢮꢡ꣄ꢡꣁ,निजवत्ता॑,நிஜவத்தொ (N),nijavatto',nijavattO,nijavattŏ,n̪ɪd͡ʒəʋət̪t̪o,truth,மெய்  
-ꢱꢡ꣄ꢫ ꢮꢵꢒ꣄,सत्य वाक,ஸத்ய வாக்  (N),satya vaak,satya vAk,satya vāk,s̪ət̪jə ʋɑːk,truth,மெய்  
-ꢙꣁꢭꢶꢛ꣄ꢗꢶꢥꢶ,जा॑लिञ्चिनि,ஜொலிஞ்சினி (G),jo'linchini,jOliJcini,jŏliñcini,d͡ʒolɪɲt͡ʃɪn̪ɪ,shine,மெருகு  
-ꢪ꣄ꢬꢸꢣꢸꢦꢥ꣄,म्रुदुपन,ம்ருது3பன்(N) மெது3வுபன்(N),mrudupan,mrudupan,mrudupan,mɾud̪upən̪,softness,மென்மை  
-ꢪꢾꢣꢸꢮꢸꢦꢥ꣄,म॑दुवुपन,ம்ருது3பன்(N) மெது3வுபன்(N),me'duvupan,mEduvupan,mĕduvupan,med̪uʋupən̪,softness,மென்மை  
-ꢪꢴꣁꢜ꣄ꢜꢦꢥ꣄,म्हा॑ट्टपन,மொ:ட்டபன்  (N),mho't't'apan,mhOTTapan,mhŏṭṭapan,mɦoʈʈəpən̪,Greatness/ superiority,மேன்மை  
-ꢪꢿꢜ꣄ꢦꢥ꣄,मेट्पन,மேட்பன்  (N) ஶ்ரேஷ்ட2பன் (N),met'pan,meTpan,meṭpan,meːʈpən̪,Greatness/ superiority,மேன்மை  
-ꢯ꣄ꢬꢿꢰ꣄ꢝꢦꢥ꣄,श्रेष्ठपन,மேட்பன்  (N) ஶ்ரேஷ்ட2பன் (N),shresht'hapan,zreSThapan,śreṣṭhapan,ʃɾeːʂʈʰəpən̪,Greatness/ superiority,மேன்மை  
-ꢪꣂꢲ꣄,मोह,மோஹ் (N),moh,moh,moh,moːɦ,infatuation,மோகம்  
-ꢪꣂꢲ꣄,मोह,மோஸ் (N),moh,moh,moh,moːɦ,Cheating/gulling,மோசம்  
+ꢪꢸꢒꢸꢭ꣄ꢲꢱꣁ,मुगुल्हसा॑,முகுல்ஹஸொ,mukulhaso',mukulhasO,mukulhasŏ,mukulɦəs̪o,smile,முறுவல்
+ꢂꢩꢶꢮ꣄ꢬꢸꢣ꣄ꢤꢶ,अभिव्रुद्धि,அபி4வ்ருத்3தி4,abhivruddhi,abhivruddhi,abhivruddhi,əbʰɪʋɾud̪d̪ʰɪ,development,முன்னேற்றம்
+ꢆꢥ꣄ꢥꢡꢶ,उन्नति,உன்னதி,unnati,unnati,unnati,un̪n̪ət̪ɪ,development,முன்னேற்றம்
+ꢲꣁꢬꢮ꣄ꢥꢶ,होरव्नि,ஹோரவ்னி,ho'ravni,hOravni,hŏravni,ɦoɾəʋn̪ɪ,development,முன்னேற்றம்
+ꢂꢥ꣄ꢤꢮꢶꢯ꣄꣄ꢮꢵꢱ꣄,अन्धविश्वास,அந்த4விஶ்வாஸ்,andhavishvaas,andhavizvAs,andhaviśvās,ən̪d̪ʰəʋɪʃʋɑːs̪,blind belief/ superstition,மூடநம்பிக்கை
+ꢣꣁꢮ꣄ꢬꢦꢥ꣄,दा॑व्रपन,தொ3வ்ரபன்,do'vrapan,dOvrapan,dŏvrapan,d̪oʋɾəpən̪,old age,மூப்பு
+ꢪꢹꢬ꣄ꢓꢦꢥ꣄,मूर्खपन,மூர்க2பன்,moorkhapan,mUrkhapan,mūrkhapan,muːɾkʰəpən̪,rudeness,மூர்க்கத்தனம்
+ꢪꢹꢬ꣄ꢓꢸ,मूर्खु,மூர்கு2,moorkhu,mUrkhu,mūrkhu,muːɾkʰu,cruel person,மூர்க்கன்
+ꢱꢾꢡ꣄ꢡꢸ,स॑त्तु,ஸெத்து,se'ttu,sEttu,sĕttu,s̪et̪t̪u,truth,மெய்
+ꢥꢶꢙꢮꢡ꣄ꢡꣁ,निजवत्ता॑,நிஜவத்தொ,nijavatto',nijavattO,nijavattŏ,n̪ɪd͡ʒəʋət̪t̪o,truth,மெய்
+ꢱꢡ꣄ꢫ ꢮꢵꢒ꣄,सत्य वाक,ஸத்ய வாக்,satya vaak,satya vAk,satya vāk,s̪ət̪jə ʋɑːk,truth,மெய்
+ꢙꣁꢭꢶꢛ꣄ꢗꢶꢥꢶ,जा॑लिञ्चिनि,ஜொலிஞ்சினி,jo'linchini,jOliJcini,jŏliñcini,d͡ʒolɪɲt͡ʃɪn̪ɪ,shine,மெருகு
+ꢪ꣄ꢬꢸꢣꢸꢦꢥ꣄,म्रुदुपन,ம்ருது3பன்மெது3வுபன்,mrudupan,mrudupan,mrudupan,mɾud̪upən̪,softness,மென்மை
+ꢪꢾꢣꢸꢮꢸꢦꢥ꣄,म॑दुवुपन,ம்ருது3பன்மெது3வுபன்,me'duvupan,mEduvupan,mĕduvupan,med̪uʋupən̪,softness,மென்மை
+ꢪꢴꣁꢜ꣄ꢜꢦꢥ꣄,म्हा॑ट्टपन,மொ:ட்டபன்,mho't't'apan,mhOTTapan,mhŏṭṭapan,mɦoʈʈəpən̪,Greatness/ superiority,மேன்மை
+ꢪꢿꢜ꣄ꢦꢥ꣄,मेट्पन,மேட்பன்ஶ்ரேஷ்ட2பன்,met'pan,meTpan,meṭpan,meːʈpən̪,Greatness/ superiority,மேன்மை
+ꢯ꣄ꢬꢿꢰ꣄ꢝꢦꢥ꣄,श्रेष्ठपन,மேட்பன்ஶ்ரேஷ்ட2பன்,shresht'hapan,zreSThapan,śreṣṭhapan,ʃɾeːʂʈʰəpən̪,Greatness/ superiority,மேன்மை
+ꢪꣂꢲ꣄,मोह,மோஹ்,moh,moh,moh,moːɦ,infatuation,மோகம்
+ꢪꣂꢲ꣄,मोह,மோஸ்,moh,moh,moh,moːɦ,Cheating/gulling,மோசம்
 ꢪꣃꢥ꣄,मौन,மௌன்,maun,maun,maun,məun̪,silence,மௌனம்  
-ꢂꢮꢵꢒ꣄,अवाक,அவாக் (N),avaak,avAk,avāk,əʋɑːk,silence,மௌனம்  
-ꢫꢢꢵꢬ꣄ꢢꢮꢵꢣꢶ,यथार्थ्वादि,யதா2ர்த2வாதி3 (N),yathaarthavaadi,yathArthavAdi,yathārthavādi,jət̪ʰɑːɾt̪ʰəʋɑːd̪ɪ,realist,யதார்த்தவாதி  
-ꢫꣁꢗꢥꣁ,योचना॑,யோசனொ (N),yo'chano',yOcanO,yŏcanŏ,jot͡ʃən̪o,thought,யோசனை  
+ꢂꢮꢵꢒ꣄,अवाक,அவாக்,avaak,avAk,avāk,əʋɑːk,silence,மௌனம்
+ꢫꢢꢵꢬ꣄ꢢꢮꢵꢣꢶ,यथार्थ्वादि,யதா2ர்த2வாதி3,yathaarthavaadi,yathArthavAdi,yathārthavādi,jət̪ʰɑːɾt̪ʰəʋɑːd̪ɪ,realist,யதார்த்தவாதி
+ꢫꣁꢗꢥꣁ,योचना॑,யோசனொ,yo'chano',yOcanO,yŏcanŏ,jot͡ʃən̪o,thought,யோசனை
 ꢬꢸꢗꢶ,रुचि,ருசி,ruchi,ruci,ruci,ɾut͡ʃɪ,taste,ருசி  
-ꢬꢸꢗ꣄ꢗꢶ,रुच्चि,ருச்சி (N),ruchchi,rucci,rucci,ɾut͡ʃt͡ʃɪ,taste,ருசி  
-ꢃꢒꢬ꣄ꢰꢠꣁ,आकर्षणा॑,ஆகர்ஷணொ(N),aakarshano',AkarSaNO,ākarṣaṇŏ,ɑːkəɾʂəɳo,attraction,வசீகரம்  
-ꢮꢛ꣄ꢗꢥꣁ,वञ्चना॑,வஞ்சனொ (N),vanchano',vaJcanO,vañcanŏ,ʋəɲt͡ʃən̪o,betrayal,வஞ்சகம்  
-ꢮꢛ꣄ꢗꢥꣁ ꢒꢾꢬ꣄ꢥꢵꢬ꣄,वञ्चना॑ क॑र्नार,வஞ்சனொ கெர்னார் (N),vanchano' ke'rnaar,vaJcanO kErnAr,vañcanŏ kĕrnār,ʋəɲt͡ʃən̪o keɾn̪ɑːɾ,Betrayer (m),வஞ்சகன்  
-ꢮꢛ꣄ꢗꢥꣁ ꢒꢾꢬ꣄ꢥꢵꢬ꣄,वञ्चना॑ क॑र्नार,வஞ்சனொ கெர்னார் (N),vanchano' ke'rnaar,vaJcanO kErnAr,vañcanŏ kĕrnār,ʋəɲt͡ʃən̪o keɾn̪ɑːɾ,Betrayer (f),வஞ்சகி  
-ꢮꢬ꣄ꢠꢥꣁ,वर्णना॑,வர்ணனொ (N),varnano',varNanO,varṇanŏ,ʋəɾɳən̪o,description,வருணனை  
-ꢲꢾꢡꣁ,ह॑ता॑,ஹெதொ (N),he'to',hEtO,hĕtŏ,ɦet̪o,grief,வருத்தம்  
-ꢣꢸꢮ꣄ꢥꣁ,दुव्ना॑,து3வ்னொ (N),duvno',duvnO,duvnŏ,d̪uʋn̪o,pain,வலி  
-ꢮꢞ꣄ꢙꢥꢶ,वड्जनि,வட்3ஜனி (G),vad'jani,vaDjani,vaḍjani,ʋəɖd͡ʒən̪ɪ,fading,வாட்டம்  
+ꢬꢸꢗ꣄ꢗꢶ,रुच्चि,ருச்சி,ruchchi,rucci,rucci,ɾut͡ʃt͡ʃɪ,taste,ருசி
+ꢃꢒꢬ꣄ꢰꢠꣁ,आकर्षणा॑,ஆகர்ஷணொ,aakarshano',AkarSaNO,ākarṣaṇŏ,ɑːkəɾʂəɳo,attraction,வசீகரம்
+ꢮꢛ꣄ꢗꢥꣁ,वञ्चना॑,வஞ்சனொ,vanchano',vaJcanO,vañcanŏ,ʋəɲt͡ʃən̪o,betrayal,வஞ்சகம்
+ꢮꢛ꣄ꢗꢥꣁ ꢒꢾꢬ꣄ꢥꢵꢬ꣄,वञ्चना॑ क॑र्नार,வஞ்சனொ கெர்னார்,vanchano' ke'rnaar,vaJcanO kErnAr,vañcanŏ kĕrnār,ʋəɲt͡ʃən̪o keɾn̪ɑːɾ,Betrayer,வஞ்சகன்
+ꢮꢛ꣄ꢗꢥꣁ ꢒꢾꢬ꣄ꢥꢵꢬ꣄,वञ्चना॑ क॑र्नार,வஞ்சனொ கெர்னார்,vanchano' ke'rnaar,vaJcanO kErnAr,vañcanŏ kĕrnār,ʋəɲt͡ʃən̪o keɾn̪ɑːɾ,Betrayer,வஞ்சகி
+ꢮꢬ꣄ꢠꢥꣁ,वर्णना॑,வர்ணனொ,varnano',varNanO,varṇanŏ,ʋəɾɳən̪o,description,வருணனை
+ꢲꢾꢡꣁ,ह॑ता॑,ஹெதொ,he'to',hEtO,hĕtŏ,ɦet̪o,grief,வருத்தம்
+ꢣꢸꢮ꣄ꢥꣁ,दुव्ना॑,து3வ்னொ,duvno',duvnO,duvnŏ,d̪uʋn̪o,pain,வலி
+ꢮꢞ꣄ꢙꢥꢶ,वड्जनि,வட்3ஜனி,vad'jani,vaDjani,vaḍjani,ʋəɖd͡ʒən̪ɪ,fading,வாட்டம்
 ꢔ꣄ꢬꢵꢲꢒꣁ,ग्राहका॑,க்3ராஹகொ,graahako',grAhakO,grāhakŏ,gɾɑːɦəko,customer,வாடிக்கையாளர்   
-ꢔ꣄ꢬꢵꢲꢶ,ग्राहि,க்3ராஹி (N),graahi,grAhi,grāhi,gɾɑːɦɪ,customer,வாடிக்கையாளர்   
+ꢔ꣄ꢬꢵꢲꢶ,ग्राहि,க்3ராஹி,graahi,grAhi,grāhi,gɾɑːɦɪ,customer,வாடிக்கையாளர்
 ꢡꣂꢠꢸꢪ꣄ ꢤꣁꢮ꣄ꢳꣁ,दोणुम धा॑व्ळा॑,தோணும் தொ4வ்ளொ,tonum dho'vl'o',toNum dhOvLO,toṇum dhŏvl̤ŏ,t̪oːɳum d̪ʰoʋɭo,keeping mum,வாய்மூடித்தனம்  
-ꢥꢶꢯꢨ꣄ꢣꢸ,निशब्दु,நிஸப்3து3 (N),nishabdu,nizabdu,niśabdu,n̪ɪʃəbd̪u,keeping mum,வாய்மூடித்தனம்  
+ꢥꢶꢯꢨ꣄ꢣꢸ,निशब्दु,நிஸப்3து3,nishabdu,nizabdu,niśabdu,n̪ɪʃəbd̪u,keeping mum,வாய்மூடித்தனம்
 ꢮꢶꢒꢵꢬ꣄,विकार,விகார்,vikaar,vikAr,vikār,ʋɪkɑːɾ,ugliness,விகாரம்  
-ꢒꢸꢬꢹꢦ꣄,कुरूप,குரூப் (N),kuroop,kurUp,kurūp,kuɾuːp,ugliness,விகாரம்  
-ꢮꢶꢯ꣄꣄ꢮꢵꢱ꣄,विश्वास्,விஶ்வாஸ் (N),vishvaas,vizvAs,viśvās,ʋɪʃʋɑːs̪,faith,விசுவாசம்  
-ꢮꢯ꣄꣄ꢮꢵꢱꢶ,विश्वासि,விஶ்வாஸி (N),vashvaasi,vazvAsi,vaśvāsi,ʋəʃʋɑːs̪ɪ,faithful person,விசுவாசி  
-ꢃꢯ꣄꣄꣄ꢗꢬ꣄ꢫꢹ,आश्चर्यु,ஆஶ்சர்யு (N),aashcharyoo,AzcaryU,āścaryū,ɑːʃt͡ʃəɾjuː,wonder,வியப்பு  
-ꢮꢶꢬꢲꢡꢵꢦ꣄,विरहताप,விரஹதாப் (N),virahataap,virahatAp,virahatāp,ʋɪɾəɦət̪ɑːp,pangs of separation,விரகம்  
-ꢧꢵꢜ꣄,फाट,பா2ட் (N),phaat',phAT,phāṭ,pʰɑːʈ,crack,விரிசல்  
-ꢨꢶꢬꢸꢣꢸ,बिरुदु,பி3ருது3 (N),birudu,birudu,birudu,bɪɾud̪u,title,விருது  
-ꢃꢱ꣄ꢡꣁ,आस्ता॑,ஆஸ்தொ  (N),aasto',AstO,āstŏ,ɑːs̪t̪o,desire,விருப்பம்  
-ꢏꢦ꣄ꢦꢫꢶꢥꢶ,आ॑प्पयिनि,ஒப்பயினி (G),o'ppayini,Oppayini,ŏppayini,oppəjɪn̪ɪ,liking,விருப்பு  
-ꢗꢡ꣄ꢬꢸ,चत्रु,ஶத்ரு (N),chatru,catru,catru,t͡ʃət̪ɾu,enmity,விரோதம்  
-ꢮꢶꢮꢵꢣ꣄,विवाद्,விவாத்3(N),vivaad,vivAd,vivād,ʋɪʋɑːd̪,argument,விவாதம்  
-ꢨꣁꢭꢶꢪ꣄,बा॑लिम्,பொ3லிம் (N),bo'lim,bOlim,bŏlim,bolɪm,strength,வலிமை  / வலு
-ꢬꢦ꣄ꢡꣁ,रप्ता॑,ரப்தொ (N),rapto',raptO,raptŏ,ɾəpt̪o,custom,வழக்கம்  
-ꢦꢬꣂꢦꢒꢵꢬꢶ,परोपकारि,பரோபகாரி (N),paropakaari,paropakAri,paropakāri,pəɾoːpəkɑːɾɪ,philanthropist,வள்ளல்  
-ꢲꣁꢞꢶꢥꢶ,हा॑डिनि,ஹொடி3னி (G),ho'd'ini,hODini,hŏḍini,ɦoɖɪn̪ɪ,growth,வளர்ச்சி  
+ꢒꢸꢬꢹꢦ꣄,कुरूप,குரூப்,kuroop,kurUp,kurūp,kuɾuːp,ugliness,விகாரம்
+ꢮꢶꢯ꣄꣄ꢮꢵꢱ꣄,विश्वास्,விஶ்வாஸ்,vishvaas,vizvAs,viśvās,ʋɪʃʋɑːs̪,faith,விசுவாசம்
+ꢮꢯ꣄꣄ꢮꢵꢱꢶ,विश्वासि,விஶ்வாஸி,vashvaasi,vazvAsi,vaśvāsi,ʋəʃʋɑːs̪ɪ,faithful person,விசுவாசி
+ꢃꢯ꣄꣄꣄ꢗꢬ꣄ꢫꢹ,आश्चर्यु,ஆஶ்சர்யு,aashcharyoo,AzcaryU,āścaryū,ɑːʃt͡ʃəɾjuː,wonder,வியப்பு
+ꢮꢶꢬꢲꢡꢵꢦ꣄,विरहताप,விரஹதாப்,virahataap,virahatAp,virahatāp,ʋɪɾəɦət̪ɑːp,pangs of separation,விரகம்
+ꢧꢵꢜ꣄,फाट,பா2ட்,phaat',phAT,phāṭ,pʰɑːʈ,crack,விரிசல்
+ꢨꢶꢬꢸꢣꢸ,बिरुदु,பி3ருது3,birudu,birudu,birudu,bɪɾud̪u,title,விருது
+ꢃꢱ꣄ꢡꣁ,आस्ता॑,ஆஸ்தொ,aasto',AstO,āstŏ,ɑːs̪t̪o,desire,விருப்பம்
+ꢏꢦ꣄ꢦꢫꢶꢥꢶ,आ॑प्पयिनि,ஒப்பயினி,o'ppayini,Oppayini,ŏppayini,oppəjɪn̪ɪ,liking,விருப்பு
+ꢗꢡ꣄ꢬꢸ,चत्रु,ஶத்ரு,chatru,catru,catru,t͡ʃət̪ɾu,enmity,விரோதம்
+ꢮꢶꢮꢵꢣ꣄,विवाद्,விவாத்3,vivaad,vivAd,vivād,ʋɪʋɑːd̪,argument,விவாதம்
+ꢨꣁꢭꢶꢪ꣄,बा॑लिम्,பொ3லிம்,bo'lim,bOlim,bŏlim,bolɪm,strength,வலிமை / வலு
+ꢬꢦ꣄ꢡꣁ,रप्ता॑,ரப்தொ,rapto',raptO,raptŏ,ɾəpt̪o,custom,வழக்கம்
+ꢦꢬꣂꢦꢒꢵꢬꢶ,परोपकारि,பரோபகாரி,paropakaari,paropakAri,paropakāri,pəɾoːpəkɑːɾɪ,philanthropist,வள்ளல்
+ꢲꣁꢞꢶꢥꢶ,हा॑डिनि,ஹொடி3னி,ho'd'ini,hODini,hŏḍini,ɦoɖɪn̪ɪ,growth,வளர்ச்சி
 ꢣꢸꢒꢵꢭ꣄,दुकाल,து3கால்,dukaal,dukAl,dukāl,d̪ukɑːl,drought,வறட்சி  
-ꢣꢸꢒꢵꢳ꣄꣄,दुकाळ,து3காள்(N),dukaal',dukAL,dukāl̤,d̪ukɑːɭ,drought,வறட்சி  
-ꢡꢾꢬ꣄ꢒꢾ,त॑र्क॑,தெர்கெ (N),te'rke',tErkE,tĕrkĕ,t̪eɾke,awareness,விழிப்புணர்ச்சி  
-ꢦ꣄ꢬꢙ꣄ꢛꣁ,प्रजञो,ப்ரஜ்ஞொ (N),prajnyo',prajJO,prajñŏ,pɾəd͡ʒɲo,awareness,விழிப்புணர்ச்சி  
-ꢨꢶꢱ꣄ꢱꢦꢥ꣄,बिस्सपन,பி3ஸ்ஸபன் (N),bissapan,bissapan,bissapan,bɪs̪s̪əpən̪,quickness,விறுவிறுப்பு  
-ꢨꢶꢱ꣄ꢱꣁ,बिस्सा॑,பி3ஸ்ஸொ (Adv),bisso',bissO,bissŏ,bɪs̪s̪o,quickness,விறுவிறுப்பு  
-ꢤꣀꢬ꣄ꢫꢸ,धैर्यु,தை4ர்யொ (N),dhairyu,dhairyu,dhairyu,d̪ʰəɪɾju,bravery,வீரம்  
-ꢤꣀꢬ꣄ꢫꢮꢵꢥ꣄,धैर्यवान्,தை4ர்யவான் (N),dhairyavaan,dhairyavAn,dhairyavān,d̪ʰəɪɾjəʋɑːn̪,brave man,வீரன்  
-ꢤꣀꢬ꣄ꢫ ꢱ꣄ꢡꢶꢬꢶ,धैर्यस्तिरि,தை4ர்யவதி (N),dhairya stiri,dhairya stiri,dhairya stiri,d̪ʰəɪɾjə s̪t̪ɪɾɪ,brave woman,வீராங்கனை  
-ꢨꣁꢞ꣄ꢠꢶ,पा॑ड्णि,பொட்3ணி (N),bo'd'ni,bODNi,bŏḍṇi,boɖɳɪ,falling,வீழ்ச்சி  
-ꢙꢵꢭ꣄,जाल्,ஜாள் (N),jaal,jAl,jāl,d͡ʒɑːl,irritation,வெடுவெடுப்பு  
-ꢲꢸꢥ꣄ꢥꢦꢥ꣄,हुन्नपन,ஹுன்னபன் (N) (ஹுன்னொ (adv)),hunnapan,hunnapan,hunnapan,ɦun̪n̪əpən̪,hotness,வெம்மை  
-ꢲꢸꢥ꣄ꢥꣁ,हुन्ना॑,ஹுன்னபன் (N) (ஹுன்னொ (adv)),hunno',hunnO,hunnŏ,ɦun̪n̪o,hotness,வெம்மை  
-ꢔꢷꢔ꣄,जीग,ஜீக்3 (N),geeg,gIg,gīg,giːg,Success/victory,வெற்றி  
-ꢆꢔ꣄ꢬꢡꣁ,उग्रता॑,உக்3ரதொ (N),ugrato',ugratO,ugratŏ,ugɾət̪o,fanaticism,வெறி  
-ꢣ꣄ꢮꢾꢯ꣄,द्वेश्,த்3வேஷ் (N),dve'sh,dvEz,dvĕś,d̪ʋeʃ,hatred,வெறுப்பு  
-ꢮꢿꢔ꣄,वेग,வேக்3(N),veg,veg,veg,ʋeːg,speed,வேகம்  
-ꢯꣂꢒ꣄,शोक्,ஶோக் (N),shok,zok,śok,ʃoːk,thirst,வேட்கை  
-ꢒꢹꢡ꣄,कुत,கூத் (N),koot,kUt,kūt,kuːt̪,fun,வேடிக்கை  
-ꢓꢾꢳ꣄,खेळ,கே2ள்(N),khe'l',khEL,khĕl̤,kʰeɭ,fun,வேடிக்கை  
-ꢩꢿꢣ꣄,भेद,பே4த்3 (N),bhed,bhed,bhed,bʰeːd̪,difference,வேற்றுமை  
-ꢮꣀꢬꢵꢔ꣄ꢫꢸ,वैराग्यु,வைராக்3யு (N),vairaagyu,vairAgyu,vairāgyu,ʋəɪɾɑːgju,obstinacy,வைராக்கியம்  
+ꢣꢸꢒꢵꢳ꣄꣄,दुकाळ,து3காள்,dukaal',dukAL,dukāl̤,d̪ukɑːɭ,drought,வறட்சி
+ꢡꢾꢬ꣄ꢒꢾ,त॑र्क॑,தெர்கெ,te'rke',tErkE,tĕrkĕ,t̪eɾke,awareness,விழிப்புணர்ச்சி
+ꢦ꣄ꢬꢙ꣄ꢛꣁ,प्रजञो,ப்ரஜ்ஞொ,prajnyo',prajJO,prajñŏ,pɾəd͡ʒɲo,awareness,விழிப்புணர்ச்சி
+ꢨꢶꢱ꣄ꢱꢦꢥ꣄,बिस्सपन,பி3ஸ்ஸபன்,bissapan,bissapan,bissapan,bɪs̪s̪əpən̪,quickness,விறுவிறுப்பு
+ꢨꢶꢱ꣄ꢱꣁ,बिस्सा॑,பி3ஸ்ஸொ,bisso',bissO,bissŏ,bɪs̪s̪o,quickness,விறுவிறுப்பு
+ꢤꣀꢬ꣄ꢫꢸ,धैर्यु,தை4ர்யொ,dhairyu,dhairyu,dhairyu,d̪ʰəɪɾju,bravery,வீரம்
+ꢤꣀꢬ꣄ꢫꢮꢵꢥ꣄,धैर्यवान्,தை4ர்யவான்,dhairyavaan,dhairyavAn,dhairyavān,d̪ʰəɪɾjəʋɑːn̪,brave man,வீரன்
+ꢤꣀꢬ꣄ꢫ ꢱ꣄ꢡꢶꢬꢶ,धैर्यस्तिरि,தை4ர்யவதி,dhairya stiri,dhairya stiri,dhairya stiri,d̪ʰəɪɾjə s̪t̪ɪɾɪ,brave woman,வீராங்கனை
+ꢨꣁꢞ꣄ꢠꢶ,पा॑ड्णि,பொட்3ணி,bo'd'ni,bODNi,bŏḍṇi,boɖɳɪ,falling,வீழ்ச்சி
+ꢙꢵꢭ꣄,जाल्,ஜாள்,jaal,jAl,jāl,d͡ʒɑːl,irritation,வெடுவெடுப்பு
+ꢲꢸꢥ꣄ꢥꢦꢥ꣄,हुन्नपन,ஹுன்னபன்),hunnapan,hunnapan,hunnapan,ɦun̪n̪əpən̪,hotness,வெம்மை
+ꢲꢸꢥ꣄ꢥꣁ,हुन्ना॑,ஹுன்னபன்),hunno',hunnO,hunnŏ,ɦun̪n̪o,hotness,வெம்மை
+ꢔꢷꢔ꣄,जीग,ஜீக்3,geeg,gIg,gīg,giːg,Success/victory,வெற்றி
+ꢆꢔ꣄ꢬꢡꣁ,उग्रता॑,உக்3ரதொ,ugrato',ugratO,ugratŏ,ugɾət̪o,fanaticism,வெறி
+ꢣ꣄ꢮꢾꢯ꣄,द्वेश्,த்3வேஷ்,dve'sh,dvEz,dvĕś,d̪ʋeʃ,hatred,வெறுப்பு
+ꢮꢿꢔ꣄,वेग,வேக்3,veg,veg,veg,ʋeːg,speed,வேகம்
+ꢯꣂꢒ꣄,शोक्,ஶோக்,shok,zok,śok,ʃoːk,thirst,வேட்கை
+ꢒꢹꢡ꣄,कुत,கூத்,koot,kUt,kūt,kuːt̪,fun,வேடிக்கை
+ꢓꢾꢳ꣄,खेळ,கே2ள்,khe'l',khEL,khĕl̤,kʰeɭ,fun,வேடிக்கை
+ꢩꢿꢣ꣄,भेद,பே4த்3,bhed,bhed,bhed,bʰeːd̪,difference,வேற்றுமை
+ꢮꣀꢬꢵꢔ꣄ꢫꢸ,वैराग्यु,வைராக்3யு,vairaagyu,vairAgyu,vairāgyu,ʋəɪɾɑːgju,obstinacy,வைராக்கியம்

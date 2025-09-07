@@ -20,11 +20,11 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢌꢭ꣄ꢫꢾꢒ ꢲꢵꢭ꣄,ए॑ल्य॑क हाल,எல்யெக ஹால்,e'lye'ka haal,ElyEka hAl,ĕlyĕka hāl,eljekə ɦɑːl,hereby,இதனால்  
 ꢍꢜ꣄ꢱꢵ,एट्सा,ஏட்ஸா,et'saa,eTsA,eṭsā,eːʈs̪ɑː,look here,இதோ  
 ꢍꢭꢵ,एला,ஏலா,elaa,elA,elā,eːlɑː,look here,இதோ  
-ꢓꢳꢳꢿ,खळ्ळे,க2ள்ளே,khal'al'e,khaLaLe,khal̤al̤e,kʰəɭəɭeː,take this (non-hon.),இந்தா  
-ꢤꢿꢬ꣄,धेर,தே4ர்,dher,dher,dher,d̪ʰeːɾ,take this (non-hon.),இந்தா  
-ꢓꢳ꣄ꢳꢸꢮꣁ,खळ्ळुवा॑,க2ள்ளுவொ,khal'l'uvo',khaLLuvO,khal̤l̤uvŏ,kʰəɭɭuʋo,take this (hon.),இந்தாருங்கள்  
-ꢤꢾꢬꣁ,ध॑रा॑,தெ4ரொ,dhe'ro',dhErO,dhĕrŏ,d̪ʰeɾo,take this (hon.),இந்தாருங்கள்  
-ꢤꢾꢬꢸꢮꣁ,ध॑रुवा॑,தெ4ருவொ,dhe'ruvo',dhEruvO,dhĕruvŏ,d̪ʰeɾuʋo,take this (hon.),இந்தாருங்கள்  
+ꢓꢳꢳꢿ,खळ्ळे,க2ள்ளே,khal'al'e,khaLaLe,khal̤al̤e,kʰəɭəɭeː,take this,இந்தா
+ꢤꢿꢬ꣄,धेर,தே4ர்,dher,dher,dher,d̪ʰeːɾ,take this,இந்தா
+ꢓꢳ꣄ꢳꢸꢮꣁ,खळ्ळुवा॑,க2ள்ளுவொ,khal'l'uvo',khaLLuvO,khal̤l̤uvŏ,kʰəɭɭuʋo,take this,இந்தாருங்கள்
+ꢤꢾꢬꣁ,ध॑रा॑,தெ4ரொ,dhe'ro',dhErO,dhĕrŏ,d̪ʰeɾo,take this,இந்தாருங்கள்
+ꢤꢾꢬꢸꢮꣁ,ध॑रुवा॑,தெ4ருவொ,dhe'ruvo',dhEruvO,dhĕruvŏ,d̪ʰeɾuʋo,take this,இந்தாருங்கள்
 ꢥꢴꢵ,न्हा,நா:,nhaa,nhA,nhā,n̪ɦɑː,no,இல்லை  
 ꢂꢖ꣄ꢔꢸꢥ꣄,अङ्गुन्,அங்கு3ன்,angun,aGgun,aṅgun,əŋgun̪,yet,இன்னும்  
 ꢂꢡ꣄ꢡꢾꢖ꣄ꢔꢸꢜ꣄,अत्त॑ङ्गुट्,அத்தெங்கு3ட்,atte'ngut',attEGguT,attĕṅguṭ,ət̪t̪eŋguʈ,hereafter,இனி  
@@ -44,9 +44,9 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢲꣂꢥ꣄ꢣꢒ꣄,होन्दक्,ஹோந்த3க்,hondak,hondak,hondak,ɦoːn̪d̪ək,expression of approval,ஓகோ  
 ꢲꣂꢫ꣄,होय्,ஹோய்,hoy,hoy,hoy,ɦoːj,term to call attention,ஓய்  
 ꢘꢷꢗ꣄ꢘꢷ,छीच्छी,சீ2ச்சீ2,chheechchhee,chIcchI,chīcchī,t͡ʃʰiːt͡ʃt͡ʃʰiː,expression of contempt,சீச்சீ  
-ꢮꢵ,वा,வா,vaa,vA,vā,ʋɑː,address term for inferior faminine (singular),டி  
-ꢂꢮꢵ,अवा,அவா,avaa,avA,avā,əʋɑː,address term for inferior faminine (singular),டி  
-ꢬꢿꢫ꣄,रेय्,ரேய்,rey,rey,rey,ɾeːj,address term for inferior masculine (singular),டேய்  
+ꢮꢵ,वा,வா,vaa,vA,vā,ʋɑː,address term for inferior faminine,டி
+ꢂꢮꢵ,अवा,அவா,avaa,avA,avā,əʋɑː,address term for inferior faminine,டி
+ꢬꢿꢫ꣄,रेय्,ரேய்,rey,rey,rey,ɾeːj,address term for inferior masculine,டேய்
 ꢢꢸꢡ꣄ꢡꢹ,थुत्तु,தூ2த்தூ,thuttoo,thuttU,thuttū,t̪ʰut̪t̪uː,expression of contempt,தூ  
 ꢦꢵꢦ꣄,पाप्,பாப்,paap,pAp,pāp,pɑːp,expression of sympathy,பாவம்  
 ꢇꢲꢹꢄ~ ,ऊहूइ~,ஊஹூ~,oohooi~,UhUi~,ūhūi~,uːɦuːɪ~,no,ம்ஹூம்  

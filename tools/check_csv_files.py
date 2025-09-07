@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
 CSV File Validator for Sourashtra Dictionary
-This script checks all CSV files in a specified directory to ensure they have exactly 5 fields per line.
-If a line doesn't have exactly 5 fields, it stops and prints that line.
+This script checks all CSV files in a specified directory to ensure they have the expected number of fields per line.
+If a line doesn't have the expected number of fields, it stops and prints that line.
 
-Usage: python3 check_csv_files.py <csv_directory>
+Usage: python3 check_csv_files.py <csv_directory> [--fields FIELD_COUNT]
 """
 
 import argparse
@@ -14,12 +14,13 @@ import sys
 from pathlib import Path
 
 
-def check_csv_file(file_path):
+def check_csv_file(file_path, expected_fields):
     """
-    Check if a CSV file has exactly 5 fields per line.
+    Check if a CSV file has exactly the expected number of fields per line.
     
     Args:
         file_path (Path): Path to the CSV file
+        expected_fields (int): Expected number of fields per line
         
     Returns:
         tuple: (is_valid, error_info) where error_info contains line number and content if invalid
@@ -33,10 +34,11 @@ def check_csv_file(file_path):
                 if not any(field.strip() for field in row):
                     continue
                     
-                if len(row) != 5:
+                if len(row) != expected_fields:
                     return False, {
                         'line_number': line_num,
                         'field_count': len(row),
+                        'expected_fields': expected_fields,
                         'line_content': ','.join(row),
                         'raw_line': file.readline() if hasattr(file, 'readline') else str(row)
                     }
@@ -47,6 +49,7 @@ def check_csv_file(file_path):
         return False, {
             'line_number': 0,
             'field_count': 0,
+            'expected_fields': expected_fields,
             'line_content': f"Error reading file: {str(e)}",
             'raw_line': ''
         }
@@ -57,21 +60,33 @@ def main():
     
     # Set up argument parser
     parser = argparse.ArgumentParser(
-        description='Check CSV files for exactly 5 fields per line',
+        description='Check CSV files for expected number of fields per line',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog='''
 Examples:
-  python3 check_csv_files.py csv/
-  python3 check_csv_files.py /path/to/csv/directory/
+  python3 check_csv_files.py csv/                    # Check for 9 fields (default)
+  python3 check_csv_files.py csv/ --fields 5         # Check for 5 fields
+  python3 check_csv_files.py csv/ -f 3               # Check for 3 fields
+  python3 check_csv_files.py /path/to/csv/ --fields 7
         '''
     )
     parser.add_argument('csv_directory', 
                        help='Path to the directory containing CSV files to check')
+    parser.add_argument('--fields', '-f',
+                       type=int,
+                       default=9,
+                       help='Expected number of fields per line (default: 9)')
     
     args = parser.parse_args()
     
     # Convert to Path object and resolve
     csv_dir = Path(args.csv_directory).resolve()
+    expected_fields = args.fields
+    
+    # Validate arguments
+    if expected_fields <= 0:
+        print(f"Error: Number of fields must be positive, got {expected_fields}")
+        sys.exit(1)
     
     if not csv_dir.exists():
         print(f"Error: CSV directory not found at {csv_dir}")
@@ -82,6 +97,7 @@ Examples:
         sys.exit(1)
     
     print(f"Checking CSV files in: {csv_dir}")
+    print(f"Expected fields per line: {expected_fields}")
     print("=" * 60)
     
     # Get all CSV files
@@ -97,15 +113,15 @@ Examples:
     for csv_file in csv_files:
         print(f"\nChecking: {csv_file.name}")
         
-        is_valid, error_info = check_csv_file(csv_file)
+        is_valid, error_info = check_csv_file(csv_file, expected_fields)
         
         if is_valid:
-            print("✓ Valid - All lines have exactly 5 fields")
+            print(f"✓ Valid - All lines have exactly {expected_fields} fields")
             valid_files += 1
         else:
             print("✗ Invalid CSV file found!")
             print(f"File: {csv_file.name}")
-            print(f"Line {error_info['line_number']}: Found {error_info['field_count']} fields instead of 5")
+            print(f"Line {error_info['line_number']}: Found {error_info['field_count']} fields instead of {error_info['expected_fields']}")
             print(f"Line content: {error_info['line_content']}")
             print("\nStopping validation as requested.")
             
@@ -122,7 +138,7 @@ Examples:
     print("✓ All CSV files are valid!")
     print(f"Summary:")
     print(f"Total files checked: {total_files}")
-    print(f"All files have exactly 5 fields per line.")
+    print(f"All files have exactly {expected_fields} fields per line.")
 
 
 if __name__ == "__main__":

@@ -7,8 +7,8 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢦꢶꢞꢸ,पिडु,பிடு3,pid'u,piDu,piḍu,pɪɖu,thunder,இடி  
 ꢲꢥ꣄ꢣꢵꢬ꣄,हन्दार्,ஹந்தா3ர்,handaar,handAr,handār,ɦən̪d̪ɑːɾ,darkness,இருட்டு  
 ꢔꢾꢮꢶ,ग॑वि,கெ3வி,ge'vi,gEvi,gĕvi,geʋɪ,darkness,இருட்டு  
-ꢆꢣꢫꢪ꣄,उदयम्,உத3யம்,udayam,udayam,udayam,ud̪əjəm,"rise (Sun, Moon)",உதயம்  
-ꢱꢸꢬꢶꢡꢸ ꢥꢶꢒꢶꢭ꣄ꢥꢶ,सुरितु निकिल्नि,ஸுரிது நிகிள்னி,suritu nikilni,suritu nikilni,suritu nikilni,s̪uɾɪt̪u n̪ɪkɪln̪ɪ,"rise (Sun, Moon)",உதயம்  
+ꢆꢣꢫꢪ꣄,उदयम्,உத3யம்,udayam,udayam,udayam,ud̪əjəm,rise,உதயம்
+ꢱꢸꢬꢶꢡꢸ ꢥꢶꢒꢶꢭ꣄ꢥꢶ,सुरितु निकिल्नि,ஸுரிது நிகிள்னி,suritu nikilni,suritu nikilni,suritu nikilni,s̪uɾɪt̪u n̪ɪkɪln̪ɪ,rise,உதயம்
 ꢙꢵꢳꢸꢗꢸꢒ꣄ꢒꣁ,जाळुचुक्का॑,ஜாளுசுக்கொ,jaal'uchukko',jALucukkO,jāl̤ucukkŏ,d͡ʒɑːɭut͡ʃukko,shooting star,எரி நட்சத்திரம்   
 ꢂꢔꢗꢵꢭ꣄ ꢂꢫ꣄ꢣꢸ,अगचाल्अय्दु,அக3சால்அய்து3,agachaal aydu,agacAl aydu,agacāl aydu,əgət͡ʃɑːl əjd̪u,rocket,ஏவுகணை  
 ꢦ꣄ꢬꢒ꣄ꢰꢾꢦꢥꣁ,प्रक्षेपना॑,ப்ரக்ஷேபனொ,prakshe'pano',prakSEpanO,prakṣĕpanŏ,pɾəkʂepən̪o,rocket,ஏவுகணை  
@@ -49,7 +49,7 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢄꢥ꣄ꢣꢸ,इन्दु,இந்து3,indu,indu,indu,ɪn̪d̪u,moon,நிலா  
 ꢄꢥ꣄ꢣꢸ,इन्दु,,indu,indu,indu,ɪn̪d̪u,moon,நிலா  
 ꢗꢥ꣄ꢣ꣄ꢬꢫꢵꢥ꣄,चन्द्रयान,சந்த்3ரயான்,chandrayaan,candrayAn,candrayān,t͡ʃən̪d̪ɾəjɑːn̪,lunar module,நிலாவூர்தி  
-ꢮꢵꢦ꣄,वाप्,வாப்,vaap,vAp,vāp,ʋɑːp,steam (water),நீராவி  
+ꢮꢵꢦ꣄,वाप्,வாப்,vaap,vAp,vāp,ʋɑːp,steam,நீராவி
 ꢬꢸꢡꢸꢮꢬꣁ,रुतुवरा॑,ருதுவரொ,rutuvaro',rutuvarO,rutuvarŏ,ɾut̪uʋəɾo,seasonal wind,பருவக்காற்று  
 ꢬꢸꢡꢸꢦꣁꢮ꣄ꢱ꣄,रुतुपा॑व्स,ருதுபொவ்ஸ்,rutupo'vs,rutupOvs,rutupŏvs,ɾut̪upoʋs̪,monsoon,பருவ மழை   
 ꢪꣁꢖ꣄ꢗꢸ,मा॑ञ्चु,மொஞ்சு,mo'ngchu,mOGcu,mŏṅcu,moŋt͡ʃu,mist,பனி  

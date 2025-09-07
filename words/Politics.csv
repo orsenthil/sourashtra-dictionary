@@ -112,7 +112,7 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢱꢾꢬ꣄ꢗꢥ꣄ꢩꢵꢰꣁ,च॑र्चन्भाषा॑,செர்சன்பா4ஷொ,se'rchanbhaasho',sErcanbhASO,sĕrcanbhāṣŏ,s̪eɾt͡ʃən̪bʰɑːʂo,link language,இணைப்புமொழி  
 ꢱꢥ꣄ꢣꢶ ꢩꢵꢰꣁ,सन्दि भाषा॑,ஸந்தி3 பா4ஷொ,sandi bhaasho',sandi bhASO,sandi bhāṣŏ,s̪ən̪d̪ɪ bʰɑːʂo,link language,இணைப்புமொழி  
 ꢱꢪ꣄ꢫꢸꢒ꣄ꢡ ꢱꢖ꣄ꢕꣁ,सम्युक्त सङ्घा॑,ஸம்யுக்த ஸங்கொ4,samyukta sangho',samyukta saGghO,samyukta saṅghŏ,s̪əmjukt̪ə s̪əŋgʰo,federation,இணையம்  
-ꢱꢛ꣄ꢙꢶꢒꢾ,सञ्जिका॑,ஸஞ்ஜிகொ,sanjike',saJjikE,sañjikĕ,s̪əɲd͡ʒɪke,issue (magazine),இதழ்  
+ꢱꢛ꣄ꢙꢶꢒꢾ,सञ्जिका॑,ஸஞ்ஜிகொ,sanjike',saJjikE,sañjikĕ,s̪əɲd͡ʒɪke,issue,இதழ்
 ꢩꢵꢬꢡꢥꢶꢬ꣄ꢮꢵꢲꢸꢱꢿꢮꣁ,भारत निर्वाहु सेवा॑,பா4ரதநிர்வாஹுஸேவொ,bhaaratanirvaahusevo',bhAratanirvAhusevO,bhāratanirvāhusevŏ,bʰɑːɾət̪ən̪ɪɾʋɑːɦus̪eːʋo,Indian Admini strative Service,இந்திய ஆட்சிப்பணி   
 ꢩꢵꢬꢡ ꢂꢦꢬꢵꢤꢸ ꢱꢵꢱꢥꣁ,भारत अपराधु सासना॑,பா4ரதஅபராது4 ஸாஸனொ,bhaarata aparaadhu saasano',bhArata aparAdhu sAsanO,bhārata aparādhu sāsanŏ,bʰɑːɾət̪ə əpəɾɑːd̪ʰu s̪ɑːs̪ən̪o,Indian Penal Code-IPC,இந்தியக் குற்றவியல் சட்டம்    
 ꢃꢥ꣄ꢣꣂꢭ꣄,आन्दोल,ஆந்தோ3ல்,aandol,Andol,āndol,ɑːn̪d̪oːl,movement,இயக்கம்  
@@ -319,7 +319,7 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢔꢸꢬ꣄ꢡꢸ,गुर्तु,கு3ர்து,gurtu,gurtu,gurtu,guɾt̪u,"index, code",குறியீடு  
 ꢆꢥ꣄ꢥ ꢦꣁꢞꢾꢫꣁ,उन्न पा॑ड॑या॑,உன்ன பொடெ3யொ,unna po'd'e'yo',unna pODEyO,unna pŏḍĕyŏ,un̪n̪ə poɖejo,minimum,குறைந்தபட்சம்
 ꢆꢥ꣄ꢥ ꢦꢒ꣄ꢯꢸ,उन्न पक्षु,உன்ன பக்ஷு,unna pakshu,unna pakzu,unna pakśu,un̪n̪ə pəkʃu,minimum,குறைந்தபட்சம்
-ꢦꢒ꣄ꢯ ꢎꢒ꣄ꢫꢡꣁ,पक्ष ऐक्यता॑,பக்ஷ ஐக்யதொ,paksha aikyato',pakza aikyatO,pakśa aikyatŏ,pəkʃə əɪkjət̪o,front (political),கூட்டணி  
+ꢦꢒ꣄ꢯ ꢎꢒ꣄ꢫꢡꣁ,पक्ष ऐक्यता॑,பக்ஷ ஐக்யதொ,paksha aikyato',pakza aikyatO,pakśa aikyatŏ,pəkʃə əɪkjət̪o,front,கூட்டணி
 ꢪꢹꢔꣁ,मूगा॑,மூகொ3,moogo',mUgO,mūgŏ,muːgo,crowd,கூட்டம்  
 ꢔꢸꢪ꣄ꢦꢸꢪꢶꢳ꣄ꢥꢶ,गुम्पु,கு3ம்பு,gumpumil'ni,gumpumiLni,gumpumil̤ni,gumpumɪɭn̪ɪ,crowd,கூட்டம்  
 ꢪꢶꢳ꣄꣄ꢠꢶ,मिळ्नि,மிள்னி,mil'ni,miLNi,mil̤ṇi,mɪɭɳɪ,crowd,கூட்டம்  
@@ -338,7 +338,7 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢤꣁꢙ ꢱ꣄ꢢꢪ꣄ꢨꢸ,धा॑ज स्थम्बु,தொ4ஜ ஸ்த2ம்பு3,dho'ja sthambu,dhOja sthambu,dhŏja sthambu,d̪ʰod͡ʒə s̪t̪ʰəmbu,flag post,கொடிமரம்  
 ꢭꢒ꣄ꢰ꣄ꢫꢸ,लक्ष्यु,லக்ஷ்யு,lakshyu,lakSyu,lakṣyu,ləkʂju,policy,கொள்கை  
 ꢤ꣄ꢫꢿꢫꢸ,ध्येयु,த்4யேயு,dhyeyu,dhyeyu,dhyeyu,d̪ʰjeːju,policy,கொள்கை  
-ꢮꢶꢩꢵꢔ꣄,विभाग,விபா4க்3,vibhaag,vibhAg,vibhāg,ʋɪbʰɑːg,division (land),கோட்டம்  
+ꢮꢶꢩꢵꢔ꣄,विभाग,விபா4க்3,vibhaag,vibhAg,vibhāg,ʋɪbʰɑːg,division,கோட்டம்
 ꢣꢸꢬꢸꢔ꣄,दुरुग्,து3ருக்3,durug,durug,durug,d̪uɾug,fort,கோட்டை  
 ꢥꢶꢫꢪꣁ,नियमा॑,நியமொ,niyamo',niyamO,niyamŏ,n̪ɪjəmo,policy,கோட்பாடு  
 ꢱꢶꢣ꣄ꢣꢵꢥ꣄ꢡꢸ,सिद्दान्तु,ஸித்3தா3ந்து,siddaantu,siddAntu,siddāntu,s̪ɪd̪d̪ɑːn̪t̪u,policy,கோட்பாடு  
@@ -485,7 +485,7 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢡꢶꢬ꣄ꢪꢵꢥ꣄,तिर्मान्,திர்மான்,tirmaan,tirmAn,tirmān,t̪ɪɾmɑːn̪,resolution,தீர்மானம்  
 ꢥꢶꢬ꣄ꢠꢫꣁ,निर्णया॑,நிர்ணயொ,nirnayo',nirNayO,nirṇayŏ,n̪ɪɾɳəjo,resolution,தீர்மானம்  
 ꢡꢷꢬ꣄ꢮꣁ,तीर्वा॑,தீர்வொ,teervo',tIrvO,tīrvŏ,t̪iːɾʋo,duty,தீர்வை  
-ꢆꢦꢬꢵꢰ꣄ꢜ꣄ꢬꢦꢡꢶ,उपराष्ट्रपति,உபராஷ்ட்ரபதி,uparaasht'rapati,uparASTrapati,uparāṣṭrapati,upəɾɑːʂʈɾəpət̪ɪ,vice-president (of a country),துணைராஷ்ட்ரபதி   
+ꢆꢦꢬꢵꢰ꣄ꢜ꣄ꢬꢦꢡꢶ,उपराष्ट्रपति,உபராஷ்ட்ரபதி,uparaasht'rapati,uparASTrapati,uparāṣṭrapati,upəɾɑːʂʈɾəpət̪ɪ,vice-president,துணைராஷ்ட்ரபதி
 ꢆꢦꢮꢶꢢꢶ,उपविधि,உபவிதி4,upavithi,upavithi,upavithi,upəʋɪt̪ʰɪ,by-law,துணைவிதி  
 ꢥꢶꢬ꣄ꢪꢭꢶꢒꢬꢠꣁ,निर्मलिकरणा॑,நிர்மலிகரணொ,nirmalikarano',nirmalikaraNO,nirmalikaraṇŏ,n̪ɪɾməlɪkəɾəɳo,sanitation,துப்புரவு  
 ꢱꢸꢣ꣄ꢤꢶ ꢦꢵꢭꢥꣁ,सुद्धिपालना॑,ஸுத்3தி4 பாலனொ,suddhi paalano',suddhi pAlanO,suddhi pālanŏ,s̪ud̪d̪ʰɪ pɑːlən̪o,sanitation,துப்புரவு  
@@ -542,8 +542,8 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢥꢵꢔ꣄ꢬꢷꢔ꣄,नाग्रीग,நாக3ரீக்3,naagreeg,nAgrIg,nāgrīg,n̪ɑːgɾiːg,civilization,நாகரீகம்  
 ꢱꢪ꣄ꢱ꣄ꢒ꣄ꢬꢸꢡꢶ,सम्स्क्रुति,ஸம்ஸ்க்ருதி,samskruti,samskruti,samskruti,s̪əms̪kɾut̪ɪ,civilization,நாகரீகம்  
 ꢣꢶꢥ꣄ꢥꢸ ꢱꣁꢪ꣄ꢨꢸꢳꣁ,दिन्नु सा॑म्बुळा॑,தி3ன்னு ஸொம்பு3ளொ,dinnu so'mbul'o',dinnu sOmbuLO,dinnu sŏmbul̤ŏ,d̪ɪn̪n̪u s̪ombuɭo,daily wage,நாட்கூலி  
-ꢔ꣄ꢬꢵꢪ꣄ꢫꢙꢵꢡ꣄,ग्राम्यजात,க்3ராம்யஜாத்,graamyajaat,grAmyajAt,grāmyajāt,gɾɑːmjəd͡ʒɑːt̪,local race (of a country),நாட்டினம்  
-ꢱ꣄ꢢꢭꢷꢫꢙꢵꢡ꣄,स्थलीयजात,ஸ்த2லீயஜாத்,sthaleeyajaat,sthalIyajAt,sthalīyajāt,s̪t̪ʰəliːjəd͡ʒɑːt̪,local race (of a country),நாட்டினம்  
+ꢔ꣄ꢬꢵꢪ꣄ꢫꢙꢵꢡ꣄,ग्राम्यजात,க்3ராம்யஜாத்,graamyajaat,grAmyajAt,grāmyajāt,gɾɑːmjəd͡ʒɑːt̪,local race,நாட்டினம்
+ꢱ꣄ꢢꢭꢷꢫꢙꢵꢡ꣄,स्थलीयजात,ஸ்த2லீயஜாத்,sthaleeyajaat,sthalIyajAt,sthalīyajāt,s̪t̪ʰəliːjəd͡ʒɑːt̪,local race,நாட்டினம்
 ꢬꢵꢰ꣄ꢜ꣄ꢬ ꢚꢠ꣄ꢞꢮ꣄,राष्ट्र झण्डाव,ராஷ்ட்ர ஜ2ண்டா3வ்,raasht'ra jhand'av,rASTra jhaNDav,rāṣṭra jhaṇḍav,ɾɑːʂʈɾə d͡ʒʰəɳɖəʋ,National Flag,நாட்டுக்கொடி  
 ꢣꢾꢱꢸ ꢚꢠ꣄ꢞꢵꢮ꣄,देसु झण्डाव,தே3ஸு  ஜ2ண்டா3வ்,de'su jhand'aav,dEsu jhaNDAv,dĕsu jhaṇḍāv,d̪es̪u d͡ʒʰəɳɖɑːʋ,National Flag,நாட்டுக்கொடி  
 ꢬꢵꢰ꣄ꢜ꣄ꢬꢔꢷꢜ꣄,राष्ट्रगीत,ராஷ்ட்ர கீ3த்,raasht'rageet',rASTragIT,rāṣṭragīṭ,ɾɑːʂʈɾəgiːʈ,National Anthem,நாட்டுப்பண்  
@@ -607,7 +607,7 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢒꢭꢵꢗꢵꢬ꣄,कलाचार्,கலாசார்,kalaachaar,kalAcAr,kalācār,kəlɑːt͡ʃɑːɾ,culture,பண்பாடு  
 ꢱꢪ꣄ꢱ꣄ꢒ꣄ꢬꢸꢡꢶ,सम्स्क्रुति,ஸம்ஸ்க்ருதி,samskruti,samskruti,samskruti,s̪əms̪kɾut̪ɪ,culture,பண்பாடு  
 ꢆꢣ꣄ꢫꣂꢔ꣄,उद्योग्,உத்3யோக்3,udyog,udyog,udyog,ud̪joːg,profession,பணி  
-ꢒꢵꢪ꣄ ꢲꢾꢞ꣄ꢠꢶ,काम ह॑ड्णि,காம் ஹெட்3ணி,kaam he'd'ni,kAm hEDNi,kām hĕḍṇi,kɑːm ɦeɖɳɪ,dismissal (from job),பணி நீக்கம்   
+ꢒꢵꢪ꣄ ꢲꢾꢞ꣄ꢠꢶ,काम ह॑ड्णि,காம் ஹெட்3ணி,kaam he'd'ni,kAm hEDNi,kām hĕḍṇi,kɑːm ɦeɖɳɪ,dismissal,பணி நீக்கம்
 ꢒꢪ ꣄ꢪꢬ꣄ꢗꢶꢥꢶ,काम्मरिनि,காம் மர்சினி,kama marchini,kama marcini,kama marcini,kəmə məɾt͡ʃɪn̪ɪ,transfer,பணி மாற்றம்   
 ꢒꢵꢪꢸ ꢙꢿꢰ꣄ꢜꢦꢥ꣄,कामु जेष्टपन,காமு ஜேஷ்டபன்,kaamu jesht'apan,kAmu jeSTapan,kāmu jeṣṭapan,kɑːmu d͡ʒeːʂʈəpən̪,seniority,பணி மூப்பு   
 ꢒꢵꢬ꣄ꢫꢵꢮꢵꢥ꣄,कार्यावान्,கார்யவான்,kaaryaavaan,kAryAvAn,kāryāvān,kɑːɾjɑːʋɑːn̪,employees,பணியாளர்  
@@ -650,7 +650,7 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢦ꣄ꢬꢡꢿꢱꢸ,प्रतेसु,ப்ரதே3ஸு,pratesu,pratesu,pratesu,pɾət̪eːs̪u,territory,பிரதேசம்  
 ꢦ꣄ꢬꢩꢸ,प्रभु,ப்ரபு4,prabhu,prabhu,prabhu,pɾəbʰu,lord,பிரபு  
 ꢦ꣄ꢬꢙꣁ,प्रजा॑,ப்ரஜொ,prajo',prajO,prajŏ,pɾəd͡ʒo,citizen,பிரஜை
-ꢮꢶꢩꢵꢔ,विभाग,விபா4க3,vibhaaga,vibhAga,vibhāga,ʋɪbʰɑːgə,cell (division),பிரிவு  
+ꢮꢶꢩꢵꢔ,विभाग,விபா4க3,vibhaaga,vibhAga,vibhāga,ʋɪbʰɑːgə,cell,பிரிவு
 ꢂꢥꢸꢨꢥ꣄ꢤꢸ,अनुबन्धु,அநுப3ந்து4,anubandhu,anubandhu,anubandhu,ən̪ubən̪d̪ʰu,appendix,பிற்சேர்க்கை  
 ꢦꢱ꣄ꢒꢜ꣄ꢮꢬ꣄ꢔꢸ ꢱꢪꢹꢲꢸ,पस्कट्वरगु समूहू,பஸ்கட்வர்கு3 ஸமூஹு,paskat'vargu samoohu,paskaTvargu samUhu,paskaṭvargu samūhu,pəs̪kəʈʋəɾgu s̪əmuːɦu,backward class people,பிற்பட்ட வகுப்பினர்   
 ꢦꢱ꣄ꢒꢜ꣄ ꢦꣁꢞꢾ ꢱꢪꢹꢲꢸ,पस्कट बा॑ड॑ समूहु,பஸ்கட் பொடெ3 ஸமூஹு,paskat' po'd'e' samoohu,paskaT pODE samUhu,paskaṭ pŏḍĕ samūhu,pəs̪kəʈ poɖe s̪əmuːɦu,backward class people,பிற்பட்ட வகுப்பினர்   
@@ -720,7 +720,7 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢪꢲꢵ ꢥꢔꢬꢦꢵꢭꢶꢒꣁ,महा नगरपालिका॑,மஹா நக3ரபாலிகொ,mahaa nagarapaaliko',mahA nagarapAlikO,mahā nagarapālikŏ,məɦɑː n̪əgəɾəpɑːlɪko,corporation,மாநகராட்சி  
 ꢱꢪ꣄ꢪꢿꢭꢥꣁ,सम्मेलना॑,ஸம்மேளனொ,sammelano',sammelanO,sammelanŏ,s̪əmmeːlən̪o,conferance,மாநாடு  
 ꢬꢵꢙ꣄ꢫ ꢱꢬ꣄ꢒꢵꢬ꣄,प्रान्तिय सर्कार,ப்ராந்தியஸர்கார்,raajya sarkaar,rAjya sarkAr,rājya sarkār,ɾɑːd͡ʒjə s̪əɾkɑːɾ,state government,மாநில அரசு   
-ꢦ꣄ꢬꢵꢥ꣄ꢡꢸ,प्रान्तु,ப்ராந்து,praantu,prAntu,prāntu,pɾɑːn̪t̪u,state (as in India),மாநிலம்  
+ꢦ꣄ꢬꢵꢥ꣄ꢡꢸ,प्रान्तु,ப்ராந்து,praantu,prAntu,prāntu,pɾɑːn̪t̪u,state,மாநிலம்
 ꢱꢵꢪ꣄ꢬꢵꢜ,साम्राट,ஸாம்ராட்,saamraat'a,sAmrATa,sāmrāṭa,s̪ɑːmɾɑːʈə,emperor,மாமன்னர்  
 ꢱꢵꢪ꣄ꢫꢮꢵꢣ꣄,साम्यवाद,ஸாம்யவாத்3,saamyavaad,sAmyavAd,sāmyavād,s̪ɑːmjəʋɑːd̪,Marxism,மார்க்சீயம்  
 ꢙꢶꢭ꣄ꢭꣁ,जिल्ला॑,ஜில்லொ,jillo',jillO,jillŏ,d͡ʒɪllo,district,மாவட்டம்  
@@ -815,8 +815,8 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢥ꣄ꢫꢥ꣄ꢡ꣄ꢬꢠꣁ,न्यन्त्रणा॑,ந்யந்த்ரணொ,nyantrano',nyantraNO,nyantraṇŏ,n̪jən̪t̪ɾəɳo,restrictions,வரையறை  
 ꢦ꣄ꢬꢡꢶꢨꢥ꣄ꢤꢸ,प्रतिबन्धु,ப்ரதிப3ந்து4,pratibandhu,pratibandhu,pratibandhu,pɾət̪ɪbən̪d̪ʰu,restrictions,வரையறை  
 ꢮꢔꣁꢡꣁꢔꣁ,वगा॑ता॑गा॑,வகொ3தொகொ3,vago'to'go',vagOtOgO,vagŏtŏgŏ,ʋəgot̪ogo,restrictions,வரையறை  
-ꢮꢶꢡ꣄ꢡ ꢭꢿꢓꢸ,वित्त लेखु,வித்த லேகு2          (Bank draft),vitta lekhu,vitta lekhu,vitta lekhu,ʋɪt̪t̪ə leːkʰu,draft,வரைவோலை/ வரைவு
-ꢦ꣄ꢬꢵꢒ꣄ ꢭꢾꢓꢥꣁ,प्राक लेखना॑,ப்ராக் லேக2னொ (letter draft),praak le'khano',prAk lEkhanO,prāk lĕkhanŏ,pɾɑːk lekʰən̪o,draft,வரைவோலை/ வரைவு
+ꢮꢶꢡ꣄ꢡ ꢭꢿꢓꢸ,वित्त लेखु,வித்த லேகு2,vitta lekhu,vitta lekhu,vitta lekhu,ʋɪt̪t̪ə leːkʰu,draft,வரைவோலை/ வரைவு
+ꢦ꣄ꢬꢵꢒ꣄ ꢭꢾꢓꢥꣁ,प्राक लेखना॑,ப்ராக் லேக2னொ,praak le'khano',prAk lEkhanO,prāk lĕkhanŏ,pɾɑːk lekʰən̪o,draft,வரைவோலை/ வரைவு
 ꢥꢶꢦꢸꢠꣁ,निपुणा॑,நிபுணொ,nipuno',nipuNO,nipuṇŏ,n̪ɪpuɳo,expert,வல்லுநர்  
 ꢙꣀꢥ ꢧꢶꢬ꣄ꢥꢶ,जैन फिर्नि,ஜைன பி2ர்னி,jaina phirni,jaina phirni,jaina phirni,d͡ʒəɪn̪ə pʰɪɾn̪ɪ,clockwise turn,வலஞ்சுழி  
 ꢦ꣄ꢬꢣꢒ꣄ꢰꢥꣁ,प्रदक्षना॑,ப்ரத3க்ஷனொ,pradakshano',pradakSanO,pradakṣanŏ,pɾəd̪əkʂən̪o,clockwise turn,வலஞ்சுழி  
@@ -862,8 +862,8 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢦ꣄ꢬꢒꢵꢬꢰꢥꣁ,प्रकाषना॑,ப்ரகாஷனொ,prakaarashano',prakAraSanO,prakāraṣanŏ,pɾəkɑːɾəʂən̪o,advertisement,விளம்பரம்  
 ꢮꢶꢒ꣄ꢒꢶꢥꢶ ꢒꢬꣁ,विक्किनि करा॑,விக்கினி கரொ,vikkini karo',vikkini karO,vikkini karŏ,ʋɪkkɪn̪ɪ kəɾo,sales tax,விற்பனை வரி  
 ꢣꢬꣁ,दरा॑,த3ரொ,daro',darO,darŏ,d̪əɾo,rate,விகிதம்
-ꢂꢩꢾꢒ꣄ꢯꢒꣁ,अभेक्षका॑,அபே4க்ஷகொ,abhe'kshako',abhEkzakO,abhĕkśakŏ,əbʰekʃəko,candidate (for election),வேட்பாளர்  
-ꢂꢩꢾꢒ꣄ꢯꢒꣁ,अभेक्षका॑,,abhe'kshako',abhEkzakO,abhĕkśakŏ,əbʰekʃəko,candidate (for election),வேட்பாளர்  
+ꢂꢩꢾꢒ꣄ꢯꢒꣁ,अभेक्षका॑,அபே4க்ஷகொ,abhe'kshako',abhEkzakO,abhĕkśakŏ,əbʰekʃəko,candidate,வேட்பாளர்
+ꢂꢩꢾꢒ꣄ꢯꢒꣁ,अभेक्षका॑,,abhe'kshako',abhEkzakO,abhĕkśakŏ,əbʰekʃəko,candidate,வேட்பாளர்
 ꢂꢩꢾꢒ꣄ꢰꢸ,अभेक्षु,அபே4க்ஷு,abhe'kshu,abhEkSu,abhĕkṣu,əbʰekʂu,candidature,வேட்பு  
 ꢒꢵꢪ꣄ ꢲꢶꢨ꣄ꢨꢜ꣄ꢠꢶ,काम्हिब्ट्णि,காம்ஹிப்3ப3ட்3ணி,kaam hibbat'ni,kAm hibbaTNi,kām hibbaṭṇi,kɑːm ɦɪbbəʈɳɪ,strike,வேலை நிறுத்தம்   
 ꢒ꣄ꢬꢸꢰꢶ,क्रुषि,க்ருஷி,krushi,kruSi,kruṣi,kɾuʂɪ,agriculture,வேளாண்மை  

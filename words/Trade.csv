@@ -9,8 +9,8 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢌꢥ꣄ꢡꢸꢬ꣄,ए॑न्तुर्,எந்துர்,e'ntur,Entur,ĕntur,en̪t̪uɾ,machine,இயந்திரம்  
 ꢲꢹꢣꢵꢬ,हूदार,ஹூதா3ர்,hoodaara,hUdAra,hūdāra,ɦuːd̪ɑːɾə,borrowal,இரவல்  
 ꢬꢴꢥꢶ,र्हनि,ர:னி,rhani,rhani,rhani,ɾɦən̪ɪ,stock,இருப்பு  
-ꢔꣁꢱ꣄,गोस,கோ3ஸ்,go's,gOs,gŏs,gos̪,free (as gift /present),இலவசம் / இனாம்  
-ꢥꢶꢱ꣄ꢱꢸꢭ꣄ꢒꣁ,निस्सुल्का॑,நிஸ்ஸுல்கொ,nissulko',nissulkO,nissulkŏ,n̪ɪs̪s̪ulko,free (as gift /present),இலவசம் / இனாம்  
+ꢔꣁꢱ꣄,गोस,கோ3ஸ்,go's,gOs,gŏs,gos̪,free,இலவசம் / இனாம்
+ꢥꢶꢱ꣄ꢱꢸꢭ꣄ꢒꣁ,निस्सुल्का॑,நிஸ்ஸுல்கொ,nissulko',nissulkO,nissulkŏ,n̪ɪs̪s̪ulko,free,இலவசம் / இனாம்
 ꢲꢸꢡ꣄ꢬꢵꢮ꣄,हुत्राव,ஹுத்ராவ்,hutraav,hutrAv,hutrāv,ɦut̪ɾɑːʋ,import,இறக்குமதி  
 ꢕꢸꢪ꣄ꢦꢸ,घुम्पु,கு3ம்பு,ghumpu,ghumpu,ghumpu,gʰumpu,variety,இனம்  
 ꢔꣂꢱ꣄,गोस्,கோ3ஸ்,gos,gos,gos,goːs̪,free,இனாம்
@@ -37,8 +37,8 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢒꢵꢱ꣄,कास्,காஸ்,kaas,kAs,kās,kɑːs̪,money,காசு  
 ꢲꢥ꣄ꢥꢮ꣄,हन्नव्,ஹன்னவ்,hannav,hannav,hannav,ɦən̪n̪əʋ,money,காசு  
 ꢲꢥ꣄ꢥ꣄ꢮꢸꢦꢡ꣄ꢬꢸ,हन्नवुपत्रु,ஹன்னவுபத்ரு,hannvupatru,hannvupatru,hannvupatru,ɦən̪n̪ʋupət̪ɾu,cheque,காசோலை  
-ꢨꢷꢪꣁ,बीमा॑,பீ3மொ,beemo',bImO,bīmŏ,biːmo,guarantee (insurance),காப்புறுதி  
-ꢙꢷꢮꢥꢬꢒ꣄ꢰꣁ,जीवनरक्ष्,ஜீவன ரக்ஷொ,jeevanaraksho',jIvanarakSO,jīvanarakṣŏ,d͡ʒiːʋən̪əɾəkʂo,guarantee (insurance),காப்புறுதி  
+ꢨꢷꢪꣁ,बीमा॑,பீ3மொ,beemo',bImO,bīmŏ,biːmo,guarantee,காப்புறுதி
+ꢙꢷꢮꢥꢬꢒ꣄ꢰꣁ,जीवनरक्ष्,ஜீவன ரக்ஷொ,jeevanaraksho',jIvanarakSO,jīvanarakṣŏ,d͡ʒiːʋən̪əɾəkʂo,guarantee,காப்புறுதி
 ꢒꢵꢭꢵꢮꢤꢶ,कालावदि,காலாவதி4,kaalaavadhi,kAlAvadhi,kālāvadhi,kɑːlɑːʋəd̪ʰɪ,expiry,காலாவதி  
 ꢮꢿꢳꢸ ꢱꢪꢵꢦ꣄ꢡꢶ,वेळु समाप्ति,வேளு ஸமாப்தி,vel'u samaapti,veLu samApti,vel̤u samāpti,ʋeːɭu s̪əmɑːpt̪ɪ,expiry,காலாவதி  
 ꢪꢸꢱꢥ꣄ ꢒꢵꢭ꣄,मुसन्काल,முஸன் கால்,musan kaal,musan kAl,musan kāl,mus̪ən̪ kɑːl,expiry,காலாவதி  
@@ -54,7 +54,7 @@ Sourashtra Word,Hindi Pronunciation,Tamil Pronunciation,Roman Readable,Havard-Ky
 ꢦ꣄ꢬꢡꢶ ꢯꣁꢡ꣄,प्रति शोत,ப்ரதிஶோத்,prati sho't,prati zOt,prati śŏt,pɾət̪ɪ ʃot̪,percentage,சதவீதம்  
 ꢦ꣄ꢬꢡꢶ ꢱꣁꢮꢸ,प्रति सोवु,ப்ரதிஸோவு,prati so'vu,prati sOvu,prati sŏvu,pɾət̪ɪ s̪oʋu,percentage,சதவீதம்  
 ꢮꢶꢒ꣄ꢒꢥ ꣄ꢢꢵꢪ꣄,विक्कन थाम,விக்கன்தா2ம்,vikkana thaam,vikkana thAm,vikkana thām,ʋɪkkən̪ə t̪ʰɑːm,market,சந்தை  
-ꢱꢪꢵꢥ꣄,समान,ஸமான்,samaan,samAn,samān,s̪əmɑːn̪,goods (merchan dise),சரக்கு  
+ꢱꢪꢵꢥ꣄,समान,ஸமான்,samaan,samAn,samān,s̪əmɑːn̪,goods,சரக்கு
 ꢱꢲꢵꢮ꣄,सहाव,ஸஹாவ்,sahaav,sahAv,sahāv,s̪əɦɑːʋ,concession,சலுகை  
 ꢱꢵꢤꢥ꣄,साधन,ஸாத4ன்,saadhan,sAdhan,sādhan,s̪ɑːd̪ʰən̪,equipment,சாதனம்  
 ꢪꢶꢡꢮꢿꢱꢸꢦꢥ꣄,मित वेसुपन,மித வேஸுபன்,mitavesupan,mitavesupan,mitavesupan,mɪt̪əʋeːs̪upən̪,thrift,சிக்கனம்  
