@@ -1,12 +1,22 @@
--,ꢣ,ꢣꣁꢮ꣄,sourashtra,The supreme being; deity,,being':6 'deity':4 'dov':2 'god':3 'supreme':5 'ꢣꣁꢮ꣄':1,"{religious,divine}","{देव्,தே3வ்,dEv}",,"{""script"": ""sourashtra"", ""etymology"": ""ancient""}"
-^,,God,english,,english,,{},{},noun,{}
-^,,The supreme being or deity,english,,,,{},{},,{}
-^,,Creator of the universe,english,,,,{},{},,{}
--,ꢮ,ꢮꢶꢥꢂꢫ꣄,sourashtra,Lord Ganesha; the elephant-headed Hindu deity,,elephant':6 'ganapati':4 'ganesha':3 'god':7 'obstacles':9 'remover':8 'vinaay':2 'vinay':10 'vinayak':5 'ꢮꢶꢥꢂꢫ꣄':1,"{religious,divine,hindu,deity,ganesha}","{Vinaay,Vinay}",,"{""script"": ""sourashtra"", ""etymology"": ""sanskrit_origin"", ""attributes"": [""elephant_head"", ""remover_of_obstacles"", ""patron_of_arts""], ""deity_type"": ""hindu""}"
-^,,Lord Ganesha,english,Primary name/title,,,{},{},noun,{}
-^,,The elephant-headed Hindu deity,english,Main definition,,,{},{},,{}
-^,,Remover of obstacles and patron of arts and sciences,english,Functional description,,,{},{},,{}
-^,,Son of Lord Shiva and Goddess Parvati,english,Mythological relationship,,,{},{},,{}
-^,,Ganapati,english,Alternative Sanskrit name,,,{},{},,{}
-^,,Vinayak,english,Another common name,english,,{},{},,{}
-^,,The one who is invoked before beginning any new venture,english,Cultural significance,,,{},{},,{}
+-,ꢣ,ꢣꣁꢮ꣄,sourashtra,The supreme being; deity,,'being':6 'deity':4 'dov':2 'god':3 'supreme':5 'ꢣꣁꢮ꣄':1,religious|divine,देव्|தே3வ்|dEv,,"{""script"": ""sourashtra"", ""etymology"": ""ancient""}"
+^,,The supreme being or deity,english,Main definition,,,,,noun,
+^,,Creator of the universe,english,Additional definition,,,,,noun,
+^,,கடவுள்,tamil,Tamil translation for God,,,primary_translation,,noun,"{""script"": ""tamil""}"
+^,,இறைவன்,tamil,Another Tamil term for God - more formal,,,alternative_translation,,noun,"{""script"": ""tamil"", ""register"": ""formal""}"
+^,,பரம்பொருள்,tamil,Supreme reality/being in Tamil philosophy,,,philosophical,,noun,"{""script"": ""tamil"", ""context"": ""philosophical""}"
+^,,ꢮꢶꢥꢂꢫ꣄,sourashtra,Vinaay is a specific manifestation of God in Hindu tradition,,,hindu|ganesha,,noun,"{""relation_type"": ""specific_deity""}"
+-,ꢮꢶ,ꢮꢶꢥꢂꢫ꣄,sourashtra,Lord Ganesha; the elephant-headed Hindu deity,,'elephant':6 'ganapati':4 'ganesha':3 'god':7 'obstacles':9 'remover':8 'vinaay':2 'vinay':10 'vinayak':5 'ꢮꢶꢥꢂꢫ꣄':1,religious|divine|hindu|deity|ganesha,Vinaay|Vinay,,"{""script"": ""sourashtra"", ""etymology"": ""sanskrit_origin"", ""attributes"": [""elephant_head"", ""remover_of_obstacles"", ""patron_of_arts""], ""deity_type"": ""hindu""}"
+^,,Lord Ganesha,english,Primary name/title,,,primary_name,,noun,
+^,,The elephant-headed Hindu deity,english,Main definition,,,definition,,noun,
+^,,Remover of obstacles and patron of arts and sciences,english,Functional description,,,function,,noun,
+^,,Son of Lord Shiva and Goddess Parvati,english,Mythological relationship,,,mythology,,noun,
+^,,Ganapati,english,Alternative Sanskrit name,,,alternative_name,,noun,
+^,,Vinayak,english,Another common name,,,alternative_name,,noun,
+^,,The one who is invoked before beginning any new venture,english,Cultural significance,,,cultural_significance,,noun,
+^,,விநாயகர்,tamil,Tamil name for Ganesha,,,primary_translation,,noun,"{""script"": ""tamil""}"
+^,,பிள்ளையார்,tamil,Common Tamil name for Ganesha,,,alternative_translation,,noun,"{""script"": ""tamil"", ""usage"": ""common""}"
+^,,கணேஷா,tamil,Tamil transliteration of Ganesha,,,transliteration,,noun,"{""script"": ""tamil""}"
+^,,யானை முகத்தோன்,tamil,The elephant-faced one in Tamil,,,descriptive,,noun,"{""script"": ""tamil"", ""type"": ""descriptive""}"
+^,,விக்னேஸ்வரர்,tamil,Remover of obstacles in Tamil,,,functional,,noun,"{""script"": ""tamil"", ""meaning"": ""obstacle_remover""}"
+^,,கணபதி,tamil,Tamil version of Ganapati,,,alternative_name,,noun,"{""script"": ""tamil""}"
+^,,வினாயகன்,tamil,Tamil version of Vinayak,,,alternative_name,,noun,"{""script"": ""tamil""}"
