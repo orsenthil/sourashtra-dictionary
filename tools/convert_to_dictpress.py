@@ -251,21 +251,33 @@ class DictpressConverter:
     
     def create_tsvector_tokens(self, sourashtra_word: str, pronunciations: List[str], 
                              english_meaning: str, related_concepts: List[str] = None) -> str:
-        """Create tsvector tokens for search optimization"""
+        """Create tsvector tokens for search optimization - PostgreSQL TSVector format"""
         tokens = []
         weight = 1
         
+        def clean_token(token: str) -> str:
+            """Clean token for tsvector format - only alphanumeric and basic chars"""
+            # Remove special characters, keep only alphanumeric, spaces, and basic punctuation
+            cleaned = re.sub(r'[^\w\s\-]', '', token.strip())
+            # Replace spaces with underscores for multi-word tokens
+            cleaned = re.sub(r'\s+', '_', cleaned)
+            # Remove leading/trailing underscores
+            cleaned = cleaned.strip('_')
+            return cleaned.lower() if cleaned else ''
+        
         # Add Sourashtra word (weight 1)
         if sourashtra_word:
-            tokens.append(f"'{sourashtra_word}:{weight}")
-            weight += 1
+            clean_word = clean_token(sourashtra_word)
+            if clean_word:
+                tokens.append(f"'{clean_word}':{weight}")
+                weight += 1
         
         # Add pronunciations (weight 2-6)
         for pron in pronunciations:
             if pron and pron.strip():
-                clean_pron = re.sub(r'[^\w\s]', '', pron.strip())
-                if clean_pron:
-                    tokens.append(f"'{clean_pron}:{weight}")
+                clean_pron = clean_token(pron)
+                if clean_pron and len(clean_pron) > 1:
+                    tokens.append(f"'{clean_pron}':{weight}")
                     weight += 1
         
         # Add English meaning words (weight 7+)
@@ -273,14 +285,18 @@ class DictpressConverter:
             meaning_words = re.findall(r'\b\w+\b', english_meaning.lower())
             for word in meaning_words:
                 if len(word) > 2:  # Skip very short words
-                    tokens.append(f"'{word}:{weight}")
-                    weight += 1
+                    clean_word = clean_token(word)
+                    if clean_word:
+                        tokens.append(f"'{clean_word}':{weight}")
+                        weight += 1
         
         # Add related concepts
         if related_concepts:
             for concept in related_concepts[:3]:
-                tokens.append(f"'{concept}:{weight}")
-                weight += 1
+                clean_concept = clean_token(concept)
+                if clean_concept:
+                    tokens.append(f"'{clean_concept}':{weight}")
+                    weight += 1
         
         return ' '.join(tokens)
     
