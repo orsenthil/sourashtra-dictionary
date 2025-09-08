@@ -479,6 +479,27 @@ class DictpressConverter:
         
         return output_rows
     
+    def deduplicate_definitions(self, all_output_rows: List[List[str]]) -> List[List[str]]:
+        """Remove duplicate definition entries while preserving main entries"""
+        seen_definitions = set()  # Track (content, language) pairs for definitions
+        deduplicated_rows = []
+        
+        for row in all_output_rows:
+            if len(row) >= 4 and row[0] == '^':  # Definition entry
+                content = row[2].strip()  # content field
+                language = row[3].strip()  # language field
+                def_key = (content, language)
+                
+                if def_key not in seen_definitions:
+                    seen_definitions.add(def_key)
+                    deduplicated_rows.append(row)
+                # Skip duplicate definition entries
+            else:
+                # Keep all main entries and other row types
+                deduplicated_rows.append(row)
+        
+        return deduplicated_rows
+    
     def merge_duplicate_entries(self, rows: List[List[str]], filename: str) -> List[List[str]]:
         """Merge duplicate Sourashtra words while preserving semantic differences"""
         from collections import defaultdict
@@ -625,10 +646,18 @@ class DictpressConverter:
             
             # Merge duplicates and convert
             all_output_rows, duplicate_count = self.merge_duplicate_entries(all_input_rows, input_file.name)
+            
+            # Deduplicate definition entries to prevent constraint violations
+            original_count = len(all_output_rows)
+            all_output_rows = self.deduplicate_definitions(all_output_rows)
+            deduplicated_count = original_count - len(all_output_rows)
+            
             output_rows = len(all_output_rows)
             
             if duplicate_count > 0:
                 print(f"  ✓ Merged {duplicate_count} duplicate entries")
+            if deduplicated_count > 0:
+                print(f"  ✓ Removed {deduplicated_count} duplicate definition entries")
             
             if not dry_run and all_output_rows:
                 # Write output file

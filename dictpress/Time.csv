@@ -16,8 +16,6 @@
 ^,,night,english,,english,,duration|temporal|time,,noun,
 ^,,இரவு,tamil,,tamil,'இரவ':1 'night':2,duration|temporal|time,ராத்,noun,
 -,ꢬ,ꢬꢵꢣꢶ,sourashtra,,,'ꢬꢣ':1 'raadi':2 'radi':3 'rādi':4 'night':5 'இரவ':6,duration|temporal|time,रादि|ராதி|raadi|rAdi|rādi|ɾɑːd̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,night,english,,english,,duration|temporal|time,,noun,
-^,,இரவு,tamil,,tamil,'இரவ':1 'night':2,duration|temporal|time,ராதி,noun,
 -,ꢲ,ꢲꢶꢥ꣄ꢣꣁ,sourashtra,,,'ꢲꢥꢣ':1 'hindo':2 'hindŏ':3 'today':4 'இன':5,duration|temporal|time,हिन्दा॑|ஹிந்தொ3|hindo'|hindO|hindŏ|ɦɪn̪d̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
 ^,,today,english,,english,,duration|temporal|time,,noun,
 ^,,இன்று,tamil,,tamil,'இனற':1 'today':2 'இன':3,duration|temporal|time,ஹிந்தொ3,noun,
@@ -28,28 +26,20 @@
 ^,,"period, time",english,,english,,duration|temporal|time,,noun,
 ^,,காலம்,tamil,,tamil,'கலம':1 'period':2 'time':3 'லம':4,duration|temporal|time,கால்,noun,
 -,ꢮ,ꢮꢿꢳ꣄,sourashtra,,,'ꢮꢳ':1 'vel':2 'period':3 'time':4 'லம':5 'சமயம':6,duration|temporal|time,वेळ|வேள்|vel'|veL|vel̤|ʋeːɭ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,"period, time",english,,english,,duration|temporal|time,,noun,
 ^,,time,english,,english,,duration|temporal|time,,noun,
-^,,காலம்,tamil,,tamil,'கலம':1 'லம':2,duration|temporal|time,வேள்,noun,
 ^,,சமயம்,tamil,,tamil,'சமயம':1,duration|temporal|time,வேள்,noun,
 -,ꢧ,ꢧꢭ꣄ꢡꢶ ꢧꢵꢬ꣄,sourashtra,,,'ꢧꢭꢡꢧꢬ':1 'phaltiphaar':2 'phaltiphar':3 'phaltiphār':4 'morning':5,duration|temporal|time,फल्तिफार|ப2ல்தி பா2ர்|phalti phaar|phalti phAr|phalti phār|pʰəlt̪ɪ pʰɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
 ^,,morning,english,,english,,duration|temporal|time,,noun,
 ^,,காலை,tamil,,tamil,'கல':1 'morning':2,duration|temporal|time,ப2ல்தி பா2ர்,noun,
 -,ꢱ,ꢱꣁꢳ ꢶꢧꢵꢬ꣄,sourashtra,,,'ꢱꢳꢧꢬ':1 'solaiphaar':2 'solaiphar':3 'sŏlaiphār':4 'morning':5,duration|temporal|time,सा॑ळिफार|ஸொளி பா2ர்|so'l'a iphaar|sOLa iphAr|sŏl̤a iphār|s̪oɭə ɪpʰɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,morning,english,,english,,duration|temporal|time,,noun,
-^,,காலை,tamil,,tamil,'கல':1 'morning':2,duration|temporal|time,ஸொளி பா2ர்,noun,
 -,ꢧ,ꢧꣀꢭ ꢧꢵꢬ꣄,sourashtra,,,'ꢧꢭꢧꢬ':1 'phailaphaar':2 'phailaphar':3 'phailaphār':4 'morning':5,duration|temporal|time,फैल फार|பை2ல பா2ர்|phaila phaar|phaila phAr|phaila phār|pʰəɪlə pʰɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,morning,english,,english,,duration|temporal|time,,noun,
-^,,காலை,tamil,,tamil,'கல':1 'morning':2,duration|temporal|time,பை2ல பா2ர்,noun,
 -,ꢣ,ꢣꢶꢥ꣄ꢥꢸ,sourashtra,,,'ꢣꢥꢥ':1 'dinnu':2 'date':3 'day':4 'week':5 'ழம':6,duration|temporal|time,दिन्नु|தி3ன்னு|dinnu|dinnu|dinnu|d̪ɪn̪n̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
 ^,,date,english,,english,,duration|temporal|time,,noun,
 ^,,"day, week",english,,english,,duration|temporal|time,,noun,
 ^,,கிழமை,tamil,,tamil,'கழம':1 'ழம':2,duration|temporal|time,தி3ன்னு,noun,
 ^,,தேதி,tamil,,tamil,'தத':1,duration|temporal|time,தி3ன்னு,noun,
 -,ꢮ,ꢮꢵꢬ꣄,sourashtra,,,'ꢮꢬ':1 'vaar':2 'var':3 'vār':4 'day':5 'week':6 'ழம':7 'ரம':8,duration|temporal|time,वार्|வார்|vaar|vAr|vār|ʋɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,"day, week",english,,english,,duration|temporal|time,,noun,
 ^,,week,english,,english,,duration|temporal|time,,noun,
-^,,கிழமை,tamil,,tamil,'கழம':1 'ழம':2,duration|temporal|time,வார்,noun,
 ^,,வாரம்,tamil,,tamil,'வரம':1 'ரம':2,duration|temporal|time,வார்,noun,
 -,ꢱ,ꢱꢔꢨ꣄꣄ꢡꢸ,sourashtra,,,'ꢱꢔꢨꢡ':1 'sagabtu':2 'saka':3 'era':4 'சக':5 'தம':6,duration|temporal|time,सकाब्दु|ஸகாப்3து3|sagabtu|sagabtu|sagabtu|s̪əgəbt̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
 ^,,saka/era,english,,english,,duration|temporal|time,,noun,
@@ -58,21 +48,16 @@
 ^,,evening,english,,english,,duration|temporal|time,,noun,
 ^,,சாயங்காலம்,tamil,,tamil,'சயஙகலம':1 'evening':2 'even':3 'யங':4 'லம':5,duration|temporal|time,வீள் வேளு,noun,
 -,ꢮ,ꢮꢷꢳ꣄ ꢱꢾꢥ꣄ꢣꢸꢭꣁ,sourashtra,,,'ꢮꢳꢱꢥꢣꢭ':1 'veelsendulo':2 'vilsendulo':3 'vīlsĕndulŏ':4 'evening':5 'even':6 'யங':7 'லம':8,duration|temporal|time,वीळ स॑न्दुला॑|வீள்ஸெந்து3லொ|veel' se'ndulo'|vIL sEndulO|vīl̤ sĕndulŏ|ʋiːɭ s̪en̪d̪ulo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,evening,english,,english,,duration|temporal|time,,noun,
-^,,சாயங்காலம்,tamil,,tamil,'சயஙகலம':1 'evening':2 'even':3 'யங':4 'லம':5,duration|temporal|time,வீள்ஸெந்து3லொ,noun,
 -,ꢪ,ꢪꢴꢞꣁ,sourashtra,,,'ꢪꢞ':1 'mhado':2 'mhaḍŏ':3 'month':4 'கள':5,duration|temporal|time,म्हडा॑|ம:டொ3|mhad'o'|mhaDO|mhaḍŏ|mɦəɖo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
 ^,,month,english,,english,,duration|temporal|time,,noun,
 ^,,திங்கள்,tamil,,tamil,'தஙகள':1 'month':2 'கள':3,duration|temporal|time,ம:டொ3,noun,
 -,ꢣ,ꢣꢶꢥꢵꢖ꣄ꢒꢸ,sourashtra,,,'ꢣꢥꢖꢒ':1 'dinaanku':2 'dinagku':3 'dināṅku':4 'date':5,duration|temporal|time,दिनाङ्कु|தி3னாங்கு|dinaanku|dinAGku|dināṅku|d̪ɪn̪ɑːŋku,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,date,english,,english,,duration|temporal|time,,noun,
-^,,தேதி,tamil,,tamil,'தத':1 'date':2,duration|temporal|time,தி3னாங்கு,noun,
 -,ꢣ,ꢣꢷꢱ꣄,sourashtra,,,'ꢣꢱ':1 'dees':2 'dis':3 'dīs':4 'day':5 'daytime':6 'பகல':7,duration|temporal|time,दीस्|தீ3ஸ்|dees|dIs|dīs|d̪iːs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
 ^,,day,english,,english,,duration|temporal|time,,noun,
 ^,,daytime,english,,english,,duration|temporal|time,,noun,
 ^,,நாள்,tamil,,tamil,'நள':1,duration|temporal|time,தீ3ஸ்,noun,
 ^,,பகல்,tamil,,tamil,'பகல':1,duration|temporal|time,தீ3ஸ்,noun,
 -,ꢱ,ꢱꣁꢥ꣄ꢣꣁ,sourashtra,,,'ꢱꢥꢣ':1 'sondo':2 'sŏndŏ':3 'next':4 'day':5 'tomorrow':6 'மற':7,duration|temporal|time,सा॑न्दा॑|ஸொந்தொ3|so'ndo'|sOndO|sŏndŏ|s̪on̪d̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,next day,english,,english,,duration|temporal|time,,noun,
 ^,,tomorrow,english,,english,,duration|temporal|time,,noun,
 ^,,நாளை,tamil,,tamil,'நள':1,duration|temporal|time,ஸொந்தொ3,noun,
 ^,,மறுநாள்,tamil,,tamil,'மறநள':1 'மற':2,duration|temporal|time,ஸொந்தொ3,noun,
@@ -88,16 +73,11 @@
 ^,,century,english,,english,,duration|temporal|time,,noun,
 ^,,நூற்றாண்டு,tamil,,tamil,'நறறணட':1 'century':2,duration|temporal|time,ஸோவு ஒர்ஸு,noun,
 -,ꢱ,ꢱꢡꢵꢨ꣄ꢣꢶ,sourashtra,,,'ꢱꢡꢨꢣ':1 'sataabdi':2 'satabdi':3 'satābdi':4 'century':5,duration|temporal|time,सताब्दि|ஸதாப்3தி3|sataabdi|satAbdi|satābdi|s̪ət̪ɑːbd̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,century,english,,english,,duration|temporal|time,,noun,
-^,,நூற்றாண்டு,tamil,,tamil,'நறறணட':1 'century':2,duration|temporal|time,ஸதாப்3தி3,noun,
 -,ꢕ,ꢕꢾꢞꢶ,sourashtra,,,'ꢕꢞ':1 'ghedi':2 'ghĕḍi':3 'hour':4 'time':5 'ரம':6 'மண':7,duration|temporal|time,घ॑डि|கெ4டி3|ghe'd'i|ghEDi|ghĕḍi|gʰeɖɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
 ^,,hour,english,,english,,duration|temporal|time,,noun,
-^,,time,english,,english,,duration|temporal|time,,noun,
 ^,,நேரம்,tamil,,tamil,'நரம':1 'ரம':2,duration|temporal|time,கெ4டி3,noun,
 ^,,மணி,tamil,,tamil,'மண':1,duration|temporal|time,கெ4டி3,noun,
 -,ꢮ,ꢮꢿꢳ꣄꣄,sourashtra,,,'ꢮꢳ':1 'vel':2 'time':3 'ரம':4,duration|temporal|time,वेळ|வேள்|vel'|veL|vel̤|ʋeːɭ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,time,english,,english,,duration|temporal|time,,noun,
-^,,நேரம்,tamil,,tamil,'நரம':1 'time':2 'ரம':3,duration|temporal|time,வேள்,noun,
 -,ꢒ,ꢒꢵꢭ꣄,sourashtra,,,'ꢒꢭ':1 'kaal':2 'kal':3 'kāl':4 'yesterday':5,duration|temporal|time,काल्|கால்|kaal|kAl|kāl|kɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
 ^,,yesterday,english,,english,,duration|temporal|time,,noun,
 ^,,நேற்று,tamil,,tamil,'நறற':1 'yesterday':2,duration|temporal|time,கால்,noun,
@@ -105,25 +85,14 @@
 ^,,"Afternoon, noon",english,,english,,duration|temporal|time,,noun,
 ^,,"பிற்பகல், மத்தியானம்",tamil,,tamil,'பறபகலமததயனம':1 'afternoon':2 'noon':3 'பகல':4 'மத':5 'னம':6,duration|temporal|time,து4பா2ரி,noun,
 -,ꢂ,ꢂꢜ꣄ꢜꢵꢱ꣄,sourashtra,,,'ꢂꢜꢜꢱ':1 'attaas':2 'attas':3 'aṭṭās':4 'afternoon':5 'noon':6 'பகல':7 'மத':8 'னம':9,duration|temporal|time,अट्टाय्|அட்டாஸ்|at't'aas|aTTAs|aṭṭās|əʈʈɑːs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,"Afternoon, noon",english,,english,,duration|temporal|time,,noun,
-^,,"பிற்பகல், மத்தியானம்",tamil,,tamil,'பறபகலமததயனம':1 'பகல':2 'மத':3 'னம':4,duration|temporal|time,அட்டாஸ்,noun,
 -,ꢮ,ꢮꢾꢳ꣄꣄,sourashtra,,,'ꢮꢳ':1 'vel':2 'vĕl':3 'hour':4 'மண':5,duration|temporal|time,वेळ|வேள்|ve'l'|vEL|vĕl̤|ʋeɭ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,hour,english,,english,,duration|temporal|time,,noun,
-^,,மணி,tamil,,tamil,'மண':1 'hour':2,duration|temporal|time,வேள்,noun,
 -,ꢥ,ꢥꢶꢪꢸꢱ꣄,sourashtra,,,'ꢥꢪꢱ':1 'nimus':2 'minute':3 'மண':4,duration|temporal|time,निमुस|நிமுஸ்|nimus|nimus|nimus|n̪ɪmus̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,minute,english,,english,,duration|temporal|time,,noun,
 ^,,மணித்துளி,tamil,,tamil,'மணததள':1 'minute':2 'மண':3,duration|temporal|time,நிமுஸ்,noun,
 -,ꢣ,ꢣꢸꢱꢸꢬꢥ꣄ꢣꢶ,sourashtra,,,'ꢣꢱꢬꢥꢣ':1 'dusurandi':2 'next':3 'day':4 'மற':5,duration|temporal|time,दुसुरन्दि|து3ஸுரந்தி3|dusurandi|dusurandi|dusurandi|d̪us̪uɾən̪d̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,next day,english,,english,,duration|temporal|time,,noun,
-^,,மறுநாள்,tamil,,tamil,'மறநள':1 'next':2 'day':3 'மற':4,duration|temporal|time,து3ஸுரந்தி3,noun,
 -,ꢣ,ꢣꢸꢱ꣄ꢬꢥ꣄ꢣꢶ,sourashtra,,,'ꢣꢱꢬꢥꢣ':1 'dusrandi':2 'next':3 'day':4 'மற':5,duration|temporal|time,दुस्रन्दि|து3ஸ்ரந்தி3|dusrandi|dusrandi|dusrandi|d̪us̪ɾən̪d̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,next day,english,,english,,duration|temporal|time,,noun,
-^,,மறுநாள்,tamil,,tamil,'மறநள':1 'next':2 'day':3 'மற':4,duration|temporal|time,து3ஸ்ரந்தி3,noun,
 -,ꢪ,ꢪꢴꢜꣁ,sourashtra,,,'ꢪꢜ':1 'mhato':2 'mhaṭŏ':3 'month':4 'தம':5,duration|temporal|time,म्हटा॑|ம:டொ|mhat'o'|mhaTO|mhaṭŏ|mɦəʈo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,month,english,,english,,duration|temporal|time,,noun,
 ^,,மாதம்,tamil,,tamil,'மதம':1 'month':2 'தம':3,duration|temporal|time,ம:டொ,noun,
 -,ꢮ,ꢮꢷꢳ꣄ꢜꣁ,sourashtra,,,'ꢮꢳꢜ':1 'veelto':2 'vilto':3 'vīlṭŏ':4 'evening':5 'even':6,duration|temporal|time,वळ्टा॑|வீள்டொ|veel't'o'|vILTO|vīl̤ṭŏ|ʋiːɭʈo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,evening,english,,english,,duration|temporal|time,,noun,
 ^,,மாலை,tamil,,tamil,'மல':1 'evening':2 'even':3,duration|temporal|time,வீள்டொ,noun,
 -,ꢧ,ꢧꣀꢭꢣꢷꢱ꣄,sourashtra,,,'ꢧꢭꢣꢱ':1 'phailadees':2 'phailadis':3 'phailadīs':4 'forenoon':5 'பகல':6,duration|temporal|time,फैलदीस्|பை2லதீ3ஸ்|phailadees|phailadIs|phailadīs|pʰəɪləd̪iːs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
 ^,,forenoon,english,,english,,duration|temporal|time,,noun,
@@ -132,8 +101,6 @@
 ^,,dawn,english,,english,,duration|temporal|time,,noun,
 ^,,விடிகாலை,tamil,,tamil,'வடகல':1 'dawn':2,duration|temporal|time,ப2ல்திபா2ர்,noun,
 -,ꢧ,ꢧꣀꢭꢧꢵꢬ꣄,sourashtra,,,'ꢧꢭꢧꢬ':1 'phailaphaar':2 'phailaphar':3 'phailaphār':4 'dawn':5,duration|temporal|time,फैलपार|பை2லபா2ர்|phailaphaar|phailaphAr|phailaphār|pʰəɪləpʰɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
-^,,dawn,english,,english,,duration|temporal|time,,noun,
-^,,விடிகாலை,tamil,,tamil,'வடகல':1 'dawn':2,duration|temporal|time,பை2லபா2ர்,noun,
 -,ꢱ,ꢱꣁꢞꢒ ꣄ꢕꢾꢞꢶ,sourashtra,,,'ꢱꢞꢒꢕꢞ':1 'sodakaghedi':2 'sŏḍakaghĕḍi':3 'second':4,duration|temporal|time,सा॑डक्घ॑डि|ஸொட3க் கெ4டி3|so'd'aka ghe'd'i|sODaka ghEDi|sŏḍaka ghĕḍi|s̪oɖəkə gʰeɖɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
 ^,,second,english,,english,,duration|temporal|time,,noun,
 ^,,வினாடி,tamil,,tamil,'வனட':1 'second':2,duration|temporal|time,ஸொட3க் கெ4டி3,noun,

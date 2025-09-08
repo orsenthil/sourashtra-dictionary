@@ -2,18 +2,12 @@
 ^,,expression of wonder,english,,english,,action|activity|function,,verb,
 ^,,அடடா,tamil,,tamil,'அடட':1 'expression':2 'wonder':3,action|activity|function,அடே3ங்கப்பா,verb,
 -,ꢂ,ꢂꢪ꣄ꢪꢵꢞꢶ,sourashtra,,,'ꢂꢪꢪꢞ':1 'ammaadi':2 'ammadi':3 'ammāḍi':4 'expression':5 'wonder':6 'அடட':7,action|activity|function,अम्माडि|அம்மாடி3|ammaad'i|ammADi|ammāḍi|əmmɑːɖɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,expression of wonder,english,,english,,action|activity|function,,verb,
-^,,அடடா,tamil,,tamil,'அடட':1 'expression':2 'wonder':3,action|activity|function,அம்மாடி3,verb,
 -,ꢂ,ꢂꢮ ꢂꢪ꣄ꢨꢵ,sourashtra,,,'ꢂꢮꢂꢪꢨ':1 'avaambaa':2 'avaamba':3 'avaambā':4 'expression':5 'wonder':6 'அடட':7,action|activity|function,अव अम्बा|அவ அம்பா3|ava ambaa|ava ambA|ava ambā|əʋə əmbɑː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,expression of wonder,english,,english,,action|activity|function,,verb,
-^,,அடடா,tamil,,tamil,'அடட':1 'expression':2 'wonder':3,action|activity|function,அவ அம்பா3,verb,
 -,ꢡ,ꢡꢾꢭ꣄ꢫꢒ ꢲꢵꢭ꣄,sourashtra,,,'ꢡꢭꢫꢒꢲꢭ':1 'telyakahaal':2 'telyakahal':3 'tĕlyakahāl':4 'அதன':5 'ஆக':6,action|activity|function,तेल्यक हाल|தெல்யக ஹால்|te'lyaka haal|tElyaka hAl|tĕlyaka hāl|t̪eljəkə ɦɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
 ^,,so,english,,english,,action|activity|function,,verb,
 ^,,அதனால்,tamil,,tamil,'அதனல':1 'அதன':2,action|activity|function,தெல்யக ஹால்,verb,
 ^,,ஆகையால்,tamil,,tamil,'ஆகயல':1 'ஆக':2,action|activity|function,தெல்யக ஹால்,verb,
 -,ꢲ,ꢲꢵꢭꢶꢪ꣄,sourashtra,,,'ꢲꢭꢪ':1 'haalim':2 'halim':3 'hālim':4 'அதன':5,action|activity|function,हालिम|ஹாலிம்|haalim|hAlim|hālim|ɦɑːlɪm,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,so,english,,english,,action|activity|function,,verb,
-^,,அதனால்,tamil,,tamil,'அதனல':1 'அதன':2,action|activity|function,ஹாலிம்,verb,
 -,ꢡ,ꢡꢿꢜ꣄ꢱꢵ,sourashtra,,,'ꢡꢜꢱ':1 'tetsaa':2 'tetsa':3 'teṭsā':4 'look':5 'there':6 'அத':7,action|activity|function,तेट्सा|தேட் ஸா|tet'saa|teTsA|teṭsā|t̪eːʈs̪ɑː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
 ^,,look there,english,,english,,action|activity|function,,verb,
 ^,,அதோ,tamil,,tamil,'அத':1 'look':2 'there':3,action|activity|function,தேட் ஸா,verb,
@@ -27,13 +21,10 @@
 ^,,expression of pain,english,,english,,action|activity|function,,verb,
 ^,,அப்பா,tamil,,tamil,'அபப':1 'expression':2 'pain':3 'அப':4,action|activity|function,ஹா,verb,
 -,ꢂ,ꢂꢦ꣄ꢦꢵꢜꢶ,sourashtra,,,'ꢂꢦꢦꢜ':1 'appaati':2 'appati':3 'appāṭi':4 'expression':5 'wonder':6 'அப':7,action|activity|function,अप्पाटि|அப்பாடி|appaat'i|appATi|appāṭi|əppɑːʈɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,expression of wonder,english,,english,,action|activity|function,,verb,
 ^,,அப்பாடி,tamil,,tamil,'அபபட':1 'expression':2 'wonder':3 'அப':4,action|activity|function,அப்பாடி,verb,
 -,ꢂ,ꢂꢪ꣄ꢪꢵꢜꢷ,sourashtra,,,'ꢂꢪꢪꢜ':1 'ammaatee':2 'ammati':3 'ammāṭī':4 'expression':5 'pain':6 'அப':7,action|activity|function,अप्पाटी|அப்பாடீ|ammaat'ee|ammATI|ammāṭī|əmmɑːʈiː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,expression of pain,english,,english,,action|activity|function,,verb,
 ^,,அப்பாடீ,tamil,,tamil,'அபபட':1 'expression':2 'pain':3 'அப':4,action|activity|function,அப்பாடீ,verb,
 -,ꢂ,ꢂꢪ꣄ꢪꢵꢜꢶ,sourashtra,,,'ꢂꢪꢪꢜ':1 'ammaati':2 'ammati':3 'ammāṭi':4 'expression':5 'pain':6 'அம':7,action|activity|function,अम्माटि|அம்மாடி|ammaat'i|ammATi|ammāṭi|əmmɑːʈɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,expression of pain,english,,english,,action|activity|function,,verb,
 ^,,அம்மா,tamil,,tamil,'அமம':1 'expression':2 'pain':3 'அம':4,action|activity|function,அம்மாடி,verb,
 -,ꢥ,ꢥꢴꢵ,sourashtra,,,'nhaa':1 'nha':2 'nhā':3 'அல':4 'இல':5,action|activity|function,न्हा|நா:|nhaa|nhA|nhā|n̪ɦɑː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
 ^,,no,english,,english,,action|activity|function,,verb,
@@ -50,8 +41,6 @@
 ^,,but,english,,english,,action|activity|function,,verb,
 ^,,ஆனால்,tamil,,tamil,'ஆனல':1 'but':2 'ஆன':3,action|activity|function,ஹொயெதி,verb,
 -,ꢪ,ꢪꢾꢔꢶ,sourashtra,,,'ꢪꢔ':1 'megi':2 'mĕgi':3 'but':4 'ஆன':5,action|activity|function,मेगि|மெகி3|me'gi|mEgi|mĕgi|megɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,but,english,,english,,action|activity|function,,verb,
-^,,ஆனால்,tamil,,tamil,'ஆனல':1 'but':2 'ஆன':3,action|activity|function,மெகி3,verb,
 -,ꢌ,ꢌꢭ꣄ꢫꢾꢒ ꢲꢵꢭ꣄,sourashtra,,,'ꢌꢭꢫꢒꢲꢭ':1 'elyekahaal':2 'elyekahal':3 'ĕlyĕkahāl':4 'hereby':5 'இதன':6,action|activity|function,ए॑ल्य॑क हाल|எல்யெக ஹால்|e'lye'ka haal|ElyEka hAl|ĕlyĕka hāl|eljekə ɦɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
 ^,,hereby,english,,english,,action|activity|function,,verb,
 ^,,இதனால்,tamil,,tamil,'இதனல':1 'hereby':2 'இதன':3,action|activity|function,எல்யெக ஹால்,verb,
@@ -59,23 +48,14 @@
 ^,,look here,english,,english,,action|activity|function,,verb,
 ^,,இதோ,tamil,,tamil,'இத':1 'look':2 'here':3,action|activity|function,ஏட்ஸா,verb,
 -,ꢍ,ꢍꢭꢵ,sourashtra,,,'ꢍꢭ':1 'elaa':2 'ela':3 'elā':4 'look':5 'here':6 'இத':7,action|activity|function,एला|ஏலா|elaa|elA|elā|eːlɑː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,look here,english,,english,,action|activity|function,,verb,
-^,,இதோ,tamil,,tamil,'இத':1 'look':2 'here':3,action|activity|function,ஏலா,verb,
 -,ꢓ,ꢓꢳꢳꢿ,sourashtra,,,'ꢓꢳꢳ':1 'khalale':2 'take':3 'this':4 'இந':5,action|activity|function,खळ्ळे|க2ள்ளே|khal'al'e|khaLaLe|khal̤al̤e|kʰəɭəɭeː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
 ^,,take this,english,,english,,action|activity|function,,verb,
 ^,,இந்தா,tamil,,tamil,'இநத':1 'take':2 'this':3 'இந':4,action|activity|function,க2ள்ளே,verb,
 -,ꢤ,ꢤꢿꢬ꣄,sourashtra,,,'ꢤꢬ':1 'dher':2 'take':3 'this':4 'இந':5,action|activity|function,धेर|தே4ர்|dher|dher|dher|d̪ʰeːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,take this,english,,english,,action|activity|function,,verb,
-^,,இந்தா,tamil,,tamil,'இநத':1 'take':2 'this':3 'இந':4,action|activity|function,தே4ர்,verb,
 -,ꢓ,ꢓꢳ꣄ꢳꢸꢮꣁ,sourashtra,,,'ꢓꢳꢳꢮ':1 'khalluvo':2 'khalluvŏ':3 'take':4 'this':5 'இந':6 'கள':7,action|activity|function,खळ्ळुवा॑|க2ள்ளுவொ|khal'l'uvo'|khaLLuvO|khal̤l̤uvŏ|kʰəɭɭuʋo,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,take this,english,,english,,action|activity|function,,verb,
 ^,,இந்தாருங்கள்,tamil,,tamil,'இநதரஙகள':1 'take':2 'this':3 'இந':4 'கள':5,action|activity|function,க2ள்ளுவொ,verb,
 -,ꢤ,ꢤꢾꢬꣁ,sourashtra,,,'ꢤꢬ':1 'dhero':2 'dhĕrŏ':3 'take':4 'this':5 'இந':6 'கள':7,action|activity|function,ध॑रा॑|தெ4ரொ|dhe'ro'|dhErO|dhĕrŏ|d̪ʰeɾo,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,take this,english,,english,,action|activity|function,,verb,
-^,,இந்தாருங்கள்,tamil,,tamil,'இநதரஙகள':1 'take':2 'this':3 'இந':4 'கள':5,action|activity|function,தெ4ரொ,verb,
 -,ꢤ,ꢤꢾꢬꢸꢮꣁ,sourashtra,,,'ꢤꢬꢮ':1 'dheruvo':2 'dhĕruvŏ':3 'take':4 'this':5 'இந':6 'கள':7,action|activity|function,ध॑रुवा॑|தெ4ருவொ|dhe'ruvo'|dhEruvO|dhĕruvŏ|d̪ʰeɾuʋo,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,take this,english,,english,,action|activity|function,,verb,
-^,,இந்தாருங்கள்,tamil,,tamil,'இநதரஙகள':1 'take':2 'this':3 'இந':4 'கள':5,action|activity|function,தெ4ருவொ,verb,
 -,ꢂ,ꢂꢖ꣄ꢔꢸꢥ꣄,sourashtra,,,'ꢂꢖꢔꢥ':1 'angun':2 'aggun':3 'aṅgun':4 'moreover':5 'still':6 'yet':7 'இன':8,action|activity|function,अङ्गुन्|அங்கு3ன்|angun|aGgun|aṅgun|əŋgun̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
 ^,,moreover,english,,english,,action|activity|function,,verb,
 ^,,still,english,,english,,action|activity|function,,verb,
@@ -88,13 +68,10 @@
 ^,,இனி,tamil,,tamil,'இன':1,action|activity|function,அத்தெங்கு3ட்,verb,
 ^,,இனிமேல்,tamil,,tamil,'இனமல':1 'இன':2,action|activity|function,அத்தெங்கு3ட்,verb,
 -,ꢂ,ꢂꢡꢧꢬꣁ,sourashtra,,,'ꢂꢡꢧꢬ':1 'atapharo':2 'atapharŏ':3 'hereafter':4 'இன':5,action|activity|function,अतफरा॑|அதப2ரொ|atapharo'|atapharO|atapharŏ|ət̪əpʰəɾo,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,hereafter,english,,english,,action|activity|function,,verb,
-^,,இனி,tamil,,tamil,'இன':1 'hereafter':2,action|activity|function,அதப2ரொ,verb,
 -,ꢆ,ꢆꢰ꣄,sourashtra,,,'ꢆꢰ':1 'ush':2 'us':3 'uṣ':4 'expression':5 'caution':6 'இஷ':7,action|activity|function,उष्|உஷ்|ush|uS|uṣ|uʂ,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
 ^,,expression of caution,english,,english,,action|activity|function,,verb,
 ^,,இஷ்,tamil,,tamil,'இஷ':1 'expression':2 'caution':3,action|activity|function,உஷ்,verb,
 -,ꢲ,ꢲꢵꢫ꣄ ꢲꢵꢫ꣄,sourashtra,,,'ꢲꢫꢲꢫ':1 'haayhaay':2 'hayhay':3 'hāyhāy':4 'yes':5 'உம':6,action|activity|function,हाय्हाय्|ஹாய்ஹாய்|haay haay|hAy hAy|hāy hāy|ɦɑːj ɦɑːj,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,yes,english,,english,,action|activity|function,,verb,
 ^,,உம் உம்,tamil,,tamil,'உமஉம':1 'yes':2 'உம':3,action|activity|function,ஹாய்ஹாய்,verb,
 -,ꢒ,ꢒꢵꢫ꣄,sourashtra,,,'ꢒꢫ':1 'kaay':2 'kay':3 'kāy':4 'response':5 'call':6 'என':7,action|activity|function,काय्|காய்|kaay|kAy|kāy|kɑːj,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
 ^,,response to a call,english,,english,,action|activity|function,,verb,
@@ -106,24 +83,16 @@
 ^,,term to call attention,english,,english,,action|activity|function,,verb,
 ^,,ஏய்,tamil,,tamil,'ஏய':1 'term':2 'call':3 'attention':4,action|activity|function,ஏய்,verb,
 -,ꢬ,ꢬꢾ,sourashtra,,,'re':1 'rĕ':2 'term':3 'call':4 'attention':5 'ஏய':6,action|activity|function,रे|ரே|re'|rE|rĕ|ɾe,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,term to call attention,english,,english,,action|activity|function,,verb,
-^,,ஏய்,tamil,,tamil,'ஏய':1 'term':2 'call':3 'attention':4,action|activity|function,ரே,verb,
 -,ꢬ,ꢬꢿꢫ꣄,sourashtra,,,'ꢬꢫ':1 'rey':2 'address':3 'term':4 'for':5 'inferior':6 'masculine':7 'call':8 'attention':9 'ஏய':10,action|activity|function,रेय|ரேய்|rey|rey|rey|ɾeːj,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
 ^,,address term for inferior masculine,english,,english,,action|activity|function,,verb,
-^,,term to call attention,english,,english,,action|activity|function,,verb,
-^,,ஏய்,tamil,,tamil,'ஏய':1,action|activity|function,ரேய்,verb,
 ^,,டேய்,tamil,,tamil,'டய':1,action|activity|function,ரேய்,verb,
 -,ꢎ,ꢎꢫꣂ,sourashtra,,,'ꢎꢫ':1 'aiyo':2 'expression':3 'sorrow':4 'ஐய':5,action|activity|function,ऐयो|ஐயோ|aiyo|aiyo|aiyo|əɪjoː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
 ^,,expression of sorrow,english,,english,,action|activity|function,,verb,
 ^,,ஐயோ,tamil,,tamil,'ஐய':1 'expression':2 'sorrow':3,action|activity|function,ஐயோ,verb,
 -,ꢐ,ꢐ,sourashtra,,,'expression':1 'wonder':2,action|activity|function,ओ|ஓ|o|o|o|oː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,expression of wonder,english,,english,,action|activity|function,,verb,
 ^,,ஓ,tamil,,tamil,'expression':1 'wonder':2,action|activity|function,ஓ,verb,
 -,ꢲ,ꢲꣂꢥ꣄ꢣꢒ꣄,sourashtra,,,'ꢲꢥꢣꢒ':1 'hondak':2 'expression':3 'approval':4 'ஓக':5,action|activity|function,होन्दक्|ஹோந்த3க்|hondak|hondak|hondak|ɦoːn̪d̪ək,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,expression of approval,english,,english,,action|activity|function,,verb,
-^,,ஓகோ,tamil,,tamil,'ஓக':1 'expression':2 'approval':3,action|activity|function,ஹோந்த3க்,verb,
 -,ꢲ,ꢲꣂꢫ꣄,sourashtra,,,'ꢲꢫ':1 'hoy':2 'term':3 'call':4 'attention':5 'ஓய':6,action|activity|function,होय्|ஹோய்|hoy|hoy|hoy|ɦoːj,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,term to call attention,english,,english,,action|activity|function,,verb,
 ^,,ஓய்,tamil,,tamil,'ஓய':1 'term':2 'call':3 'attention':4,action|activity|function,ஹோய்,verb,
 -,ꢘ,ꢘꢷꢗ꣄ꢘꢷ,sourashtra,,,'ꢘꢗꢘ':1 'chheechchhee':2 'chicchi':3 'chīcchī':4 'expression':5 'contempt':6,action|activity|function,छीच्छी|சீ2ச்சீ2|chheechchhee|chIcchI|chīcchī|t͡ʃʰiːt͡ʃt͡ʃʰiː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
 ^,,expression of contempt,english,,english,,action|activity|function,,verb,
@@ -132,23 +101,17 @@
 ^,,address term for inferior faminine,english,,english,,action|activity|function,,verb,
 ^,,டி,tamil,,tamil,'address':1 'term':2 'for':3 'inferior':4 'faminine':5,action|activity|function,வா,verb,
 -,ꢂ,ꢂꢮꢵ,sourashtra,,,'ꢂꢮ':1 'avaa':2 'ava':3 'avā':4 'address':5 'term':6 'for':7 'inferior':8 'faminine':9,action|activity|function,अवा|அவா|avaa|avA|avā|əʋɑː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,address term for inferior faminine,english,,english,,action|activity|function,,verb,
-^,,டி,tamil,,tamil,'address':1 'term':2 'for':3 'inferior':4 'faminine':5,action|activity|function,அவா,verb,
 -,ꢢ,ꢢꢸꢡ꣄ꢡꢹ,sourashtra,,,'ꢢꢡꢡ':1 'thuttoo':2 'thuttu':3 'thuttū':4 'expression':5 'contempt':6,action|activity|function,थुत्तु|தூ2த்தூ|thuttoo|thuttU|thuttū|t̪ʰut̪t̪uː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,expression of contempt,english,,english,,action|activity|function,,verb,
 ^,,தூ,tamil,,tamil,'expression':1 'contempt':2,action|activity|function,தூ2த்தூ,verb,
 -,ꢦ,ꢦꢵꢦ꣄,sourashtra,,,'ꢦꢦ':1 'paap':2 'pap':3 'pāp':4 'expression':5 'sympathy':6 'வம':7,action|activity|function,पाप्|பாப்|paap|pAp|pāp|pɑːp,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
 ^,,expression of sympathy,english,,english,,action|activity|function,,verb,
 ^,,பாவம்,tamil,,tamil,'பவம':1 'expression':2 'sympathy':3 'வம':4,action|activity|function,பாப்,verb,
 -,ꢇ,ꢇꢲꢹꢄ~,sourashtra,,,'ꢇꢲꢄ':1 'oohooi':2 'uhui':3 'ūhūi':4,action|activity|function,ऊहूइ~|ஊஹூ~|oohooi~|UhUi~|ūhūi~|uːɦuːɪ~,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,no,english,,english,,action|activity|function,,verb,
 ^,,ம்ஹூம்,tamil,,tamil,'மஹம':1,action|activity|function,ஊஹூ~,verb,
 -,ꢧ,ꢧꢶꢮ꣄ꢬꢶ,sourashtra,,,'ꢧꢮꢬ':1 'phivri':2 'again':3 'and':4,action|activity|function,फिव्रि|பி2ர்வி பி2ர்வி|phivri|phivri|phivri|pʰɪʋɾɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
 ^,,again and again,english,,english,,action|activity|function,,verb,
 ^,,மேல்மேலும்,tamil,,tamil,'மலமலம':1,action|activity|function,பி2ர்வி பி2ர்வி,verb,
 -,ꢡ,ꢡꢾꢒ ꢧꢬꢵꢡ꣄,sourashtra,,,'ꢡꢒꢧꢬꢡ':1 'tekapharaat':2 'tekapharat':3 'tĕkapharāt':4 'moreover':5,action|activity|function,त॑कफरात्|தெகப2ராத்|te'ka pharaat|tEka pharAt|tĕka pharāt|t̪ekə pʰəɾɑːt̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
-^,,moreover,english,,english,,action|activity|function,,verb,
-^,,மேலும்,tamil,,tamil,'மலம':1 'moreover':2,action|activity|function,தெகப2ராத்,verb,
 -,ꢲ,ꢲꣀꢫꢵ,sourashtra,,,'ꢲꢫ':1 'haiyaa':2 'haiya':3 'haiyā':4 'expression':5 'joy':6,action|activity|function,हैया|ஹையா|haiyaa|haiyA|haiyā|ɦəɪjɑː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
 ^,,expression of joy,english,,english,,action|activity|function,,verb,
 ^,,ஹையா,tamil,,tamil,'ஹய':1 'expression':2 'joy':3,action|activity|function,ஹையா,verb,
