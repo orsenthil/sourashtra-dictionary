@@ -1,0 +1,46 @@
+type,initial,content,language,notes,tsvector_language,tsvector_tokens,tags,phones,definition_type,meta
+-,ꢗ,ꢗꢶꢜ꣄ꢜꢶꢣꢶꢮꣁ,sourashtra,,,'ꢗꢜꢜꢣꢮ':1 'chittidivo':2 'cittidivo':3 'ciṭṭidivŏ':4 'small':5 'earthen':6 'lamp':7,celebration|cultural|festival,चिट्टिदिवा॑|சிட்டிதி3வொ|chit't'idivo'|ciTTidivO|ciṭṭidivŏ|t͡ʃɪʈʈɪd̪ɪʋo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,small earthen lamp,english,,english,,celebration|cultural|festival,,noun,
+^,,அகல் விளக்கு,tamil,,,'அகல_வளகக':1 'small':2 'earthen':3 'lamp':4,celebration|cultural|festival,சிட்டிதி3வொ,noun,
+-,ꢡ,ꢡꢶꢥ꣄ꢥꢳ꣄꣄,sourashtra,,,'ꢡꢥꢥꢳ':1 'tinnal':2 'tinnal':3 'tinnal':4 'festival':5,celebration|cultural|festival,तिन्नाळ|தின்னாள்|tinnal'|tinnaL|tinnal̤|t̪ɪn̪n̪əɭ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,festival,english,,english,,celebration|cultural|festival,,noun,
+^,,உற்சவம்,tamil,,,'உறசவம':1 'festival':2,celebration|cultural|festival,தின்னாள்,noun,
+-,ꢱ,ꢱꢾꢥ꣄ꢥꢸ,sourashtra,,,'ꢱꢥꢥ':1 'sennu':2 'sennu':3 'sĕnnu':4 'festival':5,celebration|cultural|festival,स॑न्नु|ஸென்னு|se'nnu|sEnnu|sĕnnu|s̪en̪n̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,festival,english,,english,,celebration|cultural|festival,,noun,
+^,,உற்சவம்,tamil,,,'உறசவம':1 'festival':2,celebration|cultural|festival,ஸென்னு,noun,
+-,ꢒ,ꢒꣀꢖ꣄ꢒꢬ꣄ꢫꢣꢵꢥ꣄,sourashtra,,,'ꢒꢖꢒꢬꢫꢣꢥ':1 'kainkaryadaan':2 'kaigkaryadan':3 'kaiṅkaryadān':4 'village':5 'temple':6 'festival':7,celebration|cultural|festival,कैङकर्यदान्|கைங்கர்ய தா3ன்|kainkaryadaan|kaiGkaryadAn|kaiṅkaryadān|kəɪŋkəɾjəd̪ɑːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,village temple festival,english,,english,,celebration|cultural|festival,,noun,
+^,,கொடை,tamil,,,'கட':1 'village':2 'temple':3 'festival':4,celebration|cultural|festival,கைங்கர்ய தா3ன்,noun,
+-,ꢱ,ꢱꢸꢣꢵꢥ꣄,sourashtra,,,'ꢱꢣꢥ':1 'sudaan':2 'sudan':3 'sudān':4 'village':5 'temple':6 'festival':7,celebration|cultural|festival,सुदान्|ஸுதா3ன்|sudaan|sudAn|sudān|s̪ud̪ɑːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,village temple festival,english,,english,,celebration|cultural|festival,,noun,
+^,,கொடை,tamil,,,'கட':1 'village':2 'temple':3 'festival':4,celebration|cultural|festival,ஸுதா3ன்,noun,
+-,ꢗ,ꢗꣁꢒ꣄ꢣꢵꢥ꣄,sourashtra,,,'ꢗꢒꢣꢥ':1 'chokdaan':2 'cokdan':3 'cŏkdān':4 'village':5 'temple':6 'festival':7,celebration|cultural|festival,चोक्दान्|சொக்தா3ன்|cho'kdaan|cOkdAn|cŏkdān|t͡ʃokd̪ɑːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,village temple festival,english,,english,,celebration|cultural|festival,,noun,
+^,,கொடை,tamil,,,'கட':1 'village':2 'temple':3 'festival':4,celebration|cultural|festival,சொக்தா3ன்,noun,
+-,ꢣ,ꢣꢶꢮꢭꢶ,sourashtra,,,'ꢣꢮꢭ':1 'divali':2 'divali':3 'divali':4 'diwali':5,celebration|cultural|festival,दिवलि|தி3வளி|divali|divali|divali|d̪ɪʋəlɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,diwali,english,,english,,celebration|cultural|festival,,noun,
+^,,தீபாவளி,tamil,,,'தபவள':1 'diwali':2,celebration|cultural|festival,தி3வளி,noun,
+-,ꢡ,ꢡꣁꢬꢠ꣄,sourashtra,,,'ꢡꢬꢠ':1 'toran':2 'toran':3 'tŏraṇ':4 'arches':5 'with':6 'leaves':7,celebration|cultural|festival,तोरण्|தொரண்|to'ran|tOraN|tŏraṇ|t̪oɾəɳ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,arches with leaves,english,,english,,celebration|cultural|festival,,noun,
+^,,தோரணம்,tamil,,,'தரணம':1 'arches':2 'with':3 'leaves':4,celebration|cultural|festival,தொரண்,noun,
+-,ꢏ,ꢏꢔꢡ꣄,sourashtra,,,'ꢏꢔꢡ':1 'ogat':2 'ogat':3 'ŏgat':4 'religious':5 'fasting':6,celebration|cultural|festival,ओगत्|ஒக3த்|o'gat|Ogat|ŏgat|ogət̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,religious fasting,english,,english,,celebration|cultural|festival,,noun,
+^,,நோன்பு,tamil,,,'நனப':1 'religious':2 'fasting':3,celebration|cultural|festival,ஒக3த்,noun,
+-,ꢦ,ꢦꣁꢜ꣄ꢜꢵꢱ꣄,sourashtra,,,'ꢦꢜꢜꢱ':1 'pottaas':2 'pottas':3 'pŏṭṭās':4 'crackers':5,celebration|cultural|festival,पा॑ट्टास्|பொட்டாஸ்|po't't'aas|pOTTAs|pŏṭṭās|poʈʈɑːs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,crackers,english,,english,,celebration|cultural|festival,,noun,
+^,,பட்டாசு,tamil,,,'படடச':1 'crackers':2,celebration|cultural|festival,பொட்டாஸ்,noun,
+-,ꢨ,ꢨꢠꢵꢭ꣄,sourashtra,,,'ꢨꢠꢭ':1 'banaal':2 'banal':3 'baṇāl':4 'crackers':5,celebration|cultural|festival,बणाल्|ப3ணால்|banaal|baNAl|baṇāl|bəɳɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,crackers,english,,english,,celebration|cultural|festival,,noun,
+^,,பட்டாசு,tamil,,,'படடச':1 'crackers':2,celebration|cultural|festival,ப3ணால்,noun,
+-,ꢮ,ꢮꢶꢯꢾꢰ꣄,sourashtra,,,'ꢮꢯꢰ':1 'vishesh':2 'vizes':3 'viśĕṣ':4 'festival':5,celebration|cultural|festival,विशेष्|விஸேஷ்|vishe'sh|vizES|viśĕṣ|ʋɪʃeʂ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,festival,english,,english,,celebration|cultural|festival,,noun,
+^,,பண்டிகை,tamil,,,'பணடக':1 'festival':2,celebration|cultural|festival,விஸேஷ்,noun,
+-,ꢱ,ꢱꢾꢥ꣄ꢥꢸ,sourashtra,,,'ꢱꢥꢥ':1 'sennu':2 'sennu':3 'sĕnnu':4 'festival':5,celebration|cultural|festival,स॑न्नु|ஸென்னு|se'nnu|sEnnu|sĕnnu|s̪en̪n̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,festival,english,,english,,celebration|cultural|festival,,noun,
+^,,பண்டிகை,tamil,,,'பணடக':1 'festival':2,celebration|cultural|festival,ஸென்னு,noun,
+-,ꢦ,ꢦꣁꢖ꣄ꢒꢭ꣄ ꢱꢾꢥ꣄ꢥꢸ,sourashtra,,,'ꢦꢖꢒꢭ_ꢱꢥꢥ':1 'ponkal_sennu':2 'pogkal_sennu':3 'pŏṅkal_sĕnnu':4 'harvest':5 'festival':6,celebration|cultural|festival,पोङकल् स॑न्नु|பொங்கல் ஸென்னு|po'nkal se'nnu|pOGkal sEnnu|pŏṅkal sĕnnu|poŋkəl s̪en̪n̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,a harvest festival,english,,english,,celebration|cultural|festival,,noun,
+^,,பொங்கல்,tamil,,,'பஙகல':1 'harvest':2 'festival':3,celebration|cultural|festival,பொங்கல் ஸென்னு,noun,
+-,ꢪ,ꢪꢒꢬ ꢱꢖ꣄ꢒ꣄ꢬꢵꢥ꣄ꢡꢶ,sourashtra,,,'ꢪꢒꢬ_ꢱꢖꢒꢬꢥꢡ':1 'makara_sankraanti':2 'makara_sagkranti':3 'makara_saṅkrānti':4 'harvest':5 'festival':6,celebration|cultural|festival,मकर सङ्क्रान्ति|மகர ஸங்க்ராந்தி|makara sankraanti|makara saGkrAnti|makara saṅkrānti|məkəɾə s̪əŋkɾɑːn̪t̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,a harvest festival,english,,english,,celebration|cultural|festival,,noun,
+^,,பொங்கல்,tamil,,,'பஙகல':1 'harvest':2 'festival':3,celebration|cultural|festival,மகர ஸங்க்ராந்தி,noun,
