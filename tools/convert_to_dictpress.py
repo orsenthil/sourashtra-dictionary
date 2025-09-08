@@ -258,13 +258,14 @@ class DictpressConverter:
         weight = 1
         
         def clean_token(token: str) -> str:
-            """Clean token for tsvector format - only alphanumeric chars, no underscores or special chars"""
-            # Remove all special characters, keep only alphanumeric
+            """Clean token for tsvector format - alphanumeric chars including Unicode letters"""
+            # Remove punctuation but keep Unicode letters and numbers
             cleaned = re.sub(r'[^\w]', '', token.strip())
             # Convert to lowercase
             cleaned = cleaned.lower()
-            # Remove any remaining non-alphabetic characters except numbers
-            cleaned = re.sub(r'[^a-z0-9]', '', cleaned)
+            # For Tamil and other Unicode scripts, keep all Unicode letters and numbers
+            # Remove only ASCII punctuation and symbols, but keep Unicode letters
+            cleaned = re.sub(r'[^\w\u0B80-\u0BFF\u0900-\u097F\uA800-\uA82F]', '', cleaned)
             return cleaned if len(cleaned) > 1 else ''  # Only keep tokens longer than 1 char
         
         def add_token(token: str, current_weight: int) -> int:
@@ -460,7 +461,7 @@ class DictpressConverter:
         output_rows.append(english_row)
         
         # Row 3: Tamil definition (type ^)
-        tamil_tokens = self.create_tsvector_tokens('', [tamil_meaning], english_meaning)
+        tamil_tokens = self.create_tsvector_tokens('', [tamil_meaning], english_meaning, tamil_meaning)
         tamil_row = [
             '^',  # type
             '',  # initial
