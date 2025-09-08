@@ -40,9 +40,9 @@
 -,ꢭ,ꢭꢴꣁꢮ꣄ꢮꣁ,sourashtra,,,'ꢭꢮꢮ':1 'lhovvo':2 'lhŏvvŏ':3 'red':4 'வப':5,appearance|color|visual,ल्हा॑व्वो|லொ:வ்வொ|lho'vvo'|lhOvvO|lhŏvvŏ|lɦoʋʋo,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,red,english,,english,,appearance|color|visual,,adj,
 ^,,சிவப்பு,tamil,,tamil,'சவபப':1 'red':2 'வப':3,appearance|color|visual,லொ:வ்வொ,adj,
--,ꢮ,ꢮꢥꢶ,sourashtra,,,'ꢮꢥ':1 'vani':2 'colour':3 'றம':4,appearance|color|visual,वनि|வனி|vani|vani|vani|ʋən̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
+-,ꢮ,ꢮꢥꢶ,sourashtra,,,'ꢮꢥ':1 'vani':2 'colour':3 'றம':4 'வண':5 'ணம':6,appearance|color|visual,वनि|வனி|vani|vani|vani|ʋən̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,colour,english,,english,,appearance|color|visual,,adj,
-^,,நிறம்,tamil,,tamil,'நறம':1 'colour':2 'றம':3,appearance|color|visual,வனி,adj,
+^,,நிறம் / வண்ணம்,tamil,,tamil,'நறமவணணம':1 'colour':2 'றம':3 'வண':4 'ணம':5,appearance|color|visual,வனி,adj,
 -,ꢯ,ꢯ꣄꣄ꢫꢵꢪꣁ,sourashtra,,,'ꢯꢫꢪ':1 'shyaamo':2 'zyamo':3 'śyāmŏ':4 'blue':5 'லம':6,appearance|color|visual,श्यामा॑|ஶ்யாமொ|shyaamo'|zyAmO|śyāmŏ|ʃjɑːmo,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,blue,english,,english,,appearance|color|visual,,adj,
 ^,,நீலம்,tamil,,tamil,'நலம':1 'blue':2 'லம':3,appearance|color|visual,ஶ்யாமொ,adj,
@@ -55,9 +55,6 @@
 -,ꢂ,ꢂꢳ꣄ꢞꢸꢥꣁ,sourashtra,,,'ꢂꢳꢞꢥ':1 'alduno':2 'alḍunŏ':3 'yellow':4 'மஞ':5 'சள':6,appearance|color|visual,हळ्डुना॑|ஹள்டு3னொ|al'd'uno'|aLDunO|al̤ḍunŏ|əɭɖun̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,yellow,english,,english,,appearance|color|visual,,adj,
 ^,,மஞ்சள்,tamil,,tamil,'மஞசள':1 'yellow':2 'மஞ':3 'சள':4,appearance|color|visual,ஹள்டு3னொ,adj,
--,ꢮ,ꢮꢥꢶ,sourashtra,,,'ꢮꢥ':1 'vani':2 'colour':3 'வண':4 'ணம':5,appearance|color|visual,वनि|வனி|vani|vani|vani|ʋən̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
-^,,colour,english,,english,,appearance|color|visual,,adj,
-^,,வண்ணம்,tamil,,tamil,'வணணம':1 'colour':2 'வண':3 'ணம':4,appearance|color|visual,வனி,adj,
 -,ꢆ,ꢆꢙꢵꢳ꣄,sourashtra,,,'ꢆꢙꢳ':1 'ujaal':2 'ujal':3 'ujāl':4 'white':5,appearance|color|visual,हुजाळ|ஹுஜாள்|ujaal'|ujAL|ujāl̤|ud͡ʒɑːɭ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,white,english,,english,,appearance|color|visual,,adj,
 ^,,வெள்ளை,tamil,,tamil,'வளள':1 'white':2,appearance|color|visual,ஹுஜாள்,adj,
