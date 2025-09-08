@@ -510,13 +510,7 @@ class DictpressConverter:
                 with open(output_file, 'w', encoding='utf-8', newline='') as outfile:
                     csv_writer = csv.writer(outfile, lineterminator='\n')
                     
-                    # Write header
-                    header = ['type', 'initial', 'content', 'language', 'notes', 
-                             'tsvector_language', 'tsvector_tokens', 'tags', 'phones', 
-                             'definition_type', 'meta']
-                    csv_writer.writerow(header)
-                    
-                    # Write data rows
+                    # Write only data rows (no header line)
                     for output_row in all_output_rows:
                         csv_writer.writerow(output_row)
             
