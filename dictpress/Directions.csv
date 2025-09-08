@@ -1,0 +1,39 @@
+-,ꢣ,ꢣꢫ꣄ꢬꣁ,sourashtra,,,'ꢣꢫꢬ':1 'dayro':2 'dayrŏ':3 'left':4 'side':5 'leave':6 'இடத':7,direction|location|spatial,दय्रा॑|த3ய்ரொ|dayro'|dayrO|dayrŏ|d̪əjɾo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,left side,english,,english,,direction|location|spatial,,noun,
+^,,இடது,tamil,,tamil,'இடத':1 'left':2 'side':3 'leave':4,direction|location|spatial,த3ய்ரொ,noun,
+-,ꢣ,ꢣꢫ꣄ꢬ,sourashtra,,,'ꢣꢫꢬ':1 'dayra':2 'left':3 'side':4 'leave':5 'இடம':6,direction|location|spatial,दय्र|த3ய்ர|dayra|dayra|dayra|d̪əjɾə,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,left side,english,,english,,direction|location|spatial,,noun,
+^,,இடம்,tamil,,tamil,'இடம':1 'left':2 'side':3 'leave':4,direction|location|spatial,த3ய்ர,noun,
+-,ꢓ,ꢓꣃꢥꢱ꣄,sourashtra,,,'ꢓꢥꢱ':1 'khaunas':2 'east':3 'ழக':4,direction|location|spatial,खौनस|கௌ2னஸ்|khaunas|khaunas|khaunas|kʰəun̪əs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,east,english,,english,,direction|location|spatial,,noun,
+^,,கிழக்கு,tamil,,tamil,'கழகக':1 'east':2 'ழக':3,direction|location|spatial,கௌ2னஸ்,noun,
+-,ꢣ,ꢣꢶꢒ꣄ꢒꢸ,sourashtra,,,'ꢣꢒꢒ':1 'dikku':2 'direction':3,direction|location|spatial,दिक्कु|தி3க்கு|dikku|dikku|dikku|d̪ɪkku,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,direction,english,,english,,direction|location|spatial,,noun,
+^,,திக்கு,tamil,,tamil,'தகக':1 'direction':2,direction|location|spatial,தி3க்கு,noun,
+-,ꢣ,ꢣꢶꢱꣁ,sourashtra,,,'ꢣꢱ':1 'diso':2 'disŏ':3 'direction':4,direction|location|spatial,दिसा॑|தி3ஸொ|diso'|disO|disŏ|d̪ɪs̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,direction,english,,english,,direction|location|spatial,,noun,
+^,,திசை,tamil,,tamil,'தச':1 'direction':2,direction|location|spatial,தி3ஸொ,noun,
+-,ꢣ,ꢣꢾꢒ꣄ꢰꢠ꣄,sourashtra,,,'ꢣꢒꢰꢠ':1 'dekshan':2 'deksan':3 'dĕkṣaṇ':4 'south':5,direction|location|spatial,द॑क्षण्|தெ3க்ஷண்|de'kshan|dEkSaN|dĕkṣaṇ|d̪ekʂəɳ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,south,english,,english,,direction|location|spatial,,noun,
+^,,தெற்கு,tamil,,tamil,'தறக':1 'south':2,direction|location|spatial,தெ3க்ஷண்,noun,
+-,ꢣ,ꢣꢾꢒ꣄ꢰꢓꣃꢥꢱ꣄,sourashtra,,,'ꢣꢒꢰꢓꢥꢱ':1 'dekshakhaunas':2 'deksakhaunas':3 'dĕkṣakhaunas':4 'south':5 'east':6 'ழக':7,direction|location|spatial,द॑क्षखौनस|தெ3க்ஷகௌ2னஸ்|de'kshakhaunas|dEkSakhaunas|dĕkṣakhaunas|d̪ekʂəkʰəun̪əs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,south-east,english,,english,,direction|location|spatial,,noun,
+^,,தென்கிழக்க,tamil,,tamil,'தனகழகக':1 'south':2 'east':3 'ழக':4,direction|location|spatial,தெ3க்ஷகௌ2னஸ்,noun,
+-,ꢣ,ꢣꢾꢒ꣄ꢰꣁꢱ꣄ꢡꣁ,sourashtra,,,'ꢣꢒꢰꢱꢡ':1 'dekshosto':2 'deksosto':3 'dĕkṣŏstŏ':4 'south':5 'west':6,direction|location|spatial,द॑क्षोस्ता॑|தெ3க்ஷொஸ்தொ|de'ksho'sto'|dEkSOstO|dĕkṣŏstŏ|d̪ekʂos̪t̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,south-west,english,,english,,direction|location|spatial,,noun,
+^,,தென்மேற்கு,tamil,,tamil,'தனமறக':1 'south':2 'west':3,direction|location|spatial,தெ3க்ஷொஸ்தொ,noun,
+-,ꢆ,ꢆꢡ꣄ꢡꢬ꣄,sourashtra,,,'ꢆꢡꢡꢬ':1 'uttar':2 'north':3 'வடக':4,direction|location|spatial,उत्तर|உத்தர்|uttar|uttar|uttar|ut̪t̪əɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,north,english,,english,,direction|location|spatial,,noun,
+^,,வடக்கு,tamil,,tamil,'வடகக':1 'north':2 'வடக':3,direction|location|spatial,உத்தர்,noun,
+-,ꢆ,ꢆꢡ꣄ꢓꣃꢥꢱ꣄,sourashtra,,,'ꢆꢡꢓꢥꢱ':1 'utkhaunas':2 'north':3 'east':4 'வடக':5 'ழக':6,direction|location|spatial,उखौनस|உத்கௌ2னஸ்|utkhaunas|utkhaunas|utkhaunas|ut̪kʰəun̪əs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,north-east,english,,english,,direction|location|spatial,,noun,
+^,,வடகிழக்கு,tamil,,tamil,'வடகழகக':1 'north':2 'east':3 'வடக':4 'ழக':5,direction|location|spatial,உத்கௌ2னஸ்,noun,
+-,ꢆ,ꢆꢡ꣄ꢲꣁꢱ꣄ꢡꣁ,sourashtra,,,'ꢆꢡꢲꢱꢡ':1 'ut_hosto':2 'ut_hŏstŏ':3 'north':4 'west':5 'வடம':6,direction|location|spatial,उत हा॑स्ता॑|உத்ஹொஸ்தொ|ut_ho'sto'|ut_hOstO|ut_hŏstŏ|ut̪_ɦos̪t̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,north-west,english,,english,,direction|location|spatial,,noun,
+^,,வடமேற்கு,tamil,,tamil,'வடமறக':1 'north':2 'west':3 'வடம':4,direction|location|spatial,உத்ஹொஸ்தொ,noun,
+-,ꢙ,ꢙꢫ꣄ꢥꣁ,sourashtra,,,'ꢙꢫꢥ':1 'jayno':2 'jaynŏ':3 'right':4 'side':5 'வலத':6,direction|location|spatial,जय्ना॑|ஜய்நொ|jayno'|jaynO|jaynŏ|d͡ʒəjn̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,right side,english,,english,,direction|location|spatial,,noun,
+^,,வலது,tamil,,tamil,'வலத':1 'right':2 'side':3,direction|location|spatial,ஜய்நொ,noun,
+-,ꢙ,ꢙꢫ꣄ꢥ,sourashtra,,,'ꢙꢫꢥ':1 'jayna':2 'right':3 'side':4 'வலம':5,direction|location|spatial,जय्न|ஜய்ந|jayna|jayna|jayna|d͡ʒəjn̪ə,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,right side,english,,english,,direction|location|spatial,,noun,
+^,,வலம்,tamil,,tamil,'வலம':1 'right':2 'side':3,direction|location|spatial,ஜய்ந,noun,

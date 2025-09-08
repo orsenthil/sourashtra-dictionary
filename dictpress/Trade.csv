@@ -1,0 +1,507 @@
+-,ꢂ,ꢂꢖ꣄ꢔꢶꢞꢶ,sourashtra,,,'ꢂꢖꢔꢞ':1 'angidi':2 'aggidi':3 'aṅgiḍi':4 'shop':5 'market':6 'அங':7,business|commerce|trade,अङगिडि|அங்கி3டி3|angid'i|aGgiDi|aṅgiḍi|əŋgɪɖɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,"shop, market",english,,english,,business|commerce|trade,,noun,
+^,,அங்காடி,tamil,,tamil,'அஙகட':1 'shop':2 'market':3 'அங':4,business|commerce|trade,அங்கி3டி3,noun,
+-,ꢂ,ꢂꢖ꣄ꢔꢷꢒꢵꢬ꣄,sourashtra,,,'ꢂꢖꢔꢒꢬ':1 'angeekaar':2 'aggikar':3 'aṅgīkār':4 'approval':5 'அங':6 'ரம':7,business|commerce|trade,अङगीकार्|அங்கீ3கார்|angeekaar|aGgIkAr|aṅgīkār|əŋgiːkɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,approval,english,,english,,business|commerce|trade,,noun,
+^,,அங்கீகாரம்,tamil,,tamil,'அஙககரம':1 'approval':2 'அங':3 'ரம':4,business|commerce|trade,அங்கீ3கார்,noun,
+-,ꢒ,ꢒꢸꢣꣁ,sourashtra,,,'ꢒꢣ':1 'kudo':2 'kudŏ':3 'pawn':4 'அடக':5 'அடம':6 'னம':7,business|commerce|trade,कुदा॑|குதொ3|kudo'|kudO|kudŏ|kud̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,pawn,english,,english,,business|commerce|trade,,noun,
+^,,அடகு/அடமானம்,tamil,,tamil,'அடகஅடமனம':1 'pawn':2 'அடக':3 'அடம':4 'னம':5,business|commerce|trade,குதொ3,noun,
+-,ꢒ,ꢒꢸꢣꢵꢖ꣄ꢔꢶꢞꢶ,sourashtra,,,'ꢒꢣꢖꢔꢞ':1 'kudaangidi':2 'kudaggidi':3 'kudāṅgiḍi':4 'pawn':5 'broker':6 'broke':7 'அடக':8 'கட':9,business|commerce|trade,कुदाङकिडि|குதா3ங்கி3டி3|kudaangid'i|kudAGgiDi|kudāṅgiḍi|kud̪ɑːŋgɪɖɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,pawn broker,english,,english,,business|commerce|trade,,noun,
+^,,அடகுக்கடை,tamil,,tamil,'அடகககட':1 'pawn':2 'broker':3 'broke':4 'அடக':5 'கட':6,business|commerce|trade,குதா3ங்கி3டி3,noun,
+-,ꢃ,ꢃꢣꢬꣁ,sourashtra,,,'ꢃꢣꢬ':1 'aadaro':2 'adaro':3 'ādarŏ':4 'support':5 'ஆதரவ':6,business|commerce|trade,आदरा॑|ஆத3ரொ|aadaro'|AdarO|ādarŏ|ɑːd̪əɾo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,support,english,,english,,business|commerce|trade,,noun,
+^,,ஆதரவு,tamil,,tamil,'ஆதரவ':1 'support':2,business|commerce|trade,ஆத3ரொ,noun,
+-,ꢱ,ꢱꢲꢫꣁꢔ꣄,sourashtra,,,'ꢱꢲꢫꢔ':1 'sahayog':2 'sahayŏg':3 'support':4 'ஆதரவ':5,business|commerce|trade,सहयोग|ஸஹயோக்3|sahayo'g|sahayOg|sahayŏg|s̪əɦəjog,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,support,english,,english,,business|commerce|trade,,noun,
+^,,ஆதரவு,tamil,,tamil,'ஆதரவ':1 'support':2,business|commerce|trade,ஸஹயோக்3,noun,
+-,ꢃ,ꢃꢣꢵꢮ꣄,sourashtra,,,'ꢃꢣꢮ':1 'aadaav':2 'adav':3 'ādāv':4 'profit':5 'ஆத':6 'யம':7,business|commerce|trade,आदाव्|ஆதா3வ்|aadaav|AdAv|ādāv|ɑːd̪ɑːʋ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,profit,english,,english,,business|commerce|trade,,noun,
+^,,ஆதாயம்,tamil,,tamil,'ஆதயம':1 'profit':2 'ஆத':3 'யம':4,business|commerce|trade,ஆதா3வ்,noun,
+-,ꢌ,ꢌꢥ꣄ꢡꢸꢬ꣄,sourashtra,,,'ꢌꢥꢡꢬ':1 'entur':2 'ĕntur':3 'machine':4 'இயந':5 'ரம':6,business|commerce|trade,ए॑न्तुर्|எந்துர்|e'ntur|Entur|ĕntur|en̪t̪uɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,machine,english,,english,,business|commerce|trade,,noun,
+^,,இயந்திரம்,tamil,,tamil,'இயநதரம':1 'machine':2 'இயந':3 'ரம':4,business|commerce|trade,எந்துர்,noun,
+-,ꢲ,ꢲꢹꢣꢵꢬ,sourashtra,,,'ꢲꢣꢬ':1 'hoodaara':2 'hudara':3 'hūdāra':4 'borrowal':5 'இரவல':6,business|commerce|trade,हूदार|ஹூதா3ர்|hoodaara|hUdAra|hūdāra|ɦuːd̪ɑːɾə,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,borrowal,english,,english,,business|commerce|trade,,noun,
+^,,இரவல்,tamil,,tamil,'இரவல':1 'borrowal':2,business|commerce|trade,ஹூதா3ர்,noun,
+-,ꢬ,ꢬꢴꢥꢶ,sourashtra,,,'ꢬꢥ':1 'rhani':2 'stock':3 'இர':4,business|commerce|trade,र्हनि|ர:னி|rhani|rhani|rhani|ɾɦən̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,stock,english,,english,,business|commerce|trade,,noun,
+^,,இருப்பு,tamil,,tamil,'இரபப':1 'stock':2 'இர':3,business|commerce|trade,ர:னி,noun,
+-,ꢔ,ꢔꣁꢱ꣄,sourashtra,,,'ꢔꢱ':1 'gos':2 'gŏs':3 'free':4 'இலவசம':5 'இன':6,business|commerce|trade,गोस|கோ3ஸ்|go's|gOs|gŏs|gos̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,free,english,,english,,business|commerce|trade,,noun,
+^,,இலவசம் / இனாம்,tamil,,tamil,'இலவசமஇனம':1 'free':2 'இலவசம':3 'இன':4,business|commerce|trade,கோ3ஸ்,noun,
+-,ꢥ,ꢥꢶꢱ꣄ꢱꢸꢭ꣄ꢒꣁ,sourashtra,,,'ꢥꢱꢱꢭꢒ':1 'nissulko':2 'nissulkŏ':3 'free':4 'இலவசம':5 'இன':6,business|commerce|trade,निस्सुल्का॑|நிஸ்ஸுல்கொ|nissulko'|nissulkO|nissulkŏ|n̪ɪs̪s̪ulko,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,free,english,,english,,business|commerce|trade,,noun,
+^,,இலவசம் / இனாம்,tamil,,tamil,'இலவசமஇனம':1 'free':2 'இலவசம':3 'இன':4,business|commerce|trade,நிஸ்ஸுல்கொ,noun,
+-,ꢲ,ꢲꢸꢡ꣄ꢬꢵꢮ꣄,sourashtra,,,'ꢲꢡꢬꢮ':1 'hutraav':2 'hutrav':3 'hutrāv':4 'import':5 'இறக':6 'மத':7,business|commerce|trade,हुत्राव|ஹுத்ராவ்|hutraav|hutrAv|hutrāv|ɦut̪ɾɑːʋ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,import,english,,english,,business|commerce|trade,,noun,
+^,,இறக்குமதி,tamil,,tamil,'இறககமத':1 'import':2 'இறக':3 'மத':4,business|commerce|trade,ஹுத்ராவ்,noun,
+-,ꢕ,ꢕꢸꢪ꣄ꢦꢸ,sourashtra,,,'ꢕꢪꢦ':1 'ghumpu':2 'variety':3 'இனம':4,business|commerce|trade,घुम्पु|கு3ம்பு|ghumpu|ghumpu|ghumpu|gʰumpu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,variety,english,,english,,business|commerce|trade,,noun,
+^,,இனம்,tamil,,tamil,'இனம':1 'variety':2,business|commerce|trade,கு3ம்பு,noun,
+-,ꢔ,ꢔꣂꢱ꣄,sourashtra,,,'ꢔꢱ':1 'gos':2 'free':3 'இன':4,business|commerce|trade,गोस्|கோ3ஸ்|gos|gos|gos|goːs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,free,english,,english,,business|commerce|trade,,noun,
+^,,இனாம்,tamil,,tamil,'இனம':1 'free':2 'இன':3,business|commerce|trade,கோ3ஸ்,noun,
+-,ꢆ,ꢆꢡ꣄ꢬꢮꢵꢣ꣄,sourashtra,,,'ꢆꢡꢬꢮꢣ':1 'utravaad':2 'utravad':3 'utravād':4 'guarantee':5 'உத':6 'தரவ':7 'தம':8,business|commerce|trade,उत्रवाद्|உத்ரவாத்3|utravaad|utravAd|utravād|ut̪ɾəʋɑːd̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,guarantee,english,,english,,business|commerce|trade,,noun,
+^,,உத்தரவாதம்,tamil,,tamil,'உததரவதம':1 'guarantee':2 'உத':3 'தரவ':4 'தம':5,business|commerce|trade,உத்ரவாத்3,noun,
+-,ꢨ,ꢨꢵꢣ꣄ꢫꢮꢵꢥ꣄,sourashtra,,,'ꢨꢣꢫꢮꢥ':1 'baadyavaan':2 'badyavan':3 'bādyavān':4 'owner':5 'உர':6 'ளர':7,business|commerce|trade,बाद्यवान्|பா3த்3யவான்|baadyavaan|bAdyavAn|bādyavān|bɑːd̪jəʋɑːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,owner,english,,english,,business|commerce|trade,,noun,
+^,,உரிமையாளர்,tamil,,tamil,'உரமயளர':1 'owner':2 'உர':3 'ளர':4,business|commerce|trade,பா3த்3யவான்,noun,
+-,ꢱ,ꢱꢹꢮꢵꢥ꣄ꢣꢵꢬ꣄,sourashtra,,,'ꢱꢮꢥꢣꢬ':1 'soovaandaar':2 'suvandar':3 'sūvāndār':4 'owner':5 'உர':6 'ளர':7,business|commerce|trade,सुवान्दार्|ஸுவாந்தா3ர்|soovaandaar|sUvAndAr|sūvāndār|s̪uːʋɑːn̪d̪ɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,owner,english,,english,,business|commerce|trade,,noun,
+^,,உரிமையாளர்,tamil,,tamil,'உரமயளர':1 'owner':2 'உர':3 'ளர':4,business|commerce|trade,ஸுவாந்தா3ர்,noun,
+-,ꢂ,ꢂꢥ꣄ꢡꢬ꣄ꢒꢬꣁ,sourashtra,,,'ꢂꢥꢡꢬꢒꢬ':1 'antarkaro':2 'antarkarŏ':3 'local':4 'tax':5 'உள':6 'வர':7,business|commerce|trade,स्दलीयकरा॑|ஸ்த2லீயகரொ|antarkaro'|antarkarO|antarkarŏ|ən̪t̪əɾkəɾo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,local tax,english,,english,,business|commerce|trade,,noun,
+^,,உள்ளூர்வரி,tamil,,tamil,'உளளரவர':1 'local':2 'tax':3 'உள':4 'வர':5,business|commerce|trade,ஸ்த2லீயகரொ,noun,
+-,ꢱ,ꢱꢷꢭ꣄ꢒꢪ꣄,sourashtra,,,'ꢱꢭꢒꢪ':1 'seelkam':2 'silkam':3 'sīlkam':4 'local':5 'tax':6 'உள':7 'வர':8,business|commerce|trade,सुल्का॑|ஸுல்கொ|seelkam|sIlkam|sīlkam|s̪iːlkəm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,local tax,english,,english,,business|commerce|trade,,noun,
+^,,உள்ளூர்வரி,tamil,,tamil,'உளளரவர':1 'local':2 'tax':3 'உள':4 'வர':5,business|commerce|trade,ஸுல்கொ,noun,
+-,ꢱ,ꢱꢵꢮꢤꢵꢥ꣄,sourashtra,,,'ꢱꢮꢤꢥ':1 'saavadhaan':2 'savadhan':3 'sāvadhān':4 'warning':5 'warn':6 'எச':7 'சர':8,business|commerce|trade,सावधान|ஸாவதா4ன்|saavadhaan|sAvadhAn|sāvadhān|s̪ɑːʋəd̪ʰɑːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,warning,english,,english,,business|commerce|trade,,noun,
+^,,எச்சரிக்கை,tamil,,tamil,'எசசரகக':1 'warning':2 'warn':3 'எச':4 'சர':5,business|commerce|trade,ஸாவதா4ன்,noun,
+-,ꢌ,ꢌꢭꢪ꣄,sourashtra,,,'ꢌꢭꢪ':1 'elam':2 'ĕlam':3 'auction':4 'ஏலம':5,business|commerce|trade,एलम्|எலம்|e'lam|Elam|ĕlam|eləm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,auction,english,,english,,business|commerce|trade,,noun,
+^,,ஏலம்,tamil,,tamil,'ஏலம':1 'auction':2,business|commerce|trade,எலம்,noun,
+-,ꢥ,ꢥꢷꢭꢵꢪ꣄,sourashtra,,,'ꢥꢭꢪ':1 'neelaam':2 'nilam':3 'nīlām':4 'auction':5 'ஏலம':6,business|commerce|trade,नीलाम|நீலாம்|neelaam|nIlAm|nīlām|n̪iːlɑːm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,auction,english,,english,,business|commerce|trade,,noun,
+^,,ஏலம்,tamil,,tamil,'ஏலம':1 'auction':2,business|commerce|trade,நீலாம்,noun,
+-,ꢲ,ꢲꢶꢖ꣄ꢔꢵꢮ꣄,sourashtra,,,'ꢲꢖꢔꢮ':1 'hingaav':2 'higgav':3 'hiṅgāv':4 'export':5 'ஏற':6 'மத':7,business|commerce|trade,हिङगाव्|ஹிங்கா3வ்|hingaav|hiGgAv|hiṅgāv|ɦɪŋgɑːʋ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,export,english,,english,,business|commerce|trade,,noun,
+^,,ஏற்றுமதி,tamil,,tamil,'ஏறறமத':1 'export':2 'ஏற':3 'மத':4,business|commerce|trade,ஹிங்கா3வ்,noun,
+-,ꢬ,ꢬꢷꢠ꣄,sourashtra,,,'ꢬꢠ':1 'reen':2 'rin':3 'rīṇ':4 'debt':5 'loan':6 'கடன':7,business|commerce|trade,रीण्|ரீண்|reen|rIN|rīṇ|ɾiːɳ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,"debt, loan",english,,english,,business|commerce|trade,,noun,
+^,,கடன்,tamil,,tamil,'கடன':1 'debt':2 'loan':3,business|commerce|trade,ரீண்,noun,
+-,ꢂ,ꢂꢖ꣄ꢔꢶꢞꢶ,sourashtra,,,'ꢂꢖꢔꢞ':1 'angidi':2 'aggidi':3 'aṅgiḍi':4 'shop':5 'கட':6,business|commerce|trade,अङगिडि|அங்கி3டி3|angid'i|aGgiDi|aṅgiḍi|əŋgɪɖɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,shop,english,,english,,business|commerce|trade,,noun,
+^,,கடை,tamil,,tamil,'கட':1 'shop':2,business|commerce|trade,அங்கி3டி3,noun,
+-,ꢂ,ꢂꢖ꣄ꢔꢶꢞꢶ ꢒꢾꢬꣁ,sourashtra,,,'ꢂꢖꢔꢞꢒꢬ':1 'angidikero':2 'aggidikero':3 'aṅgiḍikĕrŏ':4 'shop':5 'keeper':6 'கட':7 'ரன':8,business|commerce|trade,अङगिडिक॑रा॑|அங்கி3டி3கெரொ|angid'i ke'ro'|aGgiDi kErO|aṅgiḍi kĕrŏ|əŋgɪɖɪ keɾo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,shop keeper,english,,english,,business|commerce|trade,,noun,
+^,,கடைக்காரன்,tamil,,tamil,'கடககரன':1 'shop':2 'keeper':3 'கட':4 'ரன':5,business|commerce|trade,அங்கி3டி3கெரொ,noun,
+-,ꢒ,ꢒꢮ꣄ꢭꢶꢥꢶ,sourashtra,,,'ꢒꢮꢭꢥ':1 'kavlini':2 'mixture':3 'கலவ':4,business|commerce|trade,कव्लिनि|கவ்லினி|kavlini|kavlini|kavlini|kəʋlɪn̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,mixture,english,,english,,business|commerce|trade,,noun,
+^,,கலவை,tamil,,tamil,'கலவ':1 'mixture':2,business|commerce|trade,கவ்லினி,noun,
+-,ꢪ,ꢪꢶꢱ꣄ꢬꢥꣁ,sourashtra,,,'ꢪꢱꢬꢥ':1 'misrano':2 'misranŏ':3 'mixture':4 'கலவ':5,business|commerce|trade,मिस्रना॑|மிஸ்ரனொ|misrano'|misranO|misranŏ|mɪs̪ɾən̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,mixture,english,,english,,business|commerce|trade,,noun,
+^,,கலவை,tamil,,tamil,'கலவ':1 'mixture':2,business|commerce|trade,மிஸ்ரனொ,noun,
+-,ꢣ,ꢣꣁꢨ꣄ꢨꢶꢥꢶ,sourashtra,,,'ꢣꢨꢨꢥ':1 'dobbini':2 'dŏbbini':3 'discount':4 'கழ':5,business|commerce|trade,दोब्बिनि|தொ3ப்3பி3னி|do'bbini|dObbini|dŏbbini|d̪obbɪn̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,discount,english,,english,,business|commerce|trade,,noun,
+^,,கழிவு,tamil,,tamil,'கழவ':1 'discount':2 'கழ':3,business|commerce|trade,தொ3ப்3பி3னி,noun,
+-,ꢩ,ꢩꢶꢞ꣄ꢥꢶ,sourashtra,,,'ꢩꢞꢥ':1 'bhidni':2 'bhiḍni':3 'discount':4 'கழ':5,business|commerce|trade,भिड्नि|பி4ட்3னி|bhid'ni|bhiDni|bhiḍni|bʰɪɖn̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,discount,english,,english,,business|commerce|trade,,noun,
+^,,கழிவு,tamil,,tamil,'கழவ':1 'discount':2 'கழ':3,business|commerce|trade,பி4ட்3னி,noun,
+-,ꢦ,ꢦꢸꢛ꣄ꢙꣁ,sourashtra,,,'ꢦꢛꢙ':1 'punjo':2 'pujjo':3 'puñjŏ':4 'discount':5 'கழ':6,business|commerce|trade,पुन्जा॑ कपिनि|புஞ்ஜொ|punjo'|puJjO|puñjŏ|puɲd͡ʒo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,discount,english,,english,,business|commerce|trade,,noun,
+^,,கழிவு,tamil,,tamil,'கழவ':1 'discount':2 'கழ':3,business|commerce|trade,புஞ்ஜொ,noun,
+-,ꢒ,ꢒꢦꢶꢥꢶ,sourashtra,,,'ꢒꢦꢥ':1 'kapini':2 'discount':3 'கழ':4,business|commerce|trade,पुन्जा॑ कपिनि|கபினி|kapini|kapini|kapini|kəpɪn̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,discount,english,,english,,business|commerce|trade,,noun,
+^,,கழிவு,tamil,,tamil,'கழவ':1 'discount':2 'கழ':3,business|commerce|trade,கபினி,noun,
+-,ꢏ,ꢏꢠ꣄ꢜ꣄ꢫꣁꢱ꣄ꢪꣁꢭ꣄,sourashtra,,,'ꢏꢠꢜꢫꢱꢪꢭ':1 'ontyosmol':2 'ŏṇṭyŏsmŏl':3 'fixed':4 'price':5 'fix':6 'கற':7,business|commerce|trade,आ॑ण्ट्या॑स्मोल|ஒண்ட்யொஸ்மோல்|o'nt'yo'smo'l|ONTyOsmOl|ŏṇṭyŏsmŏl|oɳʈjos̪mol,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,fixed price,english,,english,,business|commerce|trade,,noun,
+^,,கறார்,tamil,,tamil,'கறர':1 'fixed':2 'price':3 'fix':4 'கற':5,business|commerce|trade,ஒண்ட்யொஸ்மோல்,noun,
+-,ꢓ,ꢓꢾꢬꢵꢬꢸꢪꣁꢭ꣄,sourashtra,,,'ꢓꢬꢬꢪꢭ':1 'kheraarumol':2 'kherarumol':3 'khĕrārumŏl':4 'fixed':5 'price':6 'fix':7 'கற':8,business|commerce|trade,ख॑रारुमोल|கெ2ராருமோல்|khe'raarumo'l|khErArumOl|khĕrārumŏl|kʰeɾɑːɾumol,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,fixed price,english,,english,,business|commerce|trade,,noun,
+^,,கறார்,tamil,,tamil,'கறர':1 'fixed':2 'price':3 'fix':4 'கற':5,business|commerce|trade,கெ2ராருமோல்,noun,
+-,ꢒ,ꢒꢵꢱ꣄,sourashtra,,,'ꢒꢱ':1 'kaas':2 'kas':3 'kās':4 'money':5,business|commerce|trade,कास्|காஸ்|kaas|kAs|kās|kɑːs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,money,english,,english,,business|commerce|trade,,noun,
+^,,காசு,tamil,,tamil,'கச':1 'money':2,business|commerce|trade,காஸ்,noun,
+-,ꢲ,ꢲꢥ꣄ꢥꢮ꣄,sourashtra,,,'ꢲꢥꢥꢮ':1 'hannav':2 'money':3,business|commerce|trade,हन्नव्|ஹன்னவ்|hannav|hannav|hannav|ɦən̪n̪əʋ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,money,english,,english,,business|commerce|trade,,noun,
+^,,காசு,tamil,,tamil,'கச':1 'money':2,business|commerce|trade,ஹன்னவ்,noun,
+-,ꢲ,ꢲꢥ꣄ꢥ꣄ꢮꢸꢦꢡ꣄ꢬꢸ,sourashtra,,,'ꢲꢥꢥꢮꢦꢡꢬ':1 'hannvupatru':2 'cheque':3,business|commerce|trade,हन्नवुपत्रु|ஹன்னவுபத்ரு|hannvupatru|hannvupatru|hannvupatru|ɦən̪n̪ʋupət̪ɾu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,cheque,english,,english,,business|commerce|trade,,noun,
+^,,காசோலை,tamil,,tamil,'கசல':1 'cheque':2,business|commerce|trade,ஹன்னவுபத்ரு,noun,
+-,ꢨ,ꢨꢷꢪꣁ,sourashtra,,,'ꢨꢪ':1 'beemo':2 'bimo':3 'bīmŏ':4 'guarantee':5,business|commerce|trade,बीमा॑|பீ3மொ|beemo'|bImO|bīmŏ|biːmo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,guarantee,english,,english,,business|commerce|trade,,noun,
+^,,காப்புறுதி,tamil,,tamil,'கபபறத':1 'guarantee':2,business|commerce|trade,பீ3மொ,noun,
+-,ꢙ,ꢙꢷꢮꢥꢬꢒ꣄ꢰꣁ,sourashtra,,,'ꢙꢮꢥꢬꢒꢰ':1 'jeevanaraksho':2 'jivanarakso':3 'jīvanarakṣŏ':4 'guarantee':5,business|commerce|trade,जीवनरक्ष्|ஜீவன ரக்ஷொ|jeevanaraksho'|jIvanarakSO|jīvanarakṣŏ|d͡ʒiːʋən̪əɾəkʂo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,guarantee,english,,english,,business|commerce|trade,,noun,
+^,,காப்புறுதி,tamil,,tamil,'கபபறத':1 'guarantee':2,business|commerce|trade,ஜீவன ரக்ஷொ,noun,
+-,ꢒ,ꢒꢵꢭꢵꢮꢤꢶ,sourashtra,,,'ꢒꢭꢮꢤ':1 'kaalaavadhi':2 'kalavadhi':3 'kālāvadhi':4 'expiry':5 'வத':6,business|commerce|trade,कालावदि|காலாவதி4|kaalaavadhi|kAlAvadhi|kālāvadhi|kɑːlɑːʋəd̪ʰɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,expiry,english,,english,,business|commerce|trade,,noun,
+^,,காலாவதி,tamil,,tamil,'கலவத':1 'expiry':2 'வத':3,business|commerce|trade,காலாவதி4,noun,
+-,ꢮ,ꢮꢿꢳꢸ ꢱꢪꢵꢦ꣄ꢡꢶ,sourashtra,,,'ꢮꢳꢱꢪꢦꢡ':1 'velusamaapti':2 'velusamapti':3 'velusamāpti':4 'expiry':5 'வத':6,business|commerce|trade,वेळु समाप्ति|வேளு ஸமாப்தி|vel'u samaapti|veLu samApti|vel̤u samāpti|ʋeːɭu s̪əmɑːpt̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,expiry,english,,english,,business|commerce|trade,,noun,
+^,,காலாவதி,tamil,,tamil,'கலவத':1 'expiry':2 'வத':3,business|commerce|trade,வேளு ஸமாப்தி,noun,
+-,ꢪ,ꢪꢸꢱꢥ꣄ ꢒꢵꢭ꣄,sourashtra,,,'ꢪꢱꢥꢒꢭ':1 'musankaal':2 'musankal':3 'musankāl':4 'expiry':5 'வத':6,business|commerce|trade,मुसन्काल|முஸன் கால்|musan kaal|musan kAl|musan kāl|mus̪ən̪ kɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,expiry,english,,english,,business|commerce|trade,,noun,
+^,,காலாவதி,tamil,,tamil,'கலவத':1 'expiry':2 'வத':3,business|commerce|trade,முஸன் கால்,noun,
+-,ꢔ,ꢔꢶꢜ꣄ꢜꢖ꣄ꢔꢶ,sourashtra,,,'ꢔꢜꢜꢖꢔ':1 'gittangi':2 'gittaggi':3 'giṭṭaṅgi':4 'godown':5 'டங':6,business|commerce|trade,दिट्टङगि|கி3ட்டங்கி3|git't'angi|giTTaGgi|giṭṭaṅgi|gɪʈʈəŋgɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,godown,english,,english,,business|commerce|trade,,noun,
+^,,கிடங்கு,tamil,,tamil,'கடஙக':1 'godown':2 'டங':3,business|commerce|trade,கி3ட்டங்கி3,noun,
+-,ꢒ,ꢒꢸꢜꢶꢭꢸ ꢆꢣ꣄ꢫꣂꢔ꣄,sourashtra,,,'ꢒꢜꢭꢆꢣꢫꢔ':1 'kutiluudyog':2 'kuṭiluudyog':3 'cottage':4 'industry':5,business|commerce|trade,क्टिलु उद्योग|குடிலு உத்3யோக்3|kut'ilu udyog|kuTilu udyog|kuṭilu udyog|kuʈɪlu ud̪joːg,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,cottage industry,english,,english,,business|commerce|trade,,noun,
+^,,குடிசைத் தொழில்,tamil,,tamil,'கடசததழல':1 'cottage':2 'industry':3,business|commerce|trade,குடிலு உத்3யோக்3,noun,
+-,ꢪ,ꢪꢶꢭꢥ꣄ꢮꢞ꣄ꢞꢶ,sourashtra,,,'ꢪꢭꢥꢮꢞꢞ':1 'milanvaddi':2 'milanvaḍḍi':3 'compound':4 'interest':5 'வட':6,business|commerce|trade,मिलन्वड्डि|மிளன்வட்3டி3|milanvad'd'i|milanvaDDi|milanvaḍḍi|mɪlən̪ʋəɖɖɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,compound interest,english,,english,,business|commerce|trade,,noun,
+^,,கூட்டு வட்டி,tamil,,tamil,'கடடவடட':1 'compound':2 'interest':3 'வட':4,business|commerce|trade,மிளன்வட்3டி3,noun,
+-,ꢮ,ꢮꢬ꣄ꢤꢥꢮ꣄ꢬꢸꢣ꣄ꢤꢶ,sourashtra,,,'ꢮꢬꢤꢥꢮꢬꢣꢤ':1 'vardhanavruddhi':2 'compound':3 'interest':4 'வட':5,business|commerce|trade,वधनव्रुद्धि|வர்த4னவ்ருத்3தி4|vardhanavruddhi|vardhanavruddhi|vardhanavruddhi|ʋəɾd̪ʰən̪əʋɾud̪d̪ʰɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,compound interest,english,,english,,business|commerce|trade,,noun,
+^,,கூட்டு வட்டி,tamil,,tamil,'கடடவடட':1 'compound':2 'interest':3 'வட':4,business|commerce|trade,வர்த4னவ்ருத்3தி4,noun,
+-,ꢱ,ꢱꢲꢫꣂꢔꢸ ꢱꢖ꣄ꢕꢸ,sourashtra,,,'ꢱꢲꢫꢔꢱꢖꢕ':1 'sahayogusanghu':2 'sahayogusagghu':3 'sahayogusaṅghu':4 'operative':5 'society':6 'றவ':7 'சங':8 'கம':9,business|commerce|trade,सहयोगु सङ्घु|ஸஹயோகு3 ஸங்கு4|sahayogu sanghu|sahayogu saGghu|sahayogu saṅghu|s̪əɦəjoːgu s̪əŋgʰu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,co-operative society,english,,english,,business|commerce|trade,,noun,
+^,,கூட்டுறவுச் சங்கம்,tamil,,tamil,'கடடறவசசஙகம':1 'operative':2 'society':3 'றவ':4 'சங':5 'கம':6,business|commerce|trade,ஸஹயோகு3 ஸங்கு4,noun,
+-,ꢲ,ꢲꢵꢡꢸ ꢦꣁꢡꢶ,sourashtra,,,'ꢲꢡꢦꢡ':1 'haatupoti':2 'hatupoti':3 'hātupŏti':4 'handbook':5,business|commerce|trade,हतु पा॑ति|ஹாது பொதி|haatu po'ti|hAtu pOti|hātu pŏti|ɦɑːt̪u pot̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,handbook,english,,english,,business|commerce|trade,,noun,
+^,,கையேடு,tamil,,tamil,'கயட':1 'handbook':2,business|commerce|trade,ஹாது பொதி,noun,
+-,ꢣ,ꢣꢾꢥꢶꢓꢜ꣄ꢠꢶ,sourashtra,,,'ꢣꢥꢓꢜꢠ':1 'denikhatni':2 'dĕnikhaṭṇi':3 'transaction':4 'கல':5,business|commerce|trade,देनिखट्णि|தெ3னிக2ட்3ணி|de'nikhat'ni|dEnikhaTNi|dĕnikhaṭṇi|d̪en̪ɪkʰəʈɳɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,transaction,english,,english,,business|commerce|trade,,noun,
+^,,கொடுக்கல் வாங்கல்,tamil,,tamil,'கடககலவஙகல':1 'transaction':2 'கல':3,business|commerce|trade,தெ3னிக2ட்3ணி,noun,
+-,ꢱ,ꢱꣁꢖ꣄ꢔꢵꢪꣂꢭ꣄,sourashtra,,,'ꢱꢖꢔꢪꢭ':1 'songaamol':2 'soggamol':3 'sŏṅgāmol':4 'fair':5 'price':6 'சக':7 'யவ':8,business|commerce|trade,सा॑ङगामोल्|ஸொங்கா3மோல்|so'ngaamol|sOGgAmol|sŏṅgāmol|s̪oŋgɑːmoːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,fair price,english,,english,,business|commerce|trade,,noun,
+^,,சகாயவிலை,tamil,,tamil,'சகயவல':1 'fair':2 'price':3 'சக':4 'யவ':5,business|commerce|trade,ஸொங்கா3மோல்,noun,
+-,ꢥ,ꢥ꣄ꢫꢵꢮꢸꢪꣁꢭ꣄,sourashtra,,,'ꢥꢫꢮꢪꢭ':1 'nyaavumol':2 'nyavumol':3 'nyāvumŏl':4 'fair':5 'price':6 'சக':7 'யவ':8,business|commerce|trade,न्यावु मोल|ந்யாவு மோல்|nyaavumo'l|nyAvumOl|nyāvumŏl|n̪jɑːʋumol,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,fair price,english,,english,,business|commerce|trade,,noun,
+^,,சகாயவிலை,tamil,,tamil,'சகயவல':1 'fair':2 'price':3 'சக':4 'யவ':5,business|commerce|trade,ந்யாவு மோல்,noun,
+-,ꢦ,ꢦ꣄ꢬꢡꢶ ꢯꣁꢡ꣄,sourashtra,,,'ꢦꢬꢡꢯꢡ':1 'pratishot':2 'pratizot':3 'pratiśŏt':4 'percentage':5 'சதவ':6 'தம':7,business|commerce|trade,प्रति शोत|ப்ரதிஶோத்|prati sho't|prati zOt|prati śŏt|pɾət̪ɪ ʃot̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,percentage,english,,english,,business|commerce|trade,,noun,
+^,,சதவீதம்,tamil,,tamil,'சதவதம':1 'percentage':2 'சதவ':3 'தம':4,business|commerce|trade,ப்ரதிஶோத்,noun,
+-,ꢦ,ꢦ꣄ꢬꢡꢶ ꢱꣁꢮꢸ,sourashtra,,,'ꢦꢬꢡꢱꢮ':1 'pratisovu':2 'pratisŏvu':3 'percentage':4 'சதவ':5 'தம':6,business|commerce|trade,प्रति सोवु|ப்ரதிஸோவு|prati so'vu|prati sOvu|prati sŏvu|pɾət̪ɪ s̪oʋu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,percentage,english,,english,,business|commerce|trade,,noun,
+^,,சதவீதம்,tamil,,tamil,'சதவதம':1 'percentage':2 'சதவ':3 'தம':4,business|commerce|trade,ப்ரதிஸோவு,noun,
+-,ꢮ,ꢮꢶꢒ꣄ꢒꢥ ꣄ꢢꢵꢪ꣄,sourashtra,,,'ꢮꢒꢒꢥꢢꢪ':1 'vikkanathaam':2 'vikkanatham':3 'vikkanathām':4 'market':5 'சந':6,business|commerce|trade,विक्कन थाम|விக்கன்தா2ம்|vikkana thaam|vikkana thAm|vikkana thām|ʋɪkkən̪ə t̪ʰɑːm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,market,english,,english,,business|commerce|trade,,noun,
+^,,சந்தை,tamil,,tamil,'சநத':1 'market':2 'சந':3,business|commerce|trade,விக்கன்தா2ம்,noun,
+-,ꢱ,ꢱꢪꢵꢥ꣄,sourashtra,,,'ꢱꢪꢥ':1 'samaan':2 'saman':3 'samān':4 'goods':5 'good':6 'சரக':7,business|commerce|trade,समान|ஸமான்|samaan|samAn|samān|s̪əmɑːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,goods,english,,english,,business|commerce|trade,,noun,
+^,,சரக்கு,tamil,,tamil,'சரகக':1 'goods':2 'good':3 'சரக':4,business|commerce|trade,ஸமான்,noun,
+-,ꢱ,ꢱꢲꢵꢮ꣄,sourashtra,,,'ꢱꢲꢮ':1 'sahaav':2 'sahav':3 'sahāv':4 'concession':5 'சல':6,business|commerce|trade,सहाव|ஸஹாவ்|sahaav|sahAv|sahāv|s̪əɦɑːʋ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,concession,english,,english,,business|commerce|trade,,noun,
+^,,சலுகை,tamil,,tamil,'சலக':1 'concession':2 'சல':3,business|commerce|trade,ஸஹாவ்,noun,
+-,ꢱ,ꢱꢵꢤꢥ꣄,sourashtra,,,'ꢱꢤꢥ':1 'saadhan':2 'sadhan':3 'sādhan':4 'equipment':5 'தனம':6,business|commerce|trade,साधन|ஸாத4ன்|saadhan|sAdhan|sādhan|s̪ɑːd̪ʰən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,equipment,english,,english,,business|commerce|trade,,noun,
+^,,சாதனம்,tamil,,tamil,'சதனம':1 'equipment':2 'தனம':3,business|commerce|trade,ஸாத4ன்,noun,
+-,ꢪ,ꢪꢶꢡꢮꢿꢱꢸꢦꢥ꣄,sourashtra,,,'ꢪꢡꢮꢱꢦꢥ':1 'mitavesupan':2 'thrift':3 'கனம':4,business|commerce|trade,मित वेसुपन|மித வேஸுபன்|mitavesupan|mitavesupan|mitavesupan|mɪt̪əʋeːs̪upən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,thrift,english,,english,,business|commerce|trade,,noun,
+^,,சிக்கனம்,tamil,,tamil,'சககனம':1 'thrift':2 'கனம':3,business|commerce|trade,மித வேஸுபன்,noun,
+-,ꢥ,ꢥꢴꢥ꣄ꢒꢵꢱꢸꢥ꣄,sourashtra,,,'ꢥꢥꢒꢱꢥ':1 'nhankaasun':2 'nhankasun':3 'nhankāsun':4 'small':5 'change':6 'லற':7,business|commerce|trade,न्हन्कासुन|ந:ன்காஸுன்|nhankaasun|nhankAsun|nhankāsun|n̪ɦən̪kɑːs̪un̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,Small change,english,,english,,business|commerce|trade,,noun,
+^,,சில்லறை,tamil,,tamil,'சலலற':1 'small':2 'change':3 'லற':4,business|commerce|trade,ந:ன்காஸுன்,noun,
+-,ꢗ,ꢗꢶꢭ꣄ꢭꢬꢸ ꢩ꣄ꢫꢵꢬ꣄,sourashtra,,,'ꢗꢭꢭꢬꢩꢫꢬ':1 'chillarubhyaar':2 'cillarubhyar':3 'cillarubhyār':4 'retail':5 'sale':6 'லற':7 'ரம':8,business|commerce|trade,चिल्लरु भ्यार|சில்லரு ப்4யார்|chillaru bhyaar|cillaru bhyAr|cillaru bhyār|t͡ʃɪlləɾu bʰjɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,retail sale,english,,english,,business|commerce|trade,,noun,
+^,,சில்லறை வியாபாரம்,tamil,,tamil,'சலலறவயபரம':1 'retail':2 'sale':3 'லற':4 'ரம':5,business|commerce|trade,சில்லரு ப்4யார்,noun,
+-,ꢥ,ꢥꢴꢥ꣄ ꢦꢬꢶꢪꢵꢠꢸ ꢩ꣄ꢫꢵꢬ꣄,sourashtra,,,'ꢥꢥꢦꢬꢪꢠꢩꢫꢬ':1 'nhanparimaanubhyaar':2 'nhanparimanubhyar':3 'nhanparimāṇubhyār':4 'retail':5 'sale':6 'லற':7 'ரம':8,business|commerce|trade,न्हन परिमाणु भ्यार|ந:ன் பரிமாணு ப்4யார்|nhan parimaanu bhyaar|nhan parimANu bhyAr|nhan parimāṇu bhyār|n̪ɦən̪ pəɾɪmɑːɳu bʰjɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,retail sale,english,,english,,business|commerce|trade,,noun,
+^,,சில்லறை வியாபாரம்,tamil,,tamil,'சலலறவயபரம':1 'retail':2 'sale':3 'லற':4 'ரம':5,business|commerce|trade,ந:ன் பரிமாணு ப்4யார்,noun,
+-,ꢮ,ꢮꢶꢯꢿꢰꢸ ꢱꢵꢡ꣄,sourashtra,,,'ꢮꢯꢰꢱꢡ':1 'visheshusaat':2 'vizesusat':3 'viśeṣusāt':4 'super':5 'market':6 'றப':7 'பங':8,business|commerce|trade,विशेषु सात|விஸேஷு ஸாத்|visheshu saat|vizeSu sAt|viśeṣu sāt|ʋɪʃeːʂu s̪ɑːt̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,super market,english,,english,,business|commerce|trade,,noun,
+^,,சிறப்பங்காடி,tamil,,tamil,'சறபபஙகட':1 'super':2 'market':3 'றப':4 'பங':5,business|commerce|trade,விஸேஷு ஸாத்,noun,
+-,ꢪ,ꢪꢾꢜ꣄ ꢱꢵꢡ꣄,sourashtra,,,'ꢪꢜꢱꢡ':1 'metsaat':2 'metsat':3 'mĕṭsāt':4 'super':5 'market':6 'றப':7 'பங':8,business|commerce|trade,मेट्सात|மேட்ஸாத்|me't' saat|mET sAt|mĕṭ sāt|meʈ s̪ɑːt̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,super market,english,,english,,business|commerce|trade,,noun,
+^,,சிறப்பங்காடி,tamil,,tamil,'சறபபஙகட':1 'super':2 'market':3 'றப':4 'பங':5,business|commerce|trade,மேட்ஸாத்,noun,
+-,ꢮ,ꢮꢶꢯꢿꢰꢸ ꢂꢪ꣄ꢱꢸ,sourashtra,,,'ꢮꢯꢰꢂꢪꢱ':1 'visheshuamsu':2 'vizesuamsu':3 'viśeṣuamsu':4 'special':5 'feature':6 'றப':7 'பம':8 'சம':9,business|commerce|trade,विशेषु अम्सु|விஸேஷு அம்ஸு|visheshu amsu|vizeSu amsu|viśeṣu amsu|ʋɪʃeːʂu əms̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,special feature,english,,english,,business|commerce|trade,,noun,
+^,,சிறப்பம்சம்,tamil,,tamil,'சறபபமசம':1 'special':2 'feature':3 'றப':4 'பம':5 'சம':6,business|commerce|trade,விஸேஷு அம்ஸு,noun,
+-,ꢥ,ꢥꢴꢥ꣄ꢦꢬꢶꢪꢵꢠꢸ ꢱꢛ꣄ꢗꢫꣁ,sourashtra,,,'ꢥꢥꢦꢬꢪꢠꢱꢛꢗꢫ':1 'nhanparimaanusanchayo':2 'nhanparimanusajcayo':3 'nhanparimāṇusañcayŏ':4 'small':5 'savings':6 'saving':7,business|commerce|trade,न्हन्परमाणु सञ्चया॑|ந:ன்பரிமாணு ஸஞ்சயொ|nhanparimaanu sanchayo'|nhanparimANu saJcayO|nhanparimāṇu sañcayŏ|n̪ɦən̪pəɾɪmɑːɳu s̪əɲt͡ʃəjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,small savings,english,,english,,business|commerce|trade,,noun,
+^,,சிறுசேமிப்பு,tamil,,tamil,'சறசமபப':1 'small':2 'savings':3 'saving':4,business|commerce|trade,ந:ன்பரிமாணு ஸஞ்சயொ,noun,
+-,ꢥ,ꢥꢴꢥ꣄ ꢆꢬꢵꢮ꣄,sourashtra,,,'ꢥꢥꢆꢬꢮ':1 'nhanuraav':2 'nhanurav':3 'nhanurāv':4 'small':5 'savings':6 'saving':7,business|commerce|trade,न्हनुराव|ந:ன் உராவ்|nhan uraav|nhan urAv|nhan urāv|n̪ɦən̪ uɾɑːʋ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,small savings,english,,english,,business|commerce|trade,,noun,
+^,,சிறுசேமிப்பு,tamil,,tamil,'சறசமபப':1 'small':2 'savings':3 'saving':4,business|commerce|trade,ந:ன் உராவ்,noun,
+-,ꢥ,ꢥꢴꢥ꣄ ꢆꢣ꣄ꢫꣁꢔ꣄,sourashtra,,,'ꢥꢥꢆꢣꢫꢔ':1 'nhanudyog':2 'nhanudyŏg':3 'small':4 'scale':5 'industry':6,business|commerce|trade,न्हन उद्योग|ந:ன் உத்3யோக்3|nhan udyo'g|nhan udyOg|nhan udyŏg|n̪ɦən̪ ud̪jog,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,small scale industry,english,,english,,business|commerce|trade,,noun,
+^,,சிறுதொழில்,tamil,,tamil,'சறதழல':1 'small':2 'scale':3 'industry':4,business|commerce|trade,ந:ன் உத்3யோக்3,noun,
+-,ꢔ,ꢔꢸꢬ꣄ꢡꢸ,sourashtra,,,'ꢔꢬꢡ':1 'gurtu':2 'symbol':3 'னம':4,business|commerce|trade,गुर्तु|கு3ர்து|gurtu|gurtu|gurtu|guɾt̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,symbol,english,,english,,business|commerce|trade,,noun,
+^,,சின்னம்,tamil,,tamil,'சனனம':1 'symbol':2 'னம':3,business|commerce|trade,கு3ர்து,noun,
+-,ꢗ,ꢗꢶꢥ꣄ꢲꢸ,sourashtra,,,'ꢗꢥꢲ':1 'chinhu':2 'cinhu':3 'symbol':4 'னம':5,business|commerce|trade,चिन्हु|சின்ஹு|chinhu|cinhu|cinhu|t͡ʃɪn̪ɦu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,symbol,english,,english,,business|commerce|trade,,noun,
+^,,சின்னம்,tamil,,tamil,'சனனம':1 'symbol':2 'னம':3,business|commerce|trade,சின்ஹு,noun,
+-,ꢗ,ꢗꢷꢜꢸ ꢒꢪ꣄ꢦꢾꢥꢶ,sourashtra,,,'ꢗꢜꢒꢪꢦꢥ':1 'cheetukampeni':2 'citukampeni':3 'cīṭukampĕni':4 'chit':5 'fund':6 'company':7 'வனம':8,business|commerce|trade,चीटु कम्प॑नि|சீடுகம்பெனி|cheet'u kampe'ni|cITu kampEni|cīṭu kampĕni|t͡ʃiːʈu kəmpen̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,chit fund company.,english,,english,,business|commerce|trade,,noun,
+^,,சீட்டு நிறுவனம்,tamil,,tamil,'சடடநறவனம':1 'chit':2 'fund':3 'company':4 'வனம':5,business|commerce|trade,சீடுகம்பெனி,noun,
+-,ꢗ,ꢗꢷꢜꢸ ꢱ꣄ꢡꢵꢦꢥꣁ,sourashtra,,,'ꢗꢜꢱꢡꢦꢥ':1 'cheetustaapano':2 'citustapano':3 'cīṭustāpanŏ':4 'chit':5 'fund':6 'company':7 'வனம':8,business|commerce|trade,चीटु स्तापना॑|சீடு ஸ்தாபனோ|cheet'u staapano'|cITu stApanO|cīṭu stāpanŏ|t͡ʃiːʈu s̪t̪ɑːpən̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,chit fund company.,english,,english,,business|commerce|trade,,noun,
+^,,சீட்டு நிறுவனம்,tamil,,tamil,'சடடநறவனம':1 'chit':2 'fund':3 'company':4 'வனம':5,business|commerce|trade,சீடு ஸ்தாபனோ,noun,
+-,ꢒ,ꢒꢬꢥ꣄ꢒ꣄ꢬꢪꣁ,sourashtra,,,'ꢒꢬꢥꢒꢬꢪ':1 'karankramo':2 'karankramŏ':3 'procedure':4,business|commerce|trade,करन्क्रमा॑|கரன்க்ரமொ|karankramo'|karankramO|karankramŏ|kəɾən̪kɾəmo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,procedure,english,,english,,business|commerce|trade,,noun,
+^,,செய்முறை,tamil,,tamil,'சயமற':1 'procedure':2,business|commerce|trade,கரன்க்ரமொ,noun,
+-,ꢮ,ꢮꢾꢱꢸꢥ꣄,sourashtra,,,'ꢮꢱꢥ':1 'vesun':2 'vĕsun':3 'expenditure':4 'லவ':5 'னம':6,business|commerce|trade,वेसून|வேஸுன்|ve'sun|vEsun|vĕsun|ʋes̪un̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,expenditure,english,,english,,business|commerce|trade,,noun,
+^,,செலவினம்,tamil,,tamil,'சலவனம':1 'expenditure':2 'லவ':3 'னம':4,business|commerce|trade,வேஸுன்,noun,
+-,ꢮ,ꢮꢿꢱ꣄,sourashtra,,,'ꢮꢱ':1 'ves':2 'expenditure':3 'லவ':4,business|commerce|trade,वेस्|வேஸ்|ves|ves|ves|ʋeːs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,expenditure,english,,english,,business|commerce|trade,,noun,
+^,,செலவு,tamil,,tamil,'சலவ':1 'expenditure':2 'லவ':3,business|commerce|trade,வேஸ்,noun,
+-,ꢱ,ꢱꢿꢮꣁ,sourashtra,,,'ꢱꢮ':1 'sevo':2 'sevŏ':3 'service':4,business|commerce|trade,सेवा॑|ஸேவொ|sevo'|sevO|sevŏ|s̪eːʋo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,service,english,,english,,business|commerce|trade,,noun,
+^,,சேவை,tamil,,tamil,'சவ':1 'service':2,business|commerce|trade,ஸேவொ,noun,
+-,ꢡ,ꢡꢾꢔꢸꢬꢵꢭ꣄,sourashtra,,,'ꢡꢔꢬꢭ':1 'teguraal':2 'tegural':3 'tĕgurāl':4 'dispute':5 'தகர':6,business|commerce|trade,त॑गुराल्|தெகு3ரால்|te'guraal|tEgurAl|tĕgurāl|t̪eguɾɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,dispute,english,,english,,business|commerce|trade,,noun,
+^,,தகராறு,tamil,,tamil,'தகரற':1 'dispute':2 'தகர':3,business|commerce|trade,தெகு3ரால்,noun,
+-,ꢭ,ꢭꢴꢾꢓꢵ ꢱꣁꢤꢥꣁ,sourashtra,,,'ꢭꢓꢱꢤꢥ':1 'lhekhaasodhano':2 'lhekhasodhano':3 'lhĕkhāsŏdhanŏ':4 'audit':5 'தண':6,business|commerce|trade,ल्ह॑खा सोधना॑|லெ:கா2ஸோத4னொ|lhe'khaa so'dhano'|lhEkhA sOdhanO|lhĕkhā sŏdhanŏ|lɦekʰɑː s̪od̪ʰən̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,audit,english,,english,,business|commerce|trade,,noun,
+^,,தணிக்கை,tamil,,tamil,'தணகக':1 'audit':2 'தண':3,business|commerce|trade,லெ:கா2ஸோத4னொ,noun,
+-,ꢆ,ꢆꢡ꣄ꢦꢡ꣄ꢡꢶꢒꢾꢬ꣄ꢥꢵꢬ꣄ ꢡꢾꢫꢵꢬ꣄ꢒꢾꢬ꣄ꢥꢵꢬ꣄,sourashtra,,,'ꢆꢡꢦꢡꢡꢒꢬꢥꢬꢡꢫꢬꢒꢬꢥꢬ':1 'utpattikernaarteyaarkernaar':2 'utpattikernarteyarkernar':3 'utpattikĕrnārtĕyārkĕrnār':4 'producer':5 'தய':6 'ளர':7,business|commerce|trade,उत्पत्ति क॑र्नार|உத்பத்திகெர்னார்|utpattike'rnaar te'yaarke'rnaar|utpattikErnAr tEyArkErnAr|utpattikĕrnār tĕyārkĕrnār|ut̪pət̪t̪ɪkeɾn̪ɑːɾ t̪ejɑːɾkeɾn̪ɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,producer,english,,english,,business|commerce|trade,,noun,
+^,,தயாரிப்பாளர்,tamil,,tamil,'தயரபபளர':1 'producer':2 'தய':3 'ளர':4,business|commerce|trade,உத்பத்திகெர்னார்,noun,
+-,ꢆ,ꢆꢡ꣄ꢦꢡ꣄ꢡꢶꢒꢾꢬ꣄ꢥꢵꢬ꣄ ꢡꢾꢫꢵꢬ꣄ꢒꢾꢬ꣄ꢥꢵꢬ꣄,sourashtra,,,'ꢆꢡꢦꢡꢡꢒꢬꢥꢬꢡꢫꢬꢒꢬꢥꢬ':1 'utpattikernaarteyaarkernaar':2 'utpattikernarteyarkernar':3 'utpattikĕrnārtĕyārkĕrnār':4 'producer':5 'தய':6 'ளர':7,business|commerce|trade,त॑याक॑र्नार|தெயார்கெர்னார்|utpattike'rnaar te'yaarke'rnaar|utpattikErnAr tEyArkErnAr|utpattikĕrnār tĕyārkĕrnār|ut̪pət̪t̪ɪkeɾn̪ɑːɾ t̪ejɑːɾkeɾn̪ɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,producer,english,,english,,business|commerce|trade,,noun,
+^,,தயாரிப்பாளர்,tamil,,tamil,'தயரபபளர':1 'producer':2 'தய':3 'ளர':4,business|commerce|trade,தெயார்கெர்னார்,noun,
+-,ꢆ,ꢆꢡ꣄ꢦꢡ꣄ꢡꢶ,sourashtra,,,'ꢆꢡꢦꢡꢡ':1 'utpatti':2 'production':3 'தய':4,business|commerce|trade,उत्पत्ति|உத்பத்தி|utpatti|utpatti|utpatti|ut̪pət̪t̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,production,english,,english,,business|commerce|trade,,noun,
+^,,தயாரிப்பு,tamil,,tamil,'தயரபப':1 'production':2 'தய':3,business|commerce|trade,உத்பத்தி,noun,
+-,ꢒ,ꢒꢬ꣄ꢪꢣꢾꢥꢶ,sourashtra,,,'ꢒꢬꢪꢣꢥ':1 'karmadeni':2 'karmadĕni':3 'instalment':4 'தவண':5,business|commerce|trade,क्रमदेनि|க்ரமதெ3னி|karmade'ni|karmadEni|karmadĕni|kəɾməd̪en̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,instalment,english,,english,,business|commerce|trade,,noun,
+^,,தவணை,tamil,,tamil,'தவண':1 'instalment':2,business|commerce|trade,க்ரமதெ3னி,noun,
+-,ꢣ,ꢣꣁꢨ꣄ꢨꢶꢥꢶ,sourashtra,,,'ꢣꢨꢨꢥ':1 'dobbini':2 'dŏbbini':3 'discount':4 'தள':5 'பட':6,business|commerce|trade,दा॑ब्बिनि|தொ3ப்3பி3னி|do'bbini|dObbini|dŏbbini|d̪obbɪn̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,discount,english,,english,,business|commerce|trade,,noun,
+^,,தள்ளுபடி,tamil,,tamil,'தளளபட':1 'discount':2 'தள':3 'பட':4,business|commerce|trade,தொ3ப்3பி3னி,noun,
+-,ꢬ,ꢬꣁꢒ꣄ꢒꢪ꣄,sourashtra,,,'ꢬꢒꢒꢪ':1 'rokkam':2 'rŏkkam':3 'amount':4,business|commerce|trade,रा॑क्कम|ரொக்கம்|ro'kkam|rOkkam|rŏkkam|ɾokkəm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,amount,english,,english,,business|commerce|trade,,noun,
+^,,தொகை,tamil,,tamil,'தக':1 'amount':2,business|commerce|trade,ரொக்கம்,noun,
+-,ꢆ,ꢆꢣ꣄ꢫꣂꢔ꣄,sourashtra,,,'ꢆꢣꢫꢔ':1 'udyog':2 'profession':3,business|commerce|trade,उद्योग्|உத்3யோக்3|udyog|udyog|udyog|ud̪joːg,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,profession,english,,english,,business|commerce|trade,,noun,
+^,,தொழில்,tamil,,tamil,'தழல':1 'profession':2,business|commerce|trade,உத்3யோக்3,noun,
+-,ꢆ,ꢆꢣ꣄ꢫꣂꢔꢸ ꢕꢥꣁ,sourashtra,,,'ꢆꢣꢫꢔꢕꢥ':1 'udyogughano':2 'udyogughanŏ':3 'factory':4 'லகம':5,business|commerce|trade,उद्योगु घना॑|உத்3யோகு3 க4னொ|udyogu ghano'|udyogu ghanO|udyogu ghanŏ|ud̪joːgu gʰən̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,factory,english,,english,,business|commerce|trade,,noun,
+^,,தொழிலகம்/ தொழிற் சாலை,tamil,,tamil,'தழலகமதழறசல':1 'factory':2 'லகம':3,business|commerce|trade,உத்3யோகு3 க4னொ,noun,
+-,ꢒ,ꢒꢵꢪ꣄ ꢒꢬ꣄ꢡꢵꢥ꣄,sourashtra,,,'ꢒꢪꢒꢬꢡꢥ':1 'kaamkartaan':2 'kamkartan':3 'kāmkartān':4 'labourers':5 'labourer':6 'ளர':7,business|commerce|trade,काम्कर्तान्|காம்கர்தான்|kaam kartaan|kAm kartAn|kām kartān|kɑːm kəɾt̪ɑːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,labourers,english,,english,,business|commerce|trade,,noun,
+^,,தொழிலாளர்,tamil,,tamil,'தழலளர':1 'labourers':2 'labourer':3 'ளர':4,business|commerce|trade,காம்கர்தான்,noun,
+-,ꢒ,ꢒꢵꢪ꣄ ꢒꢬ꣄ꢡ꣄ꢡꣁ,sourashtra,,,'ꢒꢪꢒꢬꢡꢡ':1 'kaamkartto':2 'kamkartto':3 'kāmkarttŏ':4 'labourer':5,business|commerce|trade,काम्कर्ता॑|காம்கர்தொ|kaam kartto'|kAm karttO|kām karttŏ|kɑːm kəɾt̪t̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,labourer,english,,english,,business|commerce|trade,,noun,
+^,,தொழிலாளி,tamil,,tamil,'தழலள':1 'labourer':2,business|commerce|trade,காம்கர்தொ,noun,
+-,ꢒ,ꢒꢵꢪ꣄ ꢒꢬ꣄ꢡꢵꢥꢸ ꢱꢖ꣄ꢔꢸ,sourashtra,,,'ꢒꢪꢒꢬꢡꢥꢱꢖꢔ':1 'kaamkartaanusangu':2 'kamkartanusaggu':3 'kāmkartānusaṅgu':4 'labour':5 'union':6 'சங':7 'கம':8,business|commerce|trade,काम्कर्तानु सङगु|காம்கர்தானுஸங்கு3|kaam kartaanu sangu|kAm kartAnu saGgu|kām kartānu saṅgu|kɑːm kəɾt̪ɑːn̪u s̪əŋgu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,labour union,english,,english,,business|commerce|trade,,noun,
+^,,தொழிற் சங்கம்,tamil,,tamil,'தழறசஙகம':1 'labour':2 'union':3 'சங':4 'கம':5,business|commerce|trade,காம்கர்தானுஸங்கு3,noun,
+-,ꢒ,ꢒꢵꢗꢮꢵꢥꢵ,sourashtra,,,'ꢒꢗꢮꢥ':1 'kaachavaanaa':2 'kacavana':3 'kācavānā':4 'factory':5,business|commerce|trade,काचवाना|காசகானா|kaachavaanaa|kAcavAnA|kācavānā|kɑːt͡ʃəʋɑːn̪ɑː,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,factory,english,,english,,business|commerce|trade,,noun,
+^,,தொழிற் சாலை,tamil,,tamil,'தழறசல':1 'factory':2,business|commerce|trade,காசகானா,noun,
+-,ꢥ,ꢥꣁꢰ꣄ꢜꢶ,sourashtra,,,'ꢥꢰꢜ':1 'noshti':2 'nosti':3 'nŏṣṭi':4 'loss':5 'நஷ':6 'டம':7,business|commerce|trade,न॑ष्टि|நெஷ்டி|no'sht'i|nOSTi|nŏṣṭi|n̪oʂʈɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,loss,english,,english,,business|commerce|trade,,noun,
+^,,நஷ்டம்,tamil,,tamil,'நஷடம':1 'loss':2 'நஷ':3 'டம':4,business|commerce|trade,நெஷ்டி,noun,
+-,ꢒ,ꢒꢵꢱꢸ ꢨꢶꢭ꣄ꢭꣁ,sourashtra,,,'ꢒꢱꢨꢭꢭ':1 'kaasubillo':2 'kasubillo':3 'kāsubillŏ':4 'coin':5 'ணயம':6,business|commerce|trade,कासु बिल्ला॑|காஸு பி3ல்லொ|kaasu billo'|kAsu billO|kāsu billŏ|kɑːs̪u bɪllo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,coin,english,,english,,business|commerce|trade,,noun,
+^,,நாணயம்,tamil,,tamil,'நணயம':1 'coin':2 'ணயம':3,business|commerce|trade,காஸு பி3ல்லொ,noun,
+-,ꢥ,ꢥꢶꢒꢬ ꢭꢵꢩ꣄,sourashtra,,,'ꢥꢒꢬꢭꢩ':1 'nikaralaabh':2 'nikaralabh':3 'nikaralābh':4 'net':5 'profit':6 'கரல':7 'பம':8,business|commerce|trade,निकर लाभ्|நிகரலாப்4|nikara laabh|nikara lAbh|nikara lābh|n̪ɪkəɾə lɑːbʰ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,net profit,english,,english,,business|commerce|trade,,noun,
+^,,நிகரலாபம்,tamil,,tamil,'நகரலபம':1 'net':2 'profit':3 'கரல':4 'பம':5,business|commerce|trade,நிகரலாப்4,noun,
+-,ꢲ,ꢲꢠ꣄ꢠꢮ꣄,sourashtra,,,'ꢲꢠꢠꢮ':1 'hannav':2 'haṇṇav':3 'finance':4,business|commerce|trade,हण्णव्|ஹன்னவ்|hannav|haNNav|haṇṇav|ɦəɳɳəʋ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,finance,english,,english,,business|commerce|trade,,noun,
+^,,நிதி,tamil,,tamil,'நத':1 'finance':2,business|commerce|trade,ஹன்னவ்,noun,
+-,ꢥ,ꢥꢶꢤꢶ,sourashtra,,,'ꢥꢤ':1 'nidhi':2 'finance':3,business|commerce|trade,निधि|நிதி4|nidhi|nidhi|nidhi|n̪ɪd̪ʰɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,finance,english,,english,,business|commerce|trade,,noun,
+^,,நிதி,tamil,,tamil,'நத':1 'finance':2,business|commerce|trade,நிதி4,noun,
+-,ꢥ,ꢥꢶꢤꢶ ꢏꢬ꣄ꢱꢸ,sourashtra,,,'ꢥꢤꢏꢬꢱ':1 'nidhiorsu':2 'nidhiŏrsu':3 'financial':4 'year':5,business|commerce|trade,निद्गि आ॑र्सु|நிதி4ஒர்ஸு|nidhi o'rsu|nidhi Orsu|nidhi ŏrsu|n̪ɪd̪ʰɪ oɾs̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,financial year,english,,english,,business|commerce|trade,,noun,
+^,,நிதியாண்டு,tamil,,tamil,'நதயணட':1 'financial':2 'year':3,business|commerce|trade,நிதி4ஒர்ஸு,noun,
+-,ꢥ,ꢥꢶꢬ꣄ꢮꢵꢲꢸ ꢒꢵꢬ꣄ꢫꢵꢭꢫꣁ,sourashtra,,,'ꢥꢬꢮꢲꢒꢬꢫꢭꢫ':1 'nirvaahukaaryaalayo':2 'nirvahukaryalayo':3 'nirvāhukāryālayŏ':4 'administrative':5 'office':6 'அல':7 'வலகம':8,business|commerce|trade,निर्वाहु कार्यालया॑|நிர்வாஹு கார்யாலயொ|nirvaahu kaaryaalayo'|nirvAhu kAryAlayO|nirvāhu kāryālayŏ|n̪ɪɾʋɑːɦu kɑːɾjɑːləjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,administrative office,english,,english,,business|commerce|trade,,noun,
+^,,நிர்வாக அலுவலகம்,tamil,,tamil,'நரவகஅலவலகம':1 'administrative':2 'office':3 'அல':4 'வலகம':5,business|commerce|trade,நிர்வாஹு கார்யாலயொ,noun,
+-,ꢥ,ꢥꢶꢬ꣄ꢮꢵꢲꢶ,sourashtra,,,'ꢥꢬꢮꢲ':1 'nirvaahi':2 'nirvahi':3 'nirvāhi':4 'administrator':5,business|commerce|trade,निर्वाह|நிர்வாஹி|nirvaahi|nirvAhi|nirvāhi|n̪ɪɾʋɑːɦɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,administrator,english,,english,,business|commerce|trade,,noun,
+^,,நிர்வாகி,tamil,,tamil,'நரவக':1 'administrator':2,business|commerce|trade,நிர்வாஹி,noun,
+-,ꢓ,ꢓꢞꢱ꣄ꢡꢾꢥꢸ,sourashtra,,,'ꢓꢞꢱꢡꢥ':1 'khadastenu':2 'khaḍastĕnu':3 'consumers':4 'consumer':5 'கர':6,business|commerce|trade,खटस्त॑नु|க2ட3ஸ்தெனு|khad'aste'nu|khaDastEnu|khaḍastĕnu|kʰəɖəs̪t̪en̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,consumers,english,,english,,business|commerce|trade,,noun,
+^,,நுகர்வோர்,tamil,,tamil,'நகரவர':1 'consumers':2 'consumer':3 'கர':4,business|commerce|trade,க2ட3ஸ்தெனு,noun,
+-,ꢮ,ꢮꢮ꣄ꢬꢸꢥꢵꢬ꣄,sourashtra,,,'ꢮꢮꢬꢥꢬ':1 'vavrunaar':2 'vavrunar':3 'vavrunār':4 'consumers':5 'consumer':6 'கர':7,business|commerce|trade,वव्रुनार|வவ்ருனார்|vavrunaar|vavrunAr|vavrunār|ʋəʋɾun̪ɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,consumers,english,,english,,business|commerce|trade,,noun,
+^,,நுகர்வோர்,tamil,,tamil,'நகரவர':1 'consumers':2 'consumer':3 'கர':4,business|commerce|trade,வவ்ருனார்,noun,
+-,ꢥ,ꢥꢸꢔꢸꢥꢵꢬ꣄,sourashtra,,,'ꢥꢔꢥꢬ':1 'nugunaar':2 'nugunar':3 'nugunār':4 'consumers':5 'consumer':6 'கர':7,business|commerce|trade,नुगुनार|நுகு3னார்|nugunaar|nugunAr|nugunār|n̪ugun̪ɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,consumers,english,,english,,business|commerce|trade,,noun,
+^,,நுகர்வோர்,tamil,,tamil,'நகரவர':1 'consumers':2 'consumer':3 'கர':4,business|commerce|trade,நுகு3னார்,noun,
+-,ꢩ,ꢩꢵꢔꢱ꣄ꢢꢬ꣄,sourashtra,,,'ꢩꢔꢱꢢꢬ':1 'bhaagasthar':2 'bhagasthar':3 'bhāgasthar':4 'share':5 'holder':6 'பங':7 'ளர':8 'கள':9,business|commerce|trade,भागस्थर|பா4க3ஸ்த2ர்|bhaagasthar|bhAgasthar|bhāgasthar|bʰɑːgəs̪t̪ʰəɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,share holder,english,,english,,business|commerce|trade,,noun,
+^,,பங்காளர்கள்,tamil,,tamil,'பஙகளரகள':1 'share':2 'holder':3 'பங':4 'ளர':5 'கள':6,business|commerce|trade,பா4க3ஸ்த2ர்,noun,
+-,ꢩ,ꢩꢵꢔ꣄,sourashtra,,,'ꢩꢔ':1 'bhaag':2 'bhag':3 'bhāg':4 'share':5 'பங':6,business|commerce|trade,भाग|பா4க்3|bhaag|bhAg|bhāg|bʰɑːg,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,share,english,,english,,business|commerce|trade,,noun,
+^,,பங்கு,tamil,,tamil,'பஙக':1 'share':2 'பங':3,business|commerce|trade,பா4க்3,noun,
+-,ꢮ,ꢮꢜꣁ,sourashtra,,,'ꢮꢜ':1 'vato':2 'vaṭŏ':3 'share':4 'பங':5,business|commerce|trade,वटा॑|வடொ|vat'o'|vaTO|vaṭŏ|ʋəʈo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,share,english,,english,,business|commerce|trade,,noun,
+^,,பங்கு,tamil,,tamil,'பஙக':1 'share':2 'பங':3,business|commerce|trade,வடொ,noun,
+-,ꢗ,ꢗꢹꢗꢶ ꢦꢡ꣄ꢬꢸ,sourashtra,,,'ꢗꢗꢦꢡꢬ':1 'choochipatru':2 'cucipatru':3 'cūcipatru':4 'list':5 'பட':6 'யல':7,business|commerce|trade,सूचिपत्रु|ஸூசிபத்ரு|choochi patru|cUci patru|cūci patru|t͡ʃuːt͡ʃɪ pət̪ɾu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,list,english,,english,,business|commerce|trade,,noun,
+^,,பட்டியல்,tamil,,tamil,'படடயல':1 'list':2 'பட':3 'யல':4,business|commerce|trade,ஸூசிபத்ரு,noun,
+-,ꢔ,ꢔꢶꢞ꣄ꢞꢖ꣄ꢔꢶ,sourashtra,,,'ꢔꢞꢞꢖꢔ':1 'giddangi':2 'giddaggi':3 'giḍḍaṅgi':4 'store':5 'house':6 'பண':7 'டகச':8,business|commerce|trade,गिड्डङ्गि|கி3ட்3ட3ங்கி3|gid'd'angi|giDDaGgi|giḍḍaṅgi|gɪɖɖəŋgɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,store house,english,,english,,business|commerce|trade,,noun,
+^,,பண்டகசாலை,tamil,,tamil,'பணடகசல':1 'store':2 'house':3 'பண':4 'டகச':5,business|commerce|trade,கி3ட்3ட3ங்கி3,noun,
+-,ꢙ,ꢙꢪꢵꢥꢸꢥ꣄,sourashtra,,,'ꢙꢪꢥꢥ':1 'jamaanun':2 'jamanun':3 'jamānun':4 'goods':5 'good':6 'பண':7 'டங':8 'கள':9,business|commerce|trade,जमानुन|ஜமானுன்|jamaanun|jamAnun|jamānun|d͡ʒəmɑːn̪un̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,goods,english,,english,,business|commerce|trade,,noun,
+^,,பண்டங்கள்,tamil,,tamil,'பணடஙகள':1 'goods':2 'good':3 'பண':4 'டங':5 'கள':6,business|commerce|trade,ஜமானுன்,noun,
+-,ꢒ,ꢒꢸꢡꣁ,sourashtra,,,'ꢒꢡ':1 'kuto':2 'kutŏ':3 'pawn':4 'பணயம':5,business|commerce|trade,कुता॑|குதொ|kuto'|kutO|kutŏ|kut̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,pawn,english,,english,,business|commerce|trade,,noun,
+^,,பணயம்,tamil,,tamil,'பணயம':1 'pawn':2,business|commerce|trade,குதொ,noun,
+-,ꢦ,ꢦꢡ꣄ꢡꢶꢬꢪ꣄,sourashtra,,,'ꢦꢡꢡꢬꢪ':1 'pattiram':2 'bond':3 'paper':4 'stamp':5 'பத':6 'ரம':7,business|commerce|trade,पत्तिरम|பத்திரம்|pattiram|pattiram|pattiram|pət̪t̪ɪɾəm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,"bond paper, stamp paper",english,,english,,business|commerce|trade,,noun,
+^,,பத்திரம்,tamil,,tamil,'பததரம':1 'bond':2 'paper':3 'stamp':4 'பத':5 'ரம':6,business|commerce|trade,பத்திரம்,noun,
+-,ꢦ,ꢦꢡ꣄ꢡꢶꢬꢪꢸ ꢒꢵꢬ꣄ꢫꢭꢫꣁ,sourashtra,,,'ꢦꢡꢡꢬꢪꢒꢬꢫꢭꢫ':1 'pattiramukaaryalayo':2 'pattiramukaryalayo':3 'pattiramukāryalayŏ':4 'register':5 'office':6 'பத':7 'அல':8 'வலகம':9,business|commerce|trade,पत्तिरमु कार्यलया॑|பத்திரமு கார்யலயொ|pattiramu kaaryalayo'|pattiramu kAryalayO|pattiramu kāryalayŏ|pət̪t̪ɪɾəmu kɑːɾjələjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,register office,english,,english,,business|commerce|trade,,noun,
+^,,பதிவு அலுவலகம்,tamil,,tamil,'பதவஅலவலகம':1 'register':2 'office':3 'பத':4 'அல':5 'வலகம':6,business|commerce|trade,பத்திரமு கார்யலயொ,noun,
+-,ꢗ,ꢗꢶꢱ꣄ꢭꣁ,sourashtra,,,'ꢗꢱꢭ':1 'chislo':2 'cislo':3 'cislŏ':4 'provision':5 'பலசரக':6,business|commerce|trade,चिस्ला॑|சிஸ்லொ|chislo'|cislO|cislŏ|t͡ʃɪs̪lo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,provision,english,,english,,business|commerce|trade,,noun,
+^,,பலசரக்கு,tamil,,tamil,'பலசரகக':1 'provision':2 'பலசரக':3,business|commerce|trade,சிஸ்லொ,noun,
+-,ꢗ,ꢗꢵꢱ꣄ꢭꢵ ꢂꢖ꣄ꢔꢶꢞꢶ,sourashtra,,,'ꢗꢱꢭꢂꢖꢔꢞ':1 'chaaslaaangidi':2 'caslaaggidi':3 'cāslāaṅgiḍi':4 'provision':5 'shop':6 'பலசரக':7 'கட':8,business|commerce|trade,चिस्ला अङगिडि|சிஸ்லாஅங்கி3டி3|chaaslaa angid'i|cAslA aGgiDi|cāslā aṅgiḍi|t͡ʃɑːs̪lɑː əŋgɪɖɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,provision shop,english,,english,,business|commerce|trade,,noun,
+^,,பலசரக்குக் கடை,tamil,,tamil,'பலசரககககட':1 'provision':2 'shop':3 'பலசரக':4 'கட':5,business|commerce|trade,சிஸ்லாஅங்கி3டி3,noun,
+-,ꢆ,ꢆꢬꢵꢮ꣄,sourashtra,,,'ꢆꢬꢮ':1 'uraav':2 'urav':3 'urāv':4 'balance':5,business|commerce|trade,उराव्|உராவ்|uraav|urAv|urāv|uɾɑːʋ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,balance,english,,english,,business|commerce|trade,,noun,
+^,,பாக்கி,tamil,,tamil,'பகக':1 'balance':2,business|commerce|trade,உராவ்,noun,
+-,ꢒ,ꢒꢵꢨꢥ꣄ꢣꢸ,sourashtra,,,'ꢒꢨꢥꢣ':1 'kaabandu':2 'kabandu':3 'kābandu':4 'protection':5,business|commerce|trade,काबन्दु|காப3ந்து3|kaabandu|kAbandu|kābandu|kɑːbən̪d̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,protection,english,,english,,business|commerce|trade,,noun,
+^,,பாதுகாப்பு,tamil,,tamil,'பதகபப':1 'protection':2,business|commerce|trade,காப3ந்து3,noun,
+-,ꢱ,ꢱꢪꢵꢥ꣄,sourashtra,,,'ꢱꢪꢥ':1 'samaan':2 'saman':3 'samān':4 'goods':5 'good':6 'கள':7,business|commerce|trade,स्मान|ஸமான்|samaan|samAn|samān|s̪əmɑːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,goods,english,,english,,business|commerce|trade,,noun,
+^,,பொருட்கள்,tamil,,tamil,'பரடகள':1 'goods':2 'good':3 'கள':4,business|commerce|trade,ஸமான்,noun,
+-,ꢩ,ꢩꣁꢠ꣄ꢠꢪꢸꢥ꣄,sourashtra,,,'ꢩꢠꢠꢪꢥ':1 'bhonnamun':2 'bhŏṇṇamun':3 'goods':4 'good':5 'கள':6,business|commerce|trade,भोण्णमुन|பொ4ண்ணமுன்|bho'nnamun|bhONNamun|bhŏṇṇamun|bʰoɳɳəmun̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,goods,english,,english,,business|commerce|trade,,noun,
+^,,பொருட்கள்,tamil,,tamil,'பரடகள':1 'goods':2 'good':3 'கள':4,business|commerce|trade,பொ4ண்ணமுன்,noun,
+-,ꢮ,ꢮꢱ꣄ꢡꢸꢥ꣄,sourashtra,,,'ꢮꢱꢡꢥ':1 'vastun':2 'goods':3 'good':4 'கள':5,business|commerce|trade,वस्तुन|வஸ்துன்|vastun|vastun|vastun|ʋəs̪t̪un̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,goods,english,,english,,business|commerce|trade,,noun,
+^,,பொருட்கள்,tamil,,tamil,'பரடகள':1 'goods':2 'good':3 'கள':4,business|commerce|trade,வஸ்துன்,noun,
+-,ꢥ,ꢥꢶꢤꢶꢱꢲꢵꢮ꣄,sourashtra,,,'ꢥꢤꢱꢲꢮ':1 'nidhisahaav':2 'nidhisahav':3 'nidhisahāv':4 'financial':5 'aid':6 'தவ':7,business|commerce|trade,निधिसहाव|நிதி4ஸஹாவ்|nidhisahaav|nidhisahAv|nidhisahāv|n̪ɪd̪ʰɪs̪əɦɑːʋ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,financial aid,english,,english,,business|commerce|trade,,noun,
+^,,பொருளுதவி,tamil,,tamil,'பரளதவ':1 'financial':2 'aid':3 'தவ':4,business|commerce|trade,நிதி4ஸஹாவ்,noun,
+-,ꢔ,ꢔꢸꢠ꣄ꢠꢸꢲꢷꢥꢸꢮꢱ꣄ꢡꢸꢥ꣄,sourashtra,,,'ꢔꢠꢠꢲꢥꢮꢱꢡꢥ':1 'gunnuheenuvastun':2 'gunnuhinuvastun':3 'guṇṇuhīnuvastun':4 'duplicate':5 'product':6 'சரக':7,business|commerce|trade,गुण्णुहीनुवस्तुन|கு3ண்ணுஹீனுவஸ்துன்|gunnuheenuvastun|guNNuhInuvastun|guṇṇuhīnuvastun|guɳɳuɦiːn̪uʋəs̪t̪un̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,duplicate product,english,,english,,business|commerce|trade,,noun,
+^,,போலிச்சரக்கு,tamil,,tamil,'பலசசரகக':1 'duplicate':2 'product':3 'சரக':4,business|commerce|trade,கு3ண்ணுஹீனுவஸ்துன்,noun,
+-,ꢱ,ꢱꣁꢖ꣄ꢒꣁ,sourashtra,,,'ꢱꢖꢒ':1 'sonko':2 'sogko':3 'sŏṅkŏ':4 'cheap':5 'மல':6,business|commerce|trade,सा॑ङ्गा॑|ஸொங்கொ3|so'nko'|sOGkO|sŏṅkŏ|s̪oŋko,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,cheap,english,,english,,business|commerce|trade,,noun,
+^,,மலிவு,tamil,,tamil,'மலவ':1 'cheap':2 'மல':3,business|commerce|trade,ஸொங்கொ3,noun,
+-,ꢂ,ꢂꢭ꣄ꢦ,sourashtra,,,'ꢂꢭꢦ':1 'alpa':2 'cheap':3 'மல':4,business|commerce|trade,अल्प|அல்ப|alpa|alpa|alpa|əlpə,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,cheap,english,,english,,business|commerce|trade,,noun,
+^,,மலிவு,tamil,,tamil,'மலவ':1 'cheap':2 'மல':3,business|commerce|trade,அல்ப,noun,
+-,ꢩ,ꢩꢬ꣄ꢡꢶꢪꣁ,sourashtra,,,'ꢩꢬꢡꢪ':1 'bhartimo':2 'bhartimŏ':3 'sample':4,business|commerce|trade,भर्तिमा॑|ப4ர்திமொ|bhartimo'|bhartimO|bhartimŏ|bʰəɾt̪ɪmo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,sample,english,,english,,business|commerce|trade,,noun,
+^,,மாதிரி,tamil,,tamil,'மதர':1 'sample':2,business|commerce|trade,ப4ர்திமொ,noun,
+-,ꢆ,ꢆꢬꢵꢮ꣄,sourashtra,,,'ꢆꢬꢮ':1 'uraav':2 'urav':3 'urāv':4 'balance':5 'சம':6,business|commerce|trade,उराव्|உராவ்|uraav|urAv|urāv|uɾɑːʋ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,balance,english,,english,,business|commerce|trade,,noun,
+^,,மிச்சம் / மீதி,tamil,,tamil,'மசசமமத':1 'balance':2 'சம':3,business|commerce|trade,உராவ்,noun,
+-,ꢯ,ꢯꢿꢰ꣄,sourashtra,,,'ꢯꢰ':1 'shesh':2 'zes':3 'śeṣ':4 'balance':5 'சம':6,business|commerce|trade,शेष्|ஶேஷ்|shesh|zeS|śeṣ|ʃeːʂ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,balance,english,,english,,business|commerce|trade,,noun,
+^,,மிச்சம் / மீதி,tamil,,tamil,'மசசமமத':1 'balance':2 'சம':3,business|commerce|trade,ஶேஷ்,noun,
+-,ꢩ,ꢩꢬ꣄ꢡꢶ ꢪꢾꢥꢶꢒ꣄,sourashtra,,,'ꢩꢬꢡꢪꢥꢒ':1 'bhartimenik':2 'bhartimĕnik':3 'agent':4 'கவர':5,business|commerce|trade,भर्ति म॑निक|ப4ர்திமெனிக்|bharti me'nik|bharti mEnik|bharti mĕnik|bʰəɾt̪ɪ men̪ɪk,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,agent,english,,english,,business|commerce|trade,,noun,
+^,,முகவர்,tamil,,tamil,'மகவர':1 'agent':2 'கவர':3,business|commerce|trade,ப4ர்திமெனிக்,noun,
+-,ꢩ,ꢩꢬ꣄ꢡꢶꢮꢵꢥ꣄,sourashtra,,,'ꢩꢬꢡꢮꢥ':1 'bhartivaan':2 'bhartivan':3 'bhartivān':4 'agent':5 'கவர':6,business|commerce|trade,भर्तिवान|ப4ர்திவான்|bhartivaan|bhartivAn|bhartivān|bʰəɾt̪ɪʋɑːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,agent,english,,english,,business|commerce|trade,,noun,
+^,,முகவர்,tamil,,tamil,'மகவர':1 'agent':2 'கவர':3,business|commerce|trade,ப4ர்திவான்,noun,
+-,ꢪ,ꢪꢹꢭꢸꢤꢥ꣄,sourashtra,,,'ꢪꢭꢤꢥ':1 'mooludhan':2 'muludhan':3 'mūludhan':4 'capital':5 'தல':6,business|commerce|trade,मूलुधन|மூலுத4ன்|mooludhan|mUludhan|mūludhan|muːlud̪ʰən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,capital,english,,english,,business|commerce|trade,,noun,
+^,,முதல்,tamil,,tamil,'மதல':1 'capital':2 'தல':3,business|commerce|trade,மூலுத4ன்,noun,
+-,ꢂ,ꢂꢤꢶꢦꢡꢶ,sourashtra,,,'ꢂꢤꢦꢡ':1 'adhipati':2 'owner':3 'capitalist':4 'தல':5,business|commerce|trade,अधिपति|அதி4பதி|adhipati|adhipati|adhipati|əd̪ʰɪpət̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,"owner, capitalist",english,,english,,business|commerce|trade,,noun,
+^,,முதலாளி,tamil,,tamil,'மதலள':1 'owner':2 'capitalist':3 'தல':4,business|commerce|trade,அதி4பதி,noun,
+-,ꢥ,ꢥꢶꢮꢿꢰꢠꣁ,sourashtra,,,'ꢥꢮꢰꢠ':1 'niveshano':2 'nivesano':3 'niveṣaṇŏ':4 'investment':5 'capital':6 'தல':7 'லதனம':8,business|commerce|trade,निवेषणा॑|நிவேஷணொ|niveshano'|niveSaNO|niveṣaṇŏ|n̪ɪʋeːʂəɳo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,Investment/ capital,english,,english,,business|commerce|trade,,noun,
+^,,முதலீடு/ மூலதனம்,tamil,,tamil,'மதலடமலதனம':1 'investment':2 'capital':3 'தல':4 'லதனம':5,business|commerce|trade,நிவேஷணொ,noun,
+-,ꢪ,ꢪꢹꢭꢸꢤꢥ꣄,sourashtra,,,'ꢪꢭꢤꢥ':1 'mooludhan':2 'muludhan':3 'mūludhan':4 'investment':5 'capital':6 'தல':7 'லதனம':8,business|commerce|trade,मूलुधन|மூலுத4ன்|mooludhan|mUludhan|mūludhan|muːlud̪ʰən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,Investment/ capital,english,,english,,business|commerce|trade,,noun,
+^,,முதலீடு/ மூலதனம்,tamil,,tamil,'மதலடமலதனம':1 'investment':2 'capital':3 'தல':4 'லதனம':5,business|commerce|trade,மூலுத4ன்,noun,
+-,ꢃ,ꢃꢲꢡ꣄,sourashtra,,,'ꢃꢲꢡ':1 'aahat':2 'ahat':3 'āhat':4 'total':5 'தம':6,business|commerce|trade,आहत|ஆஹத்|aahat|Ahat|āhat|ɑːɦət̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,total,english,,english,,business|commerce|trade,,noun,
+^,,மொத்தம்,tamil,,tamil,'மததம':1 'total':2 'தம':3,business|commerce|trade,ஆஹத்,noun,
+-,ꢂ,ꢂꢱ꣄ꢒꣁ,sourashtra,,,'ꢂꢱꢒ':1 'asko':2 'askŏ':3 'total':4 'தம':5,business|commerce|trade,अस्का॑|அஸ்கொ|asko'|askO|askŏ|əs̪ko,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,total,english,,english,,business|commerce|trade,,noun,
+^,,மொத்தம்,tamil,,tamil,'மததம':1 'total':2 'தம':3,business|commerce|trade,அஸ்கொ,noun,
+-,ꢃ,ꢃꢲꢡ꣄ꢩ꣄ꢫꢵꢬ꣄,sourashtra,,,'ꢃꢲꢡꢩꢫꢬ':1 'aahatbhyaar':2 'ahatbhyar':3 'āhatbhyār':4 'wholesale':5 'ரம':6,business|commerce|trade,आहत्भ्यार|ஆஹத்ப்4யார்|aahatbhyaar|AhatbhyAr|āhatbhyār|ɑːɦət̪bʰjɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,wholesale,english,,english,,business|commerce|trade,,noun,
+^,,மொத்த வியாபாரம்,tamil,,tamil,'மததவயபரம':1 'wholesale':2 'ரம':3,business|commerce|trade,ஆஹத்ப்4யார்,noun,
+-,ꢦ,ꢦ꣄ꢬꢵꢦ꣄ꢡꢶꢦꢡ꣄ꢬꢸ,sourashtra,,,'ꢦꢬꢦꢡꢦꢡꢬ':1 'praaptipatru':2 'praptipatru':3 'prāptipatru':4 'receipt':5 'ரச':6,business|commerce|trade,प्राप्तिपत्रु|ப்ராப்திபத்ரு|praaptipatru|prAptipatru|prāptipatru|pɾɑːpt̪ɪpət̪ɾu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,receipt,english,,english,,business|commerce|trade,,noun,
+^,,ரசீது,tamil,,tamil,'ரசத':1 'receipt':2 'ரச':3,business|commerce|trade,ப்ராப்திபத்ரு,noun,
+-,ꢦ,ꢦꢵꢮꢡꢶ,sourashtra,,,'ꢦꢮꢡ':1 'paavati':2 'pavati':3 'pāvati':4 'receipt':5 'ரச':6,business|commerce|trade,पावति|பாவதி|paavati|pAvati|pāvati|pɑːʋət̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,receipt,english,,english,,business|commerce|trade,,noun,
+^,,ரசீது,tamil,,tamil,'ரசத':1 'receipt':2 'ரச':3,business|commerce|trade,பாவதி,noun,
+-,ꢬ,ꢬꢸꢦꢵꢫ꣄,sourashtra,,,'ꢬꢦꢫ':1 'rupaay':2 'rupay':3 'rupāy':4 'rupee':5,business|commerce|trade,रुपाय्|ருபாய்|rupaay|rupAy|rupāy|ɾupɑːj,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,rupee,english,,english,,business|commerce|trade,,noun,
+^,,ரூபாய்,tamil,,tamil,'ரபய':1 'rupee':2,business|commerce|trade,ருபாய்,noun,
+-,ꢬ,ꢬꣁꢒ꣄ꢒꢪ꣄,sourashtra,,,'ꢬꢒꢒꢪ':1 'rokkam':2 'rŏkkam':3 'cash':4 'கம':5,business|commerce|trade,रा॑क्कम्|ரொக்கம்|ro'kkam|rOkkam|rŏkkam|ɾokkəm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,in cash,english,,english,,business|commerce|trade,,noun,
+^,,ரொக்கம்,tamil,,tamil,'ரககம':1 'cash':2 'கம':3,business|commerce|trade,ரொக்கம்,noun,
+-,ꢭ,ꢭꢵꢨ꣄,sourashtra,,,'ꢭꢨ':1 'laab':2 'lab':3 'lāb':4 'profit':5 'பம':6,business|commerce|trade,लाब्|லாப்3|laab|lAb|lāb|lɑːb,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,profit,english,,english,,business|commerce|trade,,noun,
+^,,லாபம்,tamil,,tamil,'லபம':1 'profit':2 'பம':3,business|commerce|trade,லாப்3,noun,
+-,ꢪ,ꢪꢸꢭ꣄ꢧꢭꢵꢨ꣄,sourashtra,,,'ꢪꢭꢧꢭꢨ':1 'mulphalaab':2 'mulphalab':3 'mulphalāb':4 'interest':5 'வட':6,business|commerce|trade,मुल्फलाब्|முல்ப2லாப்3|mulphalaab|mulphalAb|mulphalāb|mulpʰəlɑːb,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,interest,english,,english,,business|commerce|trade,,noun,
+^,,வட்டி,tamil,,tamil,'வடட':1 'interest':2 'வட':3,business|commerce|trade,முல்ப2லாப்3,noun,
+-,ꢩ,ꢩ꣄ꢫꢵꢬ꣄,sourashtra,,,'ꢩꢫꢬ':1 'bhyaar':2 'bhyar':3 'bhyār':4 'trade':5 'business':6 'வண':7 'கம':8,business|commerce|trade,भ्यार|ப்4யார்|bhyaar|bhyAr|bhyār|bʰjɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,"trade, business",english,,english,,business|commerce|trade,,noun,
+^,,வணிகம்,tamil,,tamil,'வணகம':1 'trade':2 'business':3 'வண':4 'கம':5,business|commerce|trade,ப்4யார்,noun,
+-,ꢩ,ꢩ꣄ꢫꢵꢬ꣄ꢱꢵꢬ꣄,sourashtra,,,'ꢩꢫꢬꢱꢬ':1 'bhyaarsaar':2 'bhyarsar':3 'bhyārsār':4 'trade':5 'business':6 'வண':7 'கம':8,business|commerce|trade,भ्यार्सार|ப்4யார்ஸார்|bhyaarsaar|bhyArsAr|bhyārsār|bʰjɑːɾs̪ɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,"trade, business",english,,english,,business|commerce|trade,,noun,
+^,,வணிகம்,tamil,,tamil,'வணகம':1 'trade':2 'business':3 'வண':4 'கம':5,business|commerce|trade,ப்4யார்ஸார்,noun,
+-,ꢮ,ꢮꢠꢶꢙ꣄,sourashtra,,,'ꢮꢠꢙ':1 'vanij':2 'vaṇij':3 'merchant':4 'வண':5 'கர':6,business|commerce|trade,वणिज|வணிஜ்|vanij|vaNij|vaṇij|ʋəɳɪd͡ʒ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,merchant,english,,english,,business|commerce|trade,,noun,
+^,,வணிகர்,tamil,,tamil,'வணகர':1 'merchant':2 'வண':3 'கர':4,business|commerce|trade,வணிஜ்,noun,
+-,ꢮ,ꢮꢠꢶꢒ꣄,sourashtra,,,'ꢮꢠꢒ':1 'vanik':2 'vaṇik':3 'merchant':4 'வண':5 'கர':6,business|commerce|trade,वणिक|வணிக்|vanik|vaNik|vaṇik|ʋəɳɪk,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,merchant,english,,english,,business|commerce|trade,,noun,
+^,,வணிகர்,tamil,,tamil,'வணகர':1 'merchant':2 'வண':3 'கர':4,business|commerce|trade,வணிக்,noun,
+-,ꢮ,ꢮꢠꢾ,sourashtra,,,'ꢮꢠ':1 'vane':2 'vaṇĕ':3 'merchant':4 'வண':5 'கர':6,business|commerce|trade,वणे|வணெ|vane'|vaNE|vaṇĕ|ʋəɳe,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,merchant,english,,english,,business|commerce|trade,,noun,
+^,,வணிகர்,tamil,,tamil,'வணகர':1 'merchant':2 'வண':3 'கர':4,business|commerce|trade,வணெ,noun,
+-,ꢩ,ꢩ꣄ꢫꢵꢬꢸꢗꢶꢥ꣄ꢲꢸ,sourashtra,,,'ꢩꢫꢬꢗꢥꢲ':1 'bhyaaruchinhu':2 'bhyarucinhu':3 'bhyārucinhu':4 'trade':5 'mark':6 'வர':7 'தகச':8 'னம':9,business|commerce|trade,भ्यारु चिन्हु|ப்4யாருசின்ஹு|bhyaaruchinhu|bhyArucinhu|bhyārucinhu|bʰjɑːɾut͡ʃɪn̪ɦu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,trade mark,english,,english,,business|commerce|trade,,noun,
+^,,வர்த்தகச் சின்னம்,tamil,,tamil,'வரததகசசனனம':1 'trade':2 'mark':3 'வர':4 'தகச':5 'னம':6,business|commerce|trade,ப்4யாருசின்ஹு,noun,
+-,ꢩ,ꢩ꣄ꢫꢵꢬꢸ ꢪꢸꢣ꣄ꢬꣁ,sourashtra,,,'ꢩꢫꢬꢪꢣꢬ':1 'bhyaarumudro':2 'bhyarumudro':3 'bhyārumudrŏ':4 'trade':5 'mark':6 'வர':7 'தகச':8 'னம':9,business|commerce|trade,भ्यारु मुद्रा॑|ப4யாரு முத்3ரொ|bhyaaru mudro'|bhyAru mudrO|bhyāru mudrŏ|bʰjɑːɾu mud̪ɾo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,trade mark,english,,english,,business|commerce|trade,,noun,
+^,,வர்த்தகச் சின்னம்,tamil,,tamil,'வரததகசசனனம':1 'trade':2 'mark':3 'வர':4 'தகச':5 'னம':6,business|commerce|trade,ப4யாரு முத்3ரொ,noun,
+-,ꢮ,ꢮ꣄ꢫꢵꢬ꣄,sourashtra,,,'ꢮꢫꢬ':1 'vyaar':2 'vyar':3 'vyār':4 'trade':5 'வர':6 'தகம':7,business|commerce|trade,भ्यार्|ப்4யார்|vyaar|vyAr|vyār|ʋjɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,trade,english,,english,,business|commerce|trade,,noun,
+^,,வர்த்தகம்,tamil,,tamil,'வரததகம':1 'trade':2 'வர':3 'தகம':4,business|commerce|trade,ப்4யார்,noun,
+-,ꢥ,ꢥꢶꢤꢶꢡꢔꢶꢥꢶ,sourashtra,,,'ꢥꢤꢡꢔꢥ':1 'nidhitagini':2 'credit':3 'வரவ':4,business|commerce|trade,निधि तगिनि|நிதி4 தகி3னி|nidhitagini|nidhitagini|nidhitagini|n̪ɪd̪ʰɪt̪əgɪn̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,credit,english,,english,,business|commerce|trade,,noun,
+^,,வரவு,tamil,,tamil,'வரவ':1 'credit':2,business|commerce|trade,நிதி4 தகி3னி,noun,
+-,ꢥ,ꢥꢶꢤꢶꢂꢮ꣄ꢥꢶ,sourashtra,,,'ꢥꢤꢂꢮꢥ':1 'nidhiavni':2 'credit':3 'வரவ':4,business|commerce|trade,निधि अव्नि|நிதி4அவ்னி|nidhiavni|nidhiavni|nidhiavni|n̪ɪd̪ʰɪəʋn̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,credit,english,,english,,business|commerce|trade,,noun,
+^,,வரவு,tamil,,tamil,'வரவ':1 'credit':2,business|commerce|trade,நிதி4அவ்னி,noun,
+-,ꢙ,ꢙꣁꢞꢸꢪ꣄ꢦꢸꢭ꣄,sourashtra,,,'ꢙꢞꢪꢦꢭ':1 'jodumpul':2 'jŏḍumpul':3 'income':4 'வர':5 'னம':6,business|commerce|trade,जा॑डुम्पुल|ஜொடு3ம்புல்|jo'd'umpul|jODumpul|jŏḍumpul|d͡ʒoɖumpul,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,income,english,,english,,business|commerce|trade,,noun,
+^,,வருமானம்,tamil,,tamil,'வரமனம':1 'income':2 'வர':3 'னம':4,business|commerce|trade,ஜொடு3ம்புல்,noun,
+-,ꢱ,ꢱꢪ꣄ꢨꢵꢣꢥꣁ,sourashtra,,,'ꢱꢪꢨꢣꢥ':1 'sambaadano':2 'sambadano':3 'sambādanŏ':4 'income':5 'வர':6 'னம':7,business|commerce|trade,सम्पादना॑|ஸம்பாத3னொ|sambaadano'|sambAdanO|sambādanŏ|s̪əmbɑːd̪ən̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,income,english,,english,,business|commerce|trade,,noun,
+^,,வருமானம்,tamil,,tamil,'வரமனம':1 'income':2 'வர':3 'னம':4,business|commerce|trade,ஸம்பாத3னொ,noun,
+-,ꢓ,ꢓꢞꢾꢪꣁꢭ꣄,sourashtra,,,'ꢓꢞꢪꢭ':1 'khademol':2 'khaḍĕmŏl':3 'purchase':4 'price':5,business|commerce|trade,कड॑मोल|க2டெ3மோல்|khad'e'mo'l|khaDEmOl|khaḍĕmŏl|kʰəɖemol,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,purchase price,english,,english,,business|commerce|trade,,noun,
+^,,வாங்கிய விலை,tamil,,tamil,'வஙகயவல':1 'purchase':2 'price':3,business|commerce|trade,க2டெ3மோல்,noun,
+-,ꢔ,ꢔ꣄ꢬꢵꢲꢒꣁ,sourashtra,,,'ꢔꢬꢲꢒ':1 'graahako':2 'grahako':3 'grāhakŏ':4 'customer':5 'ளர':6,business|commerce|trade,ग्राहका॑|க்3ராஹகொ|graahako'|grAhakO|grāhakŏ|gɾɑːɦəko,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,customer,english,,english,,business|commerce|trade,,noun,
+^,,வாடிக்கையாளர்,tamil,,tamil,'வடககயளர':1 'customer':2 'ளர':3,business|commerce|trade,க்3ராஹகொ,noun,
+-,ꢂ,ꢂꢥꢸꢦꢵꢡ꣄,sourashtra,,,'ꢂꢥꢦꢡ':1 'anupaat':2 'anupat':3 'anupāt':4 'ratio':5 'தம':6,business|commerce|trade,अनुपात्|அனுபாத்|anupaat|anupAt|anupāt|ən̪upɑːt̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,ratio,english,,english,,business|commerce|trade,,noun,
+^,,விகிதம்,tamil,,tamil,'வகதம':1 'ratio':2 'தம':3,business|commerce|trade,அனுபாத்,noun,
+-,ꢨ,ꢨꢶꢫꢵꢬ꣄,sourashtra,,,'ꢨꢫꢬ':1 'biyaar':2 'biyar':3 'biyār':4 'business':5 'ரம':6,business|commerce|trade,बियार्|ப்4யார்|biyaar|biyAr|biyār|bɪjɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,business,english,,english,,business|commerce|trade,,noun,
+^,,வியாபாரம்,tamil,,tamil,'வயபரம':1 'business':2 'ரம':3,business|commerce|trade,ப்4யார்,noun,
+-,ꢮ,ꢮꢠꢶꢒ꣄,sourashtra,,,'ꢮꢠꢒ':1 'vanik':2 'vaṇik':3 'merchant':4,business|commerce|trade,वणिक|வணிக்|vanik|vaNik|vaṇik|ʋəɳɪk,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,merchant,english,,english,,business|commerce|trade,,noun,
+^,,வியாபாரி,tamil,,tamil,'வயபர':1 'merchant':2,business|commerce|trade,வணிக்,noun,
+-,ꢪ,ꢪꣁꢭ꣄,sourashtra,,,'ꢪꢭ':1 'mol':2 'mŏl':3 'price':4 'cost':5,business|commerce|trade,मोल्|மோல்|mo'l|mOl|mŏl|mol,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,"price, cost",english,,english,,business|commerce|trade,,noun,
+^,,விலை,tamil,,tamil,'வல':1 'price':2 'cost':3,business|commerce|trade,மோல்,noun,
+-,ꢮ,ꢮꢶꢮꢬ꣄,sourashtra,,,'ꢮꢮꢬ':1 'vivar':2 'detail':3 'வரம':4,business|commerce|trade,विवर्|விவர்|vivar|vivar|vivar|ʋɪʋəɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,detail,english,,english,,business|commerce|trade,,noun,
+^,,விவரம்,tamil,,tamil,'வவரம':1 'detail':2 'வரம':3,business|commerce|trade,விவர்,noun,
+-,ꢦ,ꢦ꣄ꢬꢡꢶ ꢱꣂꢡꢸ,sourashtra,,,'ꢦꢬꢡꢱꢡ':1 'pratisotu':2 'percentage':3,business|commerce|trade,प्रति सोतु|ப்ரதி ஶோது|prati sotu|prati sotu|prati sotu|pɾət̪ɪ s̪oːt̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,percentage,english,,english,,business|commerce|trade,,noun,
+^,,விழுக்காடு,tamil,,tamil,'வழககட':1 'percentage':2,business|commerce|trade,ப்ரதி ஶோது,noun,
+-,ꢦ,ꢦ꣄ꢬꢡꢶ ꢱꣂꢮꢸ,sourashtra,,,'ꢦꢬꢡꢱꢮ':1 'pratisovu':2 'percentage':3,business|commerce|trade,प्रति सोवु|ப்ரதி ஶோவு|prati sovu|prati sovu|prati sovu|pɾət̪ɪ s̪oːʋu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,percentage,english,,english,,business|commerce|trade,,noun,
+^,,விழுக்காடு,tamil,,tamil,'வழககட':1 'percentage':2,business|commerce|trade,ப்ரதி ஶோவு,noun,
+-,ꢦ,ꢦ꣄ꢬꢒꢵꢱꢠꣁ,sourashtra,,,'ꢦꢬꢒꢱꢠ':1 'prakaasano':2 'prakasano':3 'prakāsaṇŏ':4 'advertisement':5 'ளம':6 'பரம':7,business|commerce|trade,प्रकासणा॑|ப்ரகாஸணொ|prakaasano'|prakAsaNO|prakāsaṇŏ|pɾəkɑːs̪əɳo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,advertisement,english,,english,,business|commerce|trade,,noun,
+^,,விளம்பரம்,tamil,,tamil,'வளமபரம':1 'advertisement':2 'ளம':3 'பரம':4,business|commerce|trade,ப்ரகாஸணொ,noun,
+-,ꢮ,ꢮꢶꢒ꣄ꢬꢫꣁ,sourashtra,,,'ꢮꢒꢬꢫ':1 'vikrayo':2 'vikrayŏ':3 'sale':4 'பன':5,business|commerce|trade,विक्रया॑|விக்ரயொ|vikrayo'|vikrayO|vikrayŏ|ʋɪkɾəjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,sale,english,,english,,business|commerce|trade,,noun,
+^,,விற்பனை,tamil,,tamil,'வறபன':1 'sale':2 'பன':3,business|commerce|trade,விக்ரயொ,noun,
+-,ꢮ,ꢮꢶꢒ꣄ꢒꢶꢥꢶ,sourashtra,,,'ꢮꢒꢒꢥ':1 'vikkini':2 'sale':3 'பன':4,business|commerce|trade,विक्किनि|விக்கினி|vikkini|vikkini|vikkini|ʋɪkkɪn̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,sale,english,,english,,business|commerce|trade,,noun,
+^,,விற்பனை,tamil,,tamil,'வறபன':1 'sale':2 'பன':3,business|commerce|trade,விக்கினி,noun,
+-,ꢮ,ꢮꢶꢒ꣄ꢒꢥ꣄ꢪꣂꢭ꣄,sourashtra,,,'ꢮꢒꢒꢥꢪꢭ':1 'vikkanmol':2 'sale':3 'price':4 'றவ':5,business|commerce|trade,विक्कन्मोल|விக்கன்மோல்|vikkanmol|vikkanmol|vikkanmol|ʋɪkkən̪moːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,sale price,english,,english,,business|commerce|trade,,noun,
+^,,விற்றவிலை,tamil,,tamil,'வறறவல':1 'sale':2 'price':3 'றவ':4,business|commerce|trade,விக்கன்மோல்,noun,
+-,ꢮ,ꢮꢶꢥꢶꢫꣁꢔ꣄,sourashtra,,,'ꢮꢥꢫꢔ':1 'viniyog':2 'viniyŏg':3 'distribution':4 'கம':5,business|commerce|trade,विनियोग्|வினியோக்3|viniyo'g|viniyOg|viniyŏg|ʋɪn̪ɪjog,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,distribution,english,,english,,business|commerce|trade,,noun,
+^,,வினியோகம்,tamil,,tamil,'வனயகம':1 'distribution':2 'கம':3,business|commerce|trade,வினியோக்3,noun,
+-,ꢮ,ꢮꢶꢥꢶꢫꣂꢔ꣄ꢒꢾꢬ꣄ꢥꢵꢬꢸꢥ꣄,sourashtra,,,'ꢮꢥꢫꢔꢒꢬꢥꢬꢥ':1 'viniyogkernaarun':2 'viniyogkernarun':3 'viniyogkĕrnārun':4 'distributors':5 'distributor':6,business|commerce|trade,व्नियोग्क॑र्नारुन|வினியோக்3கெர்னாருன்|viniyogke'rnaarun|viniyogkErnArun|viniyogkĕrnārun|ʋɪn̪ɪjoːgkeɾn̪ɑːɾun̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,distributors,english,,english,,business|commerce|trade,,noun,
+^,,வினியோகிப்போர்,tamil,,tamil,'வனயகபபர':1 'distributors':2 'distributor':3,business|commerce|trade,வினியோக்3கெர்னாருன்,noun,
+-,ꢩ,ꢩꢔ ꣄ꢦꢹꢡꢶꢬ꣄,sourashtra,,,'ꢩꢔꢦꢡꢬ':1 'bhagapootir':2 'bhagaputir':3 'bhagapūtir':4 'ratio':5 'தம':6,business|commerce|trade,भग तूतिर्|ப4க்3 தூதிர்|bhaga pootir|bhaga pUtir|bhaga pūtir|bʰəgə puːt̪ɪɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,ratio,english,,english,,business|commerce|trade,,noun,
+^,,வீதம்,tamil,,tamil,'வதம':1 'ratio':2 'தம':3,business|commerce|trade,ப4க்3 தூதிர்,noun,
+-,ꢥ,ꢥꢶꢬ꣄ꢤꢵꢬꢶꢡꢒꢵꢭꢶꢒꢫꣁꢙꢥꣁ,sourashtra,,,'ꢥꢬꢤꢬꢡꢒꢭꢒꢫꢙꢥ':1 'nirdhaaritakaalikayojano':2 'nirdharitakalikayojano':3 'nirdhāritakālikayŏjanŏ':4 'fixed':5 'deposit':6 'plan':7 'fix':8 'டம':9,business|commerce|trade,निर्दारित कालिक योजना॑|நிர்தா4ரித காலிக யோஜனொ|nirdhaaritakaalikayo'jano'|nirdhAritakAlikayOjanO|nirdhāritakālikayŏjanŏ|n̪ɪɾd̪ʰɑːɾɪt̪əkɑːlɪkəjod͡ʒən̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,fixed deposit plan,english,,english,,business|commerce|trade,,noun,
+^,,வைப்பு நிதித்திட்டம்,tamil,,tamil,'வபபநதததடடம':1 'fixed':2 'deposit':3 'plan':4 'fix':5 'டம':6,business|commerce|trade,நிர்தா4ரித காலிக யோஜனொ,noun,
+-,ꢱ,ꢱ꣄ꢢꢶꢬ ꢥꢶꢤꢶ ꢢꣁꢮ꣄ꢥꢶ ꢫꣂꢙꢥꣁ,sourashtra,,,'ꢱꢢꢬꢥꢤꢢꢮꢥꢫꢙꢥ':1 'sthiranidhithovniyojano':2 'sthiranidhithŏvniyojanŏ':3 'fixed':4 'deposit':5 'plan':6 'fix':7 'டம':8,business|commerce|trade,स्थिर निधि था॑व्नि योजना॑|ஸ்தி2ர நிதி4 தொ2வ்னி யோஜனொ|sthira nidhi tho'vni yojano'|sthira nidhi thOvni yojanO|sthira nidhi thŏvni yojanŏ|s̪t̪ʰɪɾə n̪ɪd̪ʰɪ t̪ʰoʋn̪ɪ joːd͡ʒən̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,fixed deposit plan,english,,english,,business|commerce|trade,,noun,
+^,,வைப்பு நிதித்திட்டம்,tamil,,tamil,'வபபநதததடடம':1 'fixed':2 'deposit':3 'plan':4 'fix':5 'டம':6,business|commerce|trade,ஸ்தி2ர நிதி4 தொ2வ்னி யோஜனொ,noun,

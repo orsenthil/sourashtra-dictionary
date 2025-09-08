@@ -410,7 +410,7 @@ class DictpressConverter:
         
         # Get enhanced information
         # TODO (orsenthil) - This is not used as it conceptnet can divulge.
-        related_concepts = self.conceptnet_api.get_related_concepts(english_meaning.split()[0])
+        # related_concepts = self.conceptnet_api.get_related_concepts(english_meaning.split()[0])
         
         # Create components
         initial = self.get_first_character(sourashtra_word)

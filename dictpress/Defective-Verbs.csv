@@ -1,0 +1,60 @@
+-,ꢂ,ꢂꢨ꣄ꢨꢸꢥꢵ,sourashtra,,,'ꢂꢨꢨꢥ':1 'abbunaa':2 'abbuna':3 'abbunā':4 'will':5 'not':6 'get':7,action|irregular,अब्बुना|அப்3பு3னா|abbunaa|abbunA|abbunā|əbbun̪ɑː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,will not get,english,,english,,action|irregular,,verb,
+^,,கிடைக்காது,tamil,,tamil,'கடககத':1 'will':2 'not':3 'get':4,action|irregular,அப்3பு3னா,verb,
+-,ꢙ,ꢙꢸꢠ꣄ꢠꢵ,sourashtra,,,'ꢙꢠꢠ':1 'junnaa':2 'junna':3 'juṇṇā':4 'will':5 'not':6 'get':7,action|irregular,जुण्णा|ஜுண்ணா|junnaa|juNNA|juṇṇā|d͡ʒuɳɳɑː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,will not get,english,,english,,action|irregular,,verb,
+^,,கிடைக்காது,tamil,,tamil,'கடககத':1 'will':2 'not':3 'get':4,action|irregular,ஜுண்ணா,verb,
+-,ꢂ,ꢂꢨ꣄ꢨꢫ꣄,sourashtra,,,'ꢂꢨꢨꢫ':1 'abbay':2 'will':3 'get':4,action|irregular,अब्बय्|அப்3ப3ய்|abbay|abbay|abbay|əbbəj,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,will get,english,,english,,action|irregular,,verb,
+^,,கிடைக்கும்,tamil,,tamil,'கடககம':1 'will':2 'get':3,action|irregular,அப்3ப3ய்,verb,
+-,ꢙ,ꢙꢸꢞꣀ,sourashtra,,,'ꢙꢞ':1 'judai':2 'juḍai':3 'will':4 'get':5,action|irregular,जुडै|ஜுடை3|jud'ai|juDai|juḍai|d͡ʒuɖəɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,will get,english,,english,,action|irregular,,verb,
+^,,கிடைக்கும்,tamil,,tamil,'கடககம':1 'will':2 'get':3,action|irregular,ஜுடை3,verb,
+-,ꢥ,ꢥꢴꢷ,sourashtra,,,'nhee':1 'nhi':2 'nhī':3 'will':4 'not':5 'available':6,action|irregular,न्ही|நீ:|nhee|nhI|nhī|n̪ɦiː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,will not be available,english,,english,,action|irregular,,verb,
+^,,கிடையாது,tamil,,tamil,'கடயத':1 'will':2 'not':3 'available':4,action|irregular,நீ:,verb,
+-,ꢒ,ꢒꢳꢵꢥꢵ,sourashtra,,,'ꢒꢳꢥ':1 'kalaanaa':2 'kalana':3 'kalānā':4 'not':5 'know':6,action|irregular,कळाना|களானா|kal'aanaa|kaLAnA|kal̤ānā|kəɭɑːn̪ɑː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,do not know,english,,english,,action|irregular,,verb,
+^,,தெரியாது,tamil,,tamil,'தரயத':1 'not':2 'know':3,action|irregular,களானா,verb,
+-,ꢒ,ꢒꢳꢵꢫ꣄,sourashtra,,,'ꢒꢳꢫ':1 'kalaay':2 'kalay':3 'kalāy':4 'know':5,action|irregular,कळाय्|களாய்|kal'aay|kaLAy|kal̤āy|kəɭɑːj,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,know,english,,english,,action|irregular,,verb,
+^,,தெரியும்,tamil,,tamil,'தரயம':1 'know':2,action|irregular,களாய்,verb,
+-,ꢏ,ꢏꢦ꣄ꢦꢵꢥꢵ,sourashtra,,,'ꢏꢦꢦꢥ':1 'oppaanaa':2 'oppana':3 'ŏppānā':4 'not':5 'like':6,action|irregular,आ॑प्पाना|ஒப்பானா|o'ppaanaa|OppAnA|ŏppānā|oppɑːn̪ɑː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,do not like,english,,english,,action|irregular,,verb,
+^,,பிடிக்காது,tamil,,tamil,'படககத':1 'not':2 'like':3,action|irregular,ஒப்பானா,verb,
+-,ꢏ,ꢏꢦ꣄ꢦꢵꢫ꣄,sourashtra,,,'ꢏꢦꢦꢫ':1 'oppaay':2 'oppay':3 'ŏppāy':4 'like':5,action|irregular,आ॑प्पाय्|ஒப்பாய்|o'ppaay|OppAy|ŏppāy|oppɑːj,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,like,english,,english,,action|irregular,,verb,
+^,,பிடிக்கும்,tamil,,tamil,'படககம':1 'like':2,action|irregular,ஒப்பாய்,verb,
+-,ꢮ,ꢮꢶꢮꢬ꣄ꢦꣁꢠ꣄ꢠꢵ,sourashtra,,,'ꢮꢮꢬꢦꢠꢠ':1 'vivarponnaa':2 'vivarponna':3 'vivarpŏṇṇā':4 'not':5 'understand':6,action|irregular,विव र्पा॑ण्णा|விவர் பொண்ணா|vivarpo'nnaa|vivarpONNA|vivarpŏṇṇā|ʋɪʋəɾpoɳɳɑː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,do not understand,english,,english,,action|irregular,,verb,
+^,,புரியாது,tamil,,tamil,'பரயத':1 'not':2 'understand':3,action|irregular,விவர் பொண்ணா,verb,
+-,ꢮ,ꢮꢶꢮꢬ꣄ꢦꣁꢞꢫ꣄,sourashtra,,,'ꢮꢮꢬꢦꢞꢫ':1 'vivarpoday':2 'vivarpŏḍay':3 'understand':4,action|irregular,विव र्पा॑डय|விவர் பொட3ய்|vivarpo'd'ay|vivarpODay|vivarpŏḍay|ʋɪʋəɾpoɖəj,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,understand,english,,english,,action|irregular,,verb,
+^,,புரியும்,tamil,,tamil,'பரயம':1 'understand':2,action|irregular,விவர் பொட3ய்,verb,
+-,ꢧ,ꢧꢸꢬ꣄ꢥꢵ,sourashtra,,,'ꢧꢬꢥ':1 'phurnaa':2 'phurna':3 'phurnā':4 'not':5 'enough':6,action|irregular,फुर्ना|பு2ர்னா|phurnaa|phurnA|phurnā|pʰuɾn̪ɑː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,not enough,english,,english,,action|irregular,,verb,
+^,,போதாது,tamil,,tamil,'பதத':1 'not':2 'enough':3,action|irregular,பு2ர்னா,verb,
+-,ꢧ,ꢧꢸꢬꢫ꣄,sourashtra,,,'ꢧꢬꢫ':1 'phuray':2 'enough':3,action|irregular,फुरय्|பு2ரய்|phuray|phuray|phuray|pʰuɾəj,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,enough,english,,english,,action|irregular,,verb,
+^,,போதும்,tamil,,tamil,'பதம':1 'enough':2,action|irregular,பு2ரய்,verb,
+-,ꢪ,ꢪꢸꢱꢸꢥꢵ,sourashtra,,,'ꢪꢱꢥ':1 'musunaa':2 'musuna':3 'musunā':4 'not':5 'possible':6,action|irregular,मुसुना|முஸூனா|musunaa|musunA|musunā|mus̪un̪ɑː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,not possible,english,,english,,action|irregular,,verb,
+^,,முடியாது,tamil,,tamil,'மடயத':1 'not':2 'possible':3,action|irregular,முஸூனா,verb,
+-,ꢯ,ꢯꢾꢒ꣄ꢒꢸꢥꢵ,sourashtra,,,'ꢯꢒꢒꢥ':1 'shekkunaa':2 'zekkuna':3 'śĕkkunā':4 'not':5 'possible':6,action|irregular,श॑क्कुना|ஶெக்குனா|she'kkunaa|zEkkunA|śĕkkunā|ʃekkun̪ɑː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,not possible,english,,english,,action|irregular,,verb,
+^,,முடியாது,tamil,,tamil,'மடயத':1 'not':2 'possible':3,action|irregular,ஶெக்குனா,verb,
+-,ꢪ,ꢪꢸꢱꢫ꣄,sourashtra,,,'ꢪꢱꢫ':1 'musay':2 'possible':3,action|irregular,मुसय्|முஸய்|musay|musay|musay|mus̪əj,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,possible,english,,english,,action|irregular,,verb,
+^,,முடியும்,tamil,,tamil,'மடயம':1 'possible':2,action|irregular,முஸய்,verb,
+-,ꢯ,ꢯꢾꢒ꣄ꢒꢫ꣄,sourashtra,,,'ꢯꢒꢒꢫ':1 'shekkay':2 'zekkay':3 'śĕkkay':4 'possible':5,action|irregular,श॑क्कय|ஶெக்கய்|she'kkay|zEkkay|śĕkkay|ʃekkəj,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,possible,english,,english,,action|irregular,,verb,
+^,,முடியும்,tamil,,tamil,'மடயம':1 'possible':2,action|irregular,ஶெக்கய்,verb,
+-,ꢥ,ꢥꣁꢒ꣄ꢒꣁ,sourashtra,,,'ꢥꢒꢒ':1 'nokko':2 'nŏkkŏ':3 'not':4 'want':5,action|irregular,ना॑क्का॑|நொக்கொ|no'kko'|nOkkO|nŏkkŏ|n̪okko,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,do not want,english,,english,,action|irregular,,verb,
+^,,வேண்டாம்,tamil,,tamil,'வணடம':1 'not':2 'want':3,action|irregular,நொக்கொ,verb,
+-,ꢦ,ꢦꢙꢾꢥꢴꢷ,sourashtra,,,'ꢦꢙꢥ':1 'pajenhee':2 'pajenhi':3 'pajĕnhī':4 'not':5 'want':6,action|irregular,पज॑ न्ही|பஜெ நீ:|paje'nhee|pajEnhI|pajĕnhī|pəd͡ʒen̪ɦiː,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,do not want,english,,english,,action|irregular,,verb,
+^,,வேண்டாம்,tamil,,tamil,'வணடம':1 'not':2 'want':3,action|irregular,பஜெ நீ:,verb,
+-,ꢦ,ꢦꢙꢾ,sourashtra,,,'ꢦꢙ':1 'paje':2 'pajĕ':3 'want':4,action|irregular,पज॑|பஜெ|paje'|pajE|pajĕ|pəd͡ʒe,,"{""""script"""":""""sourashtra"""",""""category"""":""""verb"""",""""type"""":""""abstract""""}"
+^,,want,english,,english,,action|irregular,,verb,
+^,,வேண்டும்,tamil,,tamil,'வணடம':1 'want':2,action|irregular,பஜெ,verb,

@@ -1,0 +1,87 @@
+-,ꢪ,ꢪꢷ,sourashtra,,,'mee':1 'mi':2 'mī':3,pronoun|reference,मी|மீ|mee|mI|mī|miː,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,I,english,,english,,pronoun|reference,,pron,
+^,,நான்,tamil,,tamil,'நன':1,pronoun|reference,மீ,pron,
+-,ꢂ,ꢂꢪꢶ,sourashtra,,,'ꢂꢪ':1 'ami':2,pronoun|reference,अमि|அமி|ami|ami|ami|əmɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,we,english,,english,,pronoun|reference,,pron,
+^,,நாம்,tamil,,tamil,'நம':1,pronoun|reference,அமி,pron,
+-,ꢂ,ꢂꢪꢶ,sourashtra,,,'ꢂꢪ':1 'ami':2 'கள':3,pronoun|reference,अमि|அமி|ami|ami|ami|əmɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,we,english,,english,,pronoun|reference,,pron,
+^,,நாங்கள்,tamil,,tamil,'நஙகள':1 'கள':2,pronoun|reference,அமி,pron,
+-,ꢡ,ꢡꢹ,sourashtra,,,'too':1 'tu':2 'tū':3 'you':4,pronoun|reference,तू|தூ|too|tU|tū|t̪uː,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,you,english,,english,,pronoun|reference,,pron,
+^,,நீ,tamil,,tamil,'you':1,pronoun|reference,தூ,pron,
+-,ꢡ,ꢡꢸꢪꢶ,sourashtra,,,'ꢡꢪ':1 'tumi':2 'you':3,pronoun|reference,तुमि|துமி|tumi|tumi|tumi|t̪umɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,you,english,,english,,pronoun|reference,,pron,
+^,,நீர்,tamil,,tamil,'நர':1 'you':2,pronoun|reference,துமி,pron,
+-,ꢡ,ꢡꢸꢪꢶ,sourashtra,,,'ꢡꢪ':1 'tumi':2 'you':3,pronoun|reference,तुमि|துமி|tumi|tumi|tumi|t̪umɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,you,english,,english,,pronoun|reference,,pron,
+^,,நீவீர்,tamil,,tamil,'நவர':1 'you':2,pronoun|reference,துமி,pron,
+-,ꢡ,ꢡꢸꢪꢶ,sourashtra,,,'ꢡꢪ':1 'tumi':2 'you':3 'கள':4,pronoun|reference,तुमि|துமி|tumi|tumi|tumi|t̪umɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,you,english,,english,,pronoun|reference,,pron,
+^,,நீங்கள்,tamil,,tamil,'நஙகள':1 'you':2 'கள':3,pronoun|reference,துமி,pron,
+-,ꢌ,ꢌꢥꣁ,sourashtra,,,'ꢌꢥ':1 'eno':2 'ĕnŏ':3 'இவன':4,pronoun|reference,ए॑ना॑|எனொ|e'no'|EnO|ĕnŏ|en̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,he,english,,english,,pronoun|reference,,pron,
+^,,இவன்,tamil,,tamil,'இவன':1,pronoun|reference,எனொ,pron,
+-,ꢄ,ꢄꢥꣁ,sourashtra,,,'ꢄꢥ':1 'ino':2 'inŏ':3 'she':4 'இவள':5,pronoun|reference,इना॑|இனொ|ino'|inO|inŏ|ɪn̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,she,english,,english,,pronoun|reference,,pron,
+^,,இவள்,tamil,,tamil,'இவள':1 'she':2,pronoun|reference,இனொ,pron,
+-,ꢌ,ꢌꢥꢸ,sourashtra,,,'ꢌꢥ':1 'enu':2 'ĕnu':3 'இவர':4,pronoun|reference,एनु|எனு|e'nu|Enu|ĕnu|en̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,he,english,,english,,pronoun|reference,,pron,
+^,,இவர்,tamil,,tamil,'இவர':1,pronoun|reference,எனு,pron,
+-,ꢌ,ꢌꢥꢸ,sourashtra,,,'ꢌꢥ':1 'enu':2 'ĕnu':3 'they':4 'இவர':5 'கள':6,pronoun|reference,एनु|எனு|e'nu|Enu|ĕnu|en̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,they,english,,english,,pronoun|reference,,pron,
+^,,இவர்கள்,tamil,,tamil,'இவரகள':1 'they':2 'இவர':3 'கள':4,pronoun|reference,எனு,pron,
+-,ꢌ,ꢌꢭ꣄ꢫꣁ,sourashtra,,,'ꢌꢭꢫ':1 'elyo':2 'ĕlyŏ':3 'இத':4,pronoun|reference,एल्या॑|எல்யொ|e'lyo'|ElyO|ĕlyŏ|eljo,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,it,english,,english,,pronoun|reference,,pron,
+^,,இது,tamil,,tamil,'இத':1,pronoun|reference,எல்யொ,pron,
+-,ꢌ,ꢌꢭ꣄ꢫꢾ,sourashtra,,,'ꢌꢭꢫ':1 'elye':2 'ĕlyĕ':3 'they':4 'இவ':5,pronoun|reference,एल्ये|எல்யெ|e'lye'|ElyE|ĕlyĕ|elje,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,they,english,,english,,pronoun|reference,,pron,
+^,,இவை,tamil,,tamil,'இவ':1 'they':2,pronoun|reference,எல்யெ,pron,
+-,ꢡ,ꢡꢾꢥꣁ,sourashtra,,,'ꢡꢥ':1 'teno':2 'tĕnŏ':3 'அவன':4,pronoun|reference,त॑ना॑|தெனொ|te'no'|tEnO|tĕnŏ|t̪en̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,he,english,,english,,pronoun|reference,,pron,
+^,,அவன்,tamil,,tamil,'அவன':1,pronoun|reference,தெனொ,pron,
+-,ꢡ,ꢡꢶꢥꣁ,sourashtra,,,'ꢡꢥ':1 'tino':2 'tinŏ':3 'she':4 'அவள':5,pronoun|reference,तिना॑|தினொ|tino'|tinO|tinŏ|t̪ɪn̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,she,english,,english,,pronoun|reference,,pron,
+^,,அவள்,tamil,,tamil,'அவள':1 'she':2,pronoun|reference,தினொ,pron,
+-,ꢡ,ꢡ꣄ꢫꣁ,sourashtra,,,'ꢡꢫ':1 'tyo':2 'tyŏ':3 'அத':4,pronoun|reference,त्या॑|த்யொ|tyo'|tyO|tyŏ|t̪jo,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,it,english,,english,,pronoun|reference,,pron,
+^,,அது,tamil,,tamil,'அத':1,pronoun|reference,த்யொ,pron,
+-,ꢡ,ꢡ꣄ꢫꢾ,sourashtra,,,'ꢡꢫ':1 'tye':2 'tyĕ':3 'they':4 'அவ':5,pronoun|reference,त्य॑|த்யெ|tye'|tyE|tyĕ|t̪je,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,they,english,,english,,pronoun|reference,,pron,
+^,,அவை,tamil,,tamil,'அவ':1 'they':2,pronoun|reference,த்யெ,pron,
+-,ꢂ,ꢂꢦꢸꢭ꣄,sourashtra,,,'ꢂꢦꢭ':1 'apul':2 'reflexive':3,pronoun|reference,अपुल|அபுல்|apul|apul|apul|əpul,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,reflexive,english,,english,,pronoun|reference,,pron,
+^,,தான்,tamil,,tamil,'தன':1 'reflexive':2,pronoun|reference,அபுல்,pron,
+-,ꢂ,ꢂꢦ꣄ꢭꢵꢥ꣄,sourashtra,,,'ꢂꢦꢭꢥ':1 'aplaan':2 'aplan':3 'aplān':4 'reflexive':5,pronoun|reference,अप्लान्|அப்லான்|aplaan|aplAn|aplān|əplɑːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,reflexive,english,,english,,pronoun|reference,,pron,
+^,,தாம்,tamil,,tamil,'தம':1 'reflexive':2,pronoun|reference,அப்லான்,pron,
+-,ꢡ,ꢡꢸꢪꢶ,sourashtra,,,'ꢡꢪ':1 'tumi':2 'reflexive':3 'you':4 'கள':5,pronoun|reference,तुमि|துமி|tumi|tumi|tumi|t̪umɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,reflexive you,english,,english,,pronoun|reference,,pron,
+^,,தாங்கள்,tamil,,tamil,'தஙகள':1 'reflexive':2 'you':3 'கள':4,pronoun|reference,துமி,pron,
+-,ꢒ,ꢒꣂꢥ꣄,sourashtra,,,'ꢒꢥ':1 'kon':2 'எவன':3,pronoun|reference,कोन्|கோன்|kon|kon|kon|koːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,he,english,,english,,pronoun|reference,,pron,
+^,,எவன்,tamil,,tamil,'எவன':1,pronoun|reference,கோன்,pron,
+-,ꢒ,ꢒꣂꢥ꣄,sourashtra,,,'ꢒꢥ':1 'kon':2 'she':3 'எவள':4,pronoun|reference,कोन्|கோன்|kon|kon|kon|koːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,she,english,,english,,pronoun|reference,,pron,
+^,,எவள்,tamil,,tamil,'எவள':1 'she':2,pronoun|reference,கோன்,pron,
+-,ꢒ,ꢒꣂꢥ꣄,sourashtra,,,'ꢒꢥ':1 'kon':2 'எவர':3,pronoun|reference,कोन्|கோன்|kon|kon|kon|koːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,he,english,,english,,pronoun|reference,,pron,
+^,,எவர்,tamil,,tamil,'எவர':1,pronoun|reference,கோன்,pron,
+-,ꢒ,ꢒꣂꢥ꣄ꢒꣂꢥ꣄,sourashtra,,,'ꢒꢥꢒꢥ':1 'konkon':2 'they':3 'எவர':4 'கள':5,pronoun|reference,कोन् कोन्|கோன்கோன்|konkon|konkon|konkon|koːn̪koːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,they,english,,english,,pronoun|reference,,pron,
+^,,எவர்கள்,tamil,,tamil,'எவரகள':1 'they':2 'எவர':3 'கள':4,pronoun|reference,கோன்கோன்,pron,
+-,ꢒ,ꢒꣂꢥꢾ,sourashtra,,,'ꢒꢥ':1 'kone':2 'konĕ':3 'which':4 'எத':5,pronoun|reference,कोन॑|கோனெ|kone'|konE|konĕ|koːn̪e,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,which,english,,english,,pronoun|reference,,pron,
+^,,எது,tamil,,tamil,'எத':1 'which':2,pronoun|reference,கோனெ,pron,
+-,ꢒ,ꢒꣂꢥ꣄ꢫꢾ,sourashtra,,,'ꢒꢥꢫ':1 'konye':2 'konyĕ':3 'which':4 'எத':5,pronoun|reference,कोन्य॑|கோன்யெ|konye'|konyE|konyĕ|koːn̪je,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,which,english,,english,,pronoun|reference,,pron,
+^,,எது,tamil,,tamil,'எத':1 'which':2,pronoun|reference,கோன்யெ,pron,
+-,ꢒ,ꢒꣂꢥꢾ,sourashtra,,,'ꢒꢥ':1 'kone':2 'konĕ':3 'which':4 'எவ':5,pronoun|reference,कोन॑|கோனெ|kone'|konE|konĕ|koːn̪e,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,which,english,,english,,pronoun|reference,,pron,
+^,,எவை,tamil,,tamil,'எவ':1 'which':2,pronoun|reference,கோனெ,pron,
+-,ꢒ,ꢒꣂꢥ꣄ꢫꣁ,sourashtra,,,'ꢒꢥꢫ':1 'konyo':2 'konyŏ':3 'which':4 'எவ':5,pronoun|reference,कोन्या॑|கோன்யொ|konyo'|konyO|konyŏ|koːn̪jo,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,which,english,,english,,pronoun|reference,,pron,
+^,,எவை,tamil,,tamil,'எவ':1 'which':2,pronoun|reference,கோன்யொ,pron,
+-,ꢒ,ꢒꣂꢥ꣄,sourashtra,,,'ꢒꢥ':1 'kon':2 'who':3,pronoun|reference,कोन्|கோன்|kon|kon|kon|koːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,who,english,,english,,pronoun|reference,,pron,
+^,,யார்,tamil,,tamil,'யர':1 'who':2,pronoun|reference,கோன்,pron,

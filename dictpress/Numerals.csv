@@ -1,0 +1,288 @@
+-,ꢲ,ꢲꢣ꣄ꢣꢸ,sourashtra,,,'ꢲꢣꢣ':1 'haddu':2 'half':3 'அர':4,counting|number|quantity,हद्दु|ஹத்3து3|haddu|haddu|haddu|ɦəd̪d̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,half,english,,english,,counting|number|quantity,,noun,
+^,,அரை,tamil,,tamil,'அர':1 'half':2,counting|number|quantity,ஹத்3து3,noun,
+-,ꢂ,ꢂꢬ꣄ꢒ꣄ꢫꢵꢭ꣄,sourashtra,,,'ꢂꢬꢒꢫꢭ':1 'arkyaal':2 'arkyal':3 'arkyāl':4 'one':5 'eight':6 'அர':7,counting|number|quantity,अर्क्याल|அர்க்யால்|arkyaal|arkyAl|arkyāl|əɾkjɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,one eight,english,,english,,counting|number|quantity,,noun,
+^,,அரைக்கால்,tamil,,tamil,'அரககல':1 'one':2 'eight':3 'அர':4,counting|number|quantity,அர்க்யால்,noun,
+-,ꢂ,ꢂꢖ꣄ꢒꢾ,sourashtra,,,'ꢂꢖꢒ':1 'anke':2 'agke':3 'aṅkĕ':4 'digit':5 'number':6 'இலக':7 'கம':8,counting|number|quantity,अङ्का॑|அங்கொ|anke'|aGkE|aṅkĕ|əŋke,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,"digit, number",english,,english,,counting|number|quantity,,noun,
+^,,இலக்கம்,tamil,,tamil,'இலககம':1 'digit':2 'number':3 'இலக':4 'கம':5,counting|number|quantity,அங்கொ,noun,
+-,ꢱ,ꢱꢖ꣄ꢓ꣄ꢫꣁ,sourashtra,,,'ꢱꢖꢓꢫ':1 'sankhyo':2 'sagkhyo':3 'saṅkhyŏ':4 'number':5 'எண':6,counting|number|quantity,सङ्ख्यो|ஸங்க்2யொ|sankhyo'|saGkhyO|saṅkhyŏ|s̪əŋkʰjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,number,english,,english,,counting|number|quantity,,noun,
+^,,எண்,tamil,,tamil,'எண':1 'number':2,counting|number|quantity,ஸங்க்2யொ,noun,
+-,ꢱ,ꢱꣂꢮꢸ,sourashtra,,,'ꢱꢮ':1 'sovu':2 'quarter':3,counting|number|quantity,सा॑वु|ஸொவு|sovu|sovu|sovu|s̪oːʋu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,quarter,english,,english,,counting|number|quantity,,noun,
+^,,கால்,tamil,,tamil,'கல':1 'quarter':2,counting|number|quantity,ஸொவு,noun,
+-,ꢒ,ꢒꢳꣁ,sourashtra,,,'ꢒꢳ':1 'kalo':2 'kalŏ':3 'measure':4,counting|number|quantity,कळा॑|களொ|kal'o'|kaLO|kal̤ŏ|kəɭo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,1/16 of a measure,english,,english,,counting|number|quantity,,noun,
+^,,மாகாணி,tamil,,tamil,'மகண':1 'measure':2,counting|number|quantity,களொ,noun,
+-,ꢮ,ꢮꢷꢱꢪꢞ꣄ꢜꣁ,sourashtra,,,'ꢮꢱꢪꢞꢜ':1 'veesamadto':2 'visamadto':3 'vīsamaḍṭŏ':4 'measure':5,counting|number|quantity,वीसमड्डा॑|விஸமட்3டொ3|veesamad't'o'|vIsamaDTO|vīsamaḍṭŏ|ʋiːs̪əməɖʈo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,1/16 of a measure,english,,english,,counting|number|quantity,,noun,
+^,,மாகாணி,tamil,,tamil,'மகண':1 'measure':2,counting|number|quantity,விஸமட்3டொ3,noun,
+-,ꢡ,ꢡꢶꢮ,sourashtra,,,'ꢡꢮ':1 'tiva':2 'three':3 'fourth':4,counting|number|quantity,तिव|திவ|tiva|tiva|tiva|t̪ɪʋə,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,three-fourth,english,,english,,counting|number|quantity,,noun,
+^,,முக்கால்,tamil,,tamil,'மககல':1 'three':2 'fourth':3,counting|number|quantity,திவ,noun,
+-,ꢱ,ꢱꢶꢭꢶ,sourashtra,,,'ꢱꢭ':1 'sili':2 'measure':3,counting|number|quantity,सिलि|ஸிலி|sili|sili|sili|s̪ɪlɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,1/32 of a measure,english,,english,,counting|number|quantity,,noun,
+^,,முண்டாணி,tamil,,tamil,'மணடண':1 'measure':2,counting|number|quantity,ஸிலி,noun,
+-,ꢱ,ꢱꢣ꣄ꢣꢸꢮꢶꢱꢪ꣄,sourashtra,,,'ꢱꢣꢣꢮꢱꢪ':1 'sadduvisam':2 'measure':3,counting|number|quantity,सद्दुविसम्|ஸத்3து3விஸம்|sadduvisam|sadduvisam|sadduvisam|s̪əd̪d̪uʋɪs̪əm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,1/32 of a measure,english,,english,,counting|number|quantity,,noun,
+^,,முண்டாணி,tamil,,tamil,'மணடண':1 'measure':2,counting|number|quantity,ஸத்3து3விஸம்,noun,
+-,ꢱ,ꢱꢸꢥ꣄ꢫ,sourashtra,,,'ꢱꢥꢫ':1 'sunya':2 'zero':3,counting|number|quantity,सून्य|ஸுந்ய|sunya|sunya|sunya|s̪un̪jə,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,zero,english,,english,,counting|number|quantity,,noun,
+^,,பாழ்,tamil,,tamil,'பழ':1 'zero':2,counting|number|quantity,ஸுந்ய,noun,
+-,ꢱ,ꢱꢸꢥ꣄ꢥꢸ,sourashtra,,,'ꢱꢥꢥ':1 'sunnu':2 'zero':3 'யம':4,counting|number|quantity,सुन्नु|ஸுந்நு|sunnu|sunnu|sunnu|s̪un̪n̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,zero,english,,english,,counting|number|quantity,,noun,
+^,,பூஜியம்,tamil,,tamil,'பஜயம':1 'zero':2 'யம':3,counting|number|quantity,ஸுந்நு,noun,
+-,ꢫ,ꢫꣂꢔ꣄,sourashtra,,,'ꢫꢔ':1 'yog':2 'one':3 'ஒன':4,counting|number|quantity,योग्|யோக்3|yog|yog|yog|joːg,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,one,english,,english,,counting|number|quantity,,noun,
+^,,ஒன்று,tamil,,tamil,'ஒனற':1 'one':2 'ஒன':3,counting|number|quantity,யோக்3,noun,
+-,ꢣ,ꢣꢷ,sourashtra,,,'dee':1 'di':2 'dī':3 'two':4 'இரண':5,counting|number|quantity,दी|தீ3|dee|dI|dī|d̪iː,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,two,english,,english,,counting|number|quantity,,noun,
+^,,இரண்டு,tamil,,tamil,'இரணட':1 'two':2 'இரண':3,counting|number|quantity,தீ3,noun,
+-,ꢣ,ꢣꢷꢥꢸ,sourashtra,,,'ꢣꢥ':1 'deenu':2 'dinu':3 'dīnu':4 'three':5,counting|number|quantity,दीनु|தீ3நு|deenu|dInu|dīnu|d̪iːn̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,three,english,,english,,counting|number|quantity,,noun,
+^,,மூன்று,tamil,,tamil,'மனற':1 'three':2,counting|number|quantity,தீ3நு,noun,
+-,ꢗ,ꢗꢵꢬꢸ,sourashtra,,,'ꢗꢬ':1 'chaaru':2 'caru':3 'cāru':4 'four':5,counting|number|quantity,चारु|சாரு|chaaru|cAru|cāru|t͡ʃɑːɾu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,four,english,,english,,counting|number|quantity,,noun,
+^,,நான்கு,tamil,,tamil,'நனக':1 'four':2,counting|number|quantity,சாரு,noun,
+-,ꢦ,ꢦꢵꢛ꣄ꢗ꣄,sourashtra,,,'ꢦꢛꢗ':1 'paanch':2 'pajc':3 'pāñc':4 'five':5 'ஐந':6,counting|number|quantity,पाञ्च्|பாஞ்ச்|paanch|pAJc|pāñc|pɑːɲt͡ʃ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,five,english,,english,,counting|number|quantity,,noun,
+^,,ஐந்து,tamil,,tamil,'ஐநத':1 'five':2 'ஐந':3,counting|number|quantity,பாஞ்ச்,noun,
+-,ꢱ,ꢱꣂ,sourashtra,,,'so':1 'six':2 'ஆற':3,counting|number|quantity,सो|ஸோ|so|so|so|s̪oː,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,six,english,,english,,counting|number|quantity,,noun,
+^,,ஆறு,tamil,,tamil,'ஆற':1 'six':2,counting|number|quantity,ஸோ,noun,
+-,ꢱ,ꢱꢵꢢ꣄,sourashtra,,,'ꢱꢢ':1 'saath':2 'sath':3 'sāth':4 'seven':5 'ஏழ':6,counting|number|quantity,साथ्|ஸாத்2|saath|sAth|sāth|s̪ɑːt̪ʰ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,seven,english,,english,,counting|number|quantity,,noun,
+^,,ஏழு,tamil,,tamil,'ஏழ':1 'seven':2,counting|number|quantity,ஸாத்2,noun,
+-,ꢃ,ꢃꢝ꣄,sourashtra,,,'ꢃꢝ':1 'aath':2 'ath':3 'āṭh':4 'eight':5 'எட':6,counting|number|quantity,आठ्|ஆட்2|aat'h|ATh|āṭh|ɑːʈʰ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,eight,english,,english,,counting|number|quantity,,noun,
+^,,எட்டு,tamil,,tamil,'எடட':1 'eight':2 'எட':3,counting|number|quantity,ஆட்2,noun,
+-,ꢥ,ꢥꣁꢮ꣄,sourashtra,,,'ꢥꢮ':1 'nov':2 'nŏv':3 'nine':4 'ஒன':5 'பத':6,counting|number|quantity,ना॑व्|நொவ்|no'v|nOv|nŏv|n̪oʋ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,nine,english,,english,,counting|number|quantity,,noun,
+^,,ஒன்பது,tamil,,tamil,'ஒனபத':1 'nine':2 'ஒன':3 'பத':4,counting|number|quantity,நொவ்,noun,
+-,ꢣ,ꢣꢾꢱ꣄,sourashtra,,,'ꢣꢱ':1 'des':2 'dĕs':3 'ten':4 'பத':5,counting|number|quantity,द॑स्|தெ3ஸ்|de's|dEs|dĕs|d̪es̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,ten,english,,english,,counting|number|quantity,,noun,
+^,,பத்து,tamil,,tamil,'பதத':1 'ten':2 'பத':3,counting|number|quantity,தெ3ஸ்,noun,
+-,ꢮ,ꢮꢶꢒ꣄ꢫꢵꢬ꣄,sourashtra,,,'ꢮꢒꢫꢬ':1 'vikyaar':2 'vikyar':3 'vikyār':4 'eleven':5 'பத':6,counting|number|quantity,विक्यार्|விக்யார்|vikyaar|vikyAr|vikyār|ʋɪkjɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,eleven,english,,english,,counting|number|quantity,,noun,
+^,,பதினொன்று,tamil,,tamil,'பதனனற':1 'eleven':2 'பத':3,counting|number|quantity,விக்யார்,noun,
+-,ꢨ,ꢨꢵꢬ꣄,sourashtra,,,'ꢨꢬ':1 'baar':2 'bar':3 'bār':4 'twelve':5 'பன':6 'ரண':7,counting|number|quantity,बार्|பா3ர்|baar|bAr|bār|bɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,twelve,english,,english,,counting|number|quantity,,noun,
+^,,பன்னிரண்டு,tamil,,tamil,'பனனரணட':1 'twelve':2 'பன':3 'ரண':4,counting|number|quantity,பா3ர்,noun,
+-,ꢡ,ꢡꢿꢬ꣄,sourashtra,,,'ꢡꢬ':1 'ter':2 'thirteen':3 'பத':4,counting|number|quantity,तेर्|தேர்|ter|ter|ter|t̪eːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,thirteen,english,,english,,counting|number|quantity,,noun,
+^,,பதிமூன்று,tamil,,tamil,'பதமனற':1 'thirteen':2 'பத':3,counting|number|quantity,தேர்,noun,
+-,ꢗ,ꢗꣁꢮꢣ꣄,sourashtra,,,'ꢗꢮꢣ':1 'chovad':2 'covad':3 'cŏvad':4 'fourteen':5 'பத':6,counting|number|quantity,चा॑व्द्|சொவ்த்3|cho'vad|cOvad|cŏvad|t͡ʃoʋəd̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,fourteen,english,,english,,counting|number|quantity,,noun,
+^,,பதினான்கு,tamil,,tamil,'பதனனக':1 'fourteen':2 'பத':3,counting|number|quantity,சொவ்த்3,noun,
+-,ꢧ,ꢧꢥ꣄ꢣꢬ꣄,sourashtra,,,'ꢧꢥꢣꢬ':1 'phandar':2 'fifteen':3 'பத':4,counting|number|quantity,फ्न्दर्|ப2ந்த3ர்|phandar|phandar|phandar|pʰən̪d̪əɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,fifteen,english,,english,,counting|number|quantity,,noun,
+^,,பதினைந்து,tamil,,tamil,'பதனநத':1 'fifteen':2 'பத':3,counting|number|quantity,ப2ந்த3ர்,noun,
+-,ꢱ,ꢱꣁꢮꢳ꣄,sourashtra,,,'ꢱꢮꢳ':1 'soval':2 'sŏval':3 'sixteen':4 'பத':5,counting|number|quantity,सा॑वळ|ஸொவள்|so'val'|sOvaL|sŏval̤|s̪oʋəɭ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,sixteen,english,,english,,counting|number|quantity,,noun,
+^,,பதினாறு,tamil,,tamil,'பதனற':1 'sixteen':2 'பத':3,counting|number|quantity,ஸொவள்,noun,
+-,ꢱ,ꢱꢡ꣄ꢡꢬ꣄,sourashtra,,,'ꢱꢡꢡꢬ':1 'sattar':2 'seventeen':3 'பத':4,counting|number|quantity,सत्तर्|ஸத்தர்|sattar|sattar|sattar|s̪ət̪t̪əɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,seventeen,english,,english,,counting|number|quantity,,noun,
+^,,பதினேழு,tamil,,tamil,'பதனழ':1 'seventeen':2 'பத':3,counting|number|quantity,ஸத்தர்,noun,
+-,ꢂ,ꢂꢝꢵꢬ꣄,sourashtra,,,'ꢂꢝꢬ':1 'athaar':2 'athar':3 'aṭhār':4 'eighteen':5 'பத':6,counting|number|quantity,अठार्|அடா2ர்|at'haar|aThAr|aṭhār|əʈʰɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,eighteen,english,,english,,counting|number|quantity,,noun,
+^,,பதினெட்டு,tamil,,tamil,'பதனடட':1 'eighteen':2 'பத':3,counting|number|quantity,அடா2ர்,noun,
+-,ꢏ,ꢏꢒ꣄ꢥꢷꢱ꣄,sourashtra,,,'ꢏꢒꢥꢱ':1 'oknees':2 'oknis':3 'ŏknīs':4 'nineteen':5 'பத':6,counting|number|quantity,आ॑क्नीस्|ஒக்நீஸ்|o'knees|OknIs|ŏknīs|okn̪iːs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,nineteen,english,,english,,counting|number|quantity,,noun,
+^,,பத்தொன்பது,tamil,,tamil,'பததனபத':1 'nineteen':2 'பத':3,counting|number|quantity,ஒக்நீஸ்,noun,
+-,ꢮ,ꢮꢷꢱ꣄,sourashtra,,,'ꢮꢱ':1 'vees':2 'vis':3 'vīs':4 'twenty':5 'இர':6 'பத':7,counting|number|quantity,वीस्|வீஸ்|vees|vIs|vīs|ʋiːs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,twenty,english,,english,,counting|number|quantity,,noun,
+^,,இருபது,tamil,,tamil,'இரபத':1 'twenty':2 'இர':3 'பத':4,counting|number|quantity,வீஸ்,noun,
+-,ꢡ,ꢡꢷꢱ꣄,sourashtra,,,'ꢡꢱ':1 'tees':2 'tis':3 'tīs':4 'thirty':5 'பத':6,counting|number|quantity,तीस्|தீஸ்|tees|tIs|tīs|t̪iːs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,thirty,english,,english,,counting|number|quantity,,noun,
+^,,முப்பது,tamil,,tamil,'மபபத':1 'thirty':2 'பத':3,counting|number|quantity,தீஸ்,noun,
+-,ꢣ,ꢣꢷꢒꢳꢡꢷꢱ꣄,sourashtra,,,'ꢣꢒꢳꢡꢱ':1 'deekalatees':2 'dikalatis':3 'dīkalatīs':4 'thirty':5 'two':6 'பத':7 'ரண':8,counting|number|quantity,दीकळतीस्|தீ3களதீஸ்|deekal'atees|dIkaLatIs|dīkal̤atīs|d̪iːkəɭət̪iːs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,thirty two,english,,english,,counting|number|quantity,,noun,
+^,,முப்பத்திரண்டு,tamil,,tamil,'மபபததரணட':1 'thirty':2 'two':3 'பத':4 'ரண':5,counting|number|quantity,தீ3களதீஸ்,noun,
+-,ꢗ,ꢗꢳꢶꢱ꣄,sourashtra,,,'ꢗꢳꢱ':1 'chalis':2 'calis':3 'forty':4 'பத':5,counting|number|quantity,चळिस्|சளிஸ்|chal'is|caLis|cal̤is|t͡ʃəɭɪs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,forty,english,,english,,counting|number|quantity,,noun,
+^,,நாற்பது,tamil,,tamil,'நறபத':1 'forty':2 'பத':3,counting|number|quantity,சளிஸ்,noun,
+-,ꢢ,ꢢꢷꢥ꣄ꢒꢳ ꢗꢳꢶꢱ꣄,sourashtra,,,'ꢢꢥꢒꢳꢗꢳꢱ':1 'theenkalachalis':2 'thinkalacalis':3 'thīnkalacalis':4 'forty':5 'three':6 'பத':7,counting|number|quantity,थिन्कळ चळिस्|தீ2ந்களசளிஸ்|theenkal'a chal'is|thInkaLa caLis|thīnkal̤a cal̤is|t̪ʰiːn̪kəɭə t͡ʃəɭɪs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,forty three,english,,english,,counting|number|quantity,,noun,
+^,,நாற்பத்துமூன்று,tamil,,tamil,'நறபததமனற':1 'forty':2 'three':3 'பத':4,counting|number|quantity,தீ2ந்களசளிஸ்,noun,
+-,ꢦ,ꢦꣁꢥ꣄ꢥꢵꢱ꣄,sourashtra,,,'ꢦꢥꢥꢱ':1 'ponnaas':2 'ponnas':3 'pŏnnās':4 'fifty':5 'ஐம':6 'பத':7,counting|number|quantity,पा॑न्नास्|பொந்நாஸ்|po'nnaas|pOnnAs|pŏnnās|pon̪n̪ɑːs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,fifty,english,,english,,counting|number|quantity,,noun,
+^,,ஐம்பது,tamil,,tamil,'ஐமபத':1 'fifty':2 'ஐம':3 'பத':4,counting|number|quantity,பொந்நாஸ்,noun,
+-,ꢗ,ꢗꢵꢬ꣄ꢒꢳ ꢦꣁꢥ꣄ꢥꢵꢱ꣄,sourashtra,,,'ꢗꢬꢒꢳꢦꢥꢥꢱ':1 'chaarkalaponnaas':2 'carkalaponnas':3 'cārkalapŏnnās':4 'fifty':5 'four':6 'ஐம':7 'பத':8,counting|number|quantity,चार्कळ पा॑न्नास्|சார்கள பொந்நாஸ்|chaarkal'a po'nnaas|cArkaLa pOnnAs|cārkal̤a pŏnnās|t͡ʃɑːɾkəɭə pon̪n̪ɑːs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,fifty four,english,,english,,counting|number|quantity,,noun,
+^,,ஐம்பத்து நான்கு,tamil,,tamil,'ஐமபததநனக':1 'fifty':2 'four':3 'ஐம':4 'பத':5,counting|number|quantity,சார்கள பொந்நாஸ்,noun,
+-,ꢱ,ꢱꢵꢜ꣄,sourashtra,,,'ꢱꢜ':1 'saat':2 'sat':3 'sāṭ':4 'sixty':5 'அற':6 'பத':7,counting|number|quantity,साट्|ஸாட்|saat'|sAT|sāṭ|s̪ɑːʈ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,sixty,english,,english,,counting|number|quantity,,noun,
+^,,அறுபது,tamil,,tamil,'அறபத':1 'sixty':2 'அற':3 'பத':4,counting|number|quantity,ஸாட்,noun,
+-,ꢦ,ꢦꢵꢛ꣄ꢗꢳ ꢱꢵꢜ꣄,sourashtra,,,'ꢦꢛꢗꢳꢱꢜ':1 'paanchalasaat':2 'pajcalasat':3 'pāñcalasāṭ':4 'sixty':5 'five':6 'அற':7 'பத':8,counting|number|quantity,पाञ्सळसाट्|பாஞ்சளஸாட்|paanchal'a saat'|pAJcaLa sAT|pāñcal̤a sāṭ|pɑːɲt͡ʃəɭə s̪ɑːʈ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,sixty five,english,,english,,counting|number|quantity,,noun,
+^,,அறுபத்தைந்து,tamil,,tamil,'அறபததநத':1 'sixty':2 'five':3 'அற':4 'பத':5,counting|number|quantity,பாஞ்சளஸாட்,noun,
+-,ꢱ,ꢱꢷꢬ꣄,sourashtra,,,'ꢱꢬ':1 'seer':2 'sir':3 'sīr':4 'seventy':5 'எழ':6 'பத':7,counting|number|quantity,सीर्|ஸீர்|seer|sIr|sīr|s̪iːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,seventy,english,,english,,counting|number|quantity,,noun,
+^,,எழுபது,tamil,,tamil,'எழபத':1 'seventy':2 'எழ':3 'பத':4,counting|number|quantity,ஸீர்,noun,
+-,ꢱ,ꢱꣂꢒꢳ ꢱꢷꢬ꣄,sourashtra,,,'ꢱꢒꢳꢱꢬ':1 'sokalaseer':2 'sokalasir':3 'sokalasīr':4 'seventy':5 'six':6 'எழ':7 'பத':8,counting|number|quantity,सोकळसीर्|ஸோகளஸீர்|sokal'a seer|sokaLa sIr|sokal̤a sīr|s̪oːkəɭə s̪iːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,seventy six,english,,english,,counting|number|quantity,,noun,
+^,,எழுபத்தாறு,tamil,,tamil,'எழபததற':1 'seventy':2 'six':3 'எழ':4 'பத':5,counting|number|quantity,ஸோகளஸீர்,noun,
+-,ꢂ,ꢂꢱꢶ,sourashtra,,,'ꢂꢱ':1 'asi':2 'eighty':3 'எண':4 'பத':5,counting|number|quantity,असि|அஸி|asi|asi|asi|əs̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,eighty,english,,english,,counting|number|quantity,,noun,
+^,,எண்பது,tamil,,tamil,'எணபத':1 'eighty':2 'எண':3 'பத':4,counting|number|quantity,அஸி,noun,
+-,ꢱ,ꢱꢵꢡ꣄ꢒꢳ ꢂꢱꢶ,sourashtra,,,'ꢱꢡꢒꢳꢂꢱ':1 'saatkalaasi':2 'satkalaasi':3 'sātkalaasi':4 'eighty':5 'seven':6 'எண':7 'பத':8,counting|number|quantity,सात्कळअसि|ஸாத்களஅஸி|saatkal'a asi|sAtkaLa asi|sātkal̤a asi|s̪ɑːt̪kəɭə əs̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,eighty seven,english,,english,,counting|number|quantity,,noun,
+^,,எண்பத்தேழு,tamil,,tamil,'எணபததழ':1 'eighty':2 'seven':3 'எண':4 'பத':5,counting|number|quantity,ஸாத்களஅஸி,noun,
+-,ꢥ,ꢥꢮꢡ꣄,sourashtra,,,'ꢥꢮꢡ':1 'navat':2 'ninety':3,counting|number|quantity,नवत्|நவத்|navat|navat|navat|n̪əʋət̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,ninety,english,,english,,counting|number|quantity,,noun,
+^,,தொண்ணூறு,tamil,,tamil,'தணணற':1 'ninety':2,counting|number|quantity,நவத்,noun,
+-,ꢃ,ꢃꢜ꣄ꢒꢳ ꢥꢮꢡ꣄,sourashtra,,,'ꢃꢜꢒꢳꢥꢮꢡ':1 'aatkalanavat':2 'atkalanavat':3 'āṭkalanavat':4 'ninety':5 'eight':6,counting|number|quantity,आट्कळ नवत्|ஆட்களநவத்|aat'kal'a navat|ATkaLa navat|āṭkal̤a navat|ɑːʈkəɭə n̪əʋət̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,ninety eight,english,,english,,counting|number|quantity,,noun,
+^,,தொண்ணூற்றொட்டு,tamil,,tamil,'தணணறறடட':1 'ninety':2 'eight':3,counting|number|quantity,ஆட்களநவத்,noun,
+-,ꢥ,ꢥꣁꢮ꣄ꢮꢳ ꢥꢮꢡ꣄,sourashtra,,,'ꢥꢮꢮꢳꢥꢮꢡ':1 'novvalanavat':2 'nŏvvalanavat':3 'ninety':4 'nine':5 'பத':6,counting|number|quantity,नोव्वअ नवत्|நொவ்வளநவத்|no'vval'a navat|nOvvaLa navat|nŏvval̤a navat|n̪oʋʋəɭə n̪əʋət̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,ninety nine,english,,english,,counting|number|quantity,,noun,
+^,,தொண்ணூற்றொன்பது,tamil,,tamil,'தணணறறனபத':1 'ninety':2 'nine':3 'பத':4,counting|number|quantity,நொவ்வளநவத்,noun,
+-,ꢱ,ꢱꣂꢮꢸ,sourashtra,,,'ꢱꢮ':1 'sovu':2 'hundred':3,counting|number|quantity,सोवु|ஸோவு|sovu|sovu|sovu|s̪oːʋu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,hundred,english,,english,,counting|number|quantity,,noun,
+^,,நூறு,tamil,,tamil,'நற':1 'hundred':2,counting|number|quantity,ஸோவு,noun,
+-,ꢫ,ꢫꣂꢒꢭ ꢱꣂꢮꢸ,sourashtra,,,'ꢫꢒꢭꢱꢮ':1 'yokalasovu':2 'hundred':3 'and':4 'one':5 'ஒன':6,counting|number|quantity,योकळसोवु|யோகளஸோவு|yokala sovu|yokala sovu|yokala sovu|joːkələ s̪oːʋu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,hundred and one,english,,english,,counting|number|quantity,,noun,
+^,,நூற்று ஒன்று,tamil,,tamil,'நறறஒனற':1 'hundred':2 'and':3 'one':4 'ஒன':5,counting|number|quantity,யோகளஸோவு,noun,
+-,ꢣ,ꢣꢷꢒꢳ ꢱꣂꢮꢸ,sourashtra,,,'ꢣꢒꢳꢱꢮ':1 'deekalasovu':2 'dikalasovu':3 'dīkalasovu':4 'hundred':5 'and':6 'two':7 'இரண':8,counting|number|quantity,दीकलसोवु|தீ3களஸோவு|deekal'a sovu|dIkaLa sovu|dīkal̤a sovu|d̪iːkəɭə s̪oːʋu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,hundred and two,english,,english,,counting|number|quantity,,noun,
+^,,நூற்று இரண்டு,tamil,,tamil,'நறறஇரணட':1 'hundred':2 'and':3 'two':4 'இரண':5,counting|number|quantity,தீ3களஸோவு,noun,
+-,ꢣ,ꢣꢷꢱꣂꢮꢸ,sourashtra,,,'ꢣꢱꢮ':1 'deesovu':2 'disovu':3 'dīsovu':4 'two':5 'hundred':6 'இர':7,counting|number|quantity,दीसोवु|தீ3ஸோவு|deesovu|dIsovu|dīsovu|d̪iːs̪oːʋu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,two hundred,english,,english,,counting|number|quantity,,noun,
+^,,இருநூறு,tamil,,tamil,'இரநற':1 'two':2 'hundred':3 'இர':4,counting|number|quantity,தீ3ஸோவு,noun,
+-,ꢢ,ꢢꢷꢥ꣄ꢱꣂꢮꢸ,sourashtra,,,'ꢢꢥꢱꢮ':1 'theensovu':2 'thinsovu':3 'thīnsovu':4 'three':5 'hundred':6,counting|number|quantity,थीन्सोवु|தீ2ந்ஸோவு|theensovu|thInsovu|thīnsovu|t̪ʰiːn̪s̪oːʋu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,three hundred,english,,english,,counting|number|quantity,,noun,
+^,,முந்நூறு,tamil,,tamil,'மநநற':1 'three':2 'hundred':3,counting|number|quantity,தீ2ந்ஸோவு,noun,
+-,ꢗ,ꢗꢵꢬ꣄ꢱꣂꢮꢸ,sourashtra,,,'ꢗꢬꢱꢮ':1 'chaarsovu':2 'carsovu':3 'cārsovu':4 'four':5 'hundred':6,counting|number|quantity,चार्सोवु|சார்ஸோவு|chaarsovu|cArsovu|cārsovu|t͡ʃɑːɾs̪oːʋu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,four hundred,english,,english,,counting|number|quantity,,noun,
+^,,நானூறு,tamil,,tamil,'நனற':1 'four':2 'hundred':3,counting|number|quantity,சார்ஸோவு,noun,
+-,ꢦ,ꢦꢵꢛ꣄ꢗ꣄ ꢱꣂꢮꢸ,sourashtra,,,'ꢦꢛꢗꢱꢮ':1 'paanchsovu':2 'pajcsovu':3 'pāñcsovu':4 'five':5 'hundred':6 'ஐந':7,counting|number|quantity,पाञ्सोवु|பாஞ்சு; ஸோவு|paanch sovu|pAJc sovu|pāñc sovu|pɑːɲt͡ʃ s̪oːʋu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,five hundred,english,,english,,counting|number|quantity,,noun,
+^,,ஐநூறு,tamil,,tamil,'ஐநற':1 'five':2 'hundred':3 'ஐந':4,counting|number|quantity,பாஞ்சு; ஸோவு,noun,
+-,ꢱ,ꢱꣂ ꢱꣂꢮꢸ,sourashtra,,,'ꢱꢱꢮ':1 'sosovu':2 'six':3 'hundred':4 'அற':5,counting|number|quantity,सोसोवु|ஸோஸோவு|so sovu|so sovu|so sovu|s̪oː s̪oːʋu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,six hundred,english,,english,,counting|number|quantity,,noun,
+^,,அறுநூறு,tamil,,tamil,'அறநற':1 'six':2 'hundred':3 'அற':4,counting|number|quantity,ஸோஸோவு,noun,
+-,ꢱ,ꢱꢵꢡ꣄ ꢱꣂꢮꢸ,sourashtra,,,'ꢱꢡꢱꢮ':1 'saatsovu':2 'satsovu':3 'sātsovu':4 'seven':5 'hundred':6 'எழ':7,counting|number|quantity,सात्सोवु|ஸாத்ஸோவு|saat sovu|sAt sovu|sāt sovu|s̪ɑːt̪ s̪oːʋu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,seven hundred,english,,english,,counting|number|quantity,,noun,
+^,,எழுநூறு,tamil,,tamil,'எழநற':1 'seven':2 'hundred':3 'எழ':4,counting|number|quantity,ஸாத்ஸோவு,noun,
+-,ꢃ,ꢃꢝ꣄ꢱꣂꢮꢸ,sourashtra,,,'ꢃꢝꢱꢮ':1 'aathsovu':2 'athsovu':3 'āṭhsovu':4 'eight':5 'hundred':6 'எண':7,counting|number|quantity,आठ्सोवु|ஆட்2ஸோவு|aat'hsovu|AThsovu|āṭhsovu|ɑːʈʰs̪oːʋu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,eight hundred,english,,english,,counting|number|quantity,,noun,
+^,,எண்ணூறு,tamil,,tamil,'எணணற':1 'eight':2 'hundred':3 'எண':4,counting|number|quantity,ஆட்2ஸோவு,noun,
+-,ꢥ,ꢥꣁꢮ꣄ ꢱꣂꢮꢸ,sourashtra,,,'ꢥꢮꢱꢮ':1 'novsovu':2 'nŏvsovu':3 'nine':4 'hundred':5 'ரம':6,counting|number|quantity,ना॑वसोवु|நொவ்ஸோவு|no'v sovu|nOv sovu|nŏv sovu|n̪oʋ s̪oːʋu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,nine hundred,english,,english,,counting|number|quantity,,noun,
+^,,தொள்ளாயிரம்,tamil,,tamil,'தளளயரம':1 'nine':2 'hundred':3 'ரம':4,counting|number|quantity,நொவ்ஸோவு,noun,
+-,ꢥ,ꢥꣁꢭ꣄ꢒꢳ ꢥꣁꢮ꣄ꢱꣂꢮꢸ,sourashtra,,,'ꢥꢭꢒꢳꢥꢮꢱꢮ':1 'nolkalanovsovu':2 'nŏlkalanŏvsovu':3 'nine':4 'hundred':5 'and':6 'ரத':7 'ஒன':8 'பத':9,counting|number|quantity,ना॑ल्कळ नोव्सोवु|நொல்களநொவ்ஸோவு|no'lkal'a no'vsovu|nOlkaLa nOvsovu|nŏlkal̤a nŏvsovu|n̪olkəɭə n̪oʋs̪oːʋu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,nine hundred and nine,english,,english,,counting|number|quantity,,noun,
+^,,தொள்ளாயிரத்து ஒன்பது,tamil,,tamil,'தளளயரததஒனபத':1 'nine':2 'hundred':3 'and':4 'ரத':5 'ஒன':6 'பத':7,counting|number|quantity,நொல்களநொவ்ஸோவு,noun,
+-,ꢱ,ꢱꢱꢬꢸ,sourashtra,,,'ꢱꢱꢬ':1 'sasaru':2 'thousand':3 'ஆய':4 'ரம':5,counting|number|quantity,ससरु|ஸஸரு|sasaru|sasaru|sasaru|s̪əs̪əɾu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,thousand,english,,english,,counting|number|quantity,,noun,
+^,,ஆயிரம்,tamil,,tamil,'ஆயரம':1 'thousand':2 'ஆய':3 'ரம':4,counting|number|quantity,ஸஸரு,noun,
+-,ꢣ,ꢣꢷꢒꢳ ꢱꢱꢬꢸ,sourashtra,,,'ꢣꢒꢳꢱꢱꢬ':1 'deekalasasaru':2 'dikalasasaru':3 'dīkalasasaru':4 'thousand':5 'and':6 'two':7 'ஆய':8 'ரத':9 'இரண':10,counting|number|quantity,दीकळ ससरु|தீ3களஸஸரு|deekal'a sasaru|dIkaLa sasaru|dīkal̤a sasaru|d̪iːkəɭə s̪əs̪əɾu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,thousand and two,english,,english,,counting|number|quantity,,noun,
+^,,ஆயிரத்து இரண்டு,tamil,,tamil,'ஆயரததஇரணட':1 'thousand':2 'and':3 'two':4 'ஆய':5 'ரத':6 'இரண':7,counting|number|quantity,தீ3களஸஸரு,noun,
+-,ꢮ,ꢮꢷꢱ꣄ꢒꢳ ꢱꢱꢬꢸ,sourashtra,,,'ꢮꢱꢒꢳꢱꢱꢬ':1 'veeskalasasaru':2 'viskalasasaru':3 'vīskalasasaru':4 'thousand':5 'and':6 'twenty':7 'ஆய':8 'ரத':9 'இர':10 'பத':11,counting|number|quantity,विस्कळ ससरु|வீஸ்களஸஸரு|veeskal'a sasaru|vIskaLa sasaru|vīskal̤a sasaru|ʋiːs̪kəɭə s̪əs̪əɾu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,thousand and twenty,english,,english,,counting|number|quantity,,noun,
+^,,ஆயிரத்து இருபது,tamil,,tamil,'ஆயரததஇரபத':1 'thousand':2 'and':3 'twenty':4 'ஆய':5 'ரத':6 'இர':7 'பத':8,counting|number|quantity,வீஸ்களஸஸரு,noun,
+-,ꢣ,ꢣꢷꢱꢵꢬ꣄,sourashtra,,,'ꢣꢱꢬ':1 'deesaar':2 'disar':3 'dīsār':4 'two':5 'thousand':6 'இரண':7 'ரம':8,counting|number|quantity,दीसार्|தீ3ஸார்|deesaar|dIsAr|dīsār|d̪iːs̪ɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,two thousand,english,,english,,counting|number|quantity,,noun,
+^,,இரண்டாயிரம்,tamil,,tamil,'இரணடயரம':1 'two':2 'thousand':3 'இரண':4 'ரம':5,counting|number|quantity,தீ3ஸார்,noun,
+-,ꢢ,ꢢꢶꢥ꣄ꢱꢵꢬ꣄,sourashtra,,,'ꢢꢥꢱꢬ':1 'thinsaar':2 'thinsar':3 'thinsār':4 'three':5 'thousand':6 'ரம':7,counting|number|quantity,थिनसार्|தி2ந்ஸார்|thinsaar|thinsAr|thinsār|t̪ʰɪn̪s̪ɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,three thousand,english,,english,,counting|number|quantity,,noun,
+^,,மூவாயிரம்,tamil,,tamil,'மவயரம':1 'three':2 'thousand':3 'ரம':4,counting|number|quantity,தி2ந்ஸார்,noun,
+-,ꢗ,ꢗꢵꢬ꣄ ꢱꢵꢬ꣄,sourashtra,,,'ꢗꢬꢱꢬ':1 'chaarsaar':2 'carsar':3 'cārsār':4 'four':5 'thousand':6 'ரம':7,counting|number|quantity,चार्सार्|சார்ஸார்|chaar saar|cAr sAr|cār sār|t͡ʃɑːɾ s̪ɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,four thousand,english,,english,,counting|number|quantity,,noun,
+^,,நாலாயிரம்,tamil,,tamil,'நலயரம':1 'four':2 'thousand':3 'ரம':4,counting|number|quantity,சார்ஸார்,noun,
+-,ꢦ,ꢦꢵꢛ꣄ꢗ꣄ ꢱꢱꢬ꣄,sourashtra,,,'ꢦꢛꢗꢱꢱꢬ':1 'paanchsasar':2 'pajcsasar':3 'pāñcsasar':4 'five':5 'thousand':6 'ஐய':7 'ரம':8,counting|number|quantity,पाञच्सार्|பாஞ்ச்ஸஸர்|paanch sasar|pAJc sasar|pāñc sasar|pɑːɲt͡ʃ s̪əs̪əɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,five thousand,english,,english,,counting|number|quantity,,noun,
+^,,ஐயாயிரம்,tamil,,tamil,'ஐயயரம':1 'five':2 'thousand':3 'ஐய':4 'ரம':5,counting|number|quantity,பாஞ்ச்ஸஸர்,noun,
+-,ꢱ,ꢱꣂ ꢱꢵꢱꢬ꣄,sourashtra,,,'ꢱꢱꢱꢬ':1 'sosaasar':2 'sosasar':3 'sosāsar':4 'six':5 'thousand':6 'ஆற':7 'ரம':8,counting|number|quantity,सो ससर्|ஸோஸஸர்|so saasar|so sAsar|so sāsar|s̪oː s̪ɑːs̪əɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,six thousand,english,,english,,counting|number|quantity,,noun,
+^,,ஆறாயிரம்,tamil,,tamil,'ஆறயரம':1 'six':2 'thousand':3 'ஆற':4 'ரம':5,counting|number|quantity,ஸோஸஸர்,noun,
+-,ꢱ,ꢱꢵꢡ꣄ ꢱꢱꢬ꣄,sourashtra,,,'ꢱꢡꢱꢱꢬ':1 'saatsasar':2 'satsasar':3 'sātsasar':4 'seven':5 'thousand':6 'ஏழ':7 'ரம':8,counting|number|quantity,साट्ससर्|ஸாத்ஸஸர்|saat sasar|sAt sasar|sāt sasar|s̪ɑːt̪ s̪əs̪əɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,seven thousand,english,,english,,counting|number|quantity,,noun,
+^,,ஏழாயிரம்,tamil,,tamil,'ஏழயரம':1 'seven':2 'thousand':3 'ஏழ':4 'ரம':5,counting|number|quantity,ஸாத்ஸஸர்,noun,
+-,ꢃ,ꢃꢜ꣄ ꢱꢱꢬ꣄,sourashtra,,,'ꢃꢜꢱꢱꢬ':1 'aatsasar':2 'atsasar':3 'āṭsasar':4 'eight':5 'thousand':6 'எட':7 'ரம':8,counting|number|quantity,आट्ससर्|ஆட்ஸஸர்|aat' sasar|AT sasar|āṭ sasar|ɑːʈ s̪əs̪əɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,eight thousand,english,,english,,counting|number|quantity,,noun,
+^,,எட்டாயிரம்,tamil,,tamil,'எடடயரம':1 'eight':2 'thousand':3 'எட':4 'ரம':5,counting|number|quantity,ஆட்ஸஸர்,noun,
+-,ꢥ,ꢥꣁꢮ꣄ ꢱꢱꢬ꣄,sourashtra,,,'ꢥꢮꢱꢱꢬ':1 'novsasar':2 'nŏvsasar':3 'nine':4 'thousand':5 'ஒன':6 'பத':7 'ரம':8,counting|number|quantity,ना॑व्ससर्|நொவ்ஸஸர்|no'v sasar|nOv sasar|nŏv sasar|n̪oʋ s̪əs̪əɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,nine thousand,english,,english,,counting|number|quantity,,noun,
+^,,ஒன்பதாயிரம்,tamil,,tamil,'ஒனபதயரம':1 'nine':2 'thousand':3 'ஒன':4 'பத':5 'ரம':6,counting|number|quantity,நொவ்ஸஸர்,noun,
+-,ꢣ,ꢣꢾꢱ꣄ ꢱꢱꢬ꣄,sourashtra,,,'ꢣꢱꢱꢱꢬ':1 'dessasar':2 'dĕssasar':3 'ten':4 'thousand':5 'பத':6 'ரம':7,counting|number|quantity,द॑स्ससर्|தெ3ஸ்ஸஸர்|de's sasar|dEs sasar|dĕs sasar|d̪es̪ s̪əs̪əɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,ten thousand,english,,english,,counting|number|quantity,,noun,
+^,,பத்தாயிரம்,tamil,,tamil,'பததயரம':1 'ten':2 'thousand':3 'பத':4 'ரம':5,counting|number|quantity,தெ3ஸ்ஸஸர்,noun,
+-,ꢭ,ꢭꢾꢒ꣄ꢒꢸ,sourashtra,,,'ꢭꢒꢒ':1 'lekku':2 'lĕkku':3 'one':4 'lakh':5 'இலட':6 'சம':7,counting|number|quantity,ल॑क्कु|லெக்கு|le'kku|lEkku|lĕkku|lekku,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,one lakh,english,,english,,counting|number|quantity,,noun,
+^,,இலட்சம்,tamil,,tamil,'இலடசம':1 'one':2 'lakh':3 'இலட':4 'சம':5,counting|number|quantity,லெக்கு,noun,
+-,ꢱ,ꢱꣁꢮꢸ ꢱꢱꢬꢸ,sourashtra,,,'ꢱꢮꢱꢱꢬ':1 'sovusasaru':2 'sŏvusasaru':3 'one':4 'lakh':5 'ரம':6,counting|number|quantity,सा॑वु ससरु|ஸொவுஸஸரு|so'vu sasaru|sOvu sasaru|sŏvu sasaru|s̪oʋu s̪əs̪əɾu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,one lakh,english,,english,,counting|number|quantity,,noun,
+^,,நூறாயிரம்,tamil,,tamil,'நறயரம':1 'one':2 'lakh':3 'ரம':4,counting|number|quantity,ஸொவுஸஸரு,noun,
+-,ꢒ,ꢒꣂꢜꢶ,sourashtra,,,'ꢒꢜ':1 'koti':2 'koṭi':3 'crore':4,counting|number|quantity,कोटि|கோடி|kot'i|koTi|koṭi|koːʈɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,crore,english,,english,,counting|number|quantity,,noun,
+^,,கோடி,tamil,,tamil,'கட':1 'crore':2,counting|number|quantity,கோடி,noun,
+-,ꢏ,ꢏꢠ꣄ꢜꢾ,sourashtra,,,'ꢏꢠꢜ':1 'onte':2 'ŏṇṭĕ':3 'adjective':4 'form':5 'one':6 'comes':7 'before':8 'consonant':9 'beginning':10 'nouns':11 'come':12 'begin':13 'noun':14 'ஒர':15,counting|number|quantity,आ॑ण्ट॑|ஒண்டெ|o'nt'e'|ONTE|ŏṇṭĕ|oɳʈe,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,adjective form of one comes before consonant beginning nouns,english,,english,,counting|number|quantity,,noun,
+^,,ஒரு,tamil,,tamil,'ஒர':1 'adjective':2 'form':3 'one':4 'comes':5 'before':6 'consonant':7 'beginning':8 'nouns':9 'come':10 'begin':11 'noun':12,counting|number|quantity,ஒண்டெ,noun,
+-,ꢏ,ꢏꢠ꣄ꢜꢾ,sourashtra,,,'ꢏꢠꢜ':1 'onte':2 'ŏṇṭĕ':3 'adjective':4 'form':5 'one':6 'comes':7 'before':8 'vowel':9 'beginning':10 'nouns':11 'come':12 'begin':13 'noun':14 'ஓர':15,counting|number|quantity,आ॑ण्ट॑|ஒண்டெ|o'nt'e'|ONTE|ŏṇṭĕ|oɳʈe,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,adjective form of one comes before vowel beginning nouns,english,,english,,counting|number|quantity,,noun,
+^,,ஓர்,tamil,,tamil,'ஓர':1 'adjective':2 'form':3 'one':4 'comes':5 'before':6 'vowel':7 'beginning':8 'nouns':9 'come':10 'begin':11 'noun':12,counting|number|quantity,ஒண்டெ,noun,
+-,ꢧ,ꢧꣀꢭꣁ,sourashtra,,,'ꢧꢭ':1 'phailo':2 'phailŏ':3 'first':4 'தல':5 'வத':6,counting|number|quantity,फैला॑|பை2லொ|phailo'|phailO|phailŏ|pʰəɪlo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,first,english,,english,,counting|number|quantity,,noun,
+^,,முதலாவது,tamil,,tamil,'மதலவத':1 'first':2 'தல':3 'வத':4,counting|number|quantity,பை2லொ,noun,
+-,ꢧ,ꢧꣀꢭꢵꢪ꣄,sourashtra,,,'ꢧꢭꢪ':1 'phailaam':2 'phailam':3 'phailām':4 'first':5 'தல':6,counting|number|quantity,फैलाम्|பை2லாம்|phailaam|phailAm|phailām|pʰəɪlɑːm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,first,english,,english,,counting|number|quantity,,noun,
+^,,முதலாம்,tamil,,tamil,'மதலம':1 'first':2 'தல':3,counting|number|quantity,பை2லாம்,noun,
+-,ꢣ,ꢣꢶꢮ꣄ꢮꣁ,sourashtra,,,'ꢣꢮꢮ':1 'divvo':2 'divvŏ':3 'second':4 'இரண':5,counting|number|quantity,दिव्वा॑|தி3வ்வொ|divvo'|divvO|divvŏ|d̪ɪʋʋo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,second,english,,english,,counting|number|quantity,,noun,
+^,,இரண்டாம்,tamil,,tamil,'இரணடம':1 'second':2 'இரண':3,counting|number|quantity,தி3வ்வொ,noun,
+-,ꢣ,ꢣꢶꢮꢫꣁ,sourashtra,,,'ꢣꢮꢫ':1 'divayo':2 'divayŏ':3 'second':4 'இரண':5 'வத':6,counting|number|quantity,दिवया॑|தி3வயொ|divayo'|divayO|divayŏ|d̪ɪʋəjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,second,english,,english,,counting|number|quantity,,noun,
+^,,இரண்டாவது,tamil,,tamil,'இரணடவத':1 'second':2 'இரண':3 'வத':4,counting|number|quantity,தி3வயொ,noun,
+-,ꢢ,ꢢꢶꢥ꣄ꢱꢵ,sourashtra,,,'ꢢꢥꢱ':1 'thinsaa':2 'thinsa':3 'thinsā':4 'third':5,counting|number|quantity,थिन्सा|தி2ந்ஸா|thinsaa|thinsA|thinsā|t̪ʰɪn̪s̪ɑː,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,third,english,,english,,counting|number|quantity,,noun,
+^,,மூன்றாம்,tamil,,tamil,'மனறம':1 'third':2,counting|number|quantity,தி2ந்ஸா,noun,
+-,ꢣ,ꢣꢶꢥ꣄ꢮꢫꣁ,sourashtra,,,'ꢣꢥꢮꢫ':1 'dinvayo':2 'dinvayŏ':3 'third':4 'வத':5,counting|number|quantity,दिन्वया॑|தி3ந்வயொ|dinvayo'|dinvayO|dinvayŏ|d̪ɪn̪ʋəjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,third,english,,english,,counting|number|quantity,,noun,
+^,,மூன்றாவது,tamil,,tamil,'மனறவத':1 'third':2 'வத':3,counting|number|quantity,தி3ந்வயொ,noun,
+-,ꢗ,ꢗꢬ꣄ꢭꣁ,sourashtra,,,'ꢗꢬꢭ':1 'charlo':2 'carlo':3 'carlŏ':4 'fourth':5,counting|number|quantity,चर्ला॑|சர்லொ|charlo'|carlO|carlŏ|t͡ʃəɾlo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,fourth,english,,english,,counting|number|quantity,,noun,
+^,,நான்காம்,tamil,,tamil,'நனகம':1 'fourth':2,counting|number|quantity,சர்லொ,noun,
+-,ꢗ,ꢗꢬ꣄ꢮꢫꣁ,sourashtra,,,'ꢗꢬꢮꢫ':1 'charvayo':2 'carvayo':3 'carvayŏ':4 'fourth':5 'வத':6,counting|number|quantity,चर्वया॑|சர்வயொ|charvayo'|carvayO|carvayŏ|t͡ʃəɾʋəjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,fourth,english,,english,,counting|number|quantity,,noun,
+^,,நான்காவது,tamil,,tamil,'நனகவத':1 'fourth':2 'வத':3,counting|number|quantity,சர்வயொ,noun,
+-,ꢦ,ꢦꢮ꣄ꢛ꣄ꢗꣁ,sourashtra,,,'ꢦꢮꢛꢗ':1 'pavncho':2 'pavjco':3 'pavñcŏ':4 'fifth':5 'ஐந':6,counting|number|quantity,पवञ्चो|பவ்ஞ்சொ|pavncho'|pavJcO|pavñcŏ|pəʋɲt͡ʃo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,fifth,english,,english,,counting|number|quantity,,noun,
+^,,ஐந்தாம்,tamil,,tamil,'ஐநதம':1 'fifth':2 'ஐந':3,counting|number|quantity,பவ்ஞ்சொ,noun,
+-,ꢦ,ꢦꢮ꣄ꢛ꣄ꢗꣁꢫꣁ,sourashtra,,,'ꢦꢮꢛꢗꢫ':1 'pavnchoyo':2 'pavjcoyo':3 'pavñcŏyŏ':4 'fifth':5 'ஐந':6 'வத':7,counting|number|quantity,पवञ्चा॑या॑|பவ்ஞ்சொயொ|pavncho'yo'|pavJcOyO|pavñcŏyŏ|pəʋɲt͡ʃojo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,fifth,english,,english,,counting|number|quantity,,noun,
+^,,ஐந்தாவது,tamil,,tamil,'ஐநதவத':1 'fifth':2 'ஐந':3 'வத':4,counting|number|quantity,பவ்ஞ்சொயொ,noun,
+-,ꢱ,ꢱꣁꢮ꣄ꢮꣁ,sourashtra,,,'ꢱꢮꢮ':1 'sovvo':2 'sŏvvŏ':3 'sixth':4 'ஆற':5,counting|number|quantity,सा॑व्वा॑|ஸொவ்வொ|so'vvo'|sOvvO|sŏvvŏ|s̪oʋʋo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,sixth,english,,english,,counting|number|quantity,,noun,
+^,,ஆறாம்,tamil,,tamil,'ஆறம':1 'sixth':2 'ஆற':3,counting|number|quantity,ஸொவ்வொ,noun,
+-,ꢱ,ꢱꣁꢮ꣄ꢮꢫꣁ,sourashtra,,,'ꢱꢮꢮꢫ':1 'sovvayo':2 'sŏvvayŏ':3 'sixth':4 'ஆற':5 'வத':6,counting|number|quantity,सा॑व्वया॑|ஸொவ்வயொ|so'vvayo'|sOvvayO|sŏvvayŏ|s̪oʋʋəjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,sixth,english,,english,,counting|number|quantity,,noun,
+^,,ஆறாவது,tamil,,tamil,'ஆறவத':1 'sixth':2 'ஆற':3 'வத':4,counting|number|quantity,ஸொவ்வயொ,noun,
+-,ꢱ,ꢱꢡ꣄ꢭꣁ,sourashtra,,,'ꢱꢡꢭ':1 'satlo':2 'satlŏ':3 'seventh':4 'ஏழ':5,counting|number|quantity,सत्ला॑|ஸத்லொ|satlo'|satlO|satlŏ|s̪ət̪lo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,seventh,english,,english,,counting|number|quantity,,noun,
+^,,ஏழாம்,tamil,,tamil,'ஏழம':1 'seventh':2 'ஏழ':3,counting|number|quantity,ஸத்லொ,noun,
+-,ꢱ,ꢱꢡ꣄ꢮꢫꣁ,sourashtra,,,'ꢱꢡꢮꢫ':1 'satvayo':2 'satvayŏ':3 'seventh':4 'ஏழ':5 'வத':6,counting|number|quantity,सत्वया॑|ஸத்வயொ|satvayo'|satvayO|satvayŏ|s̪ət̪ʋəjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,seventh,english,,english,,counting|number|quantity,,noun,
+^,,ஏழாவது,tamil,,tamil,'ஏழவத':1 'seventh':2 'ஏழ':3 'வத':4,counting|number|quantity,ஸத்வயொ,noun,
+-,ꢂ,ꢂꢜ꣄ꢮ,sourashtra,,,'ꢂꢜꢮ':1 'atva':2 'aṭva':3 'eighth':4 'எட':5,counting|number|quantity,अट्व|அட்வ|at'va|aTva|aṭva|əʈʋə,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,eighth,english,,english,,counting|number|quantity,,noun,
+^,,எட்டாம்,tamil,,tamil,'எடடம':1 'eighth':2 'எட':3,counting|number|quantity,அட்வ,noun,
+-,ꢂ,ꢂꢜ꣄ꢮꢫꣁ,sourashtra,,,'ꢂꢜꢮꢫ':1 'atvayo':2 'aṭvayŏ':3 'eighth':4 'எட':5 'வத':6,counting|number|quantity,अट्वया॑|அட்வயொ|at'vayo'|aTvayO|aṭvayŏ|əʈʋəjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,eighth,english,,english,,counting|number|quantity,,noun,
+^,,எட்டாவது,tamil,,tamil,'எடடவத':1 'eighth':2 'எட':3 'வத':4,counting|number|quantity,அட்வயொ,noun,
+-,ꢥ,ꢥꣁꢮ꣄ꢮ,sourashtra,,,'ꢥꢮꢮ':1 'novva':2 'nŏvva':3 'nineth':4 'ஒன':5 'பத':6,counting|number|quantity,ना॑व्व|நொவ்வ|no'vva|nOvva|nŏvva|n̪oʋʋə,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,nineth,english,,english,,counting|number|quantity,,noun,
+^,,ஒன்பதாம்,tamil,,tamil,'ஒனபதம':1 'nineth':2 'ஒன':3 'பத':4,counting|number|quantity,நொவ்வ,noun,
+-,ꢥ,ꢥꣁꢮ꣄ꢮꢫꣁ,sourashtra,,,'ꢥꢮꢮꢫ':1 'novvayo':2 'nŏvvayŏ':3 'nineth':4 'ஒன':5 'பத':6 'வத':7,counting|number|quantity,ना॑व्वया॑|நொவ்வயொ|no'vvayo'|nOvvayO|nŏvvayŏ|n̪oʋʋəjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,nineth,english,,english,,counting|number|quantity,,noun,
+^,,ஒன்பதாவது,tamil,,tamil,'ஒனபதவத':1 'nineth':2 'ஒன':3 'பத':4 'வத':5,counting|number|quantity,நொவ்வயொ,noun,
+-,ꢣ,ꢣꢾꢱ꣄,sourashtra,,,'ꢣꢱ':1 'des':2 'dĕs':3 'tenth':4 'பத':5,counting|number|quantity,द॑स|தெஸ்|de's|dEs|dĕs|d̪es̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,tenth,english,,english,,counting|number|quantity,,noun,
+^,,பத்தாம்,tamil,,tamil,'பததம':1 'tenth':2 'பத':3,counting|number|quantity,தெஸ்,noun,
+-,ꢣ,ꢣꢾꢱ꣄ꢮꢫꣁ,sourashtra,,,'ꢣꢱꢮꢫ':1 'desvayo':2 'dĕsvayŏ':3 'tenth':4 'பத':5 'வத':6,counting|number|quantity,द॑स्वया॑|தெ3ஸ்வயொ|de'svayo'|dEsvayO|dĕsvayŏ|d̪es̪ʋəjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,tenth,english,,english,,counting|number|quantity,,noun,
+^,,பத்தாவது,tamil,,tamil,'பததவத':1 'tenth':2 'பத':3 'வத':4,counting|number|quantity,தெ3ஸ்வயொ,noun,

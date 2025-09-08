@@ -1,0 +1,177 @@
+-,ꢣ,ꢣꢭ꣄ꢭꣁ,sourashtra,,,'ꢣꢭꢭ':1 'dallo':2 'dallŏ':3 'male':4 'ஆண':5,life|period|stage|time,दल्ला॑|த3ல்லொ|dallo'|dallO|dallŏ|d̪əllo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,male,english,,english,,life|period|stage|time,,noun,
+^,,ஆண்,tamil,,tamil,'ஆண':1 'male':2,life|period|stage|time,த3ல்லொ,noun,
+-,ꢙ,ꢙꢾꢥꣁ,sourashtra,,,'ꢙꢥ':1 'jeno':2 'jĕnŏ':3 'person':4 'ஆள':5,life|period|person|stage|time,ज॑ना॑|ஜெனொ|je'no'|jEnO|jĕnŏ|d͡ʒen̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""concrete""""}"
+^,,person,english,,english,,life|period|person|stage|time,,noun,
+^,,ஆள்,tamil,,tamil,'ஆள':1 'person':2,life|period|person|stage|time,ஜெனொ,noun,
+-,ꢙ,ꢙꢮ꣄ꢠꣁ,sourashtra,,,'ꢙꢮꢠ':1 'javno':2 'javṇŏ':3 'youth':4 'stage':5 'இளம':6 'பர':7 'வம':8,life|period|stage|time,जव्णा॑\ना॑ जव्णपन्|ஜவ்ணொ|javno'|javNO|javṇŏ|d͡ʒəʋɳo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,Youth/ youth stage,english,,english,,life|period|stage|time,,noun,
+^,,இளமை/ இளமைப் பருவம்,tamil,,tamil,'இளமஇளமபபரவம':1 'youth':2 'stage':3 'இளம':4 'பர':5 'வம':6,life|period|stage|time,ஜவ்ணொ,noun,
+-,ꢥ,ꢥꣁ,sourashtra,,,'no':1 'nŏ':2 'youth':3 'stage':4 'இளம':5 'பர':6 'வம':7,life|period|stage|time,यौवना॑|னொ|no'|nO|nŏ|n̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,Youth/ youth stage,english,,english,,life|period|stage|time,,noun,
+^,,இளமை/ இளமைப் பருவம்,tamil,,tamil,'இளமஇளமபபரவம':1 'youth':2 'stage':3 'இளம':4 'பர':5 'வம':6,life|period|stage|time,னொ,noun,
+-,ꢙ,ꢙꢮ꣄ꢠꢦꢥ꣄,sourashtra,,,'ꢙꢮꢠꢦꢥ':1 'javnapan':2 'javṇapan':3 'youth':4 'stage':5 'இளம':6 'பர':7 'வம':8,life|period|stage|time,यौवना॑|ஜவ்ணபன்|javnapan|javNapan|javṇapan|d͡ʒəʋɳəpən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,Youth/ youth stage,english,,english,,life|period|stage|time,,noun,
+^,,இளமை/ இளமைப் பருவம்,tamil,,tamil,'இளமஇளமபபரவம':1 'youth':2 'stage':3 'இளம':4 'பர':5 'வம':6,life|period|stage|time,ஜவ்ணபன்,noun,
+-,ꢫ,ꢫꣃꢮꢥꣁ,sourashtra,,,'ꢫꢮꢥ':1 'yauvano':2 'yauvanŏ':3 'youth':4 'stage':5 'இளம':6 'பர':7 'வம':8,life|period|stage|time,यौवना॑|யௌவனொ|yauvano'|yauvanO|yauvanŏ|jəuʋən̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,Youth/ youth stage,english,,english,,life|period|stage|time,,noun,
+^,,இளமை/ இளமைப் பருவம்,tamil,,tamil,'இளமஇளமபபரவம':1 'youth':2 'stage':3 'இளம':4 'பர':5 'வம':6,life|period|stage|time,யௌவனொ,noun,
+-,ꢙ,ꢙꢮ꣄ꢠꣁ,sourashtra,,,'ꢙꢮꢠ':1 'javno':2 'javṇŏ':3 'young':4 'man':5 'இள':6 'ஞன':7,life|period|stage|time,जव्णा॑|ஜவ்ணொ|javno'|javNO|javṇŏ|d͡ʒəʋɳo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,young man,english,,english,,life|period|stage|time,,noun,
+^,,இளைஞன்,tamil,,tamil,'இளஞன':1 'young':2 'man':3 'இள':4 'ஞன':5,life|period|stage|time,ஜவ்ணொ,noun,
+-,ꢙ,ꢙꢮ꣄ꢠꢶ,sourashtra,,,'ꢙꢮꢠ':1 'javni':2 'javṇi':3 'younger':4 'woman':5 'young':6 'இள':7 'யவள':8,life|period|stage|time,जव्णि|ஜவ்ணி|javni|javNi|javṇi|d͡ʒəʋɳɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,Younger woman,english,,english,,life|period|stage|time,,noun,
+^,,இளையவள்,tamil,,tamil,'இளயவள':1 'younger':2 'woman':3 'young':4 'இள':5 'யவள':6,life|period|stage|time,ஜவ்ணி,noun,
+-,ꢥ,ꢥꢴꢥ꣄ꢥꣁ,sourashtra,,,'ꢥꢥꢥ':1 'nhanno':2 'nhannŏ':3 'younger':4 'man':5 'young':6 'இள':7 'யவன':8,life|period|stage|time,न्हन्ना॑|ந:ன்னொ|nhanno'|nhannO|nhannŏ|n̪ɦən̪n̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,Younger man,english,,english,,life|period|stage|time,,noun,
+^,,இளையவன்,tamil,,tamil,'இளயவன':1 'younger':2 'man':3 'young':4 'இள':5 'யவன':6,life|period|stage|time,ந:ன்னொ,noun,
+-,ꢕ,ꢕꢾꢬ꣄ꢮꢵꢬ꣄,sourashtra,,,'ꢕꢬꢮꢬ':1 'ghervaar':2 'ghervar':3 'ghĕrvār':4 'pregnancy':5 'கர':6 'பம':7,life|period|stage|time,घ॑र्वार|கெ4ர்வார்|ghe'rvaar|ghErvAr|ghĕrvār|gʰeɾʋɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,pregnancy,english,,english,,life|period|stage|time,,noun,
+^,,கர்ப்பம்,tamil,,tamil,'கரபபம':1 'pregnancy':2 'கர':3 'பம':4,life|period|stage|time,கெ4ர்வார்,noun,
+-,ꢕ,ꢕꢾꢮ꣄ꢬꢵꢬ꣄,sourashtra,,,'ꢕꢮꢬꢬ':1 'ghevraar':2 'ghevrar':3 'ghĕvrār':4 'pregnancy':5 'கர':6 'பம':7,life|period|stage|time,घेव्रार|கெ4வ்ரார்|ghe'vraar|ghEvrAr|ghĕvrār|gʰeʋɾɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,pregnancy,english,,english,,life|period|stage|time,,noun,
+^,,கர்ப்பம்,tamil,,tamil,'கரபபம':1 'pregnancy':2 'கர':3 'பம':4,life|period|stage|time,கெ4வ்ரார்,noun,
+-,ꢕ,ꢕꢾꢬ꣄ꢮꢬꢶꢥ꣄,sourashtra,,,'ꢕꢬꢮꢬꢥ':1 'ghervarin':2 'ghĕrvarin':3 'pregnant':4 'woman':5 'கர':6,life|period|stage|time,घघ॑र्वरिन|கெ4ர்வரின்|ghe'rvarin|ghErvarin|ghĕrvarin|gʰeɾʋəɾɪn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,pregnant woman,english,,english,,life|period|stage|time,,noun,
+^,,கர்ப்பிணி,tamil,,tamil,'கரபபண':1 'pregnant':2 'woman':3 'கர':4,life|period|stage|time,கெ4ர்வரின்,noun,
+-,ꢕ,ꢕꢾꢮ꣄ꢬꢬꢶꢥ꣄,sourashtra,,,'ꢕꢮꢬꢬꢥ':1 'ghevrarin':2 'ghĕvrarin':3 'pregnant':4 'woman':5 'கர':6,life|period|stage|time,घ॑व्ररिन्|கெ4வ்ரரின்|ghe'vrarin|ghEvrarin|ghĕvrarin|gʰeʋɾəɾɪn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,pregnant woman,english,,english,,life|period|stage|time,,noun,
+^,,கர்ப்பிணி,tamil,,tamil,'கரபபண':1 'pregnant':2 'woman':3 'கர':4,life|period|stage|time,கெ4வ்ரரின்,noun,
+-,ꢒ,ꢒꢥ꣄ꢫꣁ,sourashtra,,,'ꢒꢥꢫ':1 'kanyo':2 'kanyŏ':3 'virgin':4 'கன':5,life|period|stage|time,कन्या॑|கன்யொ|kanyo'|kanyO|kanyŏ|kən̪jo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,virgin­,english,,english,,life|period|stage|time,,noun,
+^,,கன்னி,tamil,,tamil,'கனன':1 'virgin':2 'கன':3,life|period|stage|time,கன்யொ,noun,
+-,ꢣ,ꢣꣁꢮ꣄ꢬꣁ,sourashtra,,,'ꢣꢮꢬ':1 'dovro':2 'dŏvrŏ':3 'old':4 'man':5 'ழவன':6,life|period|stage|time,दा॑व्रा॑|தொ3வ்ரொ|do'vro'|dOvrO|dŏvrŏ|d̪oʋɾo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,old man,english,,english,,life|period|stage|time,,noun,
+^,,கிழவன்,tamil,,tamil,'கழவன':1 'old':2 'man':3 'ழவன':4,life|period|stage|time,தொ3வ்ரொ,noun,
+-,ꢣ,ꢣꣁꢮ꣄ꢬꢶ,sourashtra,,,'ꢣꢮꢬ':1 'dovri':2 'dŏvri':3 'old':4 'woman':5 'ழவ':6,life|period|stage|time,दा॑व्रि|தொ3வ்ரி|do'vri|dOvri|dŏvri|d̪oʋɾɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,old woman,english,,english,,life|period|stage|time,,noun,
+^,,கிழவி,tamil,,tamil,'கழவ':1 'old':2 'woman':3 'ழவ':4,life|period|stage|time,தொ3வ்ரி,noun,
+-,ꢦ,ꢦꢶꢭ꣄ꢭꣁ,sourashtra,,,'ꢦꢭꢭ':1 'pillo':2 'pillŏ':3 'young':4 'one':5 'birds':6 'bird':7,life|period|stage|time,पिल्ला॑|பில்லொ|pillo'|pillO|pillŏ|pɪllo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,young one of birds,english,,english,,life|period|stage|time,,noun,
+^,,குஞ்சு,tamil,,tamil,'கஞச':1 'young':2 'one':3 'birds':4 'bird':5,life|period|stage|time,பில்லொ,noun,
+-,ꢦ,ꢦꢶꢭ꣄ꢭꣁ,sourashtra,,,'ꢦꢭꢭ':1 'pillo':2 'pillŏ':3 'young':4 'one':5 'animals':6 'animal':7,life|period|stage|time,पिल्ला॑|பில்லொ|pillo'|pillO|pillŏ|pɪllo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,young one of animals,english,,english,,life|period|stage|time,,noun,
+^,,குட்டி,tamil,,tamil,'கடட':1 'young':2 'one':3 'animals':4 'animal':5,life|period|stage|time,பில்லொ,noun,
+-,ꢒ,ꢒꢸꢪꢵꢬꣁ,sourashtra,,,'ꢒꢪꢬ':1 'kumaaro':2 'kumaro':3 'kumārŏ':4 'unmarried':5 'young':6 'man':7 'மரன':8,life|period|stage|time,कुमारा॑|குமரொ|kumaaro'|kumArO|kumārŏ|kumɑːɾo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,unmarried young man,english,,english,,life|period|stage|time,,noun,
+^,,குமரன்,tamil,,tamil,'கமரன':1 'unmarried':2 'young':3 'man':4 'மரன':5,life|period|stage|time,குமரொ,noun,
+-,ꢒ,ꢒꢸꢪꢵꢬꢶ,sourashtra,,,'ꢒꢪꢬ':1 'kumaari':2 'kumari':3 'kumāri':4 'unmarried':5 'young':6 'girl':7 'மர':8,life|period|stage|time,कुमारि|குமரி|kumaari|kumAri|kumāri|kumɑːɾɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,unmarried young girl,english,,english,,life|period|stage|time,,noun,
+^,,குமரி,tamil,,tamil,'கமர':1 'unmarried':2 'young':3 'girl':4 'மர':5,life|period|stage|time,குமரி,noun,
+-,ꢥ,ꢥꢴꢸꢒ꣄ꢬꢸ,sourashtra,,,'ꢥꢒꢬ':1 'nhukru':2 'child':3 'ழந':4,life|period|stage|time,न्हुक्रु|நு:க்ரு|nhukru|nhukru|nhukru|n̪ɦukɾu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,child,english,,english,,life|period|stage|time,,noun,
+^,,குழந்தை,tamil,,tamil,'கழநத':1 'child':2 'ழந':3,life|period|stage|time,நு:க்ரு,noun,
+-,ꢥ,ꢥꢴꢸꢬꢸ,sourashtra,,,'ꢥꢬ':1 'nhuru':2 'child':3 'ழந':4,life|period|stage|time,न्हुरु|நு:ரு|nhuru|nhuru|nhuru|n̪ɦuɾu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,child,english,,english,,life|period|stage|time,,noun,
+^,,குழந்தை,tamil,,tamil,'கழநத':1 'child':2 'ழந':3,life|period|stage|time,நு:ரு,noun,
+-,ꢥ,ꢥꢴꢸꢬꢸꢦꢥ꣄,sourashtra,,,'ꢥꢬꢦꢥ':1 'nhurupan':2 'childhood':3 'ழந':4 'பர':5 'வம':6,life|period|stage|time,न्हुरुपन्|நு:ருபன்|nhurupan|nhurupan|nhurupan|n̪ɦuɾupən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,childhood,english,,english,,life|period|stage|time,,noun,
+^,,குழந்தைப் பருவம்,tamil,,tamil,'கழநதபபரவம':1 'childhood':2 'ழந':3 'பர':4 'வம':5,life|period|stage|time,நு:ருபன்,noun,
+-,ꢨ,ꢨꢵꢭ꣄ꢫꢦꢥ꣄,sourashtra,,,'ꢨꢭꢫꢦꢥ':1 'baalyapan':2 'balyapan':3 'bālyapan':4 'childhood':5 'ழந':6 'பர':7 'வம':8,life|period|stage|time,बाल्यपन्|பா3ல்யபன்|baalyapan|bAlyapan|bālyapan|bɑːljəpən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,childhood,english,,english,,life|period|stage|time,,noun,
+^,,குழந்தைப் பருவம்,tamil,,tamil,'கழநதபபரவம':1 'childhood':2 'ழந':3 'பர':4 'வம':5,life|period|stage|time,பா3ல்யபன்,noun,
+-,ꢨ,ꢨꢵꢭ꣄ꢫꢪ꣄,sourashtra,,,'ꢨꢭꢫꢪ':1 'baalyam':2 'balyam':3 'bālyam':4 'childhood':5 'ழந':6 'பர':7 'வம':8,life|period|stage|time,बाल्यम्|பா3ல்யம்|baalyam|bAlyam|bālyam|bɑːljəm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,childhood,english,,english,,life|period|stage|time,,noun,
+^,,குழந்தைப் பருவம்,tamil,,tamil,'கழநதபபரவம':1 'childhood':2 'ழந':3 'பர':4 'வம':5,life|period|stage|time,பா3ல்யம்,noun,
+-,ꢥ,ꢥꢴꢥ꣄ꢥꢶ,sourashtra,,,'ꢥꢥꢥ':1 'nhanni':2 'child':3 'ழவ':4,life|period|stage|time,न्हन्नि|ந:ன்னி|nhanni|nhanni|nhanni|n̪ɦən̪n̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,child­,english,,english,,life|period|stage|time,,noun,
+^,,குழவி,tamil,,tamil,'கழவ':1 'child':2 'ழவ':3,life|period|stage|time,ந:ன்னி,noun,
+-,ꢥ,ꢥꢴꢥ꣄ꢥꢶ,sourashtra,,,'ꢥꢥꢥ':1 'nhanni':2 'girl':3,life|period|stage|time,न्हन्नि|ந:ன்னி|nhanni|nhanni|nhanni|n̪ɦən̪n̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,girl,english,,english,,life|period|stage|time,,noun,
+^,,சிறுமி,tamil,,tamil,'சறம':1 'girl':2,life|period|stage|time,ந:ன்னி,noun,
+-,ꢥ,ꢥꢴꢥ꣄ꢥꣁ,sourashtra,,,'ꢥꢥꢥ':1 'nhanno':2 'nhannŏ':3 'boy':4 'வன':5,life|period|stage|time,न्हन्नो|ந:ன்னொ|nhanno'|nhannO|nhannŏ|n̪ɦən̪n̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,boy,english,,english,,life|period|stage|time,,noun,
+^,,சிறுவன்,tamil,,tamil,'சறவன':1 'boy':2 'வன':3,life|period|stage|time,ந:ன்னொ,noun,
+-,ꢦ,ꢦ꣄ꢬꢵꢫꢪ꣄,sourashtra,,,'ꢦꢬꢫꢪ':1 'praayam':2 'prayam':3 'prāyam':4 'stage':5 'பர':6 'வம':7,life|period|stage|time,प्रायम|ப்ராயம்|praayam|prAyam|prāyam|pɾɑːjəm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,stage,english,,english,,life|period|stage|time,,noun,
+^,,பருவம்,tamil,,tamil,'பரவம':1 'stage':2 'பர':3 'வம':4,life|period|stage|time,ப்ராயம்,noun,
+-,ꢨ,ꢨꢵꢭꢦ꣄ꢬꢵꢫꢪ꣄,sourashtra,,,'ꢨꢭꢦꢬꢫꢪ':1 'baalapraayam':2 'balaprayam':3 'bālaprāyam':4 'young':5 'stage':6 'பர':7 'வம':8,life|period|stage|time,बलप्रायम|பா3லப்ராயம்|baalapraayam|bAlaprAyam|bālaprāyam|bɑːləpɾɑːjəm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,young stage,english,,english,,life|period|stage|time,,noun,
+^,,பால பருவம்,tamil,,tamil,'பலபரவம':1 'young':2 'stage':3 'பர':4 'வம':5,life|period|stage|time,பா3லப்ராயம்,noun,
+-,ꢨ,ꢨꢵꢳꢸꢥ꣄,sourashtra,,,'ꢨꢳꢥ':1 'baalun':2 'balun':3 'bālun':4 'young':5 'children':6 'child':7 'லர':8,life|period|stage|time,बळुन|பா3ளுன்|baal'un|bALun|bāl̤un|bɑːɭun̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,young children,english,,english,,life|period|stage|time,,noun,
+^,,பாலர்,tamil,,tamil,'பலர':1 'young':2 'children':3 'child':4 'லர':5,life|period|stage|time,பா3ளுன்,noun,
+-,ꢏ,ꢏꢬ꣄ꢱꢸ,sourashtra,,,'ꢏꢬꢱ':1 'orsu':2 'ŏrsu':3 'age':4 'stage':5 'யம':6,life|period|stage|time,आ॑र्सु|ஒர்ஸு|o'rsu|Orsu|ŏrsu|oɾs̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,"age, stage",english,,english,,life|period|stage|time,,noun,
+^,,பிராயம்,tamil,,tamil,'பரயம':1 'age':2 'stage':3 'யம':4,life|period|stage|time,ஒர்ஸு,noun,
+-,ꢏ,ꢏꢱ꣄ꢱꢸ,sourashtra,,,'ꢏꢱꢱ':1 'ossu':2 'ŏssu':3 'age':4 'stage':5 'யம':6,life|period|stage|time,आ॑स्सु|ஒஸ்ஸு|o'ssu|Ossu|ŏssu|os̪s̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,"age, stage",english,,english,,life|period|stage|time,,noun,
+^,,பிராயம்,tamil,,tamil,'பரயம':1 'age':2 'stage':3 'யம':4,life|period|stage|time,ஒஸ்ஸு,noun,
+-,ꢦ,ꢦꢶꢭ꣄ꢭꣁ,sourashtra,,,'ꢦꢭꢭ':1 'pillo':2 'pillŏ':3 'child':4 'மழல':5,life|period|stage|time,पिल्ला॑|பில்லொ|pillo'|pillO|pillŏ|pɪllo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,child,english,,english,,life|period|stage|time,,noun,
+^,,பிள்ளை/ மழலை,tamil,,tamil,'பளளமழல':1 'child':2 'மழல':3,life|period|stage|time,பில்லொ,noun,
+-,ꢂ,ꢂꢪ꣄ꢨꢸꢭꣁ,sourashtra,,,'ꢂꢪꢨꢭ':1 'ambulo':2 'ambulŏ':3 'husband':4 'ஷன':5,life|period|stage|time,अम्बुला॑|அம்பு3லொ|ambulo'|ambulO|ambulŏ|əmbulo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,husband,english,,english,,life|period|stage|time,,noun,
+^,,புருஷன்,tamil,,tamil,'பரஷன':1 'husband':2 'ஷன':3,life|period|stage|time,அம்பு3லொ,noun,
+-,ꢣ,ꢣꢭ꣄ꢭꣁ,sourashtra,,,'ꢣꢭꢭ':1 'dallo':2 'dallŏ':3 'husband':4 'ஷன':5,life|period|stage|time,दल्ला॑|த3ல்லொ|dallo'|dallO|dallŏ|d̪əllo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,husband,english,,english,,life|period|stage|time,,noun,
+^,,புருஷன்,tamil,,tamil,'பரஷன':1 'husband':2 'ஷன':3,life|period|stage|time,த3ல்லொ,noun,
+-,ꢨ,ꢨꢾꢜ꣄ꢒꢶ,sourashtra,,,'ꢨꢜꢒ':1 'betki':2 'bĕṭki':3 'girl':4,life|period|stage|time,ब॑ट्कि|பெ3ட்கி|be't'ki|bETki|bĕṭki|beʈkɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,girl,english,,english,,life|period|stage|time,,noun,
+^,,பெண்,tamil,,tamil,'பண':1 'girl':2,life|period|stage|time,பெ3ட்கி,noun,
+-,ꢂ,ꢂꢳꢶꢶ,sourashtra,,,'ꢂꢳ':1 'alii':2 'girl':3,life|period|stage|time,अळि|அளி|al'ii|aLii|al̤ii|əɭɪɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,girl,english,,english,,life|period|stage|time,,noun,
+^,,பெண்,tamil,,tamil,'பண':1 'girl':2,life|period|stage|time,அளி,noun,
+-,ꢨ,ꢨꢾꢜ꣄ꢒꣁ,sourashtra,,,'ꢨꢜꢒ':1 'betko':2 'bĕṭkŏ':3 'boy':4 'யன':5,life|period|stage|time,ब॑ट्का॑|பெ3ட்கொ|be't'ko'|bETkO|bĕṭkŏ|beʈko,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,boy,english,,english,,life|period|stage|time,,noun,
+^,,பையன்,tamil,,tamil,'பயன':1 'boy':2 'யன':3,life|period|stage|time,பெ3ட்கொ,noun,
+-,ꢥ,ꢥꢴꢸꢒ꣄ꢬꢸ,sourashtra,,,'ꢥꢒꢬ':1 'nhukru':2 'child':3 'மகவ':4 'மதல':5,life|period|stage|time,न्हुक्रु|நு:க்ரு|nhukru|nhukru|nhukru|n̪ɦukɾu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,child,english,,english,,life|period|stage|time,,noun,
+^,,மகவு/ மதலை,tamil,,tamil,'மகவமதல':1 'child':2 'மகவ':3 'மதல':4,life|period|stage|time,நு:க்ரு,noun,
+-,ꢥ,ꢥꢴꢸꢬꢸ,sourashtra,,,'ꢥꢬ':1 'nhuru':2 'child':3 'மகவ':4 'மதல':5,life|period|stage|time,न्हुरु|நு:ரு|nhuru|nhuru|nhuru|n̪ɦuɾu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,child,english,,english,,life|period|stage|time,,noun,
+^,,மகவு/ மதலை,tamil,,tamil,'மகவமதல':1 'child':2 'மகவ':3 'மதல':4,life|period|stage|time,நு:ரு,noun,
+-,ꢪ,ꢪꢾꢥꢶꢒ꣄ \ ꢣꢭ꣄ꢭꢒ꣄ꢒꣁ,sourashtra,,,'ꢪꢥꢒꢣꢭꢭꢒꢒ':1 'menikdallakko':2 'mĕnikdallakkŏ':3 'man':4 'மன':5 'தன':6,life|period|stage|time,म॑निक \ दल्लक्का॑|மெனிக்|me'nik \ dallakko'|mEnik \ dallakkO|mĕnik \ dallakkŏ|men̪ɪk \ d̪əlləkko,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,man,english,,english,,life|period|stage|time,,noun,
+^,,மனிதன்,tamil,,tamil,'மனதன':1 'man':2 'மன':3 'தன':4,life|period|stage|time,மெனிக்,noun,
+-,ꢪ,ꢪꢾꢥꢶꢒ꣄ \ ꢣꢭ꣄ꢭꢒ꣄ꢒꣁ,sourashtra,,,'ꢪꢥꢒꢣꢭꢭꢒꢒ':1 'menikdallakko':2 'mĕnikdallakkŏ':3 'man':4 'மன':5 'தன':6,life|period|stage|time,म॑निक \ दल्लक्का॑|த3ல்லக்கொ|me'nik \ dallakko'|mEnik \ dallakkO|mĕnik \ dallakkŏ|men̪ɪk \ d̪əlləkko,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,man,english,,english,,life|period|stage|time,,noun,
+^,,மனிதன்,tamil,,tamil,'மனதன':1 'man':2 'மன':3 'தன':4,life|period|stage|time,த3ல்லக்கொ,noun,
+-,ꢂ,ꢂꢪ꣄ꢪꢒ꣄ꢒꣁ,sourashtra,,,'ꢂꢪꢪꢒꢒ':1 'ammakko':2 'ammakkŏ':3 'woman':4 'மன':5,life|period|stage|time,अम्मक्का॑|அம்மக்கொ|ammakko'|ammakkO|ammakkŏ|əmməkko,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,woman,english,,english,,life|period|stage|time,,noun,
+^,,மனுஷி,tamil,,tamil,'மனஷ':1 'woman':2 'மன':3,life|period|stage|time,அம்மக்கொ,noun,
+-,ꢪ,ꢪꢵꢥꢸꢰꢪ꣄,sourashtra,,,'ꢪꢥꢰꢪ':1 'maanusham':2 'manusam':3 'mānuṣam':4 'human':5 'டம':6,life|period|stage|time,मानुषम|மானுஷம்|maanusham|mAnuSam|mānuṣam|mɑːn̪uʂəm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,human,english,,english,,life|period|stage|time,,noun,
+^,,மானுடம்,tamil,,tamil,'மனடம':1 'human':2 'டம':3,life|period|stage|time,மானுஷம்,noun,
+-,ꢏ,ꢏꢭ꣄ꢞꢶꢥ꣄,sourashtra,,,'ꢏꢭꢞꢥ':1 'oldin':2 'ŏlḍin':3 'old':4 'woman':5 'யவள':6,life|period|stage|time,आ॑ल्डिन|ஒள்டி3ன்|o'ld'in|OlDin|ŏlḍin|olɖɪn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,old woman,english,,english,,life|period|stage|time,,noun,
+^,,முதியவள்,tamil,,tamil,'மதயவள':1 'old':2 'woman':3 'யவள':4,life|period|stage|time,ஒள்டி3ன்,noun,
+-,ꢏ,ꢏꢭ꣄ꢞꣁ,sourashtra,,,'ꢏꢭꢞ':1 'oldo':2 'ŏlḍŏ':3 'old':4 'man':5 'யவன':6,life|period|stage|time,आ॑ल्डो|ஒள்டொ3|o'ld'o'|OlDO|ŏlḍŏ|olɖo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,old man,english,,english,,life|period|stage|time,,noun,
+^,,முதியவன்,tamil,,tamil,'மதயவன':1 'old':2 'man':3 'யவன':4,life|period|stage|time,ஒள்டொ3,noun,
+-,ꢣ,ꢣꢸꢒ꣄ꢬꣁ,sourashtra,,,'ꢣꢒꢬ':1 'dukro':2 'dukrŏ':3 'old':4 'age':5,life|period|stage|time,दुक्रा॑|து3க்ரொ|dukro'|dukrO|dukrŏ|d̪ukɾo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,old age,english,,english,,life|period|stage|time,,noun,
+^,,"முதுமை,மூப்பு",tamil,,tamil,'மதமமபப':1 'old':2 'age':3,life|period|stage|time,து3க்ரொ,noun,
+-,ꢣ,ꢣꣁꢮ꣄ꢬꢦꢥ꣄,sourashtra,,,'ꢣꢮꢬꢦꢥ':1 'dovrapan':2 'dŏvrapan':3 'old':4 'age':5,life|period|stage|time,दा॑व्रपन|தொ3வ்ரபன்|do'vrapan|dOvrapan|dŏvrapan|d̪oʋɾəpən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,old age,english,,english,,life|period|stage|time,,noun,
+^,,"முதுமை,மூப்பு",tamil,,tamil,'மதமமபப':1 'old':2 'age':3,life|period|stage|time,தொ3வ்ரபன்,noun,
+-,ꢫ,ꢫꢸꢮꢡꢶ,sourashtra,,,'ꢫꢮꢡ':1 'yuvati':2 'young':3 'unmarried':4 'girl':5 'வத':6,life|period|stage|time,युवति|யுவதி|yuvati|yuvati|yuvati|juʋət̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,young unmarried girl,english,,english,,life|period|stage|time,,noun,
+^,,யுவதி,tamil,,tamil,'யவத':1 'young':2 'unmarried':3 'girl':4 'வத':5,life|period|stage|time,யுவதி,noun,
+-,ꢫ,ꢫꢸꢮꣁ,sourashtra,,,'ꢫꢮ':1 'yuvo':2 'yuvŏ':3 'young':4 'man':5 'வன':6,life|period|stage|time,युवा॑|யுவொ|yuvo'|yuvO|yuvŏ|juʋo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,young man,english,,english,,life|period|stage|time,,noun,
+^,,யுவன்,tamil,,tamil,'யவன':1 'young':2 'man':3 'வன':4,life|period|stage|time,யுவொ,noun,
+-,ꢫ,ꢫꢸꢮꢥ꣄,sourashtra,,,'ꢫꢮꢥ':1 'yuvan':2 'young':3 'man':4 'வன':5,life|period|stage|time,युवन|யுவன்|yuvan|yuvan|yuvan|juʋən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,young man,english,,english,,life|period|stage|time,,noun,
+^,,யுவன்,tamil,,tamil,'யவன':1 'young':2 'man':3 'வன':4,life|period|stage|time,யுவன்,noun,
+-,ꢙ,ꢙꢮ꣄ꢥꢠꢦꢥ꣄,sourashtra,,,'ꢙꢮꢥꢠꢦꢥ':1 'javnanapan':2 'javnaṇapan':3 'youth':4 'ளவனம':5,life|period|stage|time,जव्णपन|ஜவ்ணபன்|javnanapan|javnaNapan|javnaṇapan|d͡ʒəʋn̪əɳəpən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,youth,english,,english,,life|period|stage|time,,noun,
+^,,யெளவனம்,tamil,,tamil,'யளவனம':1 'youth':2 'ளவனம':3,life|period|stage|time,ஜவ்ணபன்,noun,
+-,ꢫ,ꢫꣃꢮꢥꢪ꣄,sourashtra,,,'ꢫꢮꢥꢪ':1 'yauvanam':2 'youth':3 'ளவனம':4,life|period|stage|time,यौवनम|யௌவனம்|yauvanam|yauvanam|yauvanam|jəuʋən̪əm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,youth,english,,english,,life|period|stage|time,,noun,
+^,,யெளவனம்,tamil,,tamil,'யளவனம':1 'youth':2 'ளவனம':3,life|period|stage|time,யௌவனம்,noun,
+-,ꢏ,ꢏꢬ꣄ꢱꢸ,sourashtra,,,'ꢏꢬꢱ':1 'orsu':2 'ŏrsu':3 'age':4 'வயத':5,life|period|stage|time,आ॑र्सु|ஒர்ஸு|o'rsu|Orsu|ŏrsu|oɾs̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,age,english,,english,,life|period|stage|time,,noun,
+^,,வயது,tamil,,tamil,'வயத':1 'age':2,life|period|stage|time,ஒர்ஸு,noun,
+-,ꢏ,ꢏꢬ꣄ꢱꢸ,sourashtra,,,'ꢏꢬꢱ':1 'orsu':2 'ŏrsu':3 'age':4 'வயத':5,life|period|stage|time,आ॑र्सु|ஒஸ்ஸு|o'rsu|Orsu|ŏrsu|oɾs̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,age,english,,english,,life|period|stage|time,,noun,
+^,,வயது,tamil,,tamil,'வயத':1 'age':2,life|period|stage|time,ஒஸ்ஸு,noun,
+-,ꢙ,ꢙꢮ꣄ꢠꢦ꣄ꢦꢥ꣄,sourashtra,,,'ꢙꢮꢠꢦꢦꢥ':1 'javnappan':2 'javṇappan':3 'youth':4 'stage':5 'பப':6 'பர':7 'வம':8,life|period|stage|time,ज्व्णपन|ஜவ்ணபன்|javnappan|javNappan|javṇappan|d͡ʒəʋɳəppən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,youth stage,english,,english,,life|period|stage|time,,noun,
+^,,வாலிபப் பருவம்,tamil,,tamil,'வலபபபரவம':1 'youth':2 'stage':3 'பப':4 'பர':5 'வம':6,life|period|stage|time,ஜவ்ணபன்,noun,
+-,ꢙ,ꢙꢮ꣄ꢠꢡ꣄ꢮꢪ꣄,sourashtra,,,'ꢙꢮꢠꢡꢮꢪ':1 'javnatvam':2 'javṇatvam':3 'youth':4 'பம':5,life|period|stage|time,जव्णत्वम|ஜவ்ணத்வம்|javnatvam|javNatvam|javṇatvam|d͡ʒəʋɳət̪ʋəm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,youth,english,,english,,life|period|stage|time,,noun,
+^,,வாலிபம்,tamil,,tamil,'வலபம':1 'youth':2 'பம':3,life|period|stage|time,ஜவ்ணத்வம்,noun,
+-,ꢙ,ꢙꢮ꣄ꢠꣁ,sourashtra,,,'ꢙꢮꢠ':1 'javno':2 'javṇŏ':3 'young':4 'man':5 'பன':6,life|period|stage|time,जव्णा॑|ஜவ்ணொ|javno'|javNO|javṇŏ|d͡ʒəʋɳo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,young man,english,,english,,life|period|stage|time,,noun,
+^,,வாலிபன்,tamil,,tamil,'வலபன':1 'young':2 'man':3 'பன':4,life|period|stage|time,ஜவ்ணொ,noun,

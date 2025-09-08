@@ -1,0 +1,483 @@
+-,ꢂ,ꢂꢒ꣄ꢰꢬ꣄,sourashtra,,,'ꢂꢒꢰꢬ':1 'akshar':2 'aksar':3 'akṣar':4 'syllable':5 'அச':6,grammar|language|linguistic,अक्षर्|அக்ஷர்|akshar|akSar|akṣar|əkʂəɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,syllable,english,,english,,grammar|language|linguistic,,noun,
+^,,அசை,tamil,,tamil,'அச':1 'syllable':2,grammar|language|linguistic,அக்ஷர்,noun,
+-,ꢂ,ꢂꢒ꣄ꢰꢵꢥ꣄ꢡꢬ꣄,sourashtra,,,'ꢂꢒꢰꢥꢡꢬ':1 'akshaantar':2 'aksantar':3 'akṣāntar':4 'coda':5 'அச':6,grammar|language|linguistic,अक्षान्तर्|அக்ஷாந்தர்|akshaantar|akSAntar|akṣāntar|əkʂɑːn̪t̪əɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,coda,english,,english,,grammar|language|linguistic,,noun,
+^,,அசையீறு,tamil,,tamil,'அசயற':1 'coda':2 'அச':3,grammar|language|linguistic,அக்ஷாந்தர்,noun,
+-,ꢮ,ꢮꢶꢯꢿꢰꢠꣁ ꢔꢸꢠꢶ,sourashtra,,,'ꢮꢯꢰꢠꢔꢠ':1 'visheshanoguni':2 'vizesanoguni':3 'viśeṣaṇŏguṇi':4 'attribute':5 'அட':6,grammar|language|linguistic,विसेषणा॑|விஸேஷணொ|visheshano' guni|vizeSaNO guNi|viśeṣaṇŏ guṇi|ʋɪʃeːʂəɳo guɳɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,attribute,english,,english,,grammar|language|linguistic,,noun,
+^,,அடை,tamil,,tamil,'அட':1 'attribute':2,grammar|language|linguistic,விஸேஷணொ,noun,
+-,ꢮ,ꢮꢶꢯꢿꢰꢠꣁ ꢔꢸꢠꢶ,sourashtra,,,'ꢮꢯꢰꢠꢔꢠ':1 'visheshanoguni':2 'vizesanoguni':3 'viśeṣaṇŏguṇi':4 'attribute':5 'அட':6,grammar|language|linguistic,गुणि|கு3ணி|visheshano' guni|vizeSaNO guNi|viśeṣaṇŏ guṇi|ʋɪʃeːʂəɳo guɳɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,attribute,english,,english,,grammar|language|linguistic,,noun,
+^,,அடை,tamil,,tamil,'அட':1 'attribute':2,grammar|language|linguistic,கு3ணி,noun,
+-,ꢡ,ꢡꢵꢭꢸ ꢱꢨ꣄ꢣꢸ,sourashtra,,,'ꢡꢭꢱꢨꢣ':1 'taalusabdu':2 'talusabdu':3 'tālusabdu':4 'palatal':5 'sounds':6 'sound':7 'அண':8 'ஒல':9,grammar|language|linguistic,तालुसब्दु|தாலுஸப்3து3|taalu sabdu|tAlu sabdu|tālu sabdu|t̪ɑːlu s̪əbd̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,palatal sounds,english,,english,,grammar|language|linguistic,,noun,
+^,,அண்ண ஒலி,tamil,,tamil,'அணணஒல':1 'palatal':2 'sounds':3 'sound':4 'அண':5 'ஒல':6,grammar|language|linguistic,தாலுஸப்3து3,noun,
+-,ꢲ,ꢲꢬꢶꢞꢶ ꢱꢨ꣄ꢣꢸ,sourashtra,,,'ꢲꢬꢞꢱꢨꢣ':1 'haridisabdu':2 'hariḍisabdu':3 'palatal':4 'sounds':5 'sound':6 'அண':7 'ஒல':8,grammar|language|linguistic,हरडिसब्दु|ஹரிடி3ஸப்3து3|harid'i sabdu|hariDi sabdu|hariḍi sabdu|ɦəɾɪɖɪ s̪əbd̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,palatal sounds,english,,english,,grammar|language|linguistic,,noun,
+^,,அண்ண ஒலி,tamil,,tamil,'அணணஒல':1 'palatal':2 'sounds':3 'sound':4 'அண':5 'ஒல':6,grammar|language|linguistic,ஹரிடி3ஸப்3து3,noun,
+-,ꢬ,ꢬꢹꢦꢮꢬ꣄ꢠꢶ,sourashtra,,,'ꢬꢦꢮꢬꢠ':1 'roopavarni':2 'rupavarni':3 'rūpavarṇi':4 'figure':5 'speech':6 'அண':7,grammar|language|linguistic,रूपवर्णि|ரூபவர்ணி|roopavarni|rUpavarNi|rūpavarṇi|ɾuːpəʋəɾɳɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,figure of speech,english,,english,,grammar|language|linguistic,,noun,
+^,,அணி,tamil,,tamil,'அண':1 'figure':2 'speech':3,grammar|language|linguistic,ரூபவர்ணி,noun,
+-,ꢂ,ꢂꢭꢖ꣄ꢒꢵꢬ꣄,sourashtra,,,'ꢂꢭꢖꢒꢬ':1 'alankaar':2 'alagkar':3 'alaṅkār':4 'figure':5 'speech':6 'அண':7,grammar|language|linguistic,अलङकार्|அலங்கார்|alankaar|alaGkAr|alaṅkār|ələŋkɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,figure of speech,english,,english,,grammar|language|linguistic,,noun,
+^,,அணி,tamil,,tamil,'அண':1 'figure':2 'speech':3,grammar|language|linguistic,அலங்கார்,noun,
+-,ꢬ,ꢬꢹꢦꢸ ꢥꢶꢬ꣄ꢪꢵꢥ꣄,sourashtra,,,'ꢬꢦꢥꢬꢪꢥ':1 'roopunirmaan':2 'rupunirman':3 'rūpunirmān':4 'structure':5 'அம':6,grammar|language|linguistic,रूपु निर्मान्|ரூபு நிர்மான்|roopu nirmaan|rUpu nirmAn|rūpu nirmān|ɾuːpu n̪ɪɾmɑːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,structure,english,,english,,grammar|language|linguistic,,noun,
+^,,அமைப்பு,tamil,,tamil,'அமபப':1 'structure':2 'அம':3,grammar|language|linguistic,ரூபு நிர்மான்,noun,
+-,ꢩ,ꢩꢖ꣄ꢔꢶ ꢩꢵꢰꢥ꣄,sourashtra,,,'ꢩꢖꢔꢩꢰꢥ':1 'bhangibhaashan':2 'bhaggibhasan':3 'bhaṅgibhāṣan':4 'indirect':5 'speeeh':6 'அயற':7,grammar|language|linguistic,बङगिभाषन्|ப4ங்கி3பா4ஷண்|bhangi bhaashan|bhaGgi bhASan|bhaṅgi bhāṣan|bʰəŋgɪ bʰɑːʂən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,indirect speeeh,english,,english,,grammar|language|linguistic,,noun,
+^,,அயற் கூற்று,tamil,,tamil,'அயறகறற':1 'indirect':2 'speeeh':3 'அயற':4,grammar|language|linguistic,ப4ங்கி3பா4ஷண்,noun,
+-,ꢦ,ꢦꢬꣂꢰ ꢩꢵꢰꢠ꣄,sourashtra,,,'ꢦꢬꢰꢩꢰꢠ':1 'paroshabhaashan':2 'parosabhasan':3 'paroṣabhāṣaṇ':4 'indirect':5 'speeeh':6 'அயற':7,grammar|language|linguistic,परोक्षभाषण्|பரோக்ஷபா4ஷண்|parosha bhaashan|paroSa bhASaN|paroṣa bhāṣaṇ|pəɾoːʂə bʰɑːʂəɳ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,indirect speeeh,english,,english,,grammar|language|linguistic,,noun,
+^,,அயற் கூற்று,tamil,,tamil,'அயறகறற':1 'indirect':2 'speeeh':3 'அயற':4,grammar|language|linguistic,பரோக்ஷபா4ஷண்,noun,
+-,ꢂ,ꢂꢬ꣄ꢤ ꢨꢶꢥ꣄ꢣꢸ,sourashtra,,,'ꢂꢬꢤꢨꢥꢣ':1 'ardhabindu':2 'colon':3 'அர':4,grammar|language|linguistic,अरध बिन्दु|அர்த4பி3ந்து3|ardha bindu|ardha bindu|ardha bindu|əɾd̪ʰə bɪn̪d̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,colon,english,,english,,grammar|language|linguistic,,noun,
+^,,அரைப்புள்ளி,tamil,,tamil,'அரபபளள':1 'colon':2 'அர':3,grammar|language|linguistic,அர்த4பி3ந்து3,noun,
+-,ꢂ,ꢂꢬꢹꢦ ꢥꢵꢮ꣄,sourashtra,,,'ꢂꢬꢦꢥꢮ':1 'aroopanaav':2 'arupanav':3 'arūpanāv':4 'abstract':5 'noun':6 'அர':7 'வப':8 'யர':9,grammar|language|linguistic,अरूप नाव्|அரூப நாவ்|aroopa naav|arUpa nAv|arūpa nāv|əɾuːpə n̪ɑːʋ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,abstract noun,english,,english,,grammar|language|linguistic,,noun,
+^,,அருவப்பெயர்,tamil,,tamil,'அரவபபயர':1 'abstract':2 'noun':3 'அர':4 'வப':5 'யர':6,grammar|language|linguistic,அரூப நாவ்,noun,
+-,ꢥ,ꢥꢦꢸꢪ꣄ꢱꢒ ꢭꢶꢖ꣄ꢔꢸ,sourashtra,,,'ꢥꢦꢪꢱꢒꢭꢖꢔ':1 'napumsakalingu':2 'napumsakaliggu':3 'napumsakaliṅgu':4 'non':5 'humanneuter':6 'அஃற':7,grammar|language|linguistic,नपुम्सक लिङ्गु|நபும்ஸக லிங்கு3|napumsaka lingu|napumsaka liGgu|napumsaka liṅgu|n̪əpums̪əkə lɪŋgu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,Non-humanneuter,english,,english,,grammar|language|linguistic,,noun,
+^,,அஃறிணை,tamil,,tamil,'அஃறண':1 'non':2 'humanneuter':3 'அஃற':4,grammar|language|linguistic,நபும்ஸக லிங்கு3,noun,
+-,ꢂ,ꢂꢳ꣄ꢳꢶꢖ꣄ꢔꢸ,sourashtra,,,'ꢂꢳꢳꢖꢔ':1 'allingu':2 'alliggu':3 'alliṅgu':4 'non':5 'humanneuter':6 'அஃற':7,grammar|language|linguistic,अळ्ळिङ्गु|அள்ளிங்கு3|al'l'ingu|aLLiGgu|al̤l̤iṅgu|əɭɭɪŋgu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,Non-humanneuter,english,,english,,grammar|language|linguistic,,noun,
+^,,அஃறிணை,tamil,,tamil,'அஃறண':1 'non':2 'humanneuter':3 'அஃற':4,grammar|language|linguistic,அள்ளிங்கு3,noun,
+-,ꢯ,ꢯꢨ꣄ꢣ ꢂꢮ꣄ꢥꢶ,sourashtra,,,'ꢯꢨꢣꢂꢮꢥ':1 'shabdaavni':2 'zabdaavni':3 'śabdaavni':4 'derivatives':5 'derivative':6 'ஆக':7 'கங':8 'கள':9,grammar|language|linguistic,शब्द अवनि|ஸப்3த3அவ்னி|shabda avni|zabda avni|śabda avni|ʃəbd̪ə əʋn̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,derivatives,english,,english,,grammar|language|linguistic,,noun,
+^,,ஆக்கங்கள்,tamil,,tamil,'ஆககஙகள':1 'derivatives':2 'derivative':3 'ஆக':4 'கங':5 'கள':6,grammar|language|linguistic,ஸப்3த3அவ்னி,noun,
+-,ꢦ,ꢦꢸꢪ꣄ꢱꢒꢭꢶꢖ꣄,sourashtra,,,'ꢦꢪꢱꢒꢭꢖ':1 'pumsakaling':2 'pumsakalig':3 'pumsakaliṅ':4 'masculine':5 'gender':6 'ஆண':7,grammar|language|linguistic,पुम्सकलिङ|பும்ஸகலிங்கு3|pumsakaling|pumsakaliG|pumsakaliṅ|pums̪əkəlɪŋ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,masculine gender,english,,english,,grammar|language|linguistic,,noun,
+^,,ஆண்பால்,tamil,,tamil,'ஆணபல':1 'masculine':2 'gender':3 'ஆண':4,grammar|language|linguistic,பும்ஸகலிங்கு3,noun,
+-,ꢣ,ꢣꢭ꣄ꢭꢶꢖ꣄ꢔ꣄,sourashtra,,,'ꢣꢭꢭꢖꢔ':1 'dalling':2 'dalligg':3 'dalliṅg':4 'masculine':5 'gender':6 'ஆண':7,grammar|language|linguistic,दल्लिङगु|த3ல்லிங்கு3|dalling|dalliGg|dalliṅg|d̪əllɪŋg,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,masculine gender,english,,english,,grammar|language|linguistic,,noun,
+^,,ஆண்பால்,tamil,,tamil,'ஆணபல':1 'masculine':2 'gender':3 'ஆண':4,grammar|language|linguistic,த3ல்லிங்கு3,noun,
+-,ꢃ,ꢃꢡ꣄ꢪꢷꢫꢮꢶꢩꢒ꣄ꢡꢶ,sourashtra,,,'ꢃꢡꢪꢫꢮꢩꢒꢡ':1 'aatmeeyavibhakti':2 'atmiyavibhakti':3 'ātmīyavibhakti':4 'possessive':5 'case':6 'ஆற':7,grammar|language|linguistic,आत्मीय विभक्ति|ஆத்மீய விப4க்தி|aatmeeyavibhakti|AtmIyavibhakti|ātmīyavibhakti|ɑːt̪miːjəʋɪbʰəkt̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,possessive case,english,,english,,grammar|language|linguistic,,noun,
+^,,ஆறாம்வேற்றுமை,tamil,,tamil,'ஆறமவறறம':1 'possessive':2 'case':3 'ஆற':4,grammar|language|linguistic,ஆத்மீய விப4க்தி,noun,
+-,ꢱ,ꢱꣁꢮ꣄ꢮꢾ ꢮꢶꢩꢒ꣄ꢡ,sourashtra,,,'ꢱꢮꢮꢮꢩꢒꢡ':1 'sovvevibhakta':2 'sŏvvĕvibhakta':3 'possessive':4 'case':5 'ஆற':6,grammar|language|linguistic,सा॑व्व॑ विभक्त|ஸொவ்வெவிப4க்தி|so'vve' vibhakta|sOvvE vibhakta|sŏvvĕ vibhakta|s̪oʋʋe ʋɪbʰəkt̪ə,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,possessive case,english,,english,,grammar|language|linguistic,,noun,
+^,,ஆறாம்வேற்றுமை,tamil,,tamil,'ஆறமவறறம':1 'possessive':2 'case':3 'ஆற':4,grammar|language|linguistic,ஸொவ்வெவிப4க்தி,noun,
+-,ꢦ,ꢦꢸꢬꢸꢱ,sourashtra,,,'ꢦꢬꢱ':1 'purusa':2 'person':3 'இடம':4,grammar|language|linguistic|person,पुरुष|புருஷ|purusa|purusa|purusa|puɾus̪ə,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""concrete""""}"
+^,,person,english,,english,,grammar|language|linguistic|person,,noun,
+^,,இடம்,tamil,,tamil,'இடம':1 'person':2,grammar|language|linguistic|person,புருஷ,noun,
+-,ꢱ,ꢱꢡ꣄ꢮ ꢮꢶꢩꢒ꣄ꢡꢶ,sourashtra,,,'ꢱꢡꢮꢮꢩꢒꢡ':1 'satvavibhakti':2 'locative':3 'case':4 'இடவ':5,grammar|language|linguistic,सत्व विभक्ति|ஸத்வ விப4க்தி|satva vibhakti|satva vibhakti|satva vibhakti|s̪ət̪ʋə ʋɪbʰəkt̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,locative case,english,,english,,grammar|language|linguistic,,noun,
+^,,இடவேற்றுமை,tamil,,tamil,'இடவறறம':1 'locative':2 'case':3 'இடவ':4,grammar|language|linguistic,ஸத்வ விப4க்தி,noun,
+-,ꢪ,ꢪꢳ꣄ꢥꢶ ꢱꢨ꣄ꢣꢸ,sourashtra,,,'ꢪꢳꢥꢱꢨꢣ':1 'malnisabdu':2 'particle':3 'இட':4,grammar|language|linguistic,मिळ्नि सब्दु|மிள்னி ஸப்3து3|mal'ni sabdu|maLni sabdu|mal̤ni sabdu|məɭn̪ɪ s̪əbd̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,particle,english,,english,,grammar|language|linguistic,,noun,
+^,,இடைச்சொல்,tamil,,tamil,'இடசசல':1 'particle':2 'இட':3,grammar|language|linguistic,மிள்னி ஸப்3து3,noun,
+-,ꢙ,ꢙꣁꢞꢶ,sourashtra,,,'ꢙꢞ':1 'jodi':2 'jŏḍi':3 'pair':4 'இண':5,grammar|language|linguistic,जा॑डि|ஜொடி3|jo'd'i|jODi|jŏḍi|d͡ʒoɖɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,pair,english,,english,,grammar|language|linguistic,,noun,
+^,,இணை,tamil,,tamil,'இண':1 'pair':2,grammar|language|linguistic,ஜொடி3,noun,
+-,ꢦ,ꢦ꣄ꢬꢒꢺꢡꢶ,sourashtra,,,'ꢦꢬꢒꢡ':1 'prakriti':2 'prakrti':3 'prakṛti':4 'feature':5 'இயல':6,grammar|language|linguistic,प्रकृति|ப்ரக்ருதி|prakri'ti|prakRti|prakṛti|pɾəkɾɨt̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,feature,english,,english,,grammar|language|linguistic,,noun,
+^,,இயல்பு,tamil,,tamil,'இயலப':1 'feature':2 'இயல':3,grammar|language|linguistic,ப்ரக்ருதி,noun,
+-,ꢕ,ꢕꢵꢪ꣄ ꢮꢡ꣄ꢡꣁ ꢣꢿꢱꢶ ꢮꢡ꣄ꢡꣁ,sourashtra,,,'ꢕꢪꢮꢡꢡꢣꢱꢮꢡꢡ':1 'ghaamvattodesivatto':2 'ghamvattodesivatto':3 'ghāmvattŏdesivattŏ':4 'native':5 'word':6 'இயற':7,grammar|language|linguistic,घाम्वत्ता॑|கா3ம்வத்தொ|ghaam vatto' desi vatto'|ghAm vattO desi vattO|ghām vattŏ desi vattŏ|gʰɑːm ʋət̪t̪o d̪eːs̪ɪ ʋət̪t̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,native word,english,,english,,grammar|language|linguistic,,noun,
+^,,இயற்சொல்,tamil,,tamil,'இயறசல':1 'native':2 'word':3 'இயற':4,grammar|language|linguistic,கா3ம்வத்தொ,noun,
+-,ꢕ,ꢕꢵꢪ꣄ ꢮꢡ꣄ꢡꣁ ꢣꢿꢱꢶ ꢮꢡ꣄ꢡꣁ,sourashtra,,,'ꢕꢪꢮꢡꢡꢣꢱꢮꢡꢡ':1 'ghaamvattodesivatto':2 'ghamvattodesivatto':3 'ghāmvattŏdesivattŏ':4 'native':5 'word':6 'இயற':7,grammar|language|linguistic,देसि वत्ता॑|தே3ஸி வத்தொ|ghaam vatto' desi vatto'|ghAm vattO desi vattO|ghām vattŏ desi vattŏ|gʰɑːm ʋət̪t̪o d̪eːs̪ɪ ʋət̪t̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,native word,english,,english,,grammar|language|linguistic,,noun,
+^,,இயற்சொல்,tamil,,tamil,'இயறசல':1 'native':2 'word':3 'இயற':4,grammar|language|linguistic,தே3ஸி வத்தொ,noun,
+-,ꢡ,ꢡꣂꢣꢸ ꢗꢾꢬ꣄ꢥꢶ,sourashtra,,,'ꢡꢣꢗꢬꢥ':1 'toducherni':2 'toducerni':3 'toducĕrni':4 'agreement':5 'இய':6,grammar|language|linguistic,तोदुच॑र्नि|தோது3 செர்னி|todu che'rni|todu cErni|todu cĕrni|t̪oːd̪u t͡ʃeɾn̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,agreement,english,,english,,grammar|language|linguistic,,noun,
+^,,இயைபு,tamil,,tamil,'இயப':1 'agreement':2 'இய':3,grammar|language|linguistic,தோது3 செர்னி,noun,
+-,ꢣ,ꢣꢶꢮ꣄ꢥ ꢶꢱꢖ꣄ꢓ꣄꣄ꢫꣁ,sourashtra,,,'ꢣꢮꢥꢱꢖꢓꢫ':1 'divnaisankhyo':2 'divnaisagkhyo':3 'divnaisaṅkhyŏ':4 'dual':5 'number':6 'இரட':7 'எண':8,grammar|language|linguistic,दिव्नि सङख्या॑|தி3வ்னிஸங்க்2யொ|divna isankhyo'|divna isaGkhyO|divna isaṅkhyŏ|d̪ɪʋn̪ə ɪs̪əŋkʰjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,dual number,english,,english,,grammar|language|linguistic,,noun,
+^,,இரட்டை எண்,tamil,,tamil,'இரடடஎண':1 'dual':2 'number':3 'இரட':4 'எண':5,grammar|language|linguistic,தி3வ்னிஸங்க்2யொ,noun,
+-,ꢣ,ꢣꢶꢮ ꢮꢶꢩꢒ꣄ꢡꢶ,sourashtra,,,'ꢣꢮꢮꢩꢒꢡ':1 'divavibhakti':2 'accusative':3 'case':4 'இரண':5,grammar|language|linguistic,दिव विभक्ति|தி3வவிப4க்தி|diva vibhakti|diva vibhakti|diva vibhakti|d̪ɪʋə ʋɪbʰəkt̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,accusative case,english,,english,,grammar|language|linguistic,,noun,
+^,,இரண்டாம் வேற்றுமை,tamil,,tamil,'இரணடமவறறம':1 'accusative':2 'case':3 'இரண':4,grammar|language|linguistic,தி3வவிப4க்தி,noun,
+-,ꢣ,ꢣꢶꢮ꣄ꢥꢶ,sourashtra,,,'ꢣꢮꢥ':1 'divni':2 'dual':3 'இர':4,grammar|language|linguistic,दिव्नि|தி3வ்னி|divni|divni|divni|d̪ɪʋn̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,dual,english,,english,,grammar|language|linguistic,,noun,
+^,,இருமை,tamil,,tamil,'இரம':1 'dual':2 'இர':3,grammar|language|linguistic,தி3வ்னி,noun,
+-,ꢮ,ꢮ꣄ꢫꢵꢒꢬꢠ ꢩꢵꢒꢥ꣄꣄,sourashtra,,,'ꢮꢫꢒꢬꢠꢩꢒꢥ':1 'vyaakaranabhaakan':2 'vyakaranabhakan':3 'vyākaraṇabhākan':4 'grammatical':5 'categories':6 'category':7 'இலக':8 'கணக':9 'கள':10,grammar|language|linguistic,व्याकरण भागुन|வ்யாகரண பா4கு3ன்|vyaakarana bhaakan|vyAkaraNa bhAkan|vyākaraṇa bhākan|ʋjɑːkəɾəɳə bʰɑːkən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,grammatical categories,english,,english,,grammar|language|linguistic,,noun,
+^,,இலக்கணக் கூறுகள்,tamil,,tamil,'இலககணககறகள':1 'grammatical':2 'categories':3 'category':4 'இலக':5 'கணக':6 'கள':7,grammar|language|linguistic,வ்யாகரண பா4கு3ன்,noun,
+-,ꢮ,ꢮ꣄ꢫꢵ ꢒꢬꢠ ꢭꢶꢖꢔꢸ,sourashtra,,,'ꢮꢫꢒꢬꢠꢭꢖꢔ':1 'vyaakaranalingagu':2 'vyakaranaligagu':3 'vyākaraṇaliṅagu':4 'grammatical':5 'gender':6 'இலக':7 'கணப':8,grammar|language|linguistic,व्याकरण लिङगु|வ்யாகரண லிங்கு3|vyaa karana lingagu|vyA karaNa liGagu|vyā karaṇa liṅagu|ʋjɑː kəɾəɳə lɪŋəgu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,grammatical gender,english,,english,,grammar|language|linguistic,,noun,
+^,,இலக்கணப் பால்,tamil,,tamil,'இலககணபபல':1 'grammatical':2 'gender':3 'இலக':4 'கணப':5,grammar|language|linguistic,வ்யாகரண லிங்கு3,noun,
+-,ꢮ,ꢮ꣄ꢫꢵꢒꢬꢠ꣄,sourashtra,,,'ꢮꢫꢒꢬꢠ':1 'vyaakaran':2 'vyakaran':3 'vyākaraṇ':4 'grammar':5 'இலக':6 'கணம':7,grammar|language|linguistic,व्याकरण|வ்யாகரண்|vyaakaran|vyAkaraN|vyākaraṇ|ʋjɑːkəɾəɳ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,grammar,english,,english,,grammar|language|linguistic,,noun,
+^,,இலக்கணம்,tamil,,tamil,'இலககணம':1 'grammar':2 'இலக':3 'கணம':4,grammar|language|linguistic,வ்யாகரண்,noun,
+-,ꢮ,ꢮ꣄ꢫꢵꢒꢬꢠ ꢱꢪ꣄ꢦ꣄ꢬꢣꢵꢫ꣄,sourashtra,,,'ꢮꢫꢒꢬꢠꢱꢪꢦꢬꢣꢫ':1 'vyaakaranasampradaay':2 'vyakaranasampraday':3 'vyākaraṇasampradāy':4 'grammatical':5 'tradition':6 'இலக':7 'கண':8 'மரப':9,grammar|language|linguistic,व्याकरण सम्प्रदाय|வ்யாகரண ஸம்ப்ரதா3ய்|vyaakarana sampradaay|vyAkaraNa sampradAy|vyākaraṇa sampradāy|ʋjɑːkəɾəɳə s̪əmpɾəd̪ɑːj,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,grammatical tradition,english,,english,,grammar|language|linguistic,,noun,
+^,,இலக்கண மரபு,tamil,,tamil,'இலககணமரப':1 'grammatical':2 'tradition':3 'இலக':4 'கண':5 'மரப':6,grammar|language|linguistic,வ்யாகரண ஸம்ப்ரதா3ய்,noun,
+-,ꢮ,ꢮ꣄ꢫꢵꢒꢬꢠ ꢱꢵꢱꢥꣁ,sourashtra,,,'ꢮꢫꢒꢬꢠꢱꢱꢥ':1 'vyaakaranasaasano':2 'vyakaranasasano':3 'vyākaraṇasāsanŏ':4 'grammatical':5 'rule':6 'இலக':7 'கண':8,grammar|language|linguistic,व्याकरण सासना॑|வ்யாகரண ஸாஸனொ|vyaakarana saasano'|vyAkaraNa sAsanO|vyākaraṇa sāsanŏ|ʋjɑːkəɾəɳə s̪ɑːs̪ən̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,grammatical rule,english,,english,,grammar|language|linguistic,,noun,
+^,,இலக்கண விதி,tamil,,tamil,'இலககணவத':1 'grammatical':2 'rule':3 'இலக':4 'கண':5,grammar|language|linguistic,வ்யாகரண ஸாஸனொ,noun,
+-,ꢙ,ꢙꢶꢫꢾ ꢒꢵꢭ꣄,sourashtra,,,'ꢙꢫꢒꢭ':1 'jiyekaal':2 'jiyekal':3 'jiyĕkāl':4 'past':5 'tense':6 'இறந':7 'லம':8,grammar|language|linguistic,जिय॑ काल|ஜியெகால்|jiye' kaal|jiyE kAl|jiyĕ kāl|d͡ʒɪje kɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,past tense,english,,english,,grammar|language|linguistic,,noun,
+^,,இறந்த காலம்,tamil,,tamil,'இறநதகலம':1 'past':2 'tense':3 'இறந':4 'லம':5,grammar|language|linguistic,ஜியெகால்,noun,
+-,ꢔ,ꢔꢿ ꢒꢵꢭ꣄,sourashtra,,,'ꢔꢒꢭ':1 'gekaal':2 'gekal':3 'gekāl':4 'past':5 'tense':6 'இறந':7 'லம':8,grammar|language|linguistic,गे काल|கே3கால்|ge kaal|ge kAl|ge kāl|geː kɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,past tense,english,,english,,grammar|language|linguistic,,noun,
+^,,இறந்த காலம்,tamil,,tamil,'இறநதகலம':1 'past':2 'tense':3 'இறந':4 'லம':5,grammar|language|linguistic,கே3கால்,noun,
+-,ꢆ,ꢆꢗ꣄ꢗꢵꢬꢠ꣄,sourashtra,,,'ꢆꢗꢗꢬꢠ':1 'uchchaaran':2 'uccaran':3 'uccāraṇ':4 'pronunciation':5 'உச':6 'சர':7,grammar|language|linguistic,उच्चारण|உச்சாரண்|uchchaaran|uccAraN|uccāraṇ|ut͡ʃt͡ʃɑːɾəɳ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,pronunciation,english,,english,,grammar|language|linguistic,,noun,
+^,,உச்சரிப்பு,tamil,,tamil,'உசசரபப':1 'pronunciation':2 'உச':3 'சர':4,grammar|language|linguistic,உச்சாரண்,noun,
+-,ꢚ,ꢚꢶꢬ꣄ꢒꢶꢥꢶ,sourashtra,,,'ꢚꢬꢒꢥ':1 'jhirkini':2 'glide':3 'உடம':4 'பட':5,grammar|language|linguistic,झिर्किनि|ஜி2ர்கினி|jhirkini|jhirkini|jhirkini|d͡ʒʰɪɾkɪn̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,glide,english,,english,,grammar|language|linguistic,,noun,
+^,,உடம்படுமெய்,tamil,,tamil,'உடமபடமய':1 'glide':2 'உடம':3 'பட':4,grammar|language|linguistic,ஜி2ர்கினி,noun,
+-,ꢏ,ꢏꢣꢜ꣄,sourashtra,,,'ꢏꢣꢜ':1 'odat':2 'ŏdaṭ':3 'lip':4 'உதட':5,grammar|language|linguistic,आ॓दट्|ஒத3ட்|o'dat'|OdaT|ŏdaṭ|od̪əʈ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,lip,english,,english,,grammar|language|linguistic,,noun,
+^,,உதடு,tamil,,tamil,'உதட':1 'lip':2,grammar|language|linguistic,ஒத3ட்,noun,
+-,ꢲ,ꢲꣂꢜ꣄,sourashtra,,,'ꢲꢜ':1 'hot':2 'hoṭ':3 'lip':4 'உதட':5,grammar|language|linguistic,होट|ஹோட்|hot'|hoT|hoṭ|ɦoːʈ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,lip,english,,english,,grammar|language|linguistic,,noun,
+^,,உதடு,tamil,,tamil,'உதட':1 'lip':2,grammar|language|linguistic,ஹோட்,noun,
+-,ꢂ,ꢂꢡꢶꢱꢵꢫꣂꢡ꣄ꢡꢶ,sourashtra,,,'ꢂꢡꢱꢫꢡꢡ':1 'atisaayotti':2 'atisayotti':3 'atisāyotti':4 'hyperbole':5 'உயர':6 'நவ':7,grammar|language|linguistic,अतिसायोत्तो|அதிஸயோக்தி|atisaayotti|atisAyotti|atisāyotti|ət̪ɪs̪ɑːjoːt̪t̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,hyperbole,english,,english,,grammar|language|linguistic,,noun,
+^,,உயர்வு நவிற்சி,tamil,,tamil,'உயரவநவறச':1 'hyperbole':2 'உயர':3 'நவ':4,grammar|language|linguistic,அதிஸயோக்தி,noun,
+-,ꢂ,ꢂꢡꢶꢮꢬ꣄ꢠꢥꣁ,sourashtra,,,'ꢂꢡꢮꢬꢠꢥ':1 'ativarnano':2 'ativarṇanŏ':3 'hyperbole':4 'உயர':5 'நவ':6,grammar|language|linguistic,अति वर्णना॑|அதிவர்ணனொ|ativarnano'|ativarNanO|ativarṇanŏ|ət̪ɪʋəɾɳən̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,hyperbole,english,,english,,grammar|language|linguistic,,noun,
+^,,உயர்வு நவிற்சி,tamil,,tamil,'உயரவநவறச':1 'hyperbole':2 'உயர':3 'நவ':4,grammar|language|linguistic,அதிவர்ணனொ,noun,
+-,ꢦ,ꢦꢹꢙ꣄ꢫ ꢦꢲꢸ ꢮꢗꢥ꣄,sourashtra,,,'ꢦꢙꢫꢦꢲꢮꢗꢥ':1 'poojyapahuvachan':2 'pujyapahuvacan':3 'pūjyapahuvacan':4 'honorific':5 'plural':6 'உயர':7 'பன':8,grammar|language|linguistic,पुज्य पहु वचन्मेटु बहु वचन|பூஜ்ய ப3ஹு வசன்|poojya pahu vachan|pUjya pahu vacan|pūjya pahu vacan|puːd͡ʒjə pəɦu ʋət͡ʃən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,honorific plural,english,,english,,grammar|language|linguistic,,noun,
+^,,உயர்வுப் பன்மை,tamil,,tamil,'உயரவபபனம':1 'honorific':2 'plural':3 'உயர':4 'பன':5,grammar|language|linguistic,பூஜ்ய ப3ஹு வசன்,noun,
+-,ꢪ,ꢪꢿꢜꢸ ꢨꢲꢸ ꢮꢗꢥ꣄,sourashtra,,,'ꢪꢜꢨꢲꢮꢗꢥ':1 'metubahuvachan':2 'metubahuvacan':3 'meṭubahuvacan':4 'honorific':5 'plural':6 'உயர':7 'பன':8,grammar|language|linguistic,पुज्य पहु वचन्मेटु बहु वचन|மேடு ப3ஹு வசன்|met'u bahu vachan|meTu bahu vacan|meṭu bahu vacan|meːʈu bəɦu ʋət͡ʃən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,honorific plural,english,,english,,grammar|language|linguistic,,noun,
+^,,உயர்வுப் பன்மை,tamil,,tamil,'உயரவபபனம':1 'honorific':2 'plural':3 'உயர':4 'பன':5,grammar|language|linguistic,மேடு ப3ஹு வசன்,noun,
+-,ꢱ,ꢱ꣄ꢮꢬꢵꢒ꣄ꢰꢬ꣄ ꢂꢙꢸꢥꢒ꣄ꢰꢬ꣄,sourashtra,,,'ꢱꢮꢬꢒꢰꢬꢂꢙꢥꢒꢰꢬ':1 'svaraaksharajunakshar':2 'svaraksarajunaksar':3 'svarākṣarajunakṣar':4 'vowel':5 'உய':6 'எழ':7,grammar|language|linguistic,स्वराक्षर अजुनक्षर्|ஸ்வராக்ஷர்|svaraakshar ajunakshar|svarAkSar ajunakSar|svarākṣar ajunakṣar|s̪ʋəɾɑːkʂəɾ əd͡ʒun̪əkʂəɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,vowel,english,,english,,grammar|language|linguistic,,noun,
+^,,உயிர் எழுத்து,tamil,,tamil,'உயரஎழதத':1 'vowel':2 'உய':3 'எழ':4,grammar|language|linguistic,ஸ்வராக்ஷர்,noun,
+-,ꢱ,ꢱ꣄ꢮꢬꢵꢒ꣄ꢰꢬ꣄ ꢂꢙꢸꢥꢒ꣄ꢰꢬ꣄,sourashtra,,,'ꢱꢮꢬꢒꢰꢬꢂꢙꢥꢒꢰꢬ':1 'svaraaksharajunakshar':2 'svaraksarajunaksar':3 'svarākṣarajunakṣar':4 'vowel':5 'உய':6 'எழ':7,grammar|language|linguistic,स्वराक्षर अजुनक्षर्|அஜுனக்ஷர்|svaraakshar ajunakshar|svarAkSar ajunakSar|svarākṣar ajunakṣar|s̪ʋəɾɑːkʂəɾ əd͡ʒun̪əkʂəɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,vowel,english,,english,,grammar|language|linguistic,,noun,
+^,,உயிர் எழுத்து,tamil,,tamil,'உயரஎழதத':1 'vowel':2 'உய':3 'எழ':4,grammar|language|linguistic,அஜுனக்ஷர்,noun,
+-,ꢱ,ꢱꢙꢷꢮꢶ,sourashtra,,,'ꢱꢙꢮ':1 'sajeevi':2 'sajivi':3 'sajīvi':4 'animate':5 'உய':6 'யன':7,grammar|language|linguistic,सजीवि|ஸஜீவி|sajeevi|sajIvi|sajīvi|s̪əd͡ʒiːʋɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,animate,english,,english,,grammar|language|linguistic,,noun,
+^,,உயிருடையன,tamil,,tamil,'உயரடயன':1 'animate':2 'உய':3 'யன':4,grammar|language|linguistic,ஸஜீவி,noun,
+-,ꢮ,ꢮꢶꢩꢒ꣄ꢡꢶ ꢗꢶꢥ꣄ꢲꢸꢥ꣄ ꢮꢶꢩꢡꢒ꣄ꢡꢶ ꢮꢬ꣄ꢠꢒꢸꢥ꣄,sourashtra,,,'ꢮꢩꢒꢡꢗꢥꢲꢥꢮꢩꢡꢒꢡꢮꢬꢠꢒꢥ':1 'vibhaktichinhunvibhataktivarnakun':2 'vibhakticinhunvibhataktivarnakun':3 'vibhakticinhunvibhataktivarṇakun':4 'markers':5 'marker':6 'உர':7 'கள':8,grammar|language|linguistic,विभक्ति चिन्हुन विभक्ति वर्णकुन|விப4க்தி சின்ஹுன்|vibhakti chinhun vibhatakti varnakun|vibhakti cinhun vibhatakti varNakun|vibhakti cinhun vibhatakti varṇakun|ʋɪbʰəkt̪ɪ t͡ʃɪn̪ɦun̪ ʋɪbʰət̪əkt̪ɪ ʋəɾɳəkun̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,markers,english,,english,,grammar|language|linguistic,,noun,
+^,,உருபுகள்,tamil,,tamil,'உரபகள':1 'markers':2 'marker':3 'உர':4 'கள':5,grammar|language|linguistic,விப4க்தி சின்ஹுன்,noun,
+-,ꢮ,ꢮꢶꢩꢒ꣄ꢡꢶ ꢗꢶꢥ꣄ꢲꢸꢥ꣄ ꢮꢶꢩꢡꢒ꣄ꢡꢶ ꢮꢬ꣄ꢠꢒꢸꢥ꣄,sourashtra,,,'ꢮꢩꢒꢡꢗꢥꢲꢥꢮꢩꢡꢒꢡꢮꢬꢠꢒꢥ':1 'vibhaktichinhunvibhataktivarnakun':2 'vibhakticinhunvibhataktivarnakun':3 'vibhakticinhunvibhataktivarṇakun':4 'markers':5 'marker':6 'உர':7 'கள':8,grammar|language|linguistic,विभक्ति चिन्हुन विभक्ति वर्णकुन|விப4க்தி வர்ணகுன்|vibhakti chinhun vibhatakti varnakun|vibhakti cinhun vibhatakti varNakun|vibhakti cinhun vibhatakti varṇakun|ʋɪbʰəkt̪ɪ t͡ʃɪn̪ɦun̪ ʋɪbʰət̪əkt̪ɪ ʋəɾɳəkun̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,markers,english,,english,,grammar|language|linguistic,,noun,
+^,,உருபுகள்,tamil,,tamil,'உரபகள':1 'markers':2 'marker':3 'உர':4 'கள':5,grammar|language|linguistic,விப4க்தி வர்ணகுன்,noun,
+-,ꢩ,ꢩꢵꢱ꣄ꢫꣁ,sourashtra,,,'ꢩꢱꢫ':1 'bhaasyo':2 'bhasyo':3 'bhāsyŏ':4 'commentary':5 'உர':6,grammar|language|linguistic,भष्या॑|பா4ஷ்யொ|bhaasyo'|bhAsyO|bhāsyŏ|bʰɑːs̪jo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,commentary,english,,english,,grammar|language|linguistic,,noun,
+^,,உரை,tamil,,tamil,'உர':1 'commentary':2,grammar|language|linguistic,பா4ஷ்யொ,noun,
+-,ꢆ,ꢆꢦꢪꣁ,sourashtra,,,'ꢆꢦꢪ':1 'upamo':2 'upamŏ':3 'simile':4 'உவம':5,grammar|language|linguistic,उपमा॑|உபமொ|upamo'|upamO|upamŏ|upəmo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,simile,english,,english,,grammar|language|linguistic,,noun,
+^,,உவமை,tamil,,tamil,'உவம':1 'simile':2,grammar|language|linguistic,உபமொ,noun,
+-,ꢂ,ꢂꢥ꣄ꢡ ꢥꢶꢬ꣄ꢪꢵꢥ꣄,sourashtra,,,'ꢂꢥꢡꢥꢬꢪꢥ':1 'antanirmaan':2 'antanirman':3 'antanirmān':4 'internal':5 'structure':6 'உள':7 'ளம':8,grammar|language|linguistic,अन्तर्निमान्|அந்தர்நிர்மாண்|anta nirmaan|anta nirmAn|anta nirmān|ən̪t̪ə n̪ɪɾmɑːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,internal structure,english,,english,,grammar|language|linguistic,,noun,
+^,,உள்ளமைப்பு,tamil,,tamil,'உளளமபப':1 'internal':2 'structure':3 'உள':4 'ளம':5,grammar|language|linguistic,அந்தர்நிர்மாண்,noun,
+-,ꢪ,ꢪꢴꢣ꣄ꢣꢶ ꢢꣁꢮ꣄ꢥꢶ,sourashtra,,,'ꢪꢣꢣꢢꢮꢥ':1 'mhaddithovni':2 'mhaddithŏvni':3 'infix':4 'உள':5,grammar|language|linguistic,म्हद्दि था॑व्नि|ம:த்3தி3தொ2வ்னி|mhaddi tho'vni|mhaddi thOvni|mhaddi thŏvni|mɦəd̪d̪ɪ t̪ʰoʋn̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,infix,english,,english,,grammar|language|linguistic,,noun,
+^,,உள்ளொட்டு,tamil,,tamil,'உளளடட':1 'infix':2 'உள':3,grammar|language|linguistic,ம:த்3தி3தொ2வ்னி,noun,
+-,ꢇ,ꢇꢲꢪ꣄,sourashtra,,,'ꢇꢲꢪ':1 'ooham':2 'uham':3 'ūham':4 'assumption':5 'ஊகம':6,grammar|language|linguistic,ऊहम्|ஊஹம்|ooham|Uham|ūham|uːɦəm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,assumption,english,,english,,grammar|language|linguistic,,noun,
+^,,ஊகம்,tamil,,tamil,'ஊகம':1 'assumption':2,grammar|language|linguistic,ஊஹம்,noun,
+-,ꢱ,ꢱꢖ꣄ꢓ꣄ꢫꣁ,sourashtra,,,'ꢱꢖꢓꢫ':1 'sankhyo':2 'sagkhyo':3 'saṅkhyŏ':4 'number':5 'எண':6,grammar|language|linguistic,सङख्या॑|ஸங்க்2யொ|sankhyo'|saGkhyO|saṅkhyŏ|s̪əŋkʰjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,number,english,,english,,grammar|language|linguistic,,noun,
+^,,எண்,tamil,,tamil,'எண':1 'number':2,grammar|language|linguistic,ஸங்க்2யொ,noun,
+-,ꢂ,ꢂꢮꢥ꣄ꢒꢵꢭ꣄,sourashtra,,,'ꢂꢮꢥꢒꢭ':1 'avankaal':2 'avankal':3 'avankāl':4 'future':5 'tense':6 'எத':7 'லம':8,grammar|language|linguistic,अवन्काल्|அவன்கால்|avankaal|avankAl|avankāl|əʋən̪kɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,future tense,english,,english,,grammar|language|linguistic,,noun,
+^,,எதிர்காலம்,tamil,,tamil,'எதரகலம':1 'future':2 'tense':3 'எத':4 'லம':5,grammar|language|linguistic,அவன்கால்,noun,
+-,ꢮ,ꢮ꣄ꢫꢡꢶꢬꢿꢒ ꢱꢨ꣄ꢣꢸ,sourashtra,,,'ꢮꢫꢡꢬꢒꢱꢨꢣ':1 'vyatirekasabdu':2 'antonym':3 'எத':4,grammar|language|linguistic,व्यतिरेक सब्दु|வ்யதிரேக ஸப்3து3|vyatireka sabdu|vyatireka sabdu|vyatireka sabdu|ʋjət̪ɪɾeːkə s̪əbd̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,antonym,english,,english,,grammar|language|linguistic,,noun,
+^,,எதிர்ச்சொல்,tamil,,tamil,'எதரசசல':1 'antonym':2 'எத':3,grammar|language|linguistic,வ்யதிரேக ஸப்3து3,noun,
+-,ꢮ,ꢮ꣄ꢫꢡꢶꢬꢿꢒ꣄,sourashtra,,,'ꢮꢫꢡꢬꢒ':1 'vyatirek':2 'negative':3 'எத':4 'மற':5,grammar|language|linguistic,व्यतिरेक|வ்யதிரேக்|vyatirek|vyatirek|vyatirek|ʋjət̪ɪɾeːk,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,negative,english,,english,,grammar|language|linguistic,,noun,
+^,,எதிர்மறை,tamil,,tamil,'எதரமற':1 'negative':2 'எத':3 'மற':4,grammar|language|linguistic,வ்யதிரேக்,noun,
+-,ꢂ,ꢂꢰꢬ꣄,sourashtra,,,'ꢂꢰꢬ':1 'ashar':2 'asar':3 'aṣar':4 'script':5 'எழ':6,grammar|language|linguistic,अक्षर्|அக்ஷர்|ashar|aSar|aṣar|əʂəɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,script,english,,english,,grammar|language|linguistic,,noun,
+^,,எழுத்து,tamil,,tamil,'எழதத':1 'script':2 'எழ':3,grammar|language|linguistic,அக்ஷர்,noun,
+-,ꢭ,ꢭꢶꢦꢶ,sourashtra,,,'ꢭꢦ':1 'lipi':2 'script':3 'எழ':4,grammar|language|linguistic,लिपि|லிபி|lipi|lipi|lipi|lɪpɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,script,english,,english,,grammar|language|linguistic,,noun,
+^,,எழுத்து,tamil,,tamil,'எழதத':1 'script':2 'எழ':3,grammar|language|linguistic,லிபி,noun,
+-,ꢒ,ꢒꢬ꣄ꢡꣁ,sourashtra,,,'ꢒꢬꢡ':1 'karto':2 'kartŏ':3 'subject':4 'எழ':5,grammar|language|linguistic,कर्ता॑|கர்தொ|karto'|kartO|kartŏ|kəɾt̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,subject,english,,english,,grammar|language|linguistic,,noun,
+^,,எழுவாய்,tamil,,tamil,'எழவய':1 'subject':2 'எழ':3,grammar|language|linguistic,கர்தொ,noun,
+-,ꢃ,ꢃꢙ꣄ꢛꢵ,sourashtra,,,'ꢃꢙꢛ':1 'aajnyaa':2 'ajja':3 'ājñā':4 'imperative':5 'ஏவல':6,grammar|language|linguistic,आज्ना॑|ஆஜ்ஞொ|aajnyaa|AjJA|ājñā|ɑːd͡ʒɲɑː,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,imperative,english,,english,,grammar|language|linguistic,,noun,
+^,,ஏவல்,tamil,,tamil,'ஏவல':1 'imperative':2,grammar|language|linguistic,ஆஜ்ஞொ,noun,
+-,ꢗ,ꢗꢾꢬꢶꢨꢥ꣄ꢤꢶ,sourashtra,,,'ꢗꢬꢨꢥꢤ':1 'cheribandhi':2 'ceribandhi':3 'cĕribandhi':4 'affix':5 'ஒட':6,grammar|language|linguistic,च॑रिबन्धि|செரிப3ந்தி4|che'ribandhi|cEribandhi|cĕribandhi|t͡ʃeɾɪbən̪d̪ʰɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,affix,english,,english,,grammar|language|linguistic,,noun,
+^,,ஒட்டு,tamil,,tamil,'ஒடட':1 'affix':2 'ஒட':3,grammar|language|linguistic,செரிப3ந்தி4,noun,
+-,ꢌ,ꢌꢒꢮꢗꢥ꣄,sourashtra,,,'ꢌꢒꢮꢗꢥ':1 'ekavachan':2 'ekavacan':3 'ĕkavacan':4 'singular':5 'ஒர':6,grammar|language|linguistic,एकवचन|ஏகவசன்|e'kavachan|Ekavacan|ĕkavacan|ekəʋət͡ʃən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,singular,english,,english,,grammar|language|linguistic,,noun,
+^,,ஒருமை,tamil,,tamil,'ஒரம':1 'singular':2 'ஒர':3,grammar|language|linguistic,ஏகவசன்,noun,
+-,ꢱ,ꢱ꣄ꢮꢬꣁ,sourashtra,,,'ꢱꢮꢬ':1 'svaro':2 'svarŏ':3 'phone':4 'sound':5 'ஒல':6,grammar|language|linguistic,स्वरा॑|ஸ்வரொ|svaro'|svarO|svarŏ|s̪ʋəɾo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,"phone, sound",english,,english,,grammar|language|linguistic,,noun,
+^,,ஒலி,tamil,,tamil,'ஒல':1 'phone':2 'sound':3,grammar|language|linguistic,ஸ்வரொ,noun,
+-,ꢤ,ꢤ꣄ꢮꢥꢶ,sourashtra,,,'ꢤꢮꢥ':1 'dhvani':2 'phone':3 'sound':4 'ஒல':5,grammar|language|linguistic,ध्वनि|த்4வனி|dhvani|dhvani|dhvani|d̪ʰʋən̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,"phone, sound",english,,english,,grammar|language|linguistic,,noun,
+^,,ஒலி,tamil,,tamil,'ஒல':1 'phone':2 'sound':3,grammar|language|linguistic,த்4வனி,noun,
+-,ꢆ,ꢆꢗ꣄ꢗꢵꢜꢥꢪ꣄,sourashtra,,,'ꢆꢗꢗꢜꢥꢪ':1 'uchchaatanam':2 'uccatanam':3 'uccāṭanam':4 'pronunciation':5 'ஒல':6,grammar|language|linguistic,उच्चाटनम्|உச்சாடனம்|uchchaat'anam|uccATanam|uccāṭanam|ut͡ʃt͡ʃɑːʈən̪əm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,pronunciation,english,,english,,grammar|language|linguistic,,noun,
+^,,ஒலிப்பு,tamil,,tamil,'ஒலபப':1 'pronunciation':2 'ஒல':3,grammar|language|linguistic,உச்சாடனம்,noun,
+-,ꢬ,ꢬꢷꢠꢸ ꢮꢡ꣄ꢡꣁ,sourashtra,,,'ꢬꢠꢮꢡꢡ':1 'reenuvatto':2 'rinuvatto':3 'rīṇuvattŏ':4 'loan':5 'word':6 'கடன':7,grammar|language|linguistic,रीणुवत्ता॑|ரீணுவத்தொ|reenu vatto'|rINu vattO|rīṇu vattŏ|ɾiːɳu ʋət̪t̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,loan word,english,,english,,grammar|language|linguistic,,noun,
+^,,கடன் சொல்,tamil,,tamil,'கடனசல':1 'loan':2 'word':3 'கடன':4,grammar|language|linguistic,ரீணுவத்தொ,noun,
+-,ꢩ,ꢩꢬꢳ ꢮꢡ꣄ꢡꣁ,sourashtra,,,'ꢩꢬꢳꢮꢡꢡ':1 'bharalavatto':2 'bharalavattŏ':3 'loan':4 'word':5 'கடன':6,grammar|language|linguistic,भरळ वत्ता॑|ப4ரளவத்தொ|bharal'a vatto'|bharaLa vattO|bharal̤a vattŏ|bʰəɾəɭə ʋət̪t̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,loan word,english,,english,,grammar|language|linguistic,,noun,
+^,,கடன் சொல்,tamil,,tamil,'கடனசல':1 'loan':2 'word':3 'கடன':4,grammar|language|linguistic,ப4ரளவத்தொ,noun,
+-,ꢓ,ꢓꢳ꣄ꢳꢥ꣄ ꢮꢡ꣄ꢡꣁ,sourashtra,,,'ꢓꢳꢳꢥꢮꢡꢡ':1 'khallanvatto':2 'khallanvattŏ':3 'borrowing':4 'borrow':5 'கடன':6 'கல':7,grammar|language|linguistic,खळ्ळन वत्ता॑|க2ள்ளன்வத்தொ|khal'l'an vatto'|khaLLan vattO|khal̤l̤an vattŏ|kʰəɭɭən̪ ʋət̪t̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,borrowing,english,,english,,grammar|language|linguistic,,noun,
+^,,கடன் வாங்கல்,tamil,,tamil,'கடனவஙகல':1 'borrowing':2 'borrow':3 'கடன':4 'கல':5,grammar|language|linguistic,க2ள்ளன்வத்தொ,noun,
+-,ꢒ,ꢒꢭꢸ,sourashtra,,,'ꢒꢭ':1 'kalu':2 'tense':3 'லம':4,grammar|language|linguistic,कालु|காலு|kalu|kalu|kalu|kəlu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,tense,english,,english,,grammar|language|linguistic,,noun,
+^,,காலம்,tamil,,tamil,'கலம':1 'tense':2 'லம':3,grammar|language|linguistic,காலு,noun,
+-,ꢱ,ꢱ꣄ꢮꢭ꣄ꢦ ꢮꢶꢬꢵꢪ,sourashtra,,,'ꢱꢮꢭꢦꢮꢬꢪ':1 'svalpaviraama':2 'svalpavirama':3 'svalpavirāma':4 'comma':5,grammar|language|linguistic,स्वल्प विराम|ஸ்வல்ப விராமொ|svalpa viraama|svalpa virAma|svalpa virāma|s̪ʋəlpə ʋɪɾɑːmə,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,comma,english,,english,,grammar|language|linguistic,,noun,
+^,,காற்புள்ளி,tamil,,tamil,'கறபளள':1 'comma':2,grammar|language|linguistic,ஸ்வல்ப விராமொ,noun,
+-,ꢥ,ꢥꢴꢥ꣄ ꢕꢾꢞꢶ,sourashtra,,,'ꢥꢥꢕꢞ':1 'nhanghedi':2 'nhanghĕḍi':3 'comma':4,grammar|language|linguistic,न्हन्घ॑डि|ந:ன் கெ4டி3|nhan ghe'd'i|nhan ghEDi|nhan ghĕḍi|n̪ɦən̪ gʰeɖɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,comma,english,,english,,grammar|language|linguistic,,noun,
+^,,காற்புள்ளி,tamil,,tamil,'கறபளள':1 'comma':2,grammar|language|linguistic,ந:ன் கெ4டி3,noun,
+-,ꢔ,ꢔꢸꢬꢶ,sourashtra,,,'ꢔꢬ':1 'guri':2 'sign':3 'mark':4,grammar|language|linguistic,गुरि|கு3ரி|guri|guri|guri|guɾɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,sign/mark,english,,english,,grammar|language|linguistic,,noun,
+^,,குறியீடு,tamil,,tamil,'கறயட':1 'sign':2 'mark':3,grammar|language|linguistic,கு3ரி,noun,
+-,ꢗ,ꢗꢶꢥ꣄ꢲꢸ,sourashtra,,,'ꢗꢥꢲ':1 'chinhu':2 'cinhu':3 'sign':4 'mark':5,grammar|language|linguistic,चिन्हु|சின்ஹு|chinhu|cinhu|cinhu|t͡ʃɪn̪ɦu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,sign/mark,english,,english,,grammar|language|linguistic,,noun,
+^,,குறியீடு,tamil,,tamil,'கறயட':1 'sign':2 'mark':3,grammar|language|linguistic,சின்ஹு,noun,
+-,ꢡ,ꢡꢵꢳꢸ,sourashtra,,,'ꢡꢳ':1 'taalu':2 'talu':3 'tālu':4 'rhythm':5 'சந':6 'தம':7,grammar|language|linguistic,ताळु|தாளு|taal'u|tALu|tāl̤u|t̪ɑːɭu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,rhythm,english,,english,,grammar|language|linguistic,,noun,
+^,,சந்தம்,tamil,,tamil,'சநதம':1 'rhythm':2 'சந':3 'தம':4,grammar|language|linguistic,தாளு,noun,
+-,ꢭ,ꢭꢫꣁ,sourashtra,,,'ꢭꢫ':1 'layo':2 'layŏ':3 'rhythm':4 'சந':5 'தம':6,grammar|language|linguistic,लया॑|லயொ|layo'|layO|layŏ|ləjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,rhythm,english,,english,,grammar|language|linguistic,,noun,
+^,,சந்தம்,tamil,,tamil,'சநதம':1 'rhythm':2 'சந':3 'தம':4,grammar|language|linguistic,லயொ,noun,
+-,ꢱ,ꢱꢥ꣄ꢤꢶ,sourashtra,,,'ꢱꢥꢤ':1 'sandhi':2 'சந':3,grammar|language|linguistic,सन्धि|ஸந்தி4|sandhi|sandhi|sandhi|s̪ən̪d̪ʰɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,sandhi,english,,english,,grammar|language|linguistic,,noun,
+^,,சந்தி,tamil,,tamil,'சநத':1 'sandhi':2 'சந':3,grammar|language|linguistic,ஸந்தி4,noun,
+-,ꢱ,ꢱꢪ꣄ꢱꢬ꣄ꢔꢸ,sourashtra,,,'ꢱꢪꢱꢬꢔ':1 'samsargu':2 'inflectional':3 'increment':4,grammar|language|linguistic,सम्सर्गु|ஸம்ஸர்கு3|samsargu|samsargu|samsargu|s̪əms̪əɾgu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,inflectional increment,english,,english,,grammar|language|linguistic,,noun,
+^,,சாரியை,tamil,,tamil,'சரய':1 'inflectional':2 'increment':3,grammar|language|linguistic,ஸம்ஸர்கு3,noun,
+-,ꢔ,ꢔꢸꢬꢶ,sourashtra,,,'ꢔꢬ':1 'guri':2 'article':3,grammar|language|linguistic,गुरि|கு3ரி|guri|guri|guri|guɾɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,article,english,,english,,grammar|language|linguistic,,noun,
+^,,சுட்டு,tamil,,tamil,'சடட':1 'article':2,grammar|language|linguistic,கு3ரி,noun,
+-,ꢱ,ꢱꢹꢡ꣄ꢬꢸ,sourashtra,,,'ꢱꢡꢬ':1 'sootru':2 'sutru':3 'sūtru':4 'formula':5 'rule':6 'ரம':7,grammar|language|linguistic,सूत्रु|ஸூத்ரு|sootru|sUtru|sūtru|s̪uːt̪ɾu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,"formula, rule",english,,english,,grammar|language|linguistic,,noun,
+^,,சூத்திரம்,tamil,,tamil,'சததரம':1 'formula':2 'rule':3 'ரம':4,grammar|language|linguistic,ஸூத்ரு,noun,
+-,ꢩ,ꢩꢵꢮ ꢩꢵꢰꣁ,sourashtra,,,'ꢩꢮꢩꢰ':1 'bhaavabhaasho':2 'bhavabhaso':3 'bhāvabhāṣŏ':4 'gesture':5 'sign':6 'language':7,grammar|language|linguistic,भाव भाषा॑|பா4வபா4ஷொ|bhaava bhaasho'|bhAva bhASO|bhāva bhāṣŏ|bʰɑːʋə bʰɑːʂo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,gesture/sign language,english,,english,,grammar|language|linguistic,,noun,
+^,,சைகை மொழி,tamil,,tamil,'சகமழ':1 'gesture':2 'sign':3 'language':4,grammar|language|linguistic,பா4வபா4ஷொ,noun,
+-,ꢯ,ꢯꢨ꣄ꢣꢸ,sourashtra,,,'ꢯꢨꢣ':1 'shabdu':2 'zabdu':3 'śabdu':4 'word':5,grammar|language|linguistic,शब्दु|ஸப்3து3|shabdu|zabdu|śabdu|ʃəbd̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,word,english,,english,,grammar|language|linguistic,,noun,
+^,,சொல்,tamil,,tamil,'சல':1 'word':2,grammar|language|linguistic,ஸப்3து3,noun,
+-,ꢯ,ꢯꢨ꣄ꢣ ꢮ꣄ꢫꢵꢒꢬꢠꣁ,sourashtra,,,'ꢯꢨꢣꢮꢫꢒꢬꢠ':1 'shabdavyaakarano':2 'zabdavyakarano':3 'śabdavyākaraṇŏ':4 'morphology':5 'லக':6 'கணம':7,grammar|language|linguistic,सब्द व्याकरणा॑|ஸப்3த3 வ்யாகரணொ|shabda vyaakarano'|zabda vyAkaraNO|śabda vyākaraṇŏ|ʃəbd̪ə ʋjɑːkəɾəɳo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,morphology,english,,english,,grammar|language|linguistic,,noun,
+^,,சொல்லிலக்கணம்,tamil,,tamil,'சலலலககணம':1 'morphology':2 'லக':3 'கணம':4,grammar|language|linguistic,ஸப்3த3 வ்யாகரணொ,noun,
+-,ꢪ,ꢪꢥ꣄ꢡꢸ,sourashtra,,,'ꢪꢥꢡ':1 'mantu':2 'mistake':3 'தவற':4,grammar|language|linguistic,मन्तु|மந்து|mantu|mantu|mantu|mən̪t̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,mistake,english,,english,,grammar|language|linguistic,,noun,
+^,,தவறு,tamil,,tamil,'தவற':1 'mistake':2,grammar|language|linguistic,மந்து,noun,
+-,ꢗ,ꢗꢹꢒ꣄,sourashtra,,,'ꢗꢒ':1 'chook':2 'cuk':3 'cūk':4 'mistake':5 'தவற':6,grammar|language|linguistic,चूक्|சூக்|chook|cUk|cūk|t͡ʃuːk,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,mistake,english,,english,,grammar|language|linguistic,,noun,
+^,,தவறு,tamil,,tamil,'தவற':1 'mistake':2,grammar|language|linguistic,சூக்,noun,
+-,ꢧ,ꢧꣀꢭ꣄ ꢦꢸꢬꢸꢱꢸ,sourashtra,,,'ꢧꢭꢦꢬꢱ':1 'phailpurusu':2 'first':3 'person':4 'தன':5 'டம':6,grammar|language|linguistic|person,फैल पुरुशु|பை2ல புருஷு|phail purusu|phail purusu|phail purusu|pʰəɪl puɾus̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""concrete""""}"
+^,,first person,english,,english,,grammar|language|linguistic|person,,noun,
+^,,தன்மையிடம்,tamil,,tamil,'தனமயடம':1 'first':2 'person':3 'தன':4 'டம':5,grammar|language|linguistic|person,பை2ல புருஷு,noun,
+-,ꢂ,ꢂꢒꢬ꣄ꢪꢒ ꢒ꣄ꢬꢶꢫꣁ,sourashtra,,,'ꢂꢒꢬꢪꢒꢒꢬꢫ':1 'akarmakakriyo':2 'akarmakakriyŏ':3 'intransitive':4 'verb':5 'யவ':6,grammar|language|linguistic,अकर्मक क्रिया॑|அகர்மகக்ரியொ|akarmaka kriyo'|akarmaka kriyO|akarmaka kriyŏ|əkəɾməkə kɾɪjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,intransitive verb,english,,english,,grammar|language|linguistic,,noun,
+^,,குன்றியவினை,tamil,,tamil,'கனறயவன':1 'intransitive':2 'verb':3 'யவ':4,grammar|language|linguistic,அகர்மகக்ரியொ,noun,
+-,ꢱ,ꢱꢒꢬ꣄ꢪꢒ ꢒ꣄ꢬꢶꢫꣁ,sourashtra,,,'ꢱꢒꢬꢪꢒꢒꢬꢫ':1 'sakarmakakriyo':2 'sakarmakakriyŏ':3 'intransitive':4,grammar|language|linguistic,सकर्मक क्रिया॑|ஸகர்மக க்ரியொ|sakarmaka kriyo'|sakarmaka kriyO|sakarmaka kriyŏ|s̪əkəɾməkə kɾɪjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,intransitive,english,,english,,grammar|language|linguistic,,noun,
+^,,குன்றாவினை,tamil,,tamil,'கனறவன':1 'intransitive':2,grammar|language|linguistic,ஸகர்மக க்ரியொ,noun,
+-,ꢱ,ꢱꢵꢤꢵꢬꢠ ꢮꢵꢒ꣄ꢫꣁ,sourashtra,,,'ꢱꢤꢬꢠꢮꢒꢫ':1 'saadhaaranavaakyo':2 'sadharanavakyo':3 'sādhāraṇavākyŏ':4 'simple':5 'sentence':6 'தன':7 'யம':8,grammar|language|linguistic,साधारण वाक्या॑|ஸாதா4ரணவாக்யொ|saadhaarana vaakyo'|sAdhAraNa vAkyO|sādhāraṇa vākyŏ|s̪ɑːd̪ʰɑːɾəɳə ʋɑːkjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,simple sentence,english,,english,,grammar|language|linguistic,,noun,
+^,,தனிவாக்கியம்,tamil,,tamil,'தனவககயம':1 'simple':2 'sentence':3 'தன':4 'யம':5,grammar|language|linguistic,ஸாதா4ரணவாக்யொ,noun,
+-,ꢩ,ꢩꢵꢰꢠ ꢮꢡ꣄ꢡꣁ,sourashtra,,,'ꢩꢰꢠꢮꢡꢡ':1 'bhaashanavatto':2 'bhasanavatto':3 'bhāṣaṇavattŏ':4 'dialectal':5 'word':6,grammar|language|linguistic,भाषण वत्ता॑|பா4ஷண வத்தொ|bhaashana vatto'|bhASaNa vattO|bhāṣaṇa vattŏ|bʰɑːʂəɳə ʋət̪t̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,dialectal word,english,,english,,grammar|language|linguistic,,noun,
+^,,திசைச் சொல்,tamil,,tamil,'தசசசல':1 'dialectal':2 'word':3,grammar|language|linguistic,பா4ஷண வத்தொ,noun,
+-,ꢔ,ꢔꢸꢪ꣄ꢦꢸꢥꢵꢮ꣄,sourashtra,,,'ꢔꢪꢦꢥꢮ':1 'gumpunaav':2 'gumpunav':3 'gumpunāv':4 'mass':5 'noun':6 'ரள':7 'யர':8,grammar|language|linguistic,गुम्पु नाव्|கு3ம்பு நாவ்|gumpunaav|gumpunAv|gumpunāv|gumpun̪ɑːʋ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,mass noun,english,,english,,grammar|language|linguistic,,noun,
+^,,திரள் பெயர்,tamil,,tamil,'தரளபயர':1 'mass':2 'noun':3 'ரள':4 'யர':5,grammar|language|linguistic,கு3ம்பு நாவ்,noun,
+-,ꢪ,ꢪꢥ꣄ꢡꢸ ꢮꢡ꣄ꢡꣁ,sourashtra,,,'ꢪꢥꢡꢮꢡꢡ':1 'mantuvatto':2 'mantuvattŏ':3 'corrupt':4 'word':5,grammar|language|linguistic,मन्तु वत्ता॑|மந்துவத்தொ|mantu vatto'|mantu vattO|mantu vattŏ|mən̪t̪u ʋət̪t̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,corrupt word,english,,english,,grammar|language|linguistic,,noun,
+^,,திரி சொல்,tamil,,tamil,'தரசல':1 'corrupt':2 'word':3,grammar|language|linguistic,மந்துவத்தொ,noun,
+-,ꢆ,ꢆꢦ ꢒ꣄ꢬꢶꢫꣁ,sourashtra,,,'ꢆꢦꢒꢬꢫ':1 'upakriyo':2 'upakriyŏ':3 'auxilliary':4 'verb':5,grammar|language|linguistic,उप क्रिया॑|உபக்ரியொ|upa kriyo'|upa kriyO|upa kriyŏ|upə kɾɪjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,auxilliary verb,english,,english,,grammar|language|linguistic,,noun,
+^,,துணை வினை,tamil,,tamil,'தணவன':1 'auxilliary':2 'verb':3,grammar|language|linguistic,உபக்ரியொ,noun,
+-,ꢮ,ꢮꢾꢒ꣄ꢒꢶꢥꢶ,sourashtra,,,'ꢮꢒꢒꢥ':1 'vekkini':2 'vĕkkini':3 'selection':4,grammar|language|linguistic,वेक्किनि|வெக்கினி|ve'kkini|vEkkini|vĕkkini|ʋekkɪn̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,selection,english,,english,,grammar|language|linguistic,,noun,
+^,,தெரிவு,tamil,,tamil,'தரவ':1 'selection':2,grammar|language|linguistic,வெக்கினி,noun,
+-,ꢱ,ꢱꢪ꣄ꢫꢸꢒ꣄ꢡꢸ,sourashtra,,,'ꢱꢪꢫꢒꢡ':1 'samyuktu':2 'compound':3,grammar|language|linguistic,सम्युक्तु|ஸம்யுக்து|samyuktu|samyuktu|samyuktu|s̪əmjukt̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,compound,english,,english,,grammar|language|linguistic,,noun,
+^,,தொகை,tamil,,tamil,'தக':1 'compound':2,grammar|language|linguistic,ஸம்யுக்து,noun,
+-,ꢆ,ꢆꢒ꣄ꢡꢶ ꢮꢵꢒ꣄ꢫꢪ꣄,sourashtra,,,'ꢆꢒꢡꢮꢒꢫꢪ':1 'uktivaakyam':2 'uktivakyam':3 'uktivākyam':4 'phrase':5 'டர':6,grammar|language|linguistic,उक्तिवाक्यम|உக்திவாக்யம்|ukti vaakyam|ukti vAkyam|ukti vākyam|ukt̪ɪ ʋɑːkjəm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,phrase,english,,english,,grammar|language|linguistic,,noun,
+^,,தொடர்,tamil,,tamil,'தடர':1 'phrase':2 'டர':3,grammar|language|linguistic,உக்திவாக்யம்,noun,
+-,ꢮ,ꢮꢡ꣄ꢡꢵ ꢡꣁꢬꢠ꣄,sourashtra,,,'ꢮꢡꢡꢡꢬꢠ':1 'vattaatoran':2 'vattatoran':3 'vattātŏraṇ':4 'phrase':5 'டர':6,grammar|language|linguistic,वत्ता तोरण|வத்தா தொரண்|vattaa to'ran|vattA tOraN|vattā tŏraṇ|ʋət̪t̪ɑː t̪oɾəɳ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,phrase,english,,english,,grammar|language|linguistic,,noun,
+^,,தொடர்,tamil,,tamil,'தடர':1 'phrase':2 'டர':3,grammar|language|linguistic,வத்தா தொரண்,noun,
+-,ꢥ,ꢥꢶꢬꢥ꣄ꢡꢬ ꢒꢵꢭ꣄,sourashtra,,,'ꢥꢬꢥꢡꢬꢒꢭ':1 'nirantarakaal':2 'nirantarakal':3 'nirantarakāl':4 'continuous':5 'tense':6 'டர':7 'லம':8,grammar|language|linguistic,निर्न्तर काल्|நிரந்த3ரகால்|nirantara kaal|nirantara kAl|nirantara kāl|n̪ɪɾən̪t̪əɾə kɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,continuous tense,english,,english,,grammar|language|linguistic,,noun,
+^,,தொடர்காலம்,tamil,,tamil,'தடரகலம':1 'continuous':2 'tense':3 'டர':4 'லம':5,grammar|language|linguistic,நிரந்த3ரகால்,noun,
+-,ꢮ,ꢮꢵꢒ꣄ꢫ ꢦ꣄ꢬꢒꢬꢠꣁ,sourashtra,,,'ꢮꢒꢫꢦꢬꢒꢬꢠ':1 'vaakyaprakarano':2 'vakyaprakarano':3 'vākyaprakaraṇŏ':4 'syntax':5 'டர':6 'யல':7,grammar|language|linguistic,वाक्य प्रकरणा॑|வாக்ய ப்ரகரணொ|vaakya prakarano'|vAkya prakaraNO|vākya prakaraṇŏ|ʋɑːkjə pɾəkəɾəɳo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,syntax,english,,english,,grammar|language|linguistic,,noun,
+^,,தொடரியல்,tamil,,tamil,'தடரயல':1 'syntax':2 'டர':3 'யல':4,grammar|language|linguistic,வாக்ய ப்ரகரணொ,noun,
+-,ꢒ,ꢒꢬ꣄ꢪꢸ ꢥꢵꢮ꣄,sourashtra,,,'ꢒꢬꢪꢥꢮ':1 'karmunaav':2 'karmunav':3 'karmunāv':4 'gerund':5 'யர':6,grammar|language|linguistic,कर्मु नाव्|கர்மு நாவ்|karmu naav|karmu nAv|karmu nāv|kəɾmu n̪ɑːʋ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,gerund,english,,english,,grammar|language|linguistic,,noun,
+^,,தொழிற்பெயர்,tamil,,tamil,'தழறபயர':1 'gerund':2 'யர':3,grammar|language|linguistic,கர்மு நாவ்,noun,
+-,ꢬ,ꢬꢷꢡꢶ,sourashtra,,,'ꢬꢡ':1 'reeti':2 'riti':3 'rīti':4 'style':5 'நட':6,grammar|language|linguistic,रीति|ரீதி|reeti|rIti|rīti|ɾiːt̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,style,english,,english,,grammar|language|linguistic,,noun,
+^,,நடை,tamil,,tamil,'நட':1 'style':2,grammar|language|linguistic,ரீதி,noun,
+-,ꢗ,ꢗꢬ꣄ꢮ ꢮꢶꢩꢒ꣄ꢡꢶ,sourashtra,,,'ꢗꢬꢮꢮꢩꢒꢡ':1 'charvavibhakti':2 'carvavibhakti':3 'dative':4 'case':5,grammar|language|linguistic,चर्व विभक्ति|சர்வவிப4க்தி|charva vibhakti|carva vibhakti|carva vibhakti|t͡ʃəɾʋə ʋɪbʰəkt̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,dative case,english,,english,,grammar|language|linguistic,,noun,
+^,,நான்காம் வேற்றுமை,tamil,,tamil,'நனகமவறறம':1 'dative':2 'case':3,grammar|language|linguistic,சர்வவிப4க்தி,noun,
+-,ꢗ,ꢗꢭ꣄ꢡ ꢒꢵꢭ꣄,sourashtra,,,'ꢗꢭꢡꢒꢭ':1 'chaltakaal':2 'caltakal':3 'caltakāl':4 'present':5 'tense':6 'கழ':7 'லம':8,grammar|language|linguistic,चल्त काल्|சல்தகால்|chalta kaal|calta kAl|calta kāl|t͡ʃəlt̪ə kɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,present tense,english,,english,,grammar|language|linguistic,,noun,
+^,,நிகழ்காலம்,tamil,,tamil,'நகழகலம':1 'present':2 'tense':3 'கழ':4 'லம':5,grammar|language|linguistic,சல்தகால்,noun,
+-,ꢮ,ꢮꢶꢬꢵꢪꢸ ꢗꢶꢥ꣄ꢲꢸ,sourashtra,,,'ꢮꢬꢪꢗꢥꢲ':1 'viraamuchinhu':2 'viramucinhu':3 'virāmucinhu':4 'punctuation':5 'marks':6 'mark':7 'தக':8 'கள':9,grammar|language|linguistic,विरामु चिन्हु|விராமு சின்ஹு|viraamu chinhu|virAmu cinhu|virāmu cinhu|ʋɪɾɑːmu t͡ʃɪn̪ɦu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,punctuation marks,english,,english,,grammar|language|linguistic,,noun,
+^,,நிறுத்தக் குறிகள்,tamil,,tamil,'நறததககறகள':1 'punctuation':2 'marks':3 'mark':4 'தக':5 'கள':6,grammar|language|linguistic,விராமு சின்ஹு,noun,
+-,ꢭ,ꢭꢵꢪ꣄ꢱ꣄ꢮꢬꣁ,sourashtra,,,'ꢭꢪꢱꢮꢬ':1 'laamsvaro':2 'lamsvaro':3 'lāmsvarŏ':4 'long':5 'vowel':6 'உய':7,grammar|language|linguistic,लाम्स्वरा॑|லாம்ஸ்வரொ|laamsvaro'|lAmsvarO|lāmsvarŏ|lɑːms̪ʋəɾo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,long vowel,english,,english,,grammar|language|linguistic,,noun,
+^,,நெடில் உயிர்,tamil,,tamil,'நடலஉயர':1 'long':2 'vowel':3 'உய':4,grammar|language|linguistic,லாம்ஸ்வரொ,noun,
+-,ꢂ,ꢂꢒ꣄ꢰꢬꢵꢥ꣄,sourashtra,,,'ꢂꢒꢰꢬꢥ':1 'aksharaan':2 'aksaran':3 'akṣarān':4 'alphabet':5 'கணக':6,grammar|language|linguistic,अक्षरान्|அக்ஷரான்|aksharaan|akSarAn|akṣarān|əkʂəɾɑːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,alphabet,english,,english,,grammar|language|linguistic,,noun,
+^,,நெடுங்கணக்கு,tamil,,tamil,'நடஙகணகக':1 'alphabet':2 'கணக':3,grammar|language|linguistic,அக்ஷரான்,noun,
+-,ꢦ,ꢦ꣄ꢬꢡꢶꢩꢵꢱꢥ꣄,sourashtra,,,'ꢦꢬꢡꢩꢱꢥ':1 'pratibhaasan':2 'pratibhasan':3 'pratibhāsan':4 'direct':5 'speech':6,grammar|language|linguistic,प्रतिभाषन्|ப்ரதிபா4ஷன்|pratibhaasan|pratibhAsan|pratibhāsan|pɾət̪ɪbʰɑːs̪ən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,direct speech,english,,english,,grammar|language|linguistic,,noun,
+^,,நேர்க்கூற்று,tamil,,tamil,'நரககறற':1 'direct':2 'speech':3,grammar|language|linguistic,ப்ரதிபா4ஷன்,noun,
+-,ꢤ,ꢤꢹꢬ꣄ ꢦꢸꢬꢸꢱꢸ,sourashtra,,,'ꢤꢬꢦꢬꢱ':1 'dhoorpurusu':2 'dhurpurusu':3 'dhūrpurusu':4 'third':5 'person':6 'படர':7 'இடம':8,grammar|language|linguistic|person,दूर्पुरुसु|தூ3ர் புருஷு|dhoor purusu|dhUr purusu|dhūr purusu|d̪ʰuːɾ puɾus̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""concrete""""}"
+^,,third person,english,,english,,grammar|language|linguistic|person,,noun,
+^,,படர்க்கை இடம்,tamil,,tamil,'படரககஇடம':1 'third':2 'person':3 'படர':4 'இடம':5,grammar|language|linguistic|person,தூ3ர் புருஷு,noun,
+-,ꢮ,ꢮꢵꢒ꣄ꢮꢶꢲꢵꢬ꣄,sourashtra,,,'ꢮꢒꢮꢲꢬ':1 'vaakvihaar':2 'vakvihar':3 'vākvihār':4 'ideogram':5 'படவ':6,grammar|language|linguistic,वाक्विहार्|வாக் விஹார்|vaakvihaar|vAkvihAr|vākvihār|ʋɑːkʋɪɦɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,ideogram,english,,english,,grammar|language|linguistic,,noun,
+^,,படவெழுத்து,tamil,,tamil,'படவழதத':1 'ideogram':2 'படவ':3,grammar|language|linguistic,வாக் விஹார்,noun,
+-,ꢒ,ꢒ꣄ꢬꢶꢫꢵꢦꢣ꣄,sourashtra,,,'ꢒꢬꢫꢦꢣ':1 'kriyaapad':2 'kriyapad':3 'kriyāpad':4 'predicate':5 'பயன':6,grammar|language|linguistic,क्रियापद|க்ரியாபத்3|kriyaapad|kriyApad|kriyāpad|kɾɪjɑːpəd̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,predicate,english,,english,,grammar|language|linguistic,,noun,
+^,,பயனிலை,tamil,,tamil,'பயனல':1 'predicate':2 'பயன':3,grammar|language|linguistic,க்ரியாபத்3,noun,
+-,ꢨ,ꢨꢲꢹ ꢮꢗꢥ꣄,sourashtra,,,'ꢨꢲꢮꢗꢥ':1 'bahoovachan':2 'bahuvacan':3 'bahūvacan':4 'plural':5 'பன':6,grammar|language|linguistic,बहु वचन्|ப3ஹு வசன்|bahoo vachan|bahU vacan|bahū vacan|bəɦuː ʋət͡ʃən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,plural,english,,english,,grammar|language|linguistic,,noun,
+^,,பன்மை,tamil,,tamil,'பனம':1 'plural':2 'பன':3,grammar|language|linguistic,ப3ஹு வசன்,noun,
+-,ꢔ,ꢔꢷꢡ꣄,sourashtra,,,'ꢔꢡ':1 'geet':2 'git':3 'gīt':4 'verse':5,grammar|language|linguistic,गीत्|கீ3த்|geet|gIt|gīt|giːt̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,verse,english,,english,,grammar|language|linguistic,,noun,
+^,,பா,tamil,,tamil,'verse':1,grammar|language|linguistic,கீ3த்,noun,
+-,ꢭ,ꢭꢶꢖ꣄ꢔꢸ,sourashtra,,,'ꢭꢖꢔ':1 'lingu':2 'liggu':3 'liṅgu':4 'gender':5,grammar|language|linguistic,लिङगु|லிங்கு3|lingu|liGgu|liṅgu|lɪŋgu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,gender,english,,english,,grammar|language|linguistic,,noun,
+^,,பால்,tamil,,tamil,'பல':1 'gender':2,grammar|language|linguistic,லிங்கு3,noun,
+-,ꢪ,ꢪꢥ꣄ꢡꢸ,sourashtra,,,'ꢪꢥꢡ':1 'mantu':2 'error':3,grammar|language|linguistic,मन्तु|மந்து|mantu|mantu|mantu|mən̪t̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,error,english,,english,,grammar|language|linguistic,,noun,
+^,,பிழை,tamil,,tamil,'பழ':1 'error':2,grammar|language|linguistic,மந்து,noun,
+-,ꢱ,ꢱꢒꢬ꣄ꢪꢒ ꢒ꣄ꢬꢶꢫꣁ,sourashtra,,,'ꢱꢒꢬꢪꢒꢒꢬꢫ':1 'sakarmakakriyo':2 'sakarmakakriyŏ':3 'transitive':4 'verb':5,grammar|language|linguistic,सकर्मक क्रिया॑|ஸகர்மக க்ரியொ|sakarmaka kriyo'|sakarmaka kriyO|sakarmaka kriyŏ|s̪əkəɾməkə kɾɪjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,transitive verb,english,,english,,grammar|language|linguistic,,noun,
+^,,குன்றா வினை,tamil,,tamil,'கனறவன':1 'transitive':2 'verb':3,grammar|language|linguistic,ஸகர்மக க்ரியொ,noun,
+-,ꢂ,ꢂꢥꢸꢨꢥ꣄ꢤꢸ,sourashtra,,,'ꢂꢥꢨꢥꢤ':1 'anubandhu':2 'suffix':3,grammar|language|linguistic,अनुबन्धु|அனுப3ந்து4|anubandhu|anubandhu|anubandhu|ən̪ubən̪d̪ʰu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,suffix,english,,english,,grammar|language|linguistic,,noun,
+^,,பின்னொட்டு,tamil,,tamil,'பனனடட':1 'suffix':2,grammar|language|linguistic,அனுப3ந்து4,noun,
+-,ꢱ,ꢱꢥ꣄ꢤꢶ,sourashtra,,,'ꢱꢥꢤ':1 'sandhi':2 'ணர':3,grammar|language|linguistic,सन्धि|ஸந்தி4|sandhi|sandhi|sandhi|s̪ən̪d̪ʰɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,sandhi,english,,english,,grammar|language|linguistic,,noun,
+^,,புணர்ச்சி,tamil,,tamil,'பணரசச':1 'sandhi':2 'ணர':3,grammar|language|linguistic,ஸந்தி4,noun,
+-,ꢦ,ꢦꢹꢬ꣄ꢠ ꢮꢶꢬꢵꢪ꣄,sourashtra,,,'ꢦꢬꢠꢮꢬꢪ':1 'poornaviraam':2 'purnaviram':3 'pūrṇavirām':4 'fullstop':5,grammar|language|linguistic,पूर्ण विराम|பூர்ணவிராம்|poorna viraam|pUrNa virAm|pūrṇa virām|puːɾɳə ʋɪɾɑːm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,fullstop,english,,english,,grammar|language|linguistic,,noun,
+^,,புள்ளி,tamil,,tamil,'பளள':1 'fullstop':2,grammar|language|linguistic,பூர்ணவிராம்,noun,
+-,ꢲ,ꢲꣁꢭ꣄ꢭꢵ ꢥꢶꢬ꣄ꢪꢵꢥ꣄,sourashtra,,,'ꢲꢭꢭꢥꢬꢪꢥ':1 'hollaanirmaan':2 'hollanirman':3 'hŏllānirmān':4 'surface':5 'structure':6 'அம':7,grammar|language|linguistic,हा॑ल्ला निर्मान्|ஹொல்லாநிர்மாண்|ho'llaa nirmaan|hOllA nirmAn|hŏllā nirmān|ɦollɑː n̪ɪɾmɑːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,surface structure,english,,english,,grammar|language|linguistic,,noun,
+^,,புற அமைப்பு,tamil,,tamil,'பறஅமபப':1 'surface':2 'structure':3 'அம':4,grammar|language|linguistic,ஹொல்லாநிர்மாண்,noun,
+-,ꢱ,ꢱ꣄ꢡ꣄ꢬꢷ ꢭꢶꢖ꣄ꢔꢸ,sourashtra,,,'ꢱꢡꢬꢭꢖꢔ':1 'streelingu':2 'striliggu':3 'strīliṅgu':4 'feminine':5 'gender':6,grammar|language|linguistic,स्त्री लिङ्गु|ஸ்த்ரீலிங்கு3|stree lingu|strI liGgu|strī liṅgu|s̪t̪ɾiː lɪŋgu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,feminine gender,english,,english,,grammar|language|linguistic,,noun,
+^,,பெண்பால்,tamil,,tamil,'பணபல':1 'feminine':2 'gender':3,grammar|language|linguistic,ஸ்த்ரீலிங்கு3,noun,
+-,ꢂ,ꢂꢳ꣄ꢳꢶꢖ꣄ꢔꢸ,sourashtra,,,'ꢂꢳꢳꢖꢔ':1 'allingu':2 'alliggu':3 'alliṅgu':4 'feminine':5 'gender':6,grammar|language|linguistic,अळ्ळिङ्गु|அள்ளிங்கு3|al'l'ingu|aLLiGgu|al̤l̤iṅgu|əɭɭɪŋgu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,feminine gender,english,,english,,grammar|language|linguistic,,noun,
+^,,பெண்பால்,tamil,,tamil,'பணபல':1 'feminine':2 'gender':3,grammar|language|linguistic,அள்ளிங்கு3,noun,
+-,ꢱ,ꢱꢬ꣄ꢮ ꢥꢵꢮ꣄,sourashtra,,,'ꢱꢬꢮꢥꢮ':1 'sarvanaav':2 'sarvanav':3 'sarvanāv':4 'pronoun':5 'யர':6 'பத':7,grammar|language|linguistic,सर्व नाव|ஸர்வ நாவ்|sarva naav|sarva nAv|sarva nāv|s̪əɾʋə n̪ɑːʋ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,pronoun,english,,english,,grammar|language|linguistic,,noun,
+^,,பெயர்ப்பதிலி,tamil,,tamil,'பயரபபதல':1 'pronoun':2 'யர':3 'பத':4,grammar|language|linguistic,ஸர்வ நாவ்,noun,
+-,ꢦ,ꢦ꣄ꢬꢡꢶ ꢥꢵꢮ꣄,sourashtra,,,'ꢦꢬꢡꢥꢮ':1 'pratinaav':2 'pratinav':3 'pratināv':4 'pronoun':5 'யர':6 'பத':7,grammar|language|linguistic,प्रति नाव|ப்ரதி நாவ்|prati naav|prati nAv|prati nāv|pɾət̪ɪ n̪ɑːʋ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,pronoun,english,,english,,grammar|language|linguistic,,noun,
+^,,பெயர்ப்பதிலி,tamil,,tamil,'பயரபபதல':1 'pronoun':2 'யர':3 'பத':4,grammar|language|linguistic,ப்ரதி நாவ்,noun,
+-,ꢮ,ꢮꢶꢯꢿꢰꢠ꣄,sourashtra,,,'ꢮꢯꢰꢠ':1 'visheshan':2 'vizesan':3 'viśeṣaṇ':4 'adjective':5 'யரட':6,grammar|language|linguistic,विशेषण|விஶேஷண்|visheshan|vizeSaN|viśeṣaṇ|ʋɪʃeːʂəɳ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,adjective,english,,english,,grammar|language|linguistic,,noun,
+^,,பெயரடை,tamil,,tamil,'பயரட':1 'adjective':2 'யரட':3,grammar|language|linguistic,விஶேஷண்,noun,
+-,ꢱ,ꢱꢵꢤꢵꢬꢠꢭꢶꢖ꣄ꢔꢸ,sourashtra,,,'ꢱꢤꢬꢠꢭꢖꢔ':1 'saadhaaranalingu':2 'sadharanaliggu':3 'sādhāraṇaliṅgu':4 'common':5 'gender':6,grammar|language|linguistic,साधारणलिङ्गु|ஸாதா4ரண லிங்கு3|saadhaaranalingu|sAdhAraNaliGgu|sādhāraṇaliṅgu|s̪ɑːd̪ʰɑːɾəɳəlɪŋgu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,common gender,english,,english,,grammar|language|linguistic,,noun,
+^,,பொதுப்பால்,tamil,,tamil,'பதபபல':1 'common':2 'gender':3,grammar|language|linguistic,ஸாதா4ரண லிங்கு3,noun,
+-,ꢱ,ꢱꢵꢤꢵꢬꢠ ꢱꢨ꣄ꢣꢸ,sourashtra,,,'ꢱꢤꢬꢠꢱꢨꢣ':1 'saadhaaranasabdu':2 'sadharanasabdu':3 'sādhāraṇasabdu':4 'common':5 'noun':6 'யர':7,grammar|language|linguistic,साधारण सब्दु|ஸாதா4ரணஸப்3து3|saadhaarana sabdu|sAdhAraNa sabdu|sādhāraṇa sabdu|s̪ɑːd̪ʰɑːɾəɳə s̪əbd̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,common noun,english,,english,,grammar|language|linguistic,,noun,
+^,,பொதுப்பெயர்,tamil,,tamil,'பதபபயர':1 'common':2 'noun':3 'யர':4,grammar|language|linguistic,ஸாதா4ரணஸப்3து3,noun,
+-,ꢂ,ꢂꢬ꣄ꢢꢸ,sourashtra,,,'ꢂꢬꢢ':1 'arthu':2 'meaning':3 'mean':4,grammar|language|linguistic,अर्थु|அர்து2|arthu|arthu|arthu|əɾt̪ʰu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,meaning,english,,english,,grammar|language|linguistic,,noun,
+^,,பொருள்,tamil,,tamil,'பரள':1 'meaning':2 'mean':3,grammar|language|linguistic,அர்து2,noun,
+-,ꢮ,ꢮꢒ꣄ꢬꣂꢒ꣄ꢡꢶ,sourashtra,,,'ꢮꢒꢬꢒꢡ':1 'vakrokti':2 'ambiguity':3 'மயக':4 'கம':5,grammar|language|linguistic,वक्रोक्ति|வக்ரோக்தி|vakrokti|vakrokti|vakrokti|ʋəkɾoːkt̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,ambiguity,english,,english,,grammar|language|linguistic,,noun,
+^,,மயக்கம்,tamil,,tamil,'மயககம':1 'ambiguity':2 'மயக':3 'கம':4,grammar|language|linguistic,வக்ரோக்தி,noun,
+-,ꢱ,ꢱꢪ꣄ꢡꢿꢲꢵꢬ꣄ꢢꢸ,sourashtra,,,'ꢱꢪꢡꢲꢬꢢ':1 'samtehaarthu':2 'samteharthu':3 'samtehārthu':4 'ambiguity':5 'மயக':6 'கம':7,grammar|language|linguistic,सन्देहार्थु|ஸந்தே3 ஹார்து2|samtehaarthu|samtehArthu|samtehārthu|s̪əmt̪eːɦɑːɾt̪ʰu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,ambiguity,english,,english,,grammar|language|linguistic,,noun,
+^,,மயக்கம்,tamil,,tamil,'மயககம':1 'ambiguity':2 'மயக':3 'கம':4,grammar|language|linguistic,ஸந்தே3 ஹார்து2,noun,
+-,ꢱ,ꢱꢪ꣄ꢦꢶꢬꢣꢵꢫꢸ,sourashtra,,,'ꢱꢪꢦꢬꢣꢫ':1 'sampiradaayu':2 'sampiradayu':3 'sampiradāyu':4 'tradition':5 'மரப':6,grammar|language|linguistic,सम्पिरदायु|ஸம்பிரதா3யு|sampiradaayu|sampiradAyu|sampiradāyu|s̪əmpɪɾəd̪ɑːju,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,tradition,english,,english,,grammar|language|linguistic,,noun,
+^,,மரபு,tamil,,tamil,'மரப':1 'tradition':2,grammar|language|linguistic,ஸம்பிரதா3யு,noun,
+-,ꢬ,ꢬꢹꢟꢶ,sourashtra,,,'ꢬꢟ':1 'roodhi':2 'rudhi':3 'rūḍhi':4 'tradition':5 'மரப':6,grammar|language|linguistic,रूढि|ரூடி4|rood'hi|rUDhi|rūḍhi|ɾuːɖʰɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,tradition,english,,english,,grammar|language|linguistic,,noun,
+^,,மரபு,tamil,,tamil,'மரப':1 'tradition':2,grammar|language|linguistic,ரூடி4,noun,
+-,ꢮ,ꢮ꣄ꢫꢒ꣄ꢡ ꢮꢡ꣄ꢡꣁ,sourashtra,,,'ꢮꢫꢒꢡꢮꢡꢡ':1 'vyaktavatto':2 'vyaktavattŏ':3 'allomorph':4,grammar|language|linguistic,व्यक्त वता॑|வ்யக்த வத்தொ|vyakta vatto'|vyakta vattO|vyakta vattŏ|ʋjəkt̪ə ʋət̪t̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,allomorph,english,,english,,grammar|language|linguistic,,noun,
+^,,மாற்றுருபு,tamil,,tamil,'மறறரப':1 'allomorph':2,grammar|language|linguistic,வ்யக்த வத்தொ,noun,
+-,ꢮ,ꢮ꣄ꢫꢒ꣄ꢡ ꢱ꣄ꢮꢬꣁ,sourashtra,,,'ꢮꢫꢒꢡꢱꢮꢬ':1 'vyaktasvaro':2 'vyaktasvarŏ':3 'allophone':4,grammar|language|linguistic,व्यक्त स्वरो|வ்யக்தஸ்வரொ|vyakta svaro'|vyakta svarO|vyakta svarŏ|ʋjəkt̪ə s̪ʋəɾo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,allophone,english,,english,,grammar|language|linguistic,,noun,
+^,,மாற்றொலி,tamil,,tamil,'மறறல':1 'allophone':2,grammar|language|linguistic,வ்யக்தஸ்வரொ,noun,
+-,ꢂ,ꢂꢬ꣄ꢤ ꢨꢶꢥ꣄ꢤꢸ,sourashtra,,,'ꢂꢬꢤꢨꢥꢤ':1 'ardhabindhu':2 'semicolon':3,grammar|language|linguistic,अर्ध बिन्धु|அர்த4பி3ந்து4|ardha bindhu|ardha bindhu|ardha bindhu|əɾd̪ʰə bɪn̪d̪ʰu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,semicolon,english,,english,,grammar|language|linguistic,,noun,
+^,,முக்காற்புள்ளி,tamil,,tamil,'மககறபளள':1 'semicolon':2,grammar|language|linguistic,அர்த4பி3ந்து4,noun,
+-,ꢪ,ꢪꢸꢱꢸꢥꢵ ꢒ꣄ꢬꢶꢫꣁ,sourashtra,,,'ꢪꢱꢥꢒꢬꢫ':1 'musunaakriyo':2 'musunakriyo':3 'musunākriyŏ':4 'incomplete':5 'verb':6,grammar|language|linguistic,मुसुना क्रिया॑|முஸுநாக்ரியொ|musunaa kriyo'|musunA kriyO|musunā kriyŏ|mus̪un̪ɑː kɾɪjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,incomplete verb,english,,english,,grammar|language|linguistic,,noun,
+^,,முற்றாவினை,tamil,,tamil,'மறறவன':1 'incomplete':2 'verb':3,grammar|language|linguistic,முஸுநாக்ரியொ,noun,
+-,ꢦ,ꢦꢣꢪ꣄,sourashtra,,,'ꢦꢣꢪ':1 'padam':2 'clause':3 'டர':4,grammar|language|linguistic,पदम्|பத3ம்|padam|padam|padam|pəd̪əm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,clause,english,,english,,grammar|language|linguistic,,noun,
+^,,முற்றுத்தொடர்,tamil,,tamil,'மறறததடர':1 'clause':2 'டர':3,grammar|language|linguistic,பத3ம்,noun,
+-,ꢂ,ꢂꢣꢶꢒꢬꢠꢪ꣄,sourashtra,,,'ꢂꢣꢒꢬꢠꢪ':1 'adikaranam':2 'adikaraṇam':3 'clause':4 'டர':5,grammar|language|linguistic,अदिकरणम्|அதி3 கரணம்|adikaranam|adikaraNam|adikaraṇam|əd̪ɪkəɾəɳəm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,clause,english,,english,,grammar|language|linguistic,,noun,
+^,,முற்றுத்தொடர்,tamil,,tamil,'மறறததடர':1 'clause':2 'டர':3,grammar|language|linguistic,அதி3 கரணம்,noun,
+-,ꢥ,ꢥꢶꢱ꣄ꢱꢥ꣄ꢣꢾꢲ ꢒ꣄ꢬꢶꢫꣁ,sourashtra,,,'ꢥꢱꢱꢥꢣꢲꢒꢬꢫ':1 'nissandehakriyo':2 'nissandĕhakriyŏ':3 'finite':4 'verb':5,grammar|language|linguistic,निस्सन्देह क्रिया॑|நிஸ்ஸந்தே3ஹ க்ரியொ|nissande'ha kriyo'|nissandEha kriyO|nissandĕha kriyŏ|n̪ɪs̪s̪ən̪d̪eɦə kɾɪjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,finite verb,english,,english,,grammar|language|linguistic,,noun,
+^,,முற்றுவினை,tamil,,tamil,'மறறவன':1 'finite':2 'verb':3,grammar|language|linguistic,நிஸ்ஸந்தே3ஹ க்ரியொ,noun,
+-,ꢦ,ꢦꢹꢬ꣄ꢠ ꢒ꣄ꢬꢶꢫꣁ,sourashtra,,,'ꢦꢬꢠꢒꢬꢫ':1 'poornakriyo':2 'purnakriyo':3 'pūrṇakriyŏ':4 'finite':5 'verb':6,grammar|language|linguistic,पूर्ण क्रिया॑|பூர்ண க்ரியொ|poorna kriyo'|pUrNa kriyO|pūrṇa kriyŏ|puːɾɳə kɾɪjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,finite verb,english,,english,,grammar|language|linguistic,,noun,
+^,,முற்றுவினை,tamil,,tamil,'மறறவன':1 'finite':2 'verb':3,grammar|language|linguistic,பூர்ண க்ரியொ,noun,
+-,ꢮ,ꢮꢾꢣꢸꢬ꣄ꢦꢸꢬꢸꢱꢸ,sourashtra,,,'ꢮꢣꢬꢦꢬꢱ':1 'vedurpurusu':2 'vĕdurpurusu':3 'second':4 'person':5,grammar|language|linguistic|person,वेदुर्पुरुषु|வெது3ர் புருஷு|ve'durpurusu|vEdurpurusu|vĕdurpurusu|ʋed̪uɾpuɾus̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""concrete""""}"
+^,,second person,english,,english,,grammar|language|linguistic|person,,noun,
+^,,முன்னிலை,tamil,,tamil,'மனனல':1 'second':2 'person':3,grammar|language|linguistic|person,வெது3ர் புருஷு,noun,
+-,ꢣ,ꢣꢶꢮꢦꢸꢬꢸꢰꢸ,sourashtra,,,'ꢣꢮꢦꢬꢰ':1 'divapurushu':2 'divapurusu':3 'divapuruṣu':4 'second':5 'person':6,grammar|language|linguistic|person,दिवपुरुषु|தி3வபுருஷு|divapurushu|divapuruSu|divapuruṣu|d̪ɪʋəpuɾuʂu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""concrete""""}"
+^,,second person,english,,english,,grammar|language|linguistic|person,,noun,
+^,,முன்னிலை,tamil,,tamil,'மனனல':1 'second':2 'person':3,grammar|language|linguistic|person,தி3வபுருஷு,noun,
+-,ꢂ,ꢂꢔ꣄ꢬ ꢨꢥ꣄ꢡꢸ,sourashtra,,,'ꢂꢔꢬꢨꢥꢡ':1 'agrabantu':2 'prefix':3,grammar|language|linguistic,अग्र बन्धु|அக்3ரப3ந்து4|agra bantu|agra bantu|agra bantu|əgɾə bən̪t̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,prefix,english,,english,,grammar|language|linguistic,,noun,
+^,,முன்னொட்டு,tamil,,tamil,'மனனடட':1 'prefix':2,grammar|language|linguistic,அக்3ரப3ந்து4,noun,
+-,ꢥ,ꢥꢵꢒꢸ ꢱꢾꢣ꣄ꢣꢸ,sourashtra,,,'ꢥꢒꢱꢣꢣ':1 'naakuseddu':2 'nakuseddu':3 'nākusĕddu':4 'nasal':5 'sound':6,grammar|language|linguistic,नाकु स॑द्दु|நாகு ஸெத்3து3|naaku se'ddu|nAku sEddu|nāku sĕddu|n̪ɑːku s̪ed̪d̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,nasal sound,english,,english,,grammar|language|linguistic,,noun,
+^,,மூக்கொலி,tamil,,tamil,'மககல':1 'nasal':2 'sound':3,grammar|language|linguistic,நாகு ஸெத்3து3,noun,
+-,ꢲ,ꢲꢒꢵꢬ ꢯꢨ꣄ꢣꢸ,sourashtra,,,'ꢲꢒꢬꢯꢨꢣ':1 'hakaarashabdu':2 'hakarazabdu':3 'hakāraśabdu':4 'aspiration':5,grammar|language|linguistic,हकार शब्दु|ஹகார ஶப்3து3|hakaara shabdu|hakAra zabdu|hakāra śabdu|ɦəkɑːɾə ʃəbd̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,aspiration,english,,english,,grammar|language|linguistic,,noun,
+^,,மூச்சு,tamil,,tamil,'மசச':1 'aspiration':2,grammar|language|linguistic,ஹகார ஶப்3து3,noun,
+-,ꢱ,ꢱ꣄ꢮꢵꢱꢪ꣄,sourashtra,,,'ꢱꢮꢱꢪ':1 'svaasam':2 'svasam':3 'svāsam':4 'aspiration':5,grammar|language|linguistic,स्वासम्|ஸ்வாஸம்|svaasam|svAsam|svāsam|s̪ʋɑːs̪əm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,aspiration,english,,english,,grammar|language|linguistic,,noun,
+^,,மூச்சு,tamil,,tamil,'மசச':1 'aspiration':2,grammar|language|linguistic,ஸ்வாஸம்,noun,
+-,ꢪ,ꢪꢲꢵ ꢦ꣄ꢬꢵꢠꢪ꣄,sourashtra,,,'ꢪꢲꢦꢬꢠꢪ':1 'mahaapraanam':2 'mahapranam':3 'mahāprāṇam':4 'aspiration':5,grammar|language|linguistic,महाप्राणम्|மஹாப்ராணம்|mahaa praanam|mahA prANam|mahā prāṇam|məɦɑː pɾɑːɳəm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,aspiration,english,,english,,grammar|language|linguistic,,noun,
+^,,மூச்சு,tamil,,tamil,'மசச':1 'aspiration':2,grammar|language|linguistic,மஹாப்ராணம்,noun,
+-,ꢲ,ꢲꢭꢸꢥ꣄,sourashtra,,,'ꢲꢭꢥ':1 'halun':2 'consonant':3,grammar|language|linguistic,हलुन्|ஹலுன்|halun|halun|halun|ɦəlun̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,consonant,english,,english,,grammar|language|linguistic,,noun,
+^,,மெய்,tamil,,tamil,'மய':1 'consonant':2,grammar|language|linguistic,ஹலுன்,noun,
+-,ꢲ,ꢲꢾꢞꢶ ꢱꢖ꣄ꢒꢶꢥꢶ,sourashtra,,,'ꢲꢞꢱꢖꢒꢥ':1 'hedisankini':2 'hedisagkini':3 'hĕḍisaṅkini':4 'quotation':5,grammar|language|linguistic,ह॑डि सङकिनि|ஹெடி3 ஸங்கினி|he'd'i sankini|hEDi saGkini|hĕḍi saṅkini|ɦeɖɪ s̪əŋkɪn̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,quotation,english,,english,,grammar|language|linguistic,,noun,
+^,,மேற்கோள்,tamil,,tamil,'மறகள':1 'quotation':2,grammar|language|linguistic,ஹெடி3 ஸங்கினி,noun,
+-,ꢘ,ꢘꢥ꣄ꢡꢱ꣄,sourashtra,,,'ꢘꢥꢡꢱ':1 'chhantas':2 'chantas':3 'prosody':4 'யல':5,grammar|language|linguistic,छन्तस्|ச2ந்தஸ்|chhantas|chantas|chantas|t͡ʃʰən̪t̪əs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,prosody,english,,english,,grammar|language|linguistic,,noun,
+^,,யாப்பியல்,tamil,,tamil,'யபபயல':1 'prosody':2 'யல':3,grammar|language|linguistic,ச2ந்தஸ்,noun,
+-,ꢪ,ꢪꢥ꣄ꢡꢸ,sourashtra,,,'ꢪꢥꢡ':1 'mantu':2 'error':3 'வழ':4,grammar|language|linguistic,मन्तु|மந்து|mantu|mantu|mantu|mən̪t̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,error,english,,english,,grammar|language|linguistic,,noun,
+^,,வழு,tamil,,tamil,'வழ':1 'error':2,grammar|language|linguistic,மந்து,noun,
+-,ꢮ,ꢮꢵꢒ꣄ꢫ ꢩꢵꢔ꣄,sourashtra,,,'ꢮꢒꢫꢩꢔ':1 'vaakyabhaag':2 'vakyabhag':3 'vākyabhāg':4 'clause':5 'கம':6,grammar|language|linguistic,वाक्य भाग|வாக்ய பா4க்3|vaakya bhaag|vAkya bhAg|vākya bhāg|ʋɑːkjə bʰɑːg,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,clause,english,,english,,grammar|language|linguistic,,noun,
+^,,வாக்யாங்கம்,tamil,,tamil,'வகயஙகம':1 'clause':2 'கம':3,grammar|language|linguistic,வாக்ய பா4க்3,noun,
+-,ꢮ,ꢮꢶꢤꢶ,sourashtra,,,'ꢮꢤ':1 'vidhi':2 'rule':3,grammar|language|linguistic,विधि|விதி4|vidhi|vidhi|vidhi|ʋɪd̪ʰɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,rule,english,,english,,grammar|language|linguistic,,noun,
+^,,விதி,tamil,,tamil,'வத':1 'rule':2,grammar|language|linguistic,விதி4,noun,
+-,ꢦ,ꢦ꣄ꢬꢱ꣄ꢠꣁ,sourashtra,,,'ꢦꢬꢱꢠ':1 'prasno':2 'prasṇŏ':3 'question':4,grammar|language|linguistic,प्रस्नो|ப்ரஶ்ணொ|prasno'|prasNO|prasṇŏ|pɾəs̪ɳo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,question,english,,english,,grammar|language|linguistic,,noun,
+^,,வினா,tamil,,tamil,'வன':1 'question':2,grammar|language|linguistic,ப்ரஶ்ணொ,noun,
+-,ꢦ,ꢦ꣄ꢬꢱ꣄ꢠ ꢔꢸꢬꢶ,sourashtra,,,'ꢦꢬꢱꢠꢔꢬ':1 'prasnaguri':2 'prasṇaguri':3 'question':4 'mark':5,grammar|language|linguistic,प्रष्ण गुरि|ப்ரஷ்ண கு3ரி|prasna guri|prasNa guri|prasṇa guri|pɾəs̪ɳə guɾɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,question mark,english,,english,,grammar|language|linguistic,,noun,
+^,,வினாக்குறி,tamil,,tamil,'வனககற':1 'question':2 'mark':3,grammar|language|linguistic,ப்ரஷ்ண கு3ரி,noun,
+-,ꢒ,ꢒ꣄ꢬꢶꢫꢵꢦꢣꢸ,sourashtra,,,'ꢒꢬꢫꢦꢣ':1 'kriyaapadu':2 'kriyapadu':3 'kriyāpadu':4 'verb':5,grammar|language|linguistic,क्रियापदु|க்ரியாபது3|kriyaapadu|kriyApadu|kriyāpadu|kɾɪjɑːpəd̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,verb,english,,english,,grammar|language|linguistic,,noun,
+^,,வினைச்சொல்,tamil,,tamil,'வனசசல':1 'verb':2,grammar|language|linguistic,க்ரியாபது3,noun,
+-,ꢒ,ꢒ꣄ꢬꢶꢫꢵꢮꢶꢱꢾꢰꢠ꣄,sourashtra,,,'ꢒꢬꢫꢮꢱꢰꢠ':1 'kriyaaviseshan':2 'kriyavisesan':3 'kriyāvisĕṣaṇ':4 'adverb':5 'யட':6,grammar|language|linguistic,क्रिया विसेषण|க்ரியா விஸேஷண்|kriyaavise'shan|kriyAvisESaN|kriyāvisĕṣaṇ|kɾɪjɑːʋɪs̪eʂəɳ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,adverb,english,,english,,grammar|language|linguistic,,noun,
+^,,வினையடை,tamil,,tamil,'வனயட':1 'adverb':2 'யட':3,grammar|language|linguistic,க்ரியா விஸேஷண்,noun,
+-,ꢂ,ꢂꢮ꣄ꢫꢫꣁ,sourashtra,,,'ꢂꢮꢫꢫ':1 'avyayo':2 'avyayŏ':3 'adverb':4 'யட':5,grammar|language|linguistic,अव्यया॑|அவ்யயொ|avyayo'|avyayO|avyayŏ|əʋjəjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,adverb,english,,english,,grammar|language|linguistic,,noun,
+^,,வினையடை,tamil,,tamil,'வனயட':1 'adverb':2 'யட':3,grammar|language|linguistic,அவ்யயொ,noun,
+-,ꢮ,ꢮꢶꢩꢒ꣄ꢡꢶ,sourashtra,,,'ꢮꢩꢒꢡ':1 'vibhakti':2 'case':3,grammar|language|linguistic,विभक्ति|விப4க்தி|vibhakti|vibhakti|vibhakti|ʋɪbʰəkt̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,case,english,,english,,grammar|language|linguistic,,noun,
+^,,வேற்றுமை,tamil,,tamil,'வறறம':1 'case':2,grammar|language|linguistic,விப4க்தி,noun,

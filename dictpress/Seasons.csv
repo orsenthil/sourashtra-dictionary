@@ -1,0 +1,87 @@
+-,ꢂ,ꢂꢪꢵꢱ꣄,sourashtra,,,'ꢂꢪꢱ':1 'amaas':2 'amas':3 'amās':4 'new':5 'moon':6 'அம':7,season|time|weather,अमास्|அமாஸ்|amaas|amAs|amās|əmɑːs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,new moon,english,,english,,season|time|weather,,noun,
+^,,அமாவாசை,tamil,,tamil,'அமவச':1 'new':2 'moon':3 'அம':4,season|time|weather,அமாஸ்,noun,
+-,ꢮ,ꢮꢬꢵ ꢒꢵꢭ꣄,sourashtra,,,'ꢮꢬꢒꢭ':1 'varaakaal':2 'varakal':3 'varākāl':4 'autumn':5 'இல':6 'லம':7,season|time|weather,वरा काल|வரா கால்|varaa kaal|varA kAl|varā kāl|ʋəɾɑː kɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,autumn,english,,english,,season|time|weather,,noun,
+^,,இலையுதிர்காலம்,tamil,,tamil,'இலயதரகலம':1 'autumn':2 'இல':3 'லம':4,season|time|weather,வரா கால்,noun,
+-,ꢱ,ꢱꢨ꣄ꢣꢸ,sourashtra,,,'ꢱꢨꢣ':1 'sabdu':2 'sound':3 'ஒல':4,season|time|weather,सप्तु|ஸப்3து3|sabdu|sabdu|sabdu|s̪əbd̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,sound,english,,english,,season|time|weather,,noun,
+^,,ஒலி,tamil,,tamil,'ஒல':1 'sound':2,season|time|weather,ஸப்3து3,noun,
+-,ꢦ,ꢦ꣄ꢬꢒꢵꢰ꣄,sourashtra,,,'ꢦꢬꢒꢰ':1 'prakaash':2 'prakas':3 'prakāṣ':4 'light':5 'ஒள':6,season|time|weather,प्रकाष|ப்ரகாஷ்|prakaash|prakAS|prakāṣ|pɾəkɑːʂ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,light,english,,english,,season|time|weather,,noun,
+^,,ஒளி,tamil,,tamil,'ஒள':1 'light':2,season|time|weather,ப்ரகாஷ்,noun,
+-,ꢮ,ꢮꢵꢡꢵꢮꢬꢥ꣄,sourashtra,,,'ꢮꢡꢮꢬꢥ':1 'vaataavaran':2 'vatavaran':3 'vātāvaran':4 'weather':5 'லந':6,season|time|weather,वातावरन|வாதாவரன்|vaataavaran|vAtAvaran|vātāvaran|ʋɑːt̪ɑːʋəɾən̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,weather,english,,english,,season|time|weather,,noun,
+^,,காலநிலை,tamil,,tamil,'கலநல':1 'weather':2 'லந':3,season|time|weather,வாதாவரன்,noun,
+-,ꢮ,ꢮꢿꢳ꣄꣄,sourashtra,,,'ꢮꢳ':1 'vel':2 'season':3 'லம':4,season|time|weather,वेळ|வேள்|vel'|veL|vel̤|ʋeːɭ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,season,english,,english,,season|time|weather,,noun,
+^,,காலம்,tamil,,tamil,'கலம':1 'season':2 'லம':3,season|time|weather,வேள்,noun,
+-,ꢒ,ꢒꢵꢭ꣄,sourashtra,,,'ꢒꢭ':1 'kaal':2 'kal':3 'kāl':4 'season':5 'லம':6,season|time|weather,काल्|கால்|kaal|kAl|kāl|kɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,season,english,,english,,season|time|weather,,noun,
+^,,காலம்,tamil,,tamil,'கலம':1 'season':2 'லம':3,season|time|weather,கால்,noun,
+-,ꢲ,ꢲꢶꢪꢸꢱ꣄,sourashtra,,,'ꢲꢪꢱ':1 'himus':2 'chill':3 'coldness':4,season|time|weather,हिमुस्|ஹிமுஸ்|himus|himus|himus|ɦɪmus̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,chill/coldness,english,,english,,season|time|weather,,noun,
+^,,குளிர்,tamil,,tamil,'களர':1 'chill':2 'coldness':3,season|time|weather,ஹிமுஸ்,noun,
+-,ꢲ,ꢲꢶꢪ꣄ꢳꣁ,sourashtra,,,'ꢲꢪꢳ':1 'himlo':2 'himlŏ':3 'winter':4 'season':5 'லம':6,season|time|weather,हिमुळा॑|ஹிமளொ|himl'o'|himLO|himl̤ŏ|ɦɪmɭo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,winter season,english,,english,,season|time|weather,,noun,
+^,,குளிர்காலம்,tamil,,tamil,'களரகலம':1 'winter':2 'season':3 'லம':4,season|time|weather,ஹிமளொ,noun,
+-,ꢲ,ꢲꢶꢪꢸꢱꢹ ꢒꢵꢭ꣄,sourashtra,,,'ꢲꢪꢱꢒꢭ':1 'himusookaal':2 'himusukal':3 'himusūkāl':4 'winter':5 'season':6 'லம':7,season|time|weather,हिमुसु काल|ஹிமுஸுகால்|himusoo kaal|himusU kAl|himusū kāl|ɦɪmus̪uː kɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,winter season,english,,english,,season|time|weather,,noun,
+^,,குளிர்காலம்,tamil,,tamil,'களரகலம':1 'winter':2 'season':3 'லம':4,season|time|weather,ஹிமுஸுகால்,noun,
+-,ꢲ,ꢲꢹꢥꢸꢒꢵꢭ꣄,sourashtra,,,'ꢲꢥꢒꢭ':1 'hoonukaal':2 'hunukal':3 'hūnukāl':4 'summer':5 'season':6 'லம':7,season|time|weather,हूनुकाल|ஹூனுகால்|hoonukaal|hUnukAl|hūnukāl|ɦuːn̪ukɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,summer season,english,,english,,season|time|weather,,noun,
+^,,கோடை காலம்,tamil,,tamil,'கடகலம':1 'summer':2 'season':3 'லம':4,season|time|weather,ஹூனுகால்,noun,
+-,ꢔ,ꢔ꣄ꢬꢷꢰ꣄ꢪ ꢒꢵꢭ꣄,sourashtra,,,'ꢔꢬꢰꢪꢒꢭ':1 'greeshmakaal':2 'grismakal':3 'grīṣmakāl':4 'summer':5 'season':6 'லம':7,season|time|weather,ग्रीष्म काल|க்3ரீஷ்ம கால்|greeshma kaal|grISma kAl|grīṣma kāl|gɾiːʂmə kɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,summer season,english,,english,,season|time|weather,,noun,
+^,,கோடை காலம்,tamil,,tamil,'கடகலம':1 'summer':2 'season':3 'லம':4,season|time|weather,க்3ரீஷ்ம கால்,noun,
+-,ꢲ,ꢲꢹꢥ꣄ꢥꣁ,sourashtra,,,'ꢲꢥꢥ':1 'hoonno':2 'hunno':3 'hūnnŏ':4 'heat':5,season|time|weather,हून्ना॑|ஹுன்னொ|hoonno'|hUnnO|hūnnŏ|ɦuːn̪n̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,heat,english,,english,,season|time|weather,,noun,
+^,,சூடு,tamil,,tamil,'சட':1 'heat':2,season|time|weather,ஹுன்னொ,noun,
+-,ꢱ,ꢱꢶꢳ꣄ꢳꣁ,sourashtra,,,'ꢱꢳꢳ':1 'sillo':2 'sillŏ':3 'cold':4 'தட':5 'பம':6,season|time|weather,सिळ्ळा॑|ஸிள்ளொ|sil'l'o'|siLLO|sil̤l̤ŏ|s̪ɪɭɭo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,cold,english,,english,,season|time|weather,,noun,
+^,,தட்பம்,tamil,,tamil,'தடபம':1 'cold':2 'தட':3 'பம':4,season|time|weather,ஸிள்ளொ,noun,
+-,ꢯ,ꢯꢷꢡꢳ꣄,sourashtra,,,'ꢯꢡꢳ':1 'sheetal':2 'zital':3 'śītal':4 'cold':5 'தட':6 'பம':7,season|time|weather,शीतळ|ஶீதள்|sheetal'|zItaL|śītal̤|ʃiːt̪əɭ,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,cold,english,,english,,season|time|weather,,noun,
+^,,தட்பம்,tamil,,tamil,'தடபம':1 'cold':2 'தட':3 'பம':4,season|time|weather,ஶீதள்,noun,
+-,ꢱ,ꢱꢷꢡꣂꢰ꣄ꢠꣁ,sourashtra,,,'ꢱꢡꢰꢠ':1 'seetoshno':2 'sitosno':3 'sītoṣṇŏ':4 'climate':5 'weather':6 'தட':7 'பவ':8,season|time|weather,सीता॑ष्णा॑|ஸீதோஷ்ணொ|seetoshno'|sItoSNO|sītoṣṇŏ|s̪iːt̪oːʂɳo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,climate/weather,english,,english,,season|time|weather,,noun,
+^,,தட்பவெப்ப நிலை,tamil,,tamil,'தடபவபபநல':1 'climate':2 'weather':3 'தட':4 'பவ':5,season|time|weather,ஸீதோஷ்ணொ,noun,
+-,ꢪ,ꢪꢸꢒꢸꢭ꣄ ꢮꢬꣁ,sourashtra,,,'ꢪꢒꢭꢮꢬ':1 'mukulvaro':2 'mukulvarŏ':3 'southwind':4 'breeze':5 'றல':6,season|time|weather,मुकुल्वरा॑|முகுல் வரொ|mukul varo'|mukul varO|mukul varŏ|mukul ʋəɾo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,southwind/ breeze,english,,english,,season|time|weather,,noun,
+^,,தென்றல்,tamil,,tamil,'தனறல':1 'southwind':2 'breeze':3 'றல':4,season|time|weather,முகுல் வரொ,noun,
+-,ꢬ,ꢬꢸꢡꢸ,sourashtra,,,'ꢬꢡ':1 'rutu':2 'season':3 'பர':4 'வம':5,season|time|weather,रुतु|ருது|rutu|rutu|rutu|ɾut̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,season,english,,english,,season|time|weather,,noun,
+^,,பருவம்,tamil,,tamil,'பரவம':1 'season':2 'பர':3 'வம':4,season|time|weather,ருது,noun,
+-,ꢬ,ꢬꢸꢡꢸ ꢦꣁꢮ꣄ꢱ꣄,sourashtra,,,'ꢬꢡꢦꢮꢱ':1 'rutupovs':2 'rutupŏvs':3 'monsoon':4 'பர':5 'மழ':6,season|time|weather,रुतु पा॑व्स|ருது பொவ்ஸ்|rutu po'vs|rutu pOvs|rutu pŏvs|ɾut̪u poʋs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,monsoon,english,,english,,season|time|weather,,noun,
+^,,பருவ மழை,tamil,,tamil,'பரவமழ':1 'monsoon':2 'பர':3 'மழ':4,season|time|weather,ருது பொவ்ஸ்,noun,
+-,ꢲ,ꢲꢶꢪꢸꢱ꣄ꢒꢵꢭ꣄,sourashtra,,,'ꢲꢪꢱꢒꢭ':1 'himuskaal':2 'himuskal':3 'himuskāl':4 'winter':5 'பன':6 'லம':7,season|time|weather,हिमुसुकाल|ஹிமுஸுகால்|himuskaal|himuskAl|himuskāl|ɦɪmus̪kɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,winter,english,,english,,season|time|weather,,noun,
+^,,பனிக்காலம்,tamil,,tamil,'பனககலம':1 'winter':2 'பன':3 'லம':4,season|time|weather,ஹிமுஸுகால்,noun,
+-,ꢲ,ꢲꢸꢪꢳꣁ,sourashtra,,,'ꢲꢪꢳ':1 'humalo':2 'humalŏ':3 'winter':4 'பன':5 'லம':6,season|time|weather,हिमळा॑|ஹிமளொ|humal'o'|humaLO|humal̤ŏ|ɦuməɭo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,winter,english,,english,,season|time|weather,,noun,
+^,,பனிக்காலம்,tamil,,tamil,'பனககலம':1 'winter':2 'பன':3 'லம':4,season|time|weather,ஹிமளொ,noun,
+-,ꢦ,ꢦꢸꢠ꣄ꢠꢶꢪ꣄,sourashtra,,,'ꢦꢠꢠꢪ':1 'punnim':2 'puṇṇim':3 'full':4 'moon':5 'ளர':6 'ணம':7,season|time|weather,पुण्णिम|புண்ணிம்|punnim|puNNim|puṇṇim|puɳɳɪm,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,full moon,english,,english,,season|time|weather,,noun,
+^,,பெளர்ணமி,tamil,,tamil,'பளரணம':1 'full':2 'moon':3 'ளர':4 'ணம':5,season|time|weather,புண்ணிம்,noun,
+-,ꢦ,ꢦꢹꢬ꣄ꢠꢶꢪꣁ,sourashtra,,,'ꢦꢬꢠꢪ':1 'poornimo':2 'purnimo':3 'pūrṇimŏ':4 'full':5 'moon':6 'ளர':7 'ணம':8,season|time|weather,पूर्णिमा॑|பூர்ணிமொ|poornimo'|pUrNimO|pūrṇimŏ|puːɾɳɪmo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,full moon,english,,english,,season|time|weather,,noun,
+^,,பெளர்ணமி,tamil,,tamil,'பளரணம':1 'full':2 'moon':3 'ளர':4 'ணம':5,season|time|weather,பூர்ணிமொ,noun,
+-,ꢮ,ꢮꢱꢥ꣄ꢡ ꢒꢵꢭ꣄,sourashtra,,,'ꢮꢱꢥꢡꢒꢭ':1 'vasantakaal':2 'vasantakal':3 'vasantakāl':4 'spring':5 'season':6 'வசந':7 'லம':8,season|time|weather,वसन्त काल|வஸந்த கால்|vasanta kaal|vasanta kAl|vasanta kāl|ʋəs̪ən̪t̪ə kɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,spring season,english,,english,,season|time|weather,,noun,
+^,,வசந்த காலம்,tamil,,tamil,'வசநதகலம':1 'spring':2 'season':3 'வசந':4 'லம':5,season|time|weather,வஸந்த கால்,noun,
+-,ꢮ,ꢮꢱꢥ꣄ꢡ ꢬꢸꢡꢸ,sourashtra,,,'ꢮꢱꢥꢡꢬꢡ':1 'vasantarutu':2 'spring':3 'season':4 'வசந':5 'லம':6,season|time|weather,वसन्त रुतु|வஸந்த ருது|vasanta rutu|vasanta rutu|vasanta rutu|ʋəs̪ən̪t̪ə ɾut̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,spring season,english,,english,,season|time|weather,,noun,
+^,,வசந்த காலம்,tamil,,tamil,'வசநதகலம':1 'spring':2 'season':3 'வசந':4 'லம':5,season|time|weather,வஸந்த ருது,noun,
+-,ꢏ,ꢏꢱ꣄ꢡꢵ ꢮꢬꣁ,sourashtra,,,'ꢏꢱꢡꢮꢬ':1 'ostaavaro':2 'ostavaro':3 'ŏstāvarŏ':4 'northwind':5,season|time|weather,आ॑स्ता वरा॑|ஒஸ்தா வரொ|o'staa varo'|OstA varO|ŏstā varŏ|os̪t̪ɑː ʋəɾo,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,northwind,english,,english,,season|time|weather,,noun,
+^,,வாடை,tamil,,tamil,'வட':1 'northwind':2,season|time|weather,ஒஸ்தா வரொ,noun,
+-,ꢲ,ꢲꢸꢥ꣄ꢥꣁ,sourashtra,,,'ꢲꢥꢥ':1 'hunno':2 'hunnŏ':3 'heat':4 'பம':5,season|time|weather,हुन्ना॑|ஹுன்னொ|hunno'|hunnO|hunnŏ|ɦun̪n̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,heat,english,,english,,season|time|weather,,noun,
+^,,வெப்பம்,tamil,,tamil,'வபபம':1 'heat':2 'பம':3,season|time|weather,ஹுன்னொ,noun,
+-,ꢲ,ꢲꢹꢥꢸ ꢒꢵꢭ꣄,sourashtra,,,'ꢲꢥꢒꢭ':1 'hoonukaal':2 'hunukal':3 'hūnukāl':4 'summer':5 'season':6 'லம':7,season|time|weather,हूनु काल|ஹூனு கால்|hoonu kaal|hUnu kAl|hūnu kāl|ɦuːn̪u kɑːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,summer season,english,,english,,season|time|weather,,noun,
+^,,வேனிற்காலம்,tamil,,tamil,'வனறகலம':1 'summer':2 'season':3 'லம':4,season|time|weather,ஹூனு கால்,noun,
+-,ꢔ,ꢔ꣄ꢬꢷꢰ꣄ꢪ ꢬꢸꢡꢸ,sourashtra,,,'ꢔꢬꢰꢪꢬꢡ':1 'greeshmarutu':2 'grismarutu':3 'grīṣmarutu':4 'summer':5 'season':6 'லம':7,season|time|weather,ग्रीष्म रुतु|க்3ரீஷ்ம ருது|greeshma rutu|grISma rutu|grīṣma rutu|gɾiːʂmə ɾut̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+^,,summer season,english,,english,,season|time|weather,,noun,
+^,,வேனிற்காலம்,tamil,,tamil,'வனறகலம':1 'summer':2 'season':3 'லம':4,season|time|weather,க்3ரீஷ்ம ருது,noun,

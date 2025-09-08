@@ -1,0 +1,48 @@
+-,ꢒ,ꢒꣂꢜ꣄,sourashtra,,,'ꢒꢜ':1 'kot':2 'koṭ':3 'where':4 'எங':5,interrogative|question,कोट्|கோட்|kot'|koT|koṭ|koːʈ,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,where,english,,english,,interrogative|question,,pron,
+^,,எங்கே,tamil,,tamil,'எஙக':1 'where':2 'எங':3,interrogative|question,கோட்,pron,
+-,ꢒ,ꢒꢶꢡ꣄ꢒ,sourashtra,,,'ꢒꢡꢒ':1 'kitka':2 'how':3 'many':4 'எத':5 'தன':6,interrogative|question,कित्क|கித்க|kitka|kitka|kitka|kɪt̪kə,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,how many,english,,english,,interrogative|question,,pron,
+^,,எத்தனை,tamil,,tamil,'எததன':1 'how':2 'many':3 'எத':4 'தன':5,interrogative|question,கித்க,pron,
+-,ꢒ,ꢒꢶꢡ꣄ꢒꢫꣁ,sourashtra,,,'ꢒꢡꢒꢫ':1 'kitkayo':2 'kitkayŏ':3 'how':4 'manieth':5 'எத':6 'தன':7 'வத':8,interrogative|question,कित्कया॑|கித்கயொ|kitkayo'|kitkayO|kitkayŏ|kɪt̪kəjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,how manieth,english,,english,,interrogative|question,,pron,
+^,,எத்தனையாவது,tamil,,tamil,'எததனயவத':1 'how':2 'manieth':3 'எத':4 'தன':5 'வத':6,interrogative|question,கித்கயொ,pron,
+-,ꢒ,ꢒꣂꢥ꣄,sourashtra,,,'ꢒꢥ':1 'kon':2 'how':3 'manieth':4 'எத':5 'தன':6 'வத':7,interrogative|question,कोन|கோன்|kon|kon|kon|koːn̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,how manieth,english,,english,,interrogative|question,,pron,
+^,,எத்தனையாவது,tamil,,tamil,'எததனயவத':1 'how':2 'manieth':3 'எத':4 'தன':5 'வத':6,interrogative|question,கோன்,pron,
+-,ꢒ,ꢒꢶꢱꣁ,sourashtra,,,'ꢒꢱ':1 'kiso':2 'kisŏ':3 'how':4 'எப':5 'பட':6,interrogative|question,किसा॑|கிஸொ|kiso'|kisO|kisŏ|kɪs̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,how,english,,english,,interrogative|question,,pron,
+^,,எப்படி,tamil,,tamil,'எபபட':1 'how':2 'எப':3 'பட':4,interrogative|question,கிஸொ,pron,
+-,ꢒ,ꢒꣂꢥꢒ꣄,sourashtra,,,'ꢒꢥꢒ':1 'konak':2 'how':3 'எப':4 'பட':5,interrogative|question,कोनक|கோனக்|konak|konak|konak|koːn̪ək,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,how,english,,english,,interrogative|question,,pron,
+^,,எப்படி,tamil,,tamil,'எபபட':1 'how':2 'எப':3 'பட':4,interrogative|question,கோனக்,pron,
+-,ꢒ,ꢒꢶꢱꢵꢫꣁ,sourashtra,,,'ꢒꢱꢫ':1 'kisaayo':2 'kisayo':3 'kisāyŏ':4 'what':5 'type':6 'எப':7 'பட':8,interrogative|question,किसाया॑किसाय॑|கிஸாயொகிஸாயெ|kisaayo'|kisAyO|kisāyŏ|kɪs̪ɑːjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,what type of,english,,english,,interrogative|question,,pron,
+^,,எப்படிப்பட்ட,tamil,,tamil,'எபபடபபடட':1 'what':2 'type':3 'எப':4 'பட':5,interrogative|question,கிஸாயொகிஸாயெ,pron,
+-,ꢒ,ꢒꢶꢱꢵꢫꢾ,sourashtra,,,'ꢒꢱꢫ':1 'kisaaye':2 'kisaye':3 'kisāyĕ':4 'what':5 'type':6 'எப':7 'பட':8,interrogative|question,किसाया॑किसाय॑|கிஸாயொகிஸாயெ|kisaaye'|kisAyE|kisāyĕ|kɪs̪ɑːje,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,what type of,english,,english,,interrogative|question,,pron,
+^,,எப்படிப்பட்ட,tamil,,tamil,'எபபடபபடட':1 'what':2 'type':3 'எப':4 'பட':5,interrogative|question,கிஸாயொகிஸாயெ,pron,
+-,ꢓ,ꢓꣁꢨ꣄ꢨꣁ,sourashtra,,,'ꢓꢨꢨ':1 'khobbo':2 'khŏbbŏ':3 'when':4 'எப':5,interrogative|question,खा॑ब्बा॑|கொ2ப்3பொ3|kho'bbo'|khObbO|khŏbbŏ|kʰobbo,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,when,english,,english,,interrogative|question,,pron,
+^,,எப்போது,tamil,,tamil,'எபபத':1 'when':2 'எப':3,interrogative|question,கொ2ப்3பொ3,pron,
+-,ꢒ,ꢒꢶꢱꣁ,sourashtra,,,'ꢒꢱ':1 'kiso':2 'kisŏ':3 'how':4 'எவ':5 'வண':6 'ணம':7,interrogative|question,किसा॑|கிஸொ|kiso'|kisO|kisŏ|kɪs̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,how,english,,english,,interrogative|question,,pron,
+^,,எவ்வண்ணம்,tamil,,tamil,'எவவணணம':1 'how':2 'எவ':3 'வண':4 'ணம':5,interrogative|question,கிஸொ,pron,
+-,ꢒ,ꢒꢶꢱꣁ,sourashtra,,,'ꢒꢱ':1 'kiso':2 'kisŏ':3 'what':4 'way':5 'எவ':6,interrogative|question,किसा॑|கிஸொ|kiso'|kisO|kisŏ|kɪs̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,what way,english,,english,,interrogative|question,,pron,
+^,,எவ்வாறு,tamil,,tamil,'எவவற':1 'what':2 'way':3 'எவ':4,interrogative|question,கிஸொ,pron,
+-,ꢒ,ꢒꣁꢥ꣄ ꢣꢶꢥ꣄ꢥꢸ,sourashtra,,,'ꢒꢥꢣꢥꢥ':1 'kondinnu':2 'kŏndinnu':3 'which':4 'day':5 'என':6,interrogative|question,कोन दिन्नु|கோன் தி3ன்னு|ko'n dinnu|kOn dinnu|kŏn dinnu|kon̪ d̪ɪn̪n̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,which day,english,,english,,interrogative|question,,pron,
+^,,என்று,tamil,,tamil,'எனற':1 'which':2 'day':3 'என':4,interrogative|question,கோன் தி3ன்னு,pron,
+-,ꢒ,ꢒꢵꢫ꣄,sourashtra,,,'ꢒꢫ':1 'kaay':2 'kay':3 'kāy':4 'what':5 'என':6,interrogative|question,काय|காய்|kaay|kAy|kāy|kɑːj,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,what,english,,english,,interrogative|question,,pron,
+^,,என்ன,tamil,,tamil,'எனன':1 'what':2 'என':3,interrogative|question,காய்,pron,
+-,ꢒ,ꢒꢵꢫꣁ,sourashtra,,,'ꢒꢫ':1 'kaayo':2 'kayo':3 'kāyŏ':4 'what':5 'என':6,interrogative|question,काया॑|காயொ|kaayo'|kAyO|kāyŏ|kɑːjo,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,what,english,,english,,interrogative|question,,pron,
+^,,என்ன,tamil,,tamil,'எனன':1 'what':2 'என':3,interrogative|question,காயொ,pron,
+-,ꢒ,ꢒꣂꢥꢾ,sourashtra,,,'ꢒꢥ':1 'kone':2 'konĕ':3 'what':4 'எந':5,interrogative|question,कोन॑|கோனெ|kone'|konE|konĕ|koːn̪e,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,what,english,,english,,interrogative|question,,pron,
+^,,எந்த,tamil,,tamil,'எநத':1 'what':2 'எந':3,interrogative|question,கோனெ,pron,
+-,ꢒ,ꢒꣂꢥ꣄ꢫꢾ,sourashtra,,,'ꢒꢥꢫ':1 'konye':2 'konyĕ':3 'what':4 'எந':5,interrogative|question,कोन्य॑|கோன்யெ|konye'|konyE|konyĕ|koːn̪je,,"{""""script"""":""""sourashtra"""",""""category"""":""""pronoun"""",""""type"""":""""abstract""""}"
+^,,what,english,,english,,interrogative|question,,pron,
+^,,எந்த,tamil,,tamil,'எநத':1 'what':2 'எந':3,interrogative|question,கோன்யெ,pron,
