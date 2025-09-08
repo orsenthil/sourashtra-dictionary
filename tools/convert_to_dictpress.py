@@ -252,7 +252,7 @@ class DictpressConverter:
         return "; ".join(notes_parts) if notes_parts else f"Sourashtra word meaning {meaning}"
     
     def create_tsvector_tokens(self, sourashtra_word: str, pronunciations: List[str], 
-                             english_meaning: str, related_concepts: List[str] = None) -> str:
+                             english_meaning: str, tamil_meaning: str = None, related_concepts: List[str] = None) -> str:
         """Create tsvector tokens for search optimization - PostgreSQL TSVector format"""
         token_weights = {}  # Use dict to ensure uniqueness and track weights
         weight = 1
@@ -305,6 +305,14 @@ class DictpressConverter:
                                 weight = add_token(lemma, weight)
             except Exception:
                 pass  # Silently continue if lemmatization fails
+        
+        # Add Tamil meaning words for search capability
+        if tamil_meaning:
+            # Extract Tamil words - handle both Tamil script and romanized Tamil
+            tamil_words = re.findall(r'\b\w+\b', tamil_meaning.lower())
+            for word in tamil_words:
+                if len(word) > 1:  # Keep even 2-character Tamil words as they can be meaningful
+                    weight = add_token(word, weight)
         
         # Add related concepts (if provided)
         if related_concepts:
@@ -409,7 +417,7 @@ class DictpressConverter:
         enhanced_notes = self.create_enhanced_notes(sourashtra_word, english_meaning, category_info['category'])
         tsvector_tokens = self.create_tsvector_tokens(sourashtra_word, 
                                                     [roman_readable, harvard_kyoto, iast], 
-                                                    english_meaning)
+                                                    english_meaning, tamil_meaning)
         semantic_tags = self.create_semantic_tags(category_info, english_meaning)
         phones = self.combine_pronunciations(hindi_pron, tamil_pron, roman_readable, 
                                            harvard_kyoto, iast, ipa)
@@ -460,7 +468,7 @@ class DictpressConverter:
             'tamil',  # language
             '',  # notes (optional)
             'tamil',  # tsvector_language
-            '',  # tsvector_tokens
+            tamil_tokens,  # tsvector_tokens
             semantic_tags,  # tags
             tamil_pron if tamil_pron else '',  # phones
             definition_type,  # definition_type (Tamil equivalent)
