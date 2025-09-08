@@ -21,6 +21,7 @@ try:
     import nltk
     from nltk.corpus import wordnet
     from nltk.tokenize import word_tokenize
+    from nltk.stem import WordNetLemmatizer
     NLTK_AVAILABLE = True
 except ImportError:
     NLTK_AVAILABLE = False
@@ -147,6 +148,7 @@ class NLTKEnhancer:
             try:
                 nltk.download('punkt', quiet=True)
                 nltk.download('wordnet', quiet=True)
+                nltk.download('omw-1.4', quiet=True)  # For lemmatizer
                 return True
             except Exception:
                 return False
@@ -252,53 +254,76 @@ class DictpressConverter:
     def create_tsvector_tokens(self, sourashtra_word: str, pronunciations: List[str], 
                              english_meaning: str, related_concepts: List[str] = None) -> str:
         """Create tsvector tokens for search optimization - PostgreSQL TSVector format"""
-        tokens = []
+        token_weights = {}  # Use dict to ensure uniqueness and track weights
         weight = 1
         
         def clean_token(token: str) -> str:
-            """Clean token for tsvector format - only alphanumeric and basic chars"""
-            # Remove special characters, keep only alphanumeric, spaces, and basic punctuation
-            cleaned = re.sub(r'[^\w\s\-]', '', token.strip())
-            # Replace spaces with underscores for multi-word tokens
-            cleaned = re.sub(r'\s+', '_', cleaned)
-            # Remove leading/trailing underscores
-            cleaned = cleaned.strip('_')
-            return cleaned.lower() if cleaned else ''
+            """Clean token for tsvector format - only alphanumeric chars, no underscores or special chars"""
+            # Remove all special characters, keep only alphanumeric
+            cleaned = re.sub(r'[^\w]', '', token.strip())
+            # Convert to lowercase
+            cleaned = cleaned.lower()
+            # Remove any remaining non-alphabetic characters except numbers
+            cleaned = re.sub(r'[^a-z0-9]', '', cleaned)
+            return cleaned if len(cleaned) > 1 else ''  # Only keep tokens longer than 1 char
+        
+        def add_token(token: str, current_weight: int) -> int:
+            """Add token with weight if not already present"""
+            clean_tok = clean_token(token)
+            if clean_tok and clean_tok not in token_weights:
+                token_weights[clean_tok] = current_weight
+                return current_weight + 1
+            return current_weight
         
         # Add Sourashtra word (weight 1)
         if sourashtra_word:
-            clean_word = clean_token(sourashtra_word)
-            if clean_word:
-                tokens.append(f"'{clean_word}':{weight}")
-                weight += 1
+            weight = add_token(sourashtra_word, weight)
         
         # Add pronunciations (weight 2-6)
         for pron in pronunciations:
             if pron and pron.strip():
-                clean_pron = clean_token(pron)
-                if clean_pron and len(clean_pron) > 1:
-                    tokens.append(f"'{clean_pron}':{weight}")
-                    weight += 1
+                weight = add_token(pron, weight)
         
         # Add English meaning words (weight 7+)
         if english_meaning:
             meaning_words = re.findall(r'\b\w+\b', english_meaning.lower())
             for word in meaning_words:
                 if len(word) > 2:  # Skip very short words
-                    clean_word = clean_token(word)
-                    if clean_word:
-                        tokens.append(f"'{clean_word}':{weight}")
-                        weight += 1
+                    weight = add_token(word, weight)
         
-        # Add related concepts
+        # Add lemmatized English meaning words using NLTK
+        if english_meaning and NLTK_AVAILABLE:
+            try:
+                lemmatizer = WordNetLemmatizer()
+                meaning_words = re.findall(r'\b\w+\b', english_meaning.lower())
+                for word in meaning_words:
+                    if len(word) > 2:
+                        # Try different POS tags for better lemmatization
+                        for pos in ['n', 'v', 'a', 'r']:  # noun, verb, adjective, adverb
+                            lemma = lemmatizer.lemmatize(word, pos=pos)
+                            if lemma != word:  # Only add if lemmatization changed the word
+                                weight = add_token(lemma, weight)
+            except Exception:
+                pass  # Silently continue if lemmatization fails
+        
+        # Add related concepts (if provided)
         if related_concepts:
             for concept in related_concepts[:3]:
-                clean_concept = clean_token(concept)
-                if clean_concept:
-                    tokens.append(f"'{clean_concept}':{weight}")
-                    weight += 1
+                if concept:
+                    # Handle multi-word concepts by splitting them
+                    concept_words = concept.split()
+                    for concept_word in concept_words:
+                        weight = add_token(concept_word, weight)
         
-        return ' '.join(tokens)
+        # Convert to PostgreSQL tsvector format
+        if not token_weights:
+            return ''
+        
+        # Sort by weight to maintain consistent output
+        sorted_tokens = sorted(token_weights.items(), key=lambda x: x[1])
+        formatted_tokens = [f"'{token}':{weight}" for token, weight in sorted_tokens]
+        
+        return ' '.join(formatted_tokens)
     
     def create_semantic_tags(self, category_info: Dict[str, str], 
                            english_meaning: str, related_concepts: List[str] = None) -> str:
@@ -434,8 +459,8 @@ class DictpressConverter:
             tamil_meaning,  # content
             'tamil',  # language
             '',  # notes (optional)
-            '',  # tsvector_language (empty for Tamil)
-            tamil_tokens,  # tsvector_tokens
+            'tamil',  # tsvector_language
+            '',  # tsvector_tokens
             semantic_tags,  # tags
             tamil_pron if tamil_pron else '',  # phones
             definition_type,  # definition_type (Tamil equivalent)
