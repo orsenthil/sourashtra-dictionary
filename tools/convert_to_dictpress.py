@@ -375,6 +375,7 @@ class DictpressConverter:
         category_info = self.get_category_info(filename)
         
         # Get enhanced information
+        # TODO (orsenthil) - This is not used as it conceptnet can divulge.
         related_concepts = self.conceptnet_api.get_related_concepts(english_meaning.split()[0])
         
         # Create components
@@ -383,8 +384,8 @@ class DictpressConverter:
         enhanced_notes = self.create_enhanced_notes(sourashtra_word, english_meaning, category_info['category'])
         tsvector_tokens = self.create_tsvector_tokens(sourashtra_word, 
                                                     [roman_readable, harvard_kyoto, iast], 
-                                                    english_meaning, related_concepts)
-        semantic_tags = self.create_semantic_tags(category_info, english_meaning, related_concepts)
+                                                    english_meaning)
+        semantic_tags = self.create_semantic_tags(category_info, english_meaning)
         phones = self.combine_pronunciations(hindi_pron, tamil_pron, roman_readable, 
                                            harvard_kyoto, iast, ipa)
         metadata = self.create_metadata_json(category_info, english_meaning)
