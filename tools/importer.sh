@@ -1,11 +1,11 @@
 #!/bin/bash
-"""
-Dictpress CSV Importer Script
-This script imports all CSV files from a directory using the dictpress import command.
-
-Usage: ./importer.sh <directory_path>
-Example: ./importer.sh dictpress/
-"""
+#
+# Dictpress CSV Importer Script
+# This script imports all CSV files from a directory using the dictpress import command.
+#
+# Usage: ./importer.sh <directory_path>
+# Example: ./importer.sh dictpress/
+#
 
 # Check if directory argument is provided
 if [ $# -eq 0 ]; then
@@ -28,7 +28,7 @@ fi
 IMPORT_DIR=$(realpath "$IMPORT_DIR")
 
 echo "Starting import from directory: $IMPORT_DIR"
-echo "=" * 60
+echo "============================================================"
 
 # Initialize counters
 total_files=0
@@ -70,14 +70,14 @@ for csv_file in "$IMPORT_DIR"/*.csv; do
         fi
     fi
     
-    echo "-" * 40
+    echo "----------------------------------------"
 done
 
 # Print summary
 echo ""
-echo "=" * 60
+echo "============================================================"
 echo "IMPORT SUMMARY"
-echo "=" * 60
+echo "============================================================"
 echo "Directory: $IMPORT_DIR"
 echo "Total files processed: $total_files"
 echo "Successful imports: $successful_imports"
