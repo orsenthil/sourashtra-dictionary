@@ -21,9 +21,9 @@
 -,ꢲ,ꢲꢶꢥ꣄ꢣꣁ,sourashtra,,,'ꢲꢥꢣ':1 'hindo':2 'hindŏ':3 'today':4 'இன':5,duration|temporal|time,हिन्दा॑|ஹிந்தொ3|hindo'|hindO|hindŏ|ɦɪn̪d̪o,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
 ^,,today,english,,english,,duration|temporal|time,,noun,
 ^,,இன்று,tamil,,tamil,'இனற':1 'today':2 'இன':3,duration|temporal|time,ஹிந்தொ3,noun,
--,ꢒ,ꢒꣂꢥ꣄ꢫ ꢣꢶꢥ꣄ꢥꢸ,sourashtra,,,'ꢒꢥꢫꢣꢥꢥ':1 'konyadinnu':2 'which':3 'day':4 'என':5,duration|temporal|time,कोन्य दिन्नु|கோன்ய தி3ன்னு|konya dinnu|konya dinnu|konya dinnu|koːn̪jə d̪ɪn̪n̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
+-,ꢒ,ꢒꣂꢥ꣄ꢫ ꢣꢶꢥ꣄ꢥꢸ,sourashtra,,,'ꢒꢥꢫꢣꢥꢥ':1 'konyadinnu':2 'which':3 'day':4 'என':5,duration|temporal|time,कोन्य दिन्नु|konya dinnu|konya dinnu|konya dinnu|koːn̪jə d̪ɪn̪n̪u,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
 ^,,which day,english,,english,,duration|temporal|time,,noun,
-^,,என்று,tamil,,tamil,'எனற':1 'என':2,duration|temporal|time,கோன்ய தி3ன்னு,noun,
+^,,என்று,tamil,,tamil,'எனற':1 'which':2 'day':3 'என':4,duration|temporal|time,,noun,
 -,ꢒ,ꢒꢵꢭꢸ,sourashtra,,,'ꢒꢭ':1 'kaalu':2 'kalu':3 'kālu':4 'period':5 'time':6 'லம':7,duration|temporal|time,काल|கால்|kaalu|kAlu|kālu|kɑːlu,,"{""""script"""":""""sourashtra"""",""""category"""":""""noun"""",""""type"""":""""abstract""""}"
 ^,,"period, time",english,,english,,duration|temporal|time,,noun,
 ^,,காலம்,tamil,,tamil,'கலம':1 'period':2 'time':3 'லம':4,duration|temporal|time,கால்,noun,
