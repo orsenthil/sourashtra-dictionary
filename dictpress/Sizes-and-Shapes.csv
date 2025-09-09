@@ -1,12 +1,11 @@
--,ꢮ,ꢮꢶꢭꢵꢱ꣄,sourashtra,,,'ꢮꢭꢱ':1 'vilaas':2 'vilas':3 'vilās':4 'width':5 'அகலம':6,physical|shape|size,विलास्|விலாஸ்|vilaas|vilAs|vilās|ʋɪlɑːs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
-^,,width,english,,english,,physical|shape|size,,adj,
-^,,அகலம்,tamil,,tamil,'அகலம':1 'width':2,physical|shape|size,விலாஸ்,adj,
 -,ꢬ,ꢬꢸꢥ꣄ꢣꢶ,sourashtra,,,'ꢬꢥꢣ':1 'rundi':2 'width':3 'அகலம':4,physical|shape|size,रुन्दि|ருந்தி3|rundi|rundi|rundi|ɾun̪d̪ɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,width,english,,english,,physical|shape|size,,adj,
 ^,,அகலம்,tamil,,tamil,'அகலம':1 'width':2,physical|shape|size,ருந்தி3,adj,
--,ꢃ,ꢃꢒꢵꢬ꣄,sourashtra,,,'ꢃꢒꢬ':1 'aakaar':2 'akar':3 'ākār':4 'size':5 'structure':6 'அம':7,physical|shape|size,आकार्|ஆகார்|aakaar|AkAr|ākār|ɑːkɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
+-,ꢃ,ꢃꢒꢵꢬ꣄,sourashtra,,,'ꢃꢒꢬ':1 'aakaar':2 'akar':3 'ākār':4 'shape':5 'size':6 'structure':7 'அம':8 'வட':9 'வம':10,physical|shape|size,आकार्|ஆகார்|aakaar|AkAr|ākār|ɑːkɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
+^,,shape,english,,english,,physical|shape|size,,adj,
 ^,,size/ structure,english,,english,,physical|shape|size,,adj,
-^,,அமைப்பு,tamil,,tamil,'அமபப':1 'size':2 'structure':3 'அம':4,physical|shape|size,ஆகார்,adj,
+^,,அமைப்பு,tamil,,tamil,'அமபப':1 'அம':2,physical|shape|size,ஆகார்,adj,
+^,,வடிவம்,tamil,,tamil,'வடவம':1 'வட':2 'வம':3,physical|shape|size,ஆகார்,adj,
 -,ꢲ,ꢲꢡ꣄ꢡꢸ ꢮꢬ꣄ꢡꢸꢭꣁ,sourashtra,,,'ꢲꢡꢡꢮꢬꢡꢭ':1 'hattuvartulo':2 'hattuvartulŏ':3 'hemisphere':4 'அர':5 'வட':6 'டம':7,physical|shape|size,हत्तुवर्दुला॑|ஹத்துவர்துலொ|hattu vartulo'|hattu vartulO|hattu vartulŏ|ɦət̪t̪u ʋəɾt̪ulo,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,hemisphere,english,,english,,physical|shape|size,,adj,
 ^,,அரைவட்டம்,tamil,,tamil,'அரவடடம':1 'hemisphere':2 'அர':3 'வட':4 'டம':5,physical|shape|size,ஹத்துவர்துலொ,adj,
@@ -22,9 +21,6 @@
 -,ꢤ,ꢤꢸꢬꢸꢳ꣄,sourashtra,,,'ꢤꢬꢳ':1 'dhurul':2 'cylinder':3 'உர':4,physical|shape|size,धुरुळ|து4ருள்|dhurul'|dhuruL|dhurul̤|d̪ʰuɾuɭ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,cylinder,english,,english,,physical|shape|size,,adj,
 ^,,உருளை,tamil,,tamil,'உரள':1 'cylinder':2 'உர':3,physical|shape|size,து4ருள்,adj,
--,ꢩ,ꢩꢵꢬ꣄,sourashtra,,,'ꢩꢬ':1 'bhaar':2 'bhar':3 'bhār':4 'weight':5 'எட':6,physical|shape|size,भार्|பா4ர்|bhaar|bhAr|bhār|bʰɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
-^,,weight,english,,english,,physical|shape|size,,adj,
-^,,எடை,tamil,,tamil,'எட':1 'weight':2,physical|shape|size,பா4ர்,adj,
 -,ꢩ,ꢩꣁꢬꢠ,sourashtra,,,'ꢩꢬꢠ':1 'bhorana':2 'bhŏraṇa':3 'volume':4 'கன':5 'அளவ':6,physical|shape|size,भा॑रण|பொ4ரண்|bho'rana|bhOraNa|bhŏraṇa|bʰoɾəɳə,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,volume,english,,english,,physical|shape|size,,adj,
 ^,,கன அளவு,tamil,,tamil,'கனஅளவ':1 'volume':2 'கன':3 'அளவ':4,physical|shape|size,பொ4ரண்,adj,
@@ -34,21 +30,12 @@
 -,ꢦ,ꢦꢵꢄ~ ꢦꢬꢶꢤꢶ,sourashtra,,,'ꢦꢄꢦꢬꢤ':1 'paaiparidhi':2 'paiparidhi':3 'pāiparidhi':4 'quadrant':5 'வட':6 'டம':7,physical|shape|size,पाइ~ परिधि|பாஇ~ பரிதி4|paai~ paridhi|pAi~ paridhi|pāi~ paridhi|pɑːɪ~ pəɾɪd̪ʰɪ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,Quadrant,english,,english,,physical|shape|size,,adj,
 ^,,கால்வட்டம்,tamil,,tamil,'கலவடடம':1 'quadrant':2 'வட':3 'டம':4,physical|shape|size,பாஇ~ பரிதி4,adj,
--,ꢒ,ꢒꢸꢳ꣄ꢳꣁ,sourashtra,,,'ꢒꢳꢳ':1 'kullo':2 'kullŏ':3 'short':4,physical|shape|size,कुळ्ळा॑|குள்ளொ|kul'l'o'|kuLLO|kul̤l̤ŏ|kuɭɭo,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
-^,,short,english,,english,,physical|shape|size,,adj,
-^,,குட்டை,tamil,,tamil,'கடட':1 'short':2,physical|shape|size,குள்ளொ,adj,
 -,ꢒ,ꢒꢬ꣄ꢠꣁ,sourashtra,,,'ꢒꢬꢠ':1 'karno':2 'karṇŏ':3 'diameter':4 'களவ':5,physical|shape|size,कर्णा॑|கர்ணொ|karno'|karNO|karṇŏ|kəɾɳo,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,diameter,english,,english,,physical|shape|size,,adj,
 ^,,குறுக்களவு,tamil,,tamil,'கறககளவ':1 'diameter':2 'களவ':3,physical|shape|size,கர்ணொ,adj,
--,ꢮ,ꢮ꣄ꢫꢵꢱ꣄,sourashtra,,,'ꢮꢫꢱ':1 'vyaas':2 'vyas':3 'vyās':4 'diameter':5 'களவ':6,physical|shape|size,व्यास|வ்யாஸ்|vyaas|vyAs|vyās|ʋjɑːs̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
-^,,diameter,english,,english,,physical|shape|size,,adj,
-^,,குறுக்களவு,tamil,,tamil,'கறககளவ':1 'diameter':2 'களவ':3,physical|shape|size,வ்யாஸ்,adj,
 -,ꢯ,ꢯꢖ꣄ꢒꢸ,sourashtra,,,'ꢯꢖꢒ':1 'shanku':2 'zagku':3 'śaṅku':4 'cone':5,physical|shape|size,शङ्कु|ஶங்கு|shanku|zaGku|śaṅku|ʃəŋku,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,cone,english,,english,,physical|shape|size,,adj,
 ^,,கூம்பு,tamil,,tamil,'கமப':1 'cone':2,physical|shape|size,ஶங்கு,adj,
--,ꢒ,ꢒꣂꢠ꣄,sourashtra,,,'ꢒꢠ':1 'kon':2 'koṇ':3 'angle':4 'ணம':5,physical|shape|size,कोण|கோண்|kon|koN|koṇ|koːɳ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
-^,,angle,english,,english,,physical|shape|size,,adj,
-^,,கோணம்,tamil,,tamil,'கணம':1 'angle':2 'ணம':3,physical|shape|size,கோண்,adj,
 -,ꢔ,ꢔꣂꢭ꣄,sourashtra,,,'ꢔꢭ':1 'gol':2 'sphere':3 'ளம':4,physical|shape|size,गोल|கோ3ள்|gol|gol|gol|goːl,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,sphere,english,,english,,physical|shape|size,,adj,
 ^,,கோளம்,tamil,,tamil,'களம':1 'sphere':2 'ளம':3,physical|shape|size,கோ3ள்,adj,
@@ -56,7 +43,6 @@
 ^,,square,english,,english,,physical|shape|size,,adj,
 ^,,சதுரம்,tamil,,tamil,'சதரம':1 'square':2 'சத':3 'ரம':4,physical|shape|size,சதுர்,adj,
 -,ꢗ,ꢗꢪꢗꢡꢸꢬ꣄,sourashtra,,,'ꢗꢪꢗꢡꢬ':1 'chamachatur':2 'camacatur':3 'cube':4 'சமசத':5 'ரம':6,physical|shape|size,चमचतुर|ஸமசதுர்|chamachatur|camacatur|camacatur|t͡ʃəmət͡ʃət̪uɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
-^,,cube,english,,english,,physical|shape|size,,adj,
 ^,,சமசதுரம்,tamil,,tamil,'சமசதரம':1 'cube':2 'சமசத':3 'ரம':4,physical|shape|size,ஸமசதுர்,adj,
 -,ꢡ,ꢡꢶꢬ꣄ꢫꢒ꣄ ꢃꢒꢵꢬ꣄,sourashtra,,,'ꢡꢬꢫꢒꢃꢒꢬ':1 'tiryakaakaar':2 'tiryakakar':3 'tiryakākār':4 'slant':5,physical|shape|size,तिर्यक आकार|திர்யக் ஆகார்|tiryak aakaar|tiryak AkAr|tiryak ākār|t̪ɪɾjək ɑːkɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,slant,english,,english,,physical|shape|size,,adj,
@@ -64,15 +50,10 @@
 -,ꢃ,ꢃꢫꢡ ꢃꢒꢵꢬ꣄,sourashtra,,,'ꢃꢫꢡꢃꢒꢬ':1 'aayataaakaar':2 'ayataakar':3 'āyataākār':4 'rectangle':5 'வகம':6,physical|shape|size,आयत आकार|ஆயத ஆகார்|aayata aakaar|Ayata AkAr|āyata ākār|ɑːjət̪ə ɑːkɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,rectangle,english,,english,,physical|shape|size,,adj,
 ^,,செவ்வகம்,tamil,,tamil,'சவவகம':1 'rectangle':2 'வகம':3,physical|shape|size,ஆயத ஆகார்,adj,
--,ꢪ,ꢪꢹꢬꣁ,sourashtra,,,'ꢪꢬ':1 'mooro':2 'muro':3 'mūrŏ':4 'length':5 'ளம':6,physical|shape|size,मूरा॑|மூரொ|mooro'|mUrO|mūrŏ|muːɾo,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
-^,,length,english,,english,,physical|shape|size,,adj,
-^,,நீளம்,tamil,,tamil,'நளம':1 'length':2 'ளம':3,physical|shape|size,மூரொ,adj,
 -,ꢭ,ꢭꢾꢪ꣄ꢨꣁ,sourashtra,,,'ꢭꢪꢨ':1 'lembo':2 'lĕmbŏ':3 'length':4 'ளம':5,physical|shape|size,लम्बा॑|லம்பொ3|le'mbo'|lEmbO|lĕmbŏ|lembo,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,length,english,,english,,physical|shape|size,,adj,
 ^,,நீளம்,tamil,,tamil,'நளம':1 'length':2 'ளம':3,physical|shape|size,லம்பொ3,adj,
 -,ꢭ,ꢭꢵꢪ꣄,sourashtra,,,'ꢭꢪ':1 'laam':2 'lam':3 'lām':4 'length':5 'ளம':6,physical|shape|size,लाम|லாம்|laam|lAm|lām|lɑːm,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
-^,,length,english,,english,,physical|shape|size,,adj,
-^,,நீளம்,tamil,,tamil,'நளம':1 'length':2 'ளம':3,physical|shape|size,லாம்,adj,
 -,ꢒ,ꢒꢺꢬꢸꢔ ꢗꢵꢫꢡ꣄,sourashtra,,,'ꢒꢬꢔꢗꢫꢡ':1 'krirugachaayat':2 'krrugacayat':3 'kṛrugacāyat':4 'prism':5 'பட':6 'டகம':7,physical|shape|size,कृग चायत|க்ருகசாயத்|kri'ruga chaayat|kRruga cAyat|kṛruga cāyat|kɾɨɾugə t͡ʃɑːjət̪,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,prism,english,,english,,physical|shape|size,,adj,
 ^,,பட்டகம்,tamil,,tamil,'படடகம':1 'prism':2 'பட':3 'டகம':4,physical|shape|size,க்ருகசாயத்,adj,
@@ -84,13 +65,7 @@
 ^,,பருமன்,tamil,,tamil,'பரமன':1 'stoutness':2 'பர':3 'மன':4,physical|shape|size,தே3ள்,adj,
 -,ꢢ,ꢢꢷꢥ꣄ꢒꣂꢥꢸꢭ꣄ꢡ꣄ꢬꢶꢒꣂꢠ꣄,sourashtra,,,'ꢢꢥꢒꢥꢭꢡꢬꢒꢠ':1 'theenkonultrikon':2 'thinkonultrikon':3 'thīnkonultrikoṇ':4 'triangle':5 'ணம':6,physical|shape|size,थीन्कोनुल्त्रिकोण|தீ2ன்கோணுல்|theenkonultrikon|thInkonultrikoN|thīnkonultrikoṇ|t̪ʰiːn̪koːn̪ult̪ɾɪkoːɳ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,triangle,english,,english,,physical|shape|size,,adj,
-^,,முக்கோணம்,tamil,,tamil,'மககணம':1 'triangle':2 'ணம':3,physical|shape|size,தீ2ன்கோணுல்,adj,
--,ꢢ,ꢢꢷꢥ꣄ꢒꣂꢥꢸꢭ꣄ꢡ꣄ꢬꢶꢒꣂꢠ꣄,sourashtra,,,'ꢢꢥꢒꢥꢭꢡꢬꢒꢠ':1 'theenkonultrikon':2 'thinkonultrikon':3 'thīnkonultrikoṇ':4 'triangle':5 'ணம':6,physical|shape|size,थीन्कोनुल्त्रिकोण|த்ரிகோண்|theenkonultrikon|thInkonultrikoN|thīnkonultrikoṇ|t̪ʰiːn̪koːn̪ult̪ɾɪkoːɳ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
-^,,triangle,english,,english,,physical|shape|size,,adj,
-^,,முக்கோணம்,tamil,,tamil,'மககணம':1 'triangle':2 'ணம':3,physical|shape|size,த்ரிகோண்,adj,
+^,,முக்கோணம்,tamil,,tamil,'மககணம':1 'ணம':2,physical|shape|size,தீ2ன்கோணுல்,adj,
 -,ꢂ,ꢂꢠ꣄ꢜꢵꢒꢵꢬ꣄,sourashtra,,,'ꢂꢠꢜꢒꢬ':1 'antaakaar':2 'antakar':3 'aṇṭākār':4 'oval':5 'shape':6 'வட':7 'வம':8,physical|shape|size,अण्टाकार्|அண்டாகார்|ant'aakaar|aNTAkAr|aṇṭākār|əɳʈɑːkɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
 ^,,oval shape,english,,english,,physical|shape|size,,adj,
 ^,,முட்டைவடிவம்,tamil,,tamil,'மடடவடவம':1 'oval':2 'shape':3 'வட':4 'வம':5,physical|shape|size,அண்டாகார்,adj,
--,ꢃ,ꢃꢒꢵꢬ꣄,sourashtra,,,'ꢃꢒꢬ':1 'aakaar':2 'akar':3 'ākār':4 'shape':5 'வட':6 'வம':7,physical|shape|size,आकार्|ரூப்|aakaar|AkAr|ākār|ɑːkɑːɾ,,"{""""script"""":""""sourashtra"""",""""category"""":""""adjective"""",""""type"""":""""abstract""""}"
-^,,shape,english,,english,,physical|shape|size,,adj,
-^,,வடிவம்,tamil,,tamil,'வடவம':1 'shape':2 'வட':3 'வம':4,physical|shape|size,ரூப்,adj,
