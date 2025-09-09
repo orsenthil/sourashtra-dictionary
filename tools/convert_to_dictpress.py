@@ -479,6 +479,31 @@ class DictpressConverter:
         
         return output_rows
     
+    def load_existing_sourashtra_terms(self, dictpress_dir: Path, current_file: str = None) -> set:
+        """Load all existing Sourashtra terms from dictpress directory"""
+        existing_terms = set()
+        
+        if not dictpress_dir.exists():
+            return existing_terms
+        
+        for csv_file in dictpress_dir.glob("*.csv"):
+            # Skip the current file being processed to avoid self-comparison
+            if current_file and csv_file.name == current_file:
+                continue
+                
+            try:
+                with open(csv_file, 'r', encoding='utf-8') as infile:
+                    csv_reader = csv.reader(infile)
+                    for row in csv_reader:
+                        if len(row) >= 4 and row[0] == '-':  # Main entry
+                            sourashtra_term = row[2].strip()  # content field
+                            if sourashtra_term:
+                                existing_terms.add(sourashtra_term)
+            except Exception as e:
+                print(f"Warning: Could not read {csv_file}: {e}")
+        
+        return existing_terms
+    
     def deduplicate_definitions(self, all_output_rows: List[List[str]]) -> List[List[str]]:
         """Remove duplicate definition entries while preserving main entries"""
         seen_definitions = set()  # Track (content, language) pairs for definitions
@@ -499,6 +524,38 @@ class DictpressConverter:
                 deduplicated_rows.append(row)
         
         return deduplicated_rows
+    
+    def remove_global_duplicates(self, all_output_rows: List[List[str]], existing_terms: set) -> Tuple[List[List[str]], int]:
+        """Remove main entries that already exist globally, but keep their definition entries"""
+        filtered_rows = []
+        skipped_main_entries = 0
+        
+        i = 0
+        while i < len(all_output_rows):
+            row = all_output_rows[i]
+            
+            if len(row) >= 4 and row[0] == '-':  # Main entry
+                sourashtra_term = row[2].strip()
+                
+                if sourashtra_term in existing_terms:
+                    # Skip this main entry and its associated definition entries
+                    skipped_main_entries += 1
+                    i += 1
+                    
+                    # Skip following definition entries that belong to this main entry
+                    while i < len(all_output_rows) and len(all_output_rows[i]) >= 1 and all_output_rows[i][0] == '^':
+                        i += 1
+                    continue
+                else:
+                    # Keep this main entry and continue
+                    filtered_rows.append(row)
+            else:
+                # Keep all non-main entries (definitions, etc.)
+                filtered_rows.append(row)
+            
+            i += 1
+        
+        return filtered_rows, skipped_main_entries
     
     def merge_duplicate_entries(self, rows: List[List[str]], filename: str) -> List[List[str]]:
         """Merge duplicate Sourashtra words while preserving semantic differences"""
@@ -623,8 +680,8 @@ class DictpressConverter:
         
         return merged_entries, duplicate_count
     
-    def convert_file(self, input_file: Path, output_file: Path, dry_run: bool = False) -> Tuple[bool, str, int, int]:
-        """Convert a single CSV file with duplicate handling"""
+    def convert_file(self, input_file: Path, output_file: Path, dictpress_dir: Path, dry_run: bool = False) -> Tuple[bool, str, int, int]:
+        """Convert a single CSV file with global and local duplicate handling"""
         try:
             total_rows = 0
             all_input_rows = []
@@ -647,15 +704,24 @@ class DictpressConverter:
             # Merge duplicates and convert
             all_output_rows, duplicate_count = self.merge_duplicate_entries(all_input_rows, input_file.name)
             
-            # Deduplicate definition entries to prevent constraint violations
+            # Load existing Sourashtra terms from other dictpress files
+            existing_terms = self.load_existing_sourashtra_terms(dictpress_dir, input_file.name)
+            
+            # Remove globally duplicate main entries
             original_count = len(all_output_rows)
+            all_output_rows, skipped_main_entries = self.remove_global_duplicates(all_output_rows, existing_terms)
+            
+            # Deduplicate definition entries to prevent constraint violations
+            definition_original_count = len(all_output_rows)
             all_output_rows = self.deduplicate_definitions(all_output_rows)
-            deduplicated_count = original_count - len(all_output_rows)
+            deduplicated_count = definition_original_count - len(all_output_rows)
             
             output_rows = len(all_output_rows)
             
             if duplicate_count > 0:
                 print(f"  ✓ Merged {duplicate_count} duplicate entries")
+            if skipped_main_entries > 0:
+                print(f"  ⚠ Skipped {skipped_main_entries} globally duplicate Sourashtra terms")
             if deduplicated_count > 0:
                 print(f"  ✓ Removed {deduplicated_count} duplicate definition entries")
             
@@ -700,12 +766,16 @@ Examples:
     parser.add_argument('--file-pattern',
                        default='*.csv',
                        help='File pattern to match (default: *.csv)')
+    parser.add_argument('--existing-dir',
+                       default='dictpress',
+                       help='Directory to check for existing terms (default: dictpress)')
     
     args = parser.parse_args()
     
     # Convert to Path objects
     input_dir = Path(args.input_dir)
     output_dir = Path(args.output_dir)
+    existing_dir = Path(args.existing_dir)
     
     if not input_dir.exists():
         print(f"Error: Input directory not found: {input_dir}")
@@ -740,7 +810,7 @@ Examples:
         
         output_file = output_dir / csv_file.name
         success, error_msg, input_rows, output_rows = converter.convert_file(
-            csv_file, output_file, args.dry_run
+            csv_file, output_file, existing_dir, args.dry_run
         )
         
         if success:
