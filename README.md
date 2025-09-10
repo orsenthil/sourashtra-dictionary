@@ -23,6 +23,9 @@ PostgreSQL database has full-text search capability implemented using a concept 
 
 It does not exist for Sourashtra, and instead of creating a phonetic scheme for the lipi, and since Sourashtra is primarily a spoken language, the TSVECTORS for Sourashtra search are programmatically populated to include Sourashtra words written in English, Tamil, Hindi in addition to Sourashtra. The variation in writing can be a challenge in searching too. Since speakers will assume the spelling as they think might be correct. This can be addressed if the motivated learner searches in related terms (like dov instead of dhov or simply god) and if required, the additional phonetic term can be contributed directly in the interface.
 
+### Contribute
+
+You can add / edit the words in the [words](https://github.com/orsenthil/sourashtra-dictionary/tree/main/words) directory. The words in `dictpress` directory are auto-generated from these, so do not edit those.
 
 ## Contact
 
