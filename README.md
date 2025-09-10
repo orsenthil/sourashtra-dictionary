@@ -25,7 +25,8 @@ It does not exist for Sourashtra, and instead of creating a phonetic scheme for 
 
 ### Contribute
 
-You can add / edit the words in the [words](https://github.com/orsenthil/sourashtra-dictionary/tree/main/words) directory. The words in `dictpress` directory are auto-generated from these, so do not edit those.
+You can add / edit the words in the [words](https://github.com/orsenthil/sourashtra-dictionary/tree/main/words) directory. The words in [dictpress](https://github.com/orsenthil/sourashtra-dictionary/tree/main/dictpress) directory are auto-generated from files in the words directory, so do not edit those.
+You can create a new file in the words and add as per the structure and format of the rest of the files in the words directory.
 
 ## Contact
 
