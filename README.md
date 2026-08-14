@@ -4,6 +4,11 @@ This is Sourashtra-English, and Sourashtra-Tamil dictionary.
 
 [Sourashtra language](https://en.wikipedia.org/wiki/Saurashtra_language), an offshoot of Sauraseni Prakrit, once spoken in the Saurashtra region of Gujarat, is now chiefly a spoken language in various places in Tamil Nadu and is mostly concentrated in Madurai, Thanjavur and Salem Districts. 
 
+# Dataset at HuggingFace
+
+Sourashtra Dataset is now available at HuggingFace https://huggingface.co/datasets/orsenthil/sourashtra for the Models to train on Sourashtra Words.
+
+
 ## Motivation 
 
 When I first came across the article, [Alar: The making of an open source dictionary](https://zerodha.tech/blog/alar-the-making-of-an-open-source-dictionary/) by [Kailash Nadh](https://nadh.in/), introducing a Kannada dictionary in [Alar](https://alar.ink/) and a Malayalam Dictionary in [Olam](https://olam.in/), I was extremely interested in that undertaking.
